@@ -375,283 +375,283 @@
 ` Siempre estoy en deuda contigo..."`
 `...Y una vez que la conversación se tornó a ese rumbo, nosotros los chicos no tuvimos oportunidad de entrometernos.`
 `Por ahora, estoy feliz de que la tía Eva haya tomado venganza por los tirones de oreja de mi papa.`
-`"¿Seguimos esperando el reporte del clima?"`
-`George‐aniki pointed at the counter.`
-`{n}The "Pending Weather Clearance" sign was still stuck next to the scheduled departure time for the flight we were scheduled to board.`
-`According to Aniki, smaller planes are more subject to winds and other effects of the weather,`
-` and it's not at all uncommon for flights to be delayed because of that.`
-`......Wait a sec, it isn't really going to shake...is it...?`
-`From down here on the ground, it just looks cloudy, not windy.`
-`...Well, I guess it's different up where the planes fly.`
-`"The weather's a bit uncertain today."`
-`Auntie Eva was looking at a TV in the lounge.`
-`{n}The weather forecast was being broadcast, informing us that a typhoon was approaching the Kanto region.`
-`"A typhoon again?`
-` ......I guess we're doomed to these, with the family conference being in October every year.`
-` Couldn't he choose a better season?"`
-`"I agree.`
-` I've always hoped we could have it sometime around the Obon festival in mid‐August.`
-` In that case, why don't you suggest that to Father and Nii‐san during the conference?"`
-`"...Very funny.`
-` Why don't you do it yourself?`
-` Our brother would never listen to anything I suggested."`
-`"No way.`
-` It doesn't really bother me that much to have it in October.`
-` You were the one who complained about the typhoon, so I said "ask them to change it then",`
-` that's all."`
-`"I only said that typhoons always come around this time of year.`
-` You're the one who said you wanted to move it nearer to Obon."`
-`"Well, you said it too last year!`
-` Didn't you say that it would be easier to fit into your schedule if we had it nearer Obon?!"`
-`"I've never said anything like that."`
-`"Oh yes, you did.`
-` I certainly wouldn't forget something like that!"`
-`"No, I didn't... You're the one saying that all the time!"`
-`"Are you aware?`
-` Stopping a kick just a hair's breadth away is a very high‐level technique."`
-`"Sheesh, women your age should be more proper than that!"`
-`Dad and Auntie Eva's argument looks no different from a couple of brats bickering...`
-`"I expect that's because, although they normally act as mothers and fathers,`
-` they turn right back into kids again when they meet their old siblings at these family conferences."`
-`"You're the one who looks like a real adult, analyzing it all calmly.`
-` ......I hope I never turn out like that old bastard.`
-` I'd much rather end up as an intellectual adult like you, Aniki."`
-`"Like me?`
-` Oh, I still have a long way to go.`
-` I still have very little experience out there in the real world, and I need to work on becoming more bold and sociable.`
-` ...I think you've far surpassed me on all of those counts, Battler‐kun.`
-` I'm sure you'll outstrip me fast enough when you become an adult."`
-`George‐aniki scratched his head and laughed, as though trying to hide his embarrassment.`
-`{n}Of course, he was just being humble.`
-`Aniki entered a university and became an apprentice at Uncle Hideyoshi's company at the same time, studying both academics and how to become a business emperor in parallel.`
-`Then, right after graduating, he got into Uncle Hideyoshi's company as his father's aide, piling up a lot of real‐life experience as he devoted himself zealously to his work.`
-`He even has grand dreams, of one day standing on his own and becoming lord of his own domain.`
-`Aniki is a real paragon of a man, sparing no effort as he strives towards his goal.`
-` It's no exaggeration to say that I really respect him.`
-`And then there's me.`
-` I'm nothing at all like Aniki.`
-`I'm living my happy‐go‐lucky idle high‐school life to the max.`
-`I've got no dreams for the future!`
-`{n}I'd like to just sit back, stay cool, and let the money flow in, but of course that could never happen.`
-`...When Aniki was my age, he had already formed an impressive objective and had started devoting himself towards studying for that goal, so I guess I can't compare at all.`
-`My dad just says "sure you can study at my company, if you like cleaning toilets".`
-`Dammit, I'm not gonna be in the debt of that old bastard.`
-`{n}I'll find my way myself!`
-`{n}.........I guess that intensity is my one qualification towards adulthood.`
-`Should I go on one of those self‐searching journeys that are all the rage these days?`
-`{n}......Well, it's not like I could mooch off my parents for that kind of money...`
-`"......hm?! Ohh~!"`
-`Right then, Uncle Hideyoshi shouted out loudly.`
-`{n}Uncle's a really nice person on the whole, but he does have a problem controlling the volume of his voice.`
-`When I looked over, I saw that he was greeting Auntie Rosa, who had come late.`
-`"Ohoooooooooh!!!`
-` If it isn't Rosa‐san!`
-` Maria‐chan, long time no see!!"`
-`"Long time no seee!`
-` Uu!"`
-`"Maria!`
-` Shouldn't that be "It's good to see you again"?`
-` Greet your uncle properly."`
-`"Uu.`
-` It's...good to see you again..."`
-`"There you go!`
-` Well said!`
-` How about some candy as a reward?!`
-` ......Oh, huh?`
-` Where'd I put 'em..."`
-`"Rosa‐san, it's good to see you again.`
-` It's good to see you too, Maria‐chan."`
-`"It's been too long, Kyrie nee‐san, Hideyoshi nii‐san."`
-`"...And...`
-`...oh my, Battler‐kun?!`
-` Look how big you've gotten...!"`
-`"Ah, come on, hahaha...`
-` It's embarrassing hearing that from every person I meet...!"`
-`"Hey, Rosa.`
-` You're late.`
-` If the plane was on time, you'd barely have made it..."`
-`"I'm sorry.`
-` We had some trouble making our train connection.`
-` So we're waiting on the weather yet again?"`
-`"Oh, don't complain.`
-` I much prefer the thirty‐minute plane trip to spending six hours bouncing about on a boat.`
-` Even if we're kept waiting here for an hour, it's still much faster overall."`
-`"Maria‐chan's gotten huge too!!`
-` So, how tall are you now?"`
-`"Uu!`
-` So, how tall am I now?!"`
-`Maria parroted Uncle Hideyoshi's question, looking up at her mother.`
-`I guess she doesn't remember her own height.`
-`{n}She's probably right in the middle of a growth spurt, so her height must change every month.`
-`In just a few more years, she'll probably start looking very feminine.`
-`"Umm, ...how tall were you the last time you got measured...?`
-` She just keeps getting bigger and bigger.`
-` Don't you?"`
-`"Uu!"`
-`"I think she's grown a lot since last year.`
-` Let's see, she turned nine years old this year, didn't she?"`
-`"Nine years old.`
+`"¿Supongo que seguimos esperando el reporte del clima?"`
+`George‐aniki apuntó al contador.`
+`{n}La etiqueta "Pending Weather Clearance" seguía junto a los horarios de salida para el vuelo que debemos tomar.`
+`Según Aniki, a los aviones pequeños les afecta más el clima y otras condiciones climatológicas,`
+` y no es nada fuera de lo común que un vuelo se retrase debido a eso.`
+`......Espera, realmente no se sacudirá...¿verdad...?`
+`Desde aquí en el suelo, solo se ve nublado, no con viento.`
+`...Bueno, quizás sea distinto allá arriba donde vuelan los aviones.`
+`"El clima está algo indeciso hoy."`
+`Tía Eva estaba mirando una televisión del salón.`
+`{n}El pronóstico del clima estaba transmitiéndose, informándonos que un tifón se acercaba a la región de Kanto.`
+`"¿De nuevo un tifón?`
+` ......Supongo que es inevitable, con nuestra reunión familiar anual en Octubre.`
+` ¿No pudo haber escogido una temporada mejor?"`
+`"Estoy de acuerdo.`
+` Siempre he querido que se realice durante el festival de Obon a mediados de Agosto.`
+` En ese caso, ¿porqué no se lo sugieres a Padre y Nii‐san durante la conferencia?"`
+`"...Muy graciosa.`
+` ¿Porqué no lo haces tú?`
+` Nuestro hermano jamás escucharía a nada que yo propusiera."`
+`"Ni loca.`
+` En realidad no me molesta tanto en Octubre.`
+` Solo sugería que quizá lo quisieras proponer, ya que dijiste que odiabas tanto los tifones,`
+` eso es todo."`
+`"Solo dije que los tifones siempre vienen a estas alturas del año.`
+` ¿No eras tú quien dijo que sería más sencillo agendarlo durante Obon?"`
+`"¡Bueno, también tú lo dijiste el año pasado!`
+` ¡Que si fuera durante Obon sería más fácil agendarlo!"`
+`"Jamás dije tal cosa."`
+`"Oh, sí que lo hiciste.`
+` ¡Ciertamente no lo olvidaría!"`
+`"No, no lo hice... ¡eres tú quien siempre lo dice!"`
+`"¿Sabes?`
+` Es una técnica muy avanzada el detener una patada a un cabello de distancia."`
+`"Tch, ¡las mujeres de tu edad no deberían abrir las piernas tan vulgarmente!"`
+`La discusión de Papá y la tía Eva no difería en lo absoluto de una pelea de mocosos...`
+`"Aunque normalmente actúen como padres normales,`
+` se vuelven niños de nuevo en cuanto ven a sus hermanos en las conferencias familiares."`
+`"Tú eres quien parece el adulto al analizarlo todo con tanta calma.`
+` ......Espero jamás volverme como ese viejo bastardo.`
+` Preferiría por mucho terminar siendo un intelectual como tú, Aniki."`
+`"¿Como yo?`
+` Oh, pero si todavía me queda un largo camino.`
+` Aún carezco de experiencia en el mundo real, y necesito volverme más atrevido y sociable.`
+` ...Creo que me has superado por mucho en esos aspectos, Battler‐kun.`
+` Estoy seguro que me sobrepasarás muy rápido cuando seas adulto."`
+`George‐aniki rascó su cabeza riendo, como queriendo esconder su vergüenza.`
+`{n}Desde luego, solo estaba siendo humilde.`
+`Aniki entró a la universidad y a la empresa del tío Hideyoshi como aprendiz simultáneamente, y estudió asuntos académicos y cómo convertirse en un emperador del negocio.`
+`Entonces, después de graduarse, entró a la empresa del tío Hideyoshi como asistente de su padre, acumulando mucha experiencia social al dedicarse ávidamente a su trabajo.`
+`También tiene un gran sueño, que es ser independiente algún día y construir su propio reino.`
+`Aniki es un verdadero ejemplo de hombre, sin escatimar esfuerzo para llegar a su meta.`
+` No es una exageración decir que en verdad lo respeto.`
+`Y después estoy yo.`
+` No me parezco en lo absoluto a Aniki.`
+`Yo estoy viviendo mi despreocupada e inactiva vida escolar al máximo.`
+`¡No tengo sueños para el futuro!`
+`{n}Quisiera simplemente sentarme, estar calmado y dejar el dinero llegar a mí, pero obviamente jamás ocurrirá.`
+`...Cuando Aniki tenía mi edad, él ya tenía un buen objetivo y se había comenzado a dedicar a estudiar para llegar a él, así que supongo que no me puedo comparar en lo absoluto.`
+`Mi papá solo dice "claro, puedes estudiar en mi compañía, si te gusta lavar inodoros".`
+`Demonios, no voy a estar en deuda con ese viejo bastardo.`
+`{n}¡Encontrare mi rumbo por mi cuenta!`
+`{n}.........Si simplemente bastara el poder de voluntad para convertirse en adulto.`
+`¿Quizás debería ir a uno de esos viajes de auto encuentro tan populares actualmente?`
+`{n}......Bueno, no es como si pudiera molestar a mis padres para que me dieran ese dinero...`
+`"......¡¿hm?! ¡Ohh~!"`
+`Justo en ese momento, el tío Hideyoshi gritó con fuerza.`
+`{n}Él es una persona agradable en sí, pero su gran problema es controlar el volumen de su voz.`
+`Cuando volteé, vi que estaba saludando a la Tía Rosa, quien había llegado tarde.`
+`"¡¡¡Ohoooooooooh!!!`
+` ¡Pero si es Rosa‐san!`
+` ¡¡Maria‐chan, cuánto tiempo!!"`
+`"¡Cuánto tiempo!`
+` ¡Uu‐!"`
+`"¡Maria!`
+` ¿No deberías decir "Qué bueno es verte de nuevo"?`
+` Saluda a tu tío correctamente."`
+`"Uu‐.`
+` Qué...bueno es verlos de nuevo..."`
+`"¡Eso es!`
+` ¡Bien dicho!`
+` ¡Te daré un dulce como premio!`
+` ......Oh, ¿eh?`
+` Dónde los dejé..."`
+`"Rosa‐san, qué bueno es verte de nuevo.`
+` También a ti, Maria‐chan."`
+`"Ha pasado demasiado tiempo, Kyrie nee‐san, Hideyoshi nii‐san."`
+`"...Y...`
+`...vaya, ¡¿Battler‐kun?!`
+` ¡Mira qué grande estás...!"`
+`"Ah, vamos, jajaja...`
+` ¡Es vergonzoso escucharlo de todos los que veo hoy...!"`
+`"Oye, Rosa.`
+` Llegas tarde.`
+` Si el avión estuviera a tiempo, apenas habrías llegado..."`
+`"Lo siento.`
+` Tuvimos algunos problemas al cambiar de trenes.`
+` Así que, ¿estamos esperando al clima de nuevo?"`
+`"Oh, no te quejes.`
+` Prefiero pasar solo treinta minutos en un avión a ser sacudida durante seis horas en un bote.`
+` Incluso si nos hicieran esperar otra hora, sería más rápido a fin de cuentas."`
+`"¡¡Maria‐chan también ha crecid!!`
+` ¿Entonces, qué tan alta está ahora?"`
+`"¡Uu!`
+` ¡Entonces, ¿qué tan alta estoy ahor?!"`
+`Maria‐chan repitió la pregunta del tío Hideyoshi y miró a su madre.`
+`Supongo que no recuerda su propia estatura.`
+`{n}Probablemente está a mediados de su crecimiento, así que su altura debe cambiar cada mes.`
+`En unos pocos años, seguramente se comenzará a ver muy femenina.`
+`"Bueno, ...¿cuánto medías la última vez que te medimos...?`
+` Sigues creciendo y creciendo.`
+` ¿No es así?"`
+`"¡Uu!"`
+`"Creo que creció mucho desde el año pasado.`
+` Veamos, cumplió nueve años este año, ¿cierto?"`
+`"Nueve años.`
 ` Uu."`
-`"That's right, you're nine years old now.`
-` Glad to see you're doing well too, Maria‐chan!"`
-`"Up you...`
-`...nng...`
-` I guess you've gotten a bit too heavy to play airplane with..."`
-`"George‐aniki, what a rude thing to say to a lady.`
-` Here, I'll do it... Up ya go~..."`
+`"Eso es, tienes nueve años.`
+` ¡Me alegro de que Maria‐chan se vea saludable!"`
+`"Arriba...`
+`...ack...`
+` creo que te has puesto demasiado pesada para jugar al avión..."`
+`"George‐aniki, que cosa más descortés para decirle a una dama.`
+` Ven, yo lo hago... arriba~..."`
 `"......Uu."`
-`When I went to lift her up in Aniki's place, Maria stiffened defensively, staring suspiciously at my face.`
-`...Ah, that's right.`
-` The last time I met Maria, it was six years ago, and she was only three years old.`
-`Of course she doesn't remember my face.`
-`"Maria‐chan, don't you remember?`
-` It's Battler‐kun.`
-` You used to play together, remember?"`
+`Cuando fui a levantarla en vez de Aniki, Maria puso su cuerpo rígido en defensa, mirando mi rostro con sospecha.`
+`...Ah, es cierto.`
+` La última vez que vi a Maria fue hace seis años y ella solo tenía tres.`
+`Claro que no recuerda mi rostro.`
+`"Maria‐chan, ¿no lo recuerdas?`
+` Es Battler‐kun.`
+` Solían jugar juntos, ¿recuerdas?"`
 `".........Uu."`
-`"I doubt you'll have any luck.`
-` The last time she met Battler, she was only three.`
-` You don't keep memories at that age."`
-`She must know everyone's face apart from mine because she meets them every year, but I haven't had contact with the Ushiromiya family for about six years now.`
-`So, it's no surprise that this nine‐year‐old girl doesn't have any memories of me.`
-`Even I can only just barely remember her being a three‐year‐old crybaby.`
+`"Supongo que no de sorprender.`
+` La última vez que vio a Battler tenía solo tres años.`
+` No guardas recuerdos a esa edad."`
+`Debe conocer el rostro de todos excepto el mío porque los ve cada año, pero yo no he tenido contacto con la familia Ushiromiya por cerca de seis años.`
+`Así que no me sorprende que esta niña de nueve años no tenga recuerdos de mí.`
+`Incluso yo muy apenas la recuerdo como una bebé llorona de tres años.`
 `"Maria.`
-` This is Battler onii‐chan.`
-` Uncle Rudolf's son.`
-` ...Understand?"`
-`"............Uncle's son is...`
-` Uncle's the son...`
-` ............??`
-` ......Uuuu!!"`
-`That "uu" was probably the sound of her brain breaking, unable to understand the complicated explanation.`
-`I guess it was a bit too confusing for her.`
+` Él es Battler onii‐chan.`
+` El hijo de Tío Rudolf.`
+` ...¿Está claro?"`
+`"............El hijo del tío es...`
+` El hijo es el tío...`
+` ............¿¿??`
+` ......¡¡Uuuu!!"`
+`Probablemente usa ese sonido de "uu" para llenar los vacíos cuando no entiende una explicación complicada.`
+`Supongo que fue un poco confuso para ella.`
 `"Maria‐chan.`
-` This is Battler‐kun.`
-` He's your cousin, like me."`
-`"......Like George onii‐chan?`
-` ...........................Battler?`
-` Cousin?`
+` Él es Battler‐kun.`
+` Es tu primo, al igual que yo."`
+`"......¿Como George onii‐chan?`
+` ...........................¿Battler?`
+` ¿Primo?`
 ` ......Uu."`
-`"That's right.`
-` You got it."`
-`This part of Aniki is what makes me really look up to him.`
-`For someone who isn't married, he's just great at dealing with kids.`
-`{n}I'm sure that he'll be an indulgent father in the future.`
-`"...Battler onii‐chan?"`
-`Maria looked straight at me with a questioning expression, as though asking whether it was alright to call me that.`
-`"Yep, that's me, Battler.`
-` Nice to meet you, Maria!"`
-`"Uu!`
-` Battler!"`
-`"Maria!`
-` You mustn't address him without honorifics—call him Battler onii‐chan...!"`
-`"It's cool, Auntie Rosa.`
-` I don't sweat the small stuff.`
-` Right, Maria?!`
-` We're buddies on a first‐name basis, us two, aren't we?!"`
-`"Battler, Battler, Battleeerrr!`
-` Uu‐uu!"`
-`"That's right, Maria, Maria, Mariaaa!`
-` Uu‐uu!!"`
-`We horsed around for a while to make up for the six‐year gap in our friendship.`
-`She probably still thinks of me as nothing more than a big new friend, but things'll probably work out as we get to know each other again.`
-`But I'm surprised.`
-` She's just the way I remembered her being six years ago.`
-`Seems that people just don't change that much after all.`
-`{n}I'm a bit happy that she's still the pure, innocent girl I remember.`
-`Her name is written {p:0:真里亞}.`
-`{n}...That one's not so difficult to read.`
-` Of course, it says "Maria".`
-`{n}The third character looks like a cross, which is pretty cool.`
-`Her feelings don't usually show up on her face, so it can be difficult to know just what she's thinking, but that's just how she looks on the outside.`
-`{n}On the inside, she's just a sweet, normal girl.`
-`Then there's Maria's mother, Auntie Rosa.`
-`{n}She's my dad's younger sister.`
-`Rosa is written {p:0:楼座}.`
-` ...Here's a name that's totally not Japanese.`
-`Sorry to say it, but her name's almost as ridiculous as Dad's...`
-` I've got to respect her for not ending up as screwed up as he is.`
-`...When I think about it, all the names in my family sound foreign.`
-`{n}Just why is Grandfather so obsessed with this?`
-`Because of him, even us grandchildren have to put up with this weird naming sense.`
-`{n}It's even more annoying since Grandfather's own name is perfectly normal.`
-`Anyway, there's one thing about Auntie Rosa that's a relief compared to the other family members.`
-`The old bastard and Auntie Eva have this annoying urge to tease and mock people all the time,`
-` but even though she shares their blood, Auntie Rosa isn't like that at all.`
-`She has the most common sense among all the siblings.`
-`Like Uncle Hideyoshi, she's a kind aunt who'll always be on the kids' side.`
-`......However, possibly because she's more strict as a parent, she's not liberal with handing out spending money like Uncle Hideyoshi is.`
-`Alright.`
-` Now we have the entire group of family members who are going to board the plane.`
-`As though it had waited for us all to gather, an announcement rang out through the lobby.`
-`"Our apologies for the wait.`
-` Boarding will now commence for flight 201 to Niijima.`
-` We ask that the passengers please form two lines in front of the counter, behind the white line."`
-`"Rosa, you still haven't gone through boarding procedures, right? Hurry up."`
-`"Oh no...!`
-` Maria, come on!"`
-`"Uu!"`
-`We had to go through a metal detector before going out on the runway.`
-`Our small plane wasn't as massive as an international flight, but it was still a plane.`
-` A staff member holding a metal detector checked us all.`
-`Once all of us cleared the check, we followed the staff member out onto the runway.`
-`Come to think of it, everyone here is in the Ushiromiya family.`
-`It's like this is a reserved charter flight or something.`
-`Our group stopped in front of the entrance to the airplane.`
-`{n}Then, our guide turned around and spoke, looking down at the passenger list as she did.`
-`"Boarding will now commence.`
-` As I call out the names on the passenger list,`
-` please take your seats in order, starting from the front row on the right side and going right to left, then onto the next row.`
-` I will now begin reading the passenger list.`
-` Ushiromiya Hideyoshi‐sama!"`
-`"Oh, I'm first!`
-` Right here!`
-` ...By the way, do you have the candies, Eva?`
-` I've been lookin' all over for 'em, but I can't find 'em."`
+`"Así es.`
+` Lo entendiste."`
+`Este lado de Aniki es lo que verdaderamente me hace admirarlo.`
+`Para alguien que no está casado, es simplemente buenísimo al tratar con niños.`
+`{n}Estoy seguro que en el futuro será un gran padre.`
+`"...¿Battler onii‐chan?"`
+`Maria me miró directamente con una expresión dudosa, como preguntando si estaba bien llamarme así.`
+`"Sip, ése soy yo, Battler.`
+` ¡Mucho gusto, Maria!"`
+`"¡Uu!`
+` ¡Battler!"`
+`"¡Oye, Maria!`
+` ¡No deberías hablarle así! ¡Llámalo Battler onii‐chan...!"`
+`"Está bien, Tía Rosa.`
+` No le doy importancia a cosas pequeñas.`
+` ¿No es así, Maria?`
+` ¡Tu y yo nos llevamos tan bien para usar solo nuestros nombres, ¿cierto?!"`
+`"¡Battler, Battler, Battleeerrr!`
+` ¡Uu‐uu!"`
+`"¡Eso es, Maria, Maria, Mariaaa!`
+` ¡¡Uu‐uu!!"`
+`Jugueteamos un rato para compensar el vacío de seis años en nuestra amistad.`
+`Probablemente ella todavía me ve como nada más que un enorme nuevo amigo, pero las cosas probablemente funcionarán si nos llegamos a conocer bien de nuevo.`
+`Pero estoy sorprendido.`
+` Ella es igual que como la recuerdo hace seis años.`
+`Parece que después de todo la gente no cambia tanto.`
+`{n}Estoy algo contento de que siga siendo la niña pura e inocente que recuerdo.`
+`Su nombre se escribe {p:0:真里亞}.`
+`{n}...Esta no es tan difícil de leer.`
+` Claro, {p:0:真里亞} se pronuncia "Maria".`
+`{n}El tercer carácter se ve como una cruz, lo que se siente muy elegante.`
+`Sus sentimientos generalmente no se muestran en su rostro, así que puede ser difícil saber qué está pensando, pero eso es solo en el exterior.`
+`{n}Por dentro, es solo una dulce niña normal.`
+`Luego está la madre de Maria, Tía Rosa.`
+`{n}Es la hermana menor de mi papá.`
+`Rosa se escribe {p:0:楼座}.`
+` ...Es un nombre que en verdad no es japonés.`
+`Siento decirlo, pero su nombre es casi tan ridículo como el de Papá...`
+` Debo respetarla por no acabar tan retorcida como él lo está.`
+`...De hecho, al pensarlo, todos los nombres de mi familia suenan extranjeros.`
+`{n}¿Porqué está el Abuelo tan obsesionado con esto?`
+`Por culpa suya, incluso nosotros los nietos tenemos que soportar este extraño sentido al nombrarnos.`
+`{n}El que el nombre del Abuelo sea perfectamente normal lo hace incluso más irritante.`
+`De todas formas, hay algo de la tía Rosa que es un alivio comparado a los otros miembros de la familia.`
+`El viejo bastardo y la tía Eva tienen esta rara necesidad de molestar y burlarse de la gente siempre,`
+` pero aunque ella tenga la misma sangre, Tía Rosa no es así en lo absoluto.`
+`Ella es quien tiene más sentido común de entre sus hermanos.`
+`Como el tío Hideyoshi, ella es una tía amable que siempre estará del lado de los niños.`
+`......Por otra parte, posiblemente porque es una madre más estricta, no es tan liberal como el tío Hideyoshi al darnos dinero.`
+`Bien.`
+` Ahora está presente el grupo entero de la familia que abordará el avión.`
+`Luego, como si hubiese esperado a que todos nos juntáramos, un aviso resonó en el salón.`
+`"Nos disculpamos por la espera.`
+` Comenzará el abordaje para el vuelo 201 a Niijima.`
+` Solicitamos a los pasajeros que por favor formen dos filas frente al mostrador, detrás de la línea blanca."`
+`"Rosa, todavía no has realizado el proceso de abordaje, ¿verdad? Apresúrate."`
+`"¡Oh no...!`
+` ¡Maria, vamos!"`
+`"¡Uu!"`
+`Tuvimos que pasar a través de un detector de metales antes de ir a la pista.`
+`Nuestro avión pequeño no era tan masivo como un vuelo internacional, pero seguía siendo un avión.`
+` Un empleado con un detector de metal nos revisó a todos.`
+`Una vez que todos pasamos la revisión, seguimos al empleado a la pista.`
+`Pensándolo bien, todos aquí son de la familia Ushiromiya.`
+`Es como si esto fuera un viaje reservado o algo así.`
+`Nuestro grupo se detuvo frente a la entrada del avión.`
+`{n}Luego, nuestro guía se volteó y habló, mirando la lista de pasajeros mientras hablaba.`
+`"Ahora comenzará el abordaje.`
+` Mientras digo los nombres de la lista de pasajeros,`
+` por favor ocupen los asientos en orden, comenzando desde la primera fila a la derecha y después la izquierda, luego a la siguiente fila.`
+` Ahora procederé a leer la lista de pasajeros.`
+` ¡Ushiromiya Hideyoshi‐sama!"`
+`"¡Oh, voy primero!`
+` ¡Estoy aquí!`
+` ...Por cierto, Eva, ¿tienes algún caramelo?`
+` He estado buscando uno todo el tiempo, pero no pude encontrar ninguno."`
 `"Ushiromiya Eva‐sama."`
-`"They're in my handbag.`
-` I'll get them once we're inside the plane."`
-`I've heard that candies are a good way to protect your ears from hurting due to variations in atmospheric pressure when landing or taking off.`
-` That's probably what they're talking about.`
-`"...Hope I get a window seat!"`
-`"Hahaha, don't worry.`
-` There aren't any other kinds of seats."`
-`According to George‐aniki, there are apparently only two lines of seats.`
+`"Están en mi bolso.`
+` Los sacaré una vez estemos a bordo."`
+`He escuchado que los caramelos son un buen método para que no duelan los oídos debido a los cambios de presión atmosférica al despegar y aterrizar.`
+` Probablemente de eso hablan.`
+`"...¡Espero tener un asiento junto a la ventana!"`
+`"Jajaja, no te preocupes.`
+` No hay otro tipo de asientos."`
+`Como dijo George‐aniki, parece que solo habían dos filas de asientos.`
 `Yep, it's a small plane alright...`
 ` .........It isn't really going to shake...is it...?`
 `"Ushiromiya George‐sama."`
-`"Right here.`
-` Don't worry, Battler‐kun.`
-` It won't shake too much."`
+`"Aquí mismo.`
+` No te preocupes, Battler‐kun.`
+` No se sacudirá mucho."`
 `"Ushiromiya Battler‐sama."`
-`"A‐Aniki, how much is "not too much"?!`
-` You can just swim if you fall from a boat, but if a plane crashes you're screwed, right?!`
-` We all get our own parachutes in our seats, don't we?`
-` Wait, we don't?!"`
+`"A‐Aniki, ¡¿a qué te refieres con "no mucho"?!`
+` ¡Si caes de un bote puedes simplemente nadar, pero si un avión se estrella estás arruinado, ¿no?!`
+` A todos nos dan un paracaídas propio en el asiento, ¿no?`
+` ¡¿Espera, no?!"`
 `"Ushiromiya Rudolf‐sama."`
-`"Come on, Battler, quit being a wuss and get in."`
-`"Ow! Dad!`
-` Don't push me!`
-` We don't get parachutes!"`
+`"Vamos, Battler, deja de ser tan cobarde y entra."`
+`"¡Ow! ¡Papá!`
+` ¡No me empujes!`
+` ¡No hay paracaídas!"`
 `"Ushiromiya Kyrie‐sama."`
-`"Alright, stop fooling around.`
-` Let's move along."`
-`"Ow! Kyrie!`
-` Don't push me!`
-` This blockhead isn't moving forward!"`
+`"Bien, basta de estas tonterías.`
+` Movámonos, ya."`
+`"¡Ow! ¡Kyrie!`
+` ¡No me empujes!`
+` ¡Este tarado no se está moviendo!"`
 `"Ushiromiya Maria‐sama."`
-`"Uu!`
-` Forward, forward!"`
+`"¡Uu!`
+` ¡Muévanse, muévanse!"`
 `"Ushiromiya Rosa‐sama."`
-`"Maria!`
-` Keep quiet..."`
-`"This is your pilot, Kawabata.`
-` We'd like to thank you for taking New Tokyo Aviation's flight 201 today.`
-` We estimate that the flight to Niijima Airport will take about twenty minutes."`
-`"We are receiving reports of atmospheric turbulence.`
-` There might be some shaking of the aircraft, so we ask that you do not unfasten your seat belts after takeoff."`
-`"A‐Aniki, did that guy just say we needed to wear seatbelts?!`
-` In a jumbo jet, they let you undo them after takeoff!`
-` So it's gonna shake so much we can't take them off?!"`
-`"Dammit, you tricked me, it is going to shake after all!`
-` Where are the parachutes?!`
-` I knew I should've taken the boooooaaaaat!!"`
+`"¡Maria!`
+` Guarda silencio..."`
+`"Les habla Kawabata, su piloto.`
+` Les agradecemos por tomar el vuelo 201 de New Tokyo Aviation el día de hoy.`
+` Calculamos que el vuelo al aeropuerto de Niijima durará cerca de 20 minutos."`
+`"Estamos recibiendo reportes de turbulencia atmosférica.`
+` Es posible que haya algo de turbulencia en el avión, así que les pedimos que no desabrochen sus cinturones de seguridad después del despegue."`
+`"A‐Aniki, ¡¿acaba de decir que necesitamos usar los cinturones?!`
+` ¡En un jumbo jet, los puedes desabrochar tras el despegue, ¿no?!`
+` ¡¿Entonces se sacudirá tanto que no podemos quitárnoslos?!"`
+`"¡Demonios, me engañaste! ¡Se sacudirá después de todo!`
+` ¡¿Dónde están los paracaídas?!`
+` ¡¡Sabía que debí haber tomado el boooooteeeee!!"`
