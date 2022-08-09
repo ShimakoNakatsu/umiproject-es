@@ -16,7 +16,7 @@
 `"Te lo agradezco, aunque solo por el sentimiento,`
 ` amigo mío.`
 ` .........Genji.`
-` otra copa.`
+` Otra copa.`
 ` Dilúyelo ligeramente.`
 ` De esa forma Nanjo puede guardar las apariencias."`
 `".........¿Está completamente seguro?"`
@@ -97,7 +97,7 @@
 `Después de alcanzar un crescendo furioso, Kinzo repentinamente se desplomó.`
 `...Su expresión era flácida y débil, como si un espíritu maligno lo hubiera poseído y después abandonado.`
 `"..................`
-` Sin embargo, sí tengo un remordimiento.`
+`Sin embargo, sí tengo un remordimiento.`
 ` No tengo nada que dejar atrás, pero hay una cosa que no puedo dejar inconclusa..."`
 `".........Harías bien en escribirla.`
 ` Desde luego, sería mejor si pudieras terminarla antes de que llegue tu hora.`
@@ -154,7 +154,7 @@
 ` Jajajajaja."`
 `"Tch, y mírate, lo suficientemente mayor para fumar y beber.`
 ` No me interesa fumar, pero siempre he querido probar el alcohol, ¡jejeje!`
-`Bueno, si tienes los genes de tu padre, supongo puedes mantener el control por más que tomes, ¿cierto?"`
+` Bueno, si tienes los genes de tu padre, supongo puedes mantener el control por más que tomes, ¿cierto?"`
 `"Bueno, generalmente tomo por cuestiones de trabajo más que por gusto.`
 ` Hacer negocios en Japón sin beber es tarea difícil."`
 `"¡Ijijiji!`
@@ -170,8 +170,8 @@
 `Pero entonces, crecí y crecí, y antes de darme cuenta, estaba por sobre 180cm.`
 `Supongo que también es gracias al entrenamiento muscular que hice sin parar, y las sospechosas pastillas para reforzar la fuerza muscular que pedí por correo.`
 `Antes de eso, jamás soñé que mediría 10cm más que George‐aniki, quien había llegado a su estatura máxima desde antes.`
-`......Maldición, apuesto que todos mis familiares dirán ¡Mira cuánto has crecido, Battler‐chan!" o algo así.`
-`...Es tan vergonzoso, así que espero que todos me dejen en paz.`
+`......Maldición, apuesto que todos mis familiares dirán "¡Mira cuánto has crecido, Battler‐chan!" o algo así.`
+`...Es vergonzoso, así que espero que me dejen en paz.`
 `En todo caso, mi nombre es "Battler"...`
 `...bueno, es muy extraño, ¿no lo creen?`
 `Me pregunto qué pensaban mis padres cuando me dieron ese nombre.`
@@ -219,7 +219,7 @@
 `...En verdad no lo entiendo, pero sin duda es una persona interesante.`
 `"Si tan solo no comenzaras siempre a fanfarronear.`
 ` Ya puedes parar.`
-` Estoy segura que Battler ya está cansado.`
+` Estoy segura que Battler‐kun ya está cansado.`
 ` ¿O me equivoco?"`
 `"¡No, no es para nada así, jijiji!`
 ` No tiene nada de malo.`
@@ -247,7 +247,7 @@
 ` ¿has visto a Rudolf‐san?"`
 `"¿Eh?`
 ` Fue al baño hace un rato.`
-` ¿{i:Aún} no ha vuelto?`
+` ¿Aún no ha vuelto?`
 ` Oye, puede ser que se haya resbalado y se haya muerto... {c:86EF9C:Namunamunamu}."`
 `"No deberías hablar así de tu propio padre.`
 ` Aun así, no es la primera vez que se tarda eternidades en el baño."`
@@ -314,9 +314,9 @@
 `......No pueden leerlo, ¿cierto?`
 ` Vamos, solo es {p:0:留弗夫}.`
 `{n}Bueno, el nombre de este hombre se pronuncia "Rudolf".`
-`Jaja... debe odiar al Abuelo por llamarlo así.`
+`Jaja... debe odiar al abuelo por llamarlo así.`
 `Pero de todos modos, esa no es razón para darme a mí con esa tradición extraña de los nombres.`
-`Mientras el viejo bastardo torcía mi oreja para todos lados, Tía Eva se paró detrás suyo y tomó su oreja.`
+`Mientras el viejo bastardo torcía mi oreja para todos lados, tía Eva se paró detrás suyo y tomó su oreja.`
 `"¿Oye, Rudolf?`
 ` ¿No es eso abuso de menores?"`
 `"Gyaah, eso duele, Aneki..."`
@@ -335,9 +335,9 @@
 ` ¿Quién dices que está "sin venderse"?"`
 `Tras tomar dos o tres pasos hacia atrás,`
 ` Tía Eva desencadenó una de sus hermosas y altas patadas giratorias reversas, la cual se detuvo tan solo a un centímetro de la punta de la nariz de Papá.`
-`Tras comenzar con Tai‐chi‐cuan para su figura, Tía Eva tomó interés en las artes marciales chinas.`
+`Tras comenzar con Tai‐chi‐cuan para su figura, tía Eva tomó interés en las artes marciales chinas.`
 ` Después, pasó por karate, taekwondo, capoeira, ...¿y qué era lo que estaba aprendiendo ahora?`
-`...Bueno, como sea, cuando dicen que las armas de una mujer están en la parte inferior de su cuerpo, Tía Eva lo demuestra literalmente.`
+`...Bueno, como sea, cuando dicen que las armas de una mujer están en la parte inferior de su cuerpo, tía Eva lo demuestra literalmente.`
 `"¿Rudo~lf?`
 ` ¿Sabías que un solo golpe como este directo al costado de tu cabeza te dejaría inconciente al instante?`
 ` Hace no mucho tiempo, accidentalmente hice contacto en un entrenamiento y mi oponente quedó inconsciente."`
@@ -443,16 +443,16 @@
 `"......¡¿hm?! ¡Ohh~!"`
 `Justo en ese momento, el tío Hideyoshi gritó con fuerza.`
 `{n}Él es una persona agradable en sí, pero su gran problema es controlar el volumen de su voz.`
-`Cuando volteé, vi que estaba saludando a la Tía Rosa, quien había llegado tarde.`
+`Cuando volteé, vi que estaba saludando a la tía Rosa, quien había llegado tarde.`
 `"¡¡¡Ohoooooooooh!!!`
 ` ¡Pero si es Rosa‐san!`
 ` ¡¡Maria‐chan, cuánto tiempo!!"`
 `"¡Cuánto tiempo!`
-` ¡Uu‐!"`
+` ¡Uu!"`
 `"¡Maria!`
 ` ¿No deberías decir "Qué bueno es verte de nuevo"?`
 ` Saluda a tu tío correctamente."`
-`"Uu‐.`
+`"Uu.`
 ` Qué...bueno es verlos de nuevo..."`
 `"¡Eso es!`
 ` ¡Bien dicho!`
@@ -476,10 +476,10 @@
 `"Oh, no te quejes.`
 ` Prefiero pasar solo treinta minutos en un avión a ser sacudida durante seis horas en un bote.`
 ` Incluso si nos hicieran esperar otra hora, sería más rápido a fin de cuentas."`
-`"¡¡Maria‐chan también ha crecid!!`
+`"¡¡Maria‐chan también ha crecido!!`
 ` ¿Entonces, qué tan alta está ahora?"`
 `"¡Uu!`
-` ¡Entonces, ¿qué tan alta estoy ahor?!"`
+` ¡Entonces, ¿qué tan alta estoy ahora?!"`
 `Maria‐chan repitió la pregunta del tío Hideyoshi y miró a su madre.`
 `Supongo que no recuerda su propia estatura.`
 `{n}Probablemente está a mediados de su crecimiento, así que su altura debe cambiar cada mes.`
@@ -516,7 +516,7 @@
 `Incluso yo muy apenas la recuerdo como una bebé llorona de tres años.`
 `"Maria.`
 ` Él es Battler onii‐chan.`
-` El hijo de Tío Rudolf.`
+` El hijo del tío Rudolf.`
 ` ...¿Está claro?"`
 `"............El hijo del tío es...`
 ` El hijo es el tío...`
@@ -544,10 +544,10 @@
 ` ¡Battler!"`
 `"¡Oye, Maria!`
 ` ¡No deberías hablarle así! ¡Llámalo Battler onii‐chan...!"`
-`"Está bien, Tía Rosa.`
+`"Está bien, tía Rosa.`
 ` No le doy importancia a cosas pequeñas.`
 ` ¿No es así, Maria?`
-` ¡Tu y yo nos llevamos tan bien para usar solo nuestros nombres, ¿cierto?!"`
+` ¡Cuando somos amigos, con el nombre basta, ¿no?!"`
 `"¡Battler, Battler, Battleeerrr!`
 ` ¡Uu‐uu!"`
 `"¡Eso es, Maria, Maria, Mariaaa!`
@@ -559,24 +559,24 @@
 `Parece que después de todo la gente no cambia tanto.`
 `{n}Estoy algo contento de que siga siendo la niña pura e inocente que recuerdo.`
 `Su nombre se escribe {p:0:真里亞}.`
-`{n}...Esta no es tan difícil de leer.`
+`{n}...Esta vez no es tan difícil de leer.`
 ` Claro, {p:0:真里亞} se pronuncia "Maria".`
 `{n}El tercer carácter se ve como una cruz, lo que se siente muy elegante.`
 `Sus sentimientos generalmente no se muestran en su rostro, así que puede ser difícil saber qué está pensando, pero eso es solo en el exterior.`
 `{n}Por dentro, es solo una dulce niña normal.`
-`Luego está la madre de Maria, Tía Rosa.`
+`Luego está la madre de Maria, tía Rosa.`
 `{n}Es la hermana menor de mi papá.`
 `Rosa se escribe {p:0:楼座}.`
 ` ...Es un nombre que en verdad no es japonés.`
 `Siento decirlo, pero su nombre es casi tan ridículo como el de Papá...`
 ` Debo respetarla por no acabar tan retorcida como él lo está.`
 `...De hecho, al pensarlo, todos los nombres de mi familia suenan extranjeros.`
-`{n}¿Porqué está el Abuelo tan obsesionado con esto?`
+`{n}¿Porqué está el abuelo tan obsesionado con esto?`
 `Por culpa suya, incluso nosotros los nietos tenemos que soportar este extraño sentido al nombrarnos.`
-`{n}El que el nombre del Abuelo sea perfectamente normal lo hace incluso más irritante.`
+`{n}El que su nombre sea perfectamente normal lo hace incluso más irritante.`
 `De todas formas, hay algo de la tía Rosa que es un alivio comparado a los otros miembros de la familia.`
 `El viejo bastardo y la tía Eva tienen esta rara necesidad de molestar y burlarse de la gente siempre,`
-` pero aunque ella tenga la misma sangre, Tía Rosa no es así en lo absoluto.`
+` pero aunque ella tenga la misma sangre, tía Rosa no es así en lo absoluto.`
 `Ella es quien tiene más sentido común de entre sus hermanos.`
 `Como el tío Hideyoshi, ella es una tía amable que siempre estará del lado de los niños.`
 `......Por otra parte, posiblemente porque es una madre más estricta, no es tan liberal como el tío Hideyoshi al darnos dinero.`
@@ -616,8 +616,8 @@
 `"Jajaja, no te preocupes.`
 ` No hay otro tipo de asientos."`
 `Como dijo George‐aniki, parece que solo habían dos filas de asientos.`
-`Yep, it's a small plane alright...`
-` .........It isn't really going to shake...is it...?`
+`Sip, este avión es definitivamente pequeño...`
+` .........Estamos totalmente seguros de que no se sacudirá, ¿cierto...?`
 `"Ushiromiya George‐sama."`
 `"Aquí mismo.`
 ` No te preocupes, Battler‐kun.`
@@ -650,7 +650,7 @@
 `"Estamos recibiendo reportes de turbulencia atmosférica.`
 ` Es posible que haya algo de turbulencia en el avión, así que les pedimos que no desabrochen sus cinturones de seguridad después del despegue."`
 `"A‐Aniki, ¡¿acaba de decir que necesitamos usar los cinturones?!`
-` ¡En un jumbo jet, los puedes desabrochar tras el despegue, ¿no?!`
+` ¡En un Jumbo Jet, los puedes desabrochar tras el despegue, ¿no?!`
 ` ¡¿Entonces se sacudirá tanto que no podemos quitárnoslos?!"`
 `"¡Demonios, me engañaste! ¡Se sacudirá después de todo!`
 ` ¡¿Dónde están los paracaídas?!`
