@@ -1,278 +1,278 @@
-`The boat gave a big shudder.`
-`Seems we've docked at the harbor.`
-`{n}The boat driver came out and jumped to the pier with the mooring rope.`
-`A large man in a tuxedo was waiting there for us with a warm, smiling face.`
-`......I didn't know him, but judging by his clothes, I guessed that he was a servant of the Ushiromiya head house.`
-`"Welcome home, Milady.`
-` You were quite late, and I began to worry."`
-`"Ah, thanks for caring!`
-` The boat had Battler scared shitless.`
-` So we had to slow down for him.`
-` Seriously, what a pain in the ass!"`
-`"S‐shut up... I'll remember this when the shoe's on the other foot someday... ugghh."`
-`At this rate, the word'll spread around the entire family, and I'll become the big conversation piece during dinner.`
-`Even without this, everyone'd be talking about me because of that six‐year gap...but now I've provided them with an even juicier topic...!`
-`Dammit, why does the Ushiromiya main family have to live on this isolated island!`
-`In the meantime, the boat had finished its mooring.`
-`{n}A small plank was lowered so that we could get down.`
-`One by one, our parents came out of the boat.`
-`"You must all be quite tired from your long trip.`
-` Madam, please, allow me to assist you."`
-`"Thanks.`
-` It's been a while, Gohda‐san, how are you?"`
-`"Thank you for your concern.`
-` It is always my pleasure to serve."`
-`"Battler‐kun, isn't this your first time meeting Gohda‐san?`
-` If I'm not mistaken, you weren't working here six years ago, right?"`
-`"Indeed.`
-` So please, allow me to greet him for the first time.`
-` It is an honor to meet you at last, Battler‐sama."`
-`"......I'm pretty secure about my height, but you're huge.`
-` ...This is definitely our first meeting.`
-` If I'd ever met a big guy like you, I'd never forget it...!"`
-`"It's a pleasure.`
-` I'm Battler."`
-`"Your return has been keenly anticipated, sir.`
-` I have been working for the Ushiromiya head house since the year before last; my name is Gohda ({p:0:郷田}), your servant."`
-`"It is a pleasure to make your acquaintance.`
-` If there is ever anything you need, please feel free to rely on me."`
-`"Gohda‐san, it's been some time."`
-`"It has been too long, George‐sama.`
-` Please, allow me to assist you."`
-`"As usual, you're a reception pro...`
-` If you ever need a job, just give me a holler, okay?`
-` I'd hire you just like that!"`
-`"You do me too much honor.`
-` Please allow me to assist you, Hideyoshi‐sama."`
-`Gohda‐san then lent a hand to everyone as they disembarked, greeting them as they passed.`
-`His speech and mannerisms had the refined polish of a professional.`
-`He was very graceful, in contrast with his initially rough‐looking appearance.`
-`His large size made him seem a bit scary at first, but he was much more polite than my first impression of him had led me to believe.`
-`He claimed to have served on the island for two years, but he had doubtless worked at a similar job somewhere before.`
-`After everybody disembarked, the mooring rope was untied, and the boat started to steer away from the harbor.`
-`It was probably returning to its home port of Niijima.`
-`The captain waved his hand in farewell.`
-`{n}Maria conscientiously waved back.`
-`"............Hmmm, I just realized why something's been feeling out of place to me.`
-` I can't hear the cries of the seagulls."`
-`"Seagulls?`
-` The birds?"`
-`I remember that whenever we came to this island, the seagulls always welcomed us with their lively "nyaa nyaa" cries.`
-`And because of that, whenever I hear the cries of the seagulls in any other place, I get the feeling that I've come to a family conference.`
-`Except for the small part of the island where those of the Ushiromiya head house live, Rokkenjima had been left uncultivated, apparently transforming into a paradise for wild birds.`
-`Seemingly, some cliff face or other had become home to a huge seagull colony, and so this island was always full of them.`
-`Since those seagulls didn't come to greet us, I felt a bit lonely.`
-`"What's wrong, Battler‐kun?"`
-`"Oh, Auntie Rosa.`
-` ...Nah, it's nothing really—I was just saying I can't hear the seagulls, so it kinda feels a bit lonely."`
-`"Oh, you're right.`
-` They're always so lively, but I can't see hide nor hair of one today."`
-`"......Uu?`
-` Why no seagulls?"`
-`"Hmmm, maybe it's because the seagulls are having a gathering somewhere too?`
-` Maria, did you want to see the seagulls?"`
-`"Uu, wanted to."`
-`"What happened for them all to disappear?`
-` Maybe Jessica made aaall of 'em into shish kebabs and ate 'em!"`
-`"......Uu?!"`
-`"The hell, don't say disturbing stuff like that!`
-` You'll get Maria all confused!!"`
-`"Uu‐uu‐uu!`
-` Jessica onee‐chan made them into shish kebabs, made them into shish kebabs!`
-` Uu!!"`
-`"I did not, I did not!`
-` Why the hell would I do something like that?!"`
-`"That's right, that's ri~ght, Jessica made 'em into shish kebabs!`
-` Skin 'n meatballs, liver 'n onio~on!"`
-`"Swim in meat dolls!`
-` Liver 'n oniooon!!`
-` Uu‐uu‐uu!`
-` Ahaha, ahaha!`
-` *giggle*giggle*!"`
-`As I made fun of Jessica, Maria tagged along looking like she was having fun.`
-`Ooh, she really knows how to join in with things!`
-`{n}Alright then, starting today I'll make you my number one follower!`
-`As I smiled at her, she beamed back overjoyed, I guess happy for this little bit of solidarity.`
-`"That's not it, Maria‐chan.`
-` I've heard that wild birds are attuned to changes in the weather and atmospheric pressure.`
-` And it looks like the weather will get worse around tonight.`
-` It's possible they hurried back to their nests."`
+`El barco se agitó fuertemente.`
+`Al parecer habíamos llegado a puerto.`
+`{n}El conductor del bote salió y saltó al muelle mientras sostenía la cuerda de anclaje.`
+`Ahí se encontraba un hombre robusto en un smoking saludándonos con un rostro entusiasta y sonriente.`
+`......No conocía su cara, pero a juzgar por su ropa, supuse que él era un criado de la casa principal de la familia Ushiromiya.`
+`"Bienvenida a su hogar, señorita.`
+` Se estaba tardando bastante, y comencé a preocuparme."`
+`"¡Oh, gracias por preocuparte!`
+` Este inútil se había asustado en el bote.`
+` Así que por él tuvimos que disminuir la velocidad.`
+` ¡Fue bastante molesto!"`
+`"C‐cállate... algún día, cuando te pase a ti, recordarás esto... ugghh."`
+`A este paso, se correría la voz a toda la familia y sería el gran tema de conversación en la cena de esta noche.`
+`Incluso en circunstancias normales yo estaría en boca de todos porque han pasado seis años...¡pero ahora les he dado un tema de conversación aún más jugoso...!`
+`Maldición, ¡¿por qué el líder de la familia Ushiromiya tiene que vivir en esta isla tan aislada?!`
+`Mientras tanto, el bote terminó de echar amarres.`
+`{n}Un pequeño tablón fue colocado para bajarse del bote.`
+`Nuestros padres salieron de uno en uno.`
+`"Todos ustedes deben estar bastante cansados por su largo viaje.`
+` Señora, por favor, permítame ayudarle."`
+`"Gracias.`
+` Ha pasado bastante tiempo, Gohda‐san. ¿Cómo estás?"`
+`"Gracias por preguntar.`
+` Es un placer servirles durante su estadía."`
+`"Battler‐kun, ¿no es éste tu primer encuentro con Gohda‐san?`
+` Si no me equivoco, no estabas trabajando aquí hace seis años, ¿verdad?"`
+`"En efecto.`
+` Por favor, permítanme presentarme por primera vez.`
+` Es un honor conocerle al fin, Battler‐sama."`
+`"......Estoy bastante confiado de mi estatura, pero tú eres enorme.`
+` ...Definitivamente esta es la primera vez que nos conocemos.`
+` ¡Si alguna vez me hubiera encontrado a un tipo tan grande, definitivamente no lo olvidaría...!"`
+`"Encantado.`
+` Soy Battler."`
+`"Estaba deseando conocerle, señor.`
+` He estado trabajando para la casa principal de la familia Ushiromiya desde el año antepasado. Soy Gohda ({p:0:郷田}), su sirviente."`
+`"Encantado de conocerle.`
+` Si usted necesita algo, por favor no dude en hacérmelo saber."`
+`"Gohda‐san, tanto tiempo sin verlo."`
+`"George‐sama, ha pasado bastante tiempo.`
+` Por favor, déjeme ayudarle."`
+`"Como de costumbre, eres un profesional para las recepciones...`
+` Si alguna vez necesitas un trabajo, házmelo saber, ¿está bien?`
+` ¡Te contrataría en cualquier momento!"`
+`"Usted me halaga demasiado.`
+` Por favor déjeme ayudarle, Hideyoshi‐sama."`
+`Gohda‐san entonces ayudó a desembarcar a todos mientras los saludaba.`
+`Su comportamiento y presentación eran profesionalmente pulcros.`
+`Era muy grácil, en contraste con su dura apariencia exterior.`
+`Su gran tamaño lo hacía un poco aterrador al principio, pero era mucho más cortés de lo que me hubiera imaginado por mi primera impresión.`
+`Decía haber trabajado en la isla por dos años, pero sin duda había tenido un empleo similar antes.`
+`Después de que todos desembarcaron, la cuerda de amarre fue desatada y el bote comenzó a alejarse de la costa.`
+`Probablemente iba de regreso a su puerto de origen en Niijima.`
+`El capitán agitó su mano en señal de despedida.`
+`{n}Maria saludó con su mano en respuesta.`
+`"............Hmmm, ahora que lo pienso, creo que por eso sentía que había algo fuera de lugar desde hace un rato.`
+` No escucho los graznidos de las gaviotas."`
+`"¿Gaviotas?`
+` ¿Las aves?"`
+`Si no recuerdo mal, siempre que venía a esta isla, las gaviotas nos recibían con sus animado gritos de "nyaa nyaa".`
+`Y por eso, cada vez que escucho el graznido de las gaviotas en cualquier otro lugar, tengo la sensación de que estoy en camino a una conferencia familiar.`
+`Con la excepción de la pequeña parte donde viven los de la casa principal Ushiromiya, Rokkenjima estaba intacta, y aparentemente se había convertido en un paraíso para las aves salvajes.`
+`Todo el muelle parecía estarse convirtiendo en una enorme colonia de gaviotas, y esta isla siempre estaba llena de ellas.`
+`Ya que esas gaviotas no vinieron a recibirnos, me sentí un poco solo.`
+`"¿Qué pasa, Battler‐kun?"`
+`"Oh, tía Rosa.`
+` ...Nah, no es nada, solo decía que sin el sonido de las gaviotas este lugar se siente un poco solitario."`
+`"Ahora que lo dices, es verdad.`
+` A pesar de que siempre se ven tan llenas de vida, hoy parece que no hay ninguna cerca."`
+`"......¿Uu?`
+` ¿Por qué no hay gaviotas?"`
+`"Hmmm, ¿quizás las gaviotas también tengan una reunión en alguna parte?`
+` Maria, ¿querías ver a las gaviotas?"`
+`"Uu, quería."`
+`"Aún así, es algo extraño que no haya ni una por aquí`
+` ¡Quizás Jessica las convirtió a tooodas en yakitori y se las comió!"`
+`"......¡¿Uu?!"`
+`"¡Demonios, no digas cosas tan raras!`
+` ¡¡Harás que Maria se confunda!!"`
+`"¡Uu‐uu‐uu!`
+` ¡Jessica onee‐chan las hizo yakitori, las hizo yakitori!`
+` ¡¡Uu!!"`
+`"¡No lo hice, no lo hice!`
+` ¡¿Por qué demonios haría algo así?!"`
+`"Así es, así es~, ¡Jessica las hizo yakitori!`
+` ¡Piel y albóndigas, hígado y cebo~llas!"`
+`"¡Miel y albóndigas!`
+` ¡¡Hígado y cebollaaas!!`
+` ¡Uu‐uu‐uu!`
+` ¡Ajaja, ajaja!`
+` *risita*risita*!"`
+`Mientras me burlaba de Jessica, Maria seguía el juego aparentemente divirtiéndose.`
+`¡Ooh, así que es el tipo de persona que se adapta a los estados de ánimo de los demás!`
+`{n}¡Muy bien, de ahora en adelante, serás mi seguidora número uno!`
+`Como le sonreí, ella se alegró, con una apariencia rebosante de alegría, probablemente porque estaba feliz con este momento de solidaridad.`
+`"No es eso, Maria‐chan.`
+` Las aves silvestres pueden sentir los cambios en el clima y la presión atmosférica.`
+` Parece que el clima empeorará por la noche.`
+` Es posible que hayan tenido que regresar a sus nidos deprisa."`
 `"............Uu.`
-` Not kebabs?`
-` Jessica onee‐chan didn't make them into kebabs?"`
-`"I did not, I did not!!`
-` I told you, I wouldn't do stuff like that!`
-` Alright, Battler, you admit right now that you lied!"`
+` ¿No yakitori?`
+` ¿Jessica onee‐chan no las hizo yakitori?"`
+`"¡¡No, no!!`
+` ¡D‐dije que yo nunca haría algo como eso!`
+` ¡Vamos Battler, admite ahora mismo que mentiste!"`
 `"Battler‐kun.`
-` Maria‐chan is a naive girl, so she takes even jokes seriously.`
-` You should choose your jokes more carefully."`
-`...George‐aniki gently scolded me.`
-`...Even though I outstripped Aniki in height, he still commanded respect as my elder.`
-` No choice but to obediently apologize.`
-`"H‐hey,`
-` my bad, my bad...`
-` Maria, that just now was a joke.`
-` It's just today the seagulls are all quiet in their nests."`
-`"......Battler lie?`
-` George onii‐chan true?"`
-`{i:I was having fun, but you were actually just tricking me...?}`
-`{n}Her pure eyes seemed to accuse me.`
-`{n}......Maybe I went a little overboard with her after all.`
-`"Yeeaah, that's right, that's right.`
-` What George‐aniki said is true.`
-` The weather is bad so they probably went home for today.`
-` It doesn't mean they're gone, does it?`
-` Right, Auntie?!"`
-`"That's right.`
-` Tomorrow, when the weather gets better, I'm sure they'll come back and let you hear their "myaa myaa" cries."`
+` Maria‐chan es una niña muy ingenua, así que se toma en serio incluso las bromas.`
+` Deberías escoger tus bromas con más cuidado."`
+`...George‐aniki me regañó de forma discreta.`
+`...Aunque lo superara en estatura, desde luego que Aniki era Aniki.`
+` No había más opción que pedir perdón obedientemente.`
+`"B‐bueno,`
+` mala mía, mala mía...`
+` Maria, fue una broma.`
+` Lo que pasa es que hoy las gaviotas están todas tranquilas en sus nidos."`
+`"......¿Battler mintió?`
+` ¿George onii‐chan verdad?"`
+`A pesar de estar divirtiéndose tanto, ¿en realidad fue engañada...?`
+`{n}Sus ojos puros parecieron culparme.`
+`{n}......Tal vez me excedí un poco con ella después de todo.`
+`"Síiii, es cierto, es cierto.`
+` Lo que dijo George‐aniki es verdad.`
+` El clima de hoy es malo así que probablemente se fueron a casa por hoy.`
+` Esto no significa que ya no estén, ¿verdad?`
+` ¿No, tía?!"`
+`"Es cierto.`
+` Mañana, cuando el clima mejore, estoy segura de que volverán y escucharemos sus graznidos de "myaa myaa"."`
 `"Uu.`
-` I'll wait for the weather to get better so they come back.`
-` Wait for tomorrow.`
-` Wait for the weather to get better.`
-` Uu‐uu!"`
-`Maria's mood lightened, and she started looking forward to tomorrow, when the seagulls would come back and fill the skies.`
-`Still, George‐aniki really is amazing at taking care of kids.`
-`...I think I remember Aniki taking good care of me as well when I was a brat six years ago.`
-`......Aniki might have quite some talent for this kind of thing.`
-`"George‐kun, you're so amazing at taking care of kids.`
-` I think you could work in child‐care!"`
-`"Yeah, it's like you were born to do that.`
-` To me, that seems more "you" than doing business in some company president office."`
+` Esperando que el clima mejore para volver.`
+` Esperando hasta mañana.`
+` Esperando que el clima mejore.`
+` ¡Uu‐uu!"`
+`Maria estaba de mejor humor, y esperaba con ansias el día de mañana, cuando las gaviotas volverían a llenar los cielos.`
+`De todos modos, George‐aniki realmente era asombroso en el cuidado de niños.`
+`...Creo recordar a Aniki cuidándome hace seis años cuando yo era un mocoso.`
+`......Aniki, probablemente esa sea tu virtud.`
+`"George‐kun es asombroso en el cuidado de niños.`
+` ¿No has pensado en trabajar de eso?"`
+`"Sí, George nii‐san, parece que eso es para lo que fuiste hecho.`
+` Personalmente, yo te veo a haciendo esto en lugar de hacer negocios en la oficina del presidente de alguna empresa."`
 `"Oh, no.`
-` Child‐care is a very respectable {i:job} of its own.`
-` It's not something you can do merely by liking children."`
-`"You're truly modest, George‐kun.`
-` But Battler‐kun, you're quite good with children too, you know!`
-` Earlier, even if it was just for a time, Maria seemed to be having a lot of fun.`
-` Keep on playing with her like you did just now.`
-` Just choose the jokes carefully though, alright?`
-` *giggle*."`
-`Auntie Rosa winked at me, giggling a little.`
-`A real mother, I thought to myself, who's happy that Maria looks like she's having fun.`
-`"Come {i:on}, Rosa.`
-` And you brats too, what the hell're you doing, get a move on!"`
-`"Alright, alright, we're coming."`
-`The old bastard was beckoning us to hurry up.`
-`{n}We'd better get moving.`
-`It's not like it'd be too late to have the same discussion after we got our luggage in our rooms.`
-`"Well then, everyone, I shall lead you towards the guesthouse where you will be staying.`
-` Please, this way."`
-`Gohda‐san called to everyone and started leading us.`
-`{n}Kumasawa‐san brought up the rear.`
-`A serpentine, twisting path led through a dim forest.`
-`{n}It ran a bit uphill.`
-`I'd guess the path was made twisting so that the slope wouldn't be felt too much,`
-` but personally, I'd have been happier if they'd been man enough to make some stairs in a straight line.`
-`......No doubt they made the path twisting on purpose, to put on airs of distance and importance...`
-`Before long, we saw garden‐style stone steps.`
-`...Ahhh, now, I remember how it goes from here.`
-`{n}Go up these, and...`
-`At the top of the stone steps, a beautiful guesthouse came into view.`
-`Its façade was lovely, of course, but even more than that,`
-` ......we couldn't help but have our hearts stolen away by the splendor of that beautiful rose garden that spread before it.`
-`"Haah~!`
-` It's as beautiful as ever this year...`
-` A real delight for the eyes..."`
-`As they reached the top of the stone steps, the people welcomed in by the rose garden voiced their appreciation one after another.`
-`"Aren't the flowers less lively this year?`
-` It must be because the summer wasn't warm enough."`
-`"I also believe that is so.`
-` When one compares with last year's blooming, it is a pity that this year's is somewhat inferior."`
-`Even so, it was a delightful rose garden.`
-`{n}I remember that huge amounts of roses used to greet me every year, even over six years ago.`
-`...This rose garden was the first thing that greeted the people who came to Rokkenjima.`
-` Even our parents, who came every year, couldn't help but let their wonder slip out.`
-`And moreover, it even looked like a "powered‐up" version of the garden from six years ago that was in my memories.`
-`"This place is always so amazing.`
-` It would be so wonderful to have a rose garden like this in my own home."`
-`"Give it up—who do you think would take care of it?`
-` Roses are a real pain, with bugs and diseases to worry about."`
-`"Yes, they are.`
-` In fact, I hear that Kyrie nee‐san attends to her "rose" every day, and makes sure that it doesn't get nibbled at without her knowing it."`
-`"Huh?`
-` I haven't heard anything like that, what's this?"`
-`"Yes, I do.`
-` Though, with him, it's the rose that goes off after the insects, so it's really more like some nasty carnivorous plant."`
-`"...Oh, so that's what you mean.`
-` C'mon, Rosa, can't you give that a rest just for today?`
-` I've put that sort of thing completely behind me."`
-`"I wonder.`
-` After all, you are a womanizer on an almost genetic level...!"`
-`"No need to worry, Rosa‐san.`
-` If a rose gives me too much trouble, I just chop it off at the root."`
-`"Hoh‐hoh‐hoh‐ho...such frightening talk this is."`
-`"Guys who're popular with the ladies are always forced to live with danger at their side.`
-` I sure hope I turn out a bit prettier in my next life!"`
-`"Hideyoshi nii‐san, as I keep telling you, it isn't like that at all.`
-` ...And Kyrie...stop it, you're freaking me out.`
-` You're making my rose wither."`
-`"Hey, Maria‐chan, look over here.`
-` These roses are especially magnificent."`
-`"...Roses are magificent.`
-` ...Uu!"`
-`"Hmmm~~, smells pretty sweet.`
-` Look, this matches my elegance pe~rfectly."`
-`"Hey, cut it out!`
-` Maria's gonna imitate you and get hurt by the thorns!"`
-`She yelled at me as I leaned in with an exaggerated gesture to smell the rose's scent.`
-`...I thought she was overreacting, but when I turned around, I saw Maria imitating my every movement, and thereby putting a broad smile on George‐aniki's face.`
-`"Hey now, Maria‐chan, be careful.`
-` Rose thorns can hurt."`
-`"......Uu?`
+` El cuidado de niños es un buen trabajo.`
+` Pero no es un trabajo en el que baste solo con que te agraden los niños."`
+`"En verdad eres modesto, George‐kun.`
+` ¡Pero Battler‐kun también es bastante bueno con los niños!`
+` Hace poco, a pesar de que fue solo por un momento, Maria parecía estar divirtiéndose mucho.`
+` Sigue jugando con ella como estabas haciendo.`
+` Solamente escoge las bromas con más cuidado, ¿está bien?`
+` *risita*."`
+`Tía Rosa me guiñó un ojo, riendo un poco.`
+`Una verdadera madre, pensé para mí, que está feliz de ver a Maria divertirse.`
+`"Vamos, Rosa.`
+` Y ustedes mocosos también, ¿qué demonios están haciendo? ¡Vamos!"`
+`"Está bien, está bien, ya vamos."`
+`El viejo bastardo estaba agitando su mano para apresurarnos.`
+`{n}Pero sí, teníamos que comenzar a movernos.`
+`No es como si no pudiéramos continuar con la misma conversación después de dejar el equipaje en nuestras habitaciones.`
+`"Ahora bien, todo el mundo, los guiaré hacia la casa de huéspedes que será su estancia.`
+` Por favor, por aquí."`
+`Gohda‐san llamó a todo el mundo y comenzó a dirigirnos.`
+`{n}Kumasawa‐san cerraba la marcha.`
+`Un sinuoso y torcido camino nos conducía en un bosque oscuro.`
+`{n}Su transcurso era un poco cuesta arriba.`
+`Creo que el camino se hizo de esta manera para que no se sintiera tanto la inclinación,`
+` pero personalmente, estaría más agradecido si hubiesen tenido el valor para poner algunos escalones en línea recta.`
+`......No hay duda de que hicieron el sendero torcido a propósito, para poner aires de distancia e importancia...`
+`En poco tiempo, vimos unos escalones de piedra con estilo de jardín.`
+`...Aaah, de aquí en adelante, tengo algunos recuerdos.`
+`{n}Se sube por éstos, y...`
+`En la cima de esos escalones, vimos una hermosa casa de huéspedes.`
+`Por supuesto, su fachada era hermosa, pero más que eso,`
+` ......no pudimos atravesar sus puertas sin que antes nos robara el corazón el esplendor de ese hermoso jardín de rosas que se esparcía frente a ella.`
+`"¡Aaah~!`
+` Este año también, como siempre, es una belleza...`
+` Es un verdadero deleite para los ojos..."`
+`Después de subir los escalones de piedra, las personas bienvenidas por el jardín de rosas dieron voz a sus opiniones una por una.`
+`"¿Es mi imaginación, o están las flores menos vívidas este año?`
+` Debe ser porque el verano no fue lo suficiente cálido."`
+`"Yo también lo creo.`
+` Cuando uno lo compara con la eclosión del año pasado, es una pena que este año sea un poco inferior."`
+`Aun así, era un jardín de rosas encantador.`
+`{n}Recordé que, seis años atrás, enormes cantidades de rosas me recibían cada año.`
+`...Este jardín de rosas era lo primero que recibía a las personas que llegaban a Rokkenjima.`
+` Incluso nuestros padres, que venían cada año, no pudieron acallar su asombro.`
+`Y además, se veía como una versión "mejorada" del jardín de hace seis años que estaba en mis recuerdos.`
+`"Siempre que lo ves es sorprendente.`
+` Realmente sería maravilloso tener un jardín de rosas así en casa."`
+`"Oh, claro que no. ¿Quién lo cuidaría?`
+` ¡Las rosas son una gran molestia, con insectos y enfermedades de que preocuparse!"`
+`"Así es.`
+` De hecho, he escuchado Kyrie nee‐san cuida de su "rosa" cada día y se asegura de que ningún insecto se le acerque, ¿verdad?."`
+`"¿Eh?`
+` Es la primera vez que escucho algo así, ¿de qué demonios estás hablando?"`
+`"Es cierto.`
+` Aunque en este caso, la rosa va tras los insectos como una repugnante planta carnívora."`
+`"...Oh, a eso se refieren.`
+` Vamos, Rosa, ¿no podrías dejarlo por hoy?`
+` He dejado ese tipo de cosas atrás por completo."`
+`"Quién sabe.`
+` ¡Después de todo, eres un mujeriego a nivel genético...!"`
+`"Está bien, Rosa‐san.`
+` Si la rosa me da demasiados problemas, siempre puedo cortarla de raíz."`
+`"Jo‐jo‐jo‐jo, qué charla tan escalofriante es ésta."`
+`"Los hombres populares siempre se ven forzados a vivir con riesgo.`
+` ¡A mí también me gustaría nacer apuesto en mi próxima vida~!"`
+`"Hideyoshi nii‐san, como ya te he dicho, no es que sea popular con las damas.`
+` ...Y tú, Kyrie...detente, me estás asustando.`
+` Haces que mi rosa se marchite."`
+`"Oye, Maria‐chan, mira por aquí.`
+` Estas rosas son particularmente magníficas."`
+`"...Rosas magníficas.`
+` ...¡Uu!"`
+`"Hmmm~~, huelen muy bien.`
+` Miren, van perfecto con mi elegan~cia."`
+`"¡Oye, detente!`
+` ¡Maria va a imitarte y lastimarse con las espinas!"`
+`Ella me gritó mientras yo me inclinaba para oler la esencia de las rosas con un gesto exagerado.`
+`...Pensé que estaba exagerando, pero cuando me di la vuelta, Maria estaba imitando cada cosa que hacía, provocando que George‐aniki sonriera de oreja a oreja.`
+`"Espera, Maria‐chan, ten cuidado.`
+` Las espinas de las rosas pueden lastimarte."`
+`"......¿Uu?`
 ` ............George onii‐chan.`
-` This one rose is strange.`
+` Esta rosa es extraña.`
 ` Uu."`
-`"Strange?`
-` What's wrong?"`
-`Maria pointed to a single rose.`
-`{n}I immediately understood why she found it odd.`
-`In the midst of all these magnificent roses, just one single rose was withering.`
-`There wasn't any particular reason.`
-`{n}Some roses flourish, and others wither.`
-`That's all there was to it, but Maria seemed very concerned about there being only one unhealthy rose in a group of healthy ones.`
-`...She must be feeling somehow like it's been left out.`
-`"So, you feel sad for this rose because it's the only one that isn't healthy...?"`
+`"¿Extraña?`
+` ¿Qué sucede?"`
+`Maria señaló una rosa.`
+`{n}Inmediatamente entendí su inquietud.`
+`En medio de todas las hermosas rosas, solamente esa estaba marchitándose.`
+`No es que hubiese una razón específica.`
+`{n}Mientras que algunas rosas brotan, algunas ya están marchitándose.`
+`No es nada más que eso, pero Maria parecía estar muy preocupada por la única rosa poco saludable del grupo.`
+`...Probablemente pensaba que se sentía sola.`
+`"¿Te sientes mal por esta rosa porque es la única que no está sana...?"`
 `"......Uu.`
-` The others are all healthy, but this one's sad."`
-`"Well, they all bloom and wither on their own.`
-` I'll bet the only reason that one withered now is because it bloomed earlier than any of the other roses."`
-`"Yeah, that's right.`
-` It probably just bloomed all over the place, fulfilled its duty and went to rest.`
-` You shouldn't get so worked up about it."`
+` Las demás están saludables, pero ésta está triste."`
+`"Bueno, eso es porque todas florecen y luego se marchitan.`
+` Apuesto que la razón por la que ésta se está marchitando es porque floreció antes que todas las otras rosas."`
+`"Sí, es cierto.`
+` Creo que floreció hasta más no poder, cumplió su deber y se fue a descansar.`
+` No deberías preocuparte tanto por eso."`
 `".........Uu."`
-`It seemed that Maria's pure, sensitive nature was making her feel some emotional pain for the rose that withered alone.`
-`Even though she understood the logic of it, it still felt lonely to her.`
-`"Okay, Maria‐chan,`
-` why don't you look after this rose until we leave, then?"`
-`"Uu?"`
-`George‐aniki straightened up and felt around in his pocket.`
-`{n}He then took out the wrapping from the candy he had eaten on the plane.`
-`He twisted it into a thin string, and gently tied it to the rose as a sort of marker.`
-`"Heeey, that's pretty cute!"`
-`"Let's mark it with this.`
-` Later on, you can come and give it some water.`
-` I'm sure Mr. Rose will be happy."`
-`"......Uu!`
-` Come to give it water!"`
-`"I think you should give Mr. Rose here a name.`
-` I'm sure that'll make it happy, and you'll get to know it a little better."`
-`"Name...?`
-` Name...`
+`Parecía que la sensibilidad pura de Maria le hacía sentir una especie de dolor emocional por la rosa que se marchitaba en soledad.`
+`Aunque ella entendía la lógica en eso, su tristeza parecía ser indeleble.`
+`"Entonces, Maria‐chan,`
+` ¿por qué no cuidas de esta rosa hasta que nos vayamos?"`
+`"¿Uu?"`
+`George‐aniki se levantó y buscó algo en su bolsillo.`
+`{n}Lo que sacó fue la envoltura del dulce que había comido en el avión.`
+`Lo torció para formar un cordel delgado, y cuidadosamente lo ató a la rosa para que sirviera de señal.`
+`"¡Oyeee, eso se ve lindo!"`
+`"Usémoslo de señal.`
+` Después, puedes venir y darle un poco de agua.`
+` Estoy seguro de que la rosa estará muy feliz."`
+`"......¡Uu!`
+` ¡Venir y darle agua!"`
+`"Opino que deberías darle un nombre a la rosa.`
+` Estoy seguro que eso la haría feliz, y podrías conocerla mejor."`
+`"¿Nombre...?`
+` Nombre...`
 ` ......Uu...uu..."`
-`Though she still wore her usual sullen face, Maria crossed her arms and began to consider this intently.`
-`At the very least, she appeared to have been completely pulled out of her slump.`
-` Nice going, Aniki.`
-`"George nii‐san has always been really understanding.`
-` Can't help but respect him."`
-`"Yeah.`
-` I guess that's just his gift.`
-` We've gotta learn some lessons from him!"`
-`"Was this garden as fancy as this when you were a kid?"`
-`"It was only after I left the house that it became this grand.`
-` Though I was more fond of the previous rustic garden.`
-` Nii‐san fiddled with it too much, with his slightly questionable taste.`
-` It was much better the way it was before."`
-`"Eva, you've gotta think positive!`
+`A pesar de no quitar su cara hosca, Maria se puso a considerarlo con los brazos cruzados en concentración.`
+`Al menos parece que fue sacada completamente de su pena.`
+` Bien hecho, Aniki.`
+`"George nii‐san siempre ha sido muy comprensivo.`
+` No puedes evitar tenerle respeto."`
+`"Sí.`
+` Supongo que nació de esa forma.`
+` ¡Tenemos que comenzar a pedirle consejos!"`
+`"¿Este jardín era así de magnífico cuando todos ustedes eran niños?"`
+`"Desde el día que dejé esta casa en adelante, en verdad comenzó a cambiar.`
+` Antes de eso, el jardín era más simple, pero aún estoy apegada a ése.`
+` Nii‐san le ha hecho demasiadas modificaciones, con su ligero mal gusto.`
+` Era mejor de la forma en que estaba antes."`
+`"¡Eva, tienes que pensar positivamente!`
 ` No matter how it might've looked, its beauty now is something to be admired.`
 ` You'll be able to relax a lot better if you look at it that way."`
 `"I didn't mean it like that...`
