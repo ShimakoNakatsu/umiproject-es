@@ -1,4 +1,4 @@
-`"............Así que...`
+`"...Así que...`
 ¿todavía no superas tu amor por esa bebida?"`
 `El viejo médico soltó un suspiro mientras retiraba el estetoscopio.`
 `Habían dos hombres en el lúgubre estudio cubierto de polvo y con cierto hedor dulzón.`
@@ -8,47 +8,47 @@
 `"El licor es mi amigo.`
 ` No menos de lo que tú lo eres, y ha estado a mi lado aun por más tiempo de lo que tú has estado."`
 `Mientras el hombre que había descubierto su pecho para el estetoscopio reacomodaba su ropaje, habló sin trazo de timidez.`
-`"............Kinzo‐{c:86EF9C:san}.`
+`"...Kinzo‐{c:86EF9C:san}.`
 ` ...Tu cuerpo parece estar en buen estado gracias a los efectos de la medicina.`
 ` Sin embargo, si continúas bebiendo tan ávidamente, el tratamiento perderá su significado.`
 ` ...Confía en mi juicio.`
 ` Abstente de la bebida."`
 `"Te lo agradezco, aunque solo por el sentimiento,`
 ` amigo mío.`
-` .........Genji.`
+` ...Genji.`
 ` Otra copa.`
 ` Dilúyelo ligeramente.`
 ` De esa forma Nanjo puede guardar las apariencias."`
-`".........¿Está completamente seguro?"`
+`"...¿Está completamente seguro?"`
 `Tras observar tanto al amo que exigía el licor como al médico que lo prohibía,`
 ` Genji, el viejo mayordomo, silenciosamente dio un ligero asentimiento y llevó a cabo fielmente las órdenes de su amo.`
 `El médico familiar, Nanjo, de nuevo dejó escapar un profundo suspiro mientras observaba al mayordomo ocuparse junto al gabinete de licores...`
 `Había un olor llenando la habitación.`
 `...Este dulce, venenoso aroma se sentía como si derritiera el corazón, si no es que el alma misma.`
 ` Era el aroma de esa venenosa bebida verde de la que el hombre no podía apartarse.`
-`"......Nanjo.`
+`"...Nanjo.`
 ` Eres mi amigo cercano, y nos hemos conocido por un largo tiempo.`
 ` Estoy profundamente agradecido por todo lo que has hecho para mantenerme vivo por tanto tiempo."`
 `"No he hecho nada.`
-` ......Después de todo, jamás haces caso a mis recomendaciones médicas."`
+` ...Después de todo, jamás haces caso a mis recomendaciones médicas."`
 `"Jajajaja...`
 ` Y tú jamás haces caso cuando te advierto de un movimiento errado que estás punto de hacer en el ajedrez.`
 ` Al parecer estamos a mano."`
-`"......Amo."`
+`"...Amo."`
 `"Gracias.`
-` ......No moriría si me quedara sin tu medicina, pero sí lo haría si me quedara sin esto."`
+` ...No moriría si me quedara sin tu medicina, pero sí lo haría si me quedara sin esto."`
 `Ignorando a Nanjo, cuyo rostro mostraba una expresión resignada, Kinzo tomó la copa que Genji sostenía hacia él.`
 `...Probablemente hay muy poca gente que asociaría el venenoso color que llenaba la copa, con una bebida alcohólica.`
-`".........Nanjo.`
+`"...Nanjo.`
 ` Sé honesto conmigo.`
 ` ¿Cuánto tiempo me queda?"`
 `"Bueno...`
 ` ¿Qué tan corto lo tengo que hacer para que dejes de beber?"`
 `Nanjo de nuevo soltó un suspiro de resignación.`
 `{n}Luego, finalmente le habló a Kinzo mientras este último giraba su copa.`
-`".........No te queda mucho tiempo."`
+`"...No te queda mucho tiempo."`
 `"...¿A qué te refieres exactamente con eso?"`
-`"......Ilustrémoslo con nuestro juego actual de ajedrez.`
+`"...Ilustrémoslo con nuestro juego actual de ajedrez.`
 ` Casi has llegado al jaque mate... pero aún no has arrinconado a mi rey."`
 `La mirada de Nanjo se dirigió hacia una mesa en el costado con un enorme tablero de ajedrez encima.`
 `Juzgando por la posición de las piezas, el juego parecía estar entrando en su etapa final.`
@@ -57,22 +57,22 @@
 `Cada vez que Nanjo venía a hacer un examen médico, ambos hacían unos cuantos movimientos.`
 `Nanjo estaba insinuando que Kinzo probablemente caería en su sueño eterno antes de que este juego pudiera ser concluido.`
 `...Esas palabras provenían más de un viejo amigo que de un médico.`
-`"............Si fueras un paciente normal,`
+`"...Si fueras un paciente normal,`
 ` en este momento te recomendaría escribir tu testamento."`
-`"......¿Y qué es un testamento, Nanjo?`
+`"...¿Y qué es un testamento, Nanjo?`
 ` ¿Instrucciones escritas a mano para decirles a los buitres cómo devorar y esparcir mi cadáver?"`
 `"No, no del todo.`
-` ......Como sugiere la palabra, es una forma de hacer constar tu voluntad para generaciones futuras.`
+` ...Como sugiere la palabra, es una forma de hacer constar tu voluntad para generaciones futuras.`
 ` Es mucho más que solo una forma de repartir tu herencia."`
 `"Hoh.`
-` ......Y además de la división de la herencia, ¿qué podría escribir?"`
-`"............Oh, tus remordimientos...`
+` ...Y además de la división de la herencia, ¿qué podría escribir?"`
+`"...Oh, tus remordimientos...`
 `y asuntos que has dejado sin resolver.`
 ` Cosas que quieres que se transmitan...`
 `...y cosas que quieres comunicar.`
-` ......Cualquier cosa que quieras."`
-`"......Hmph.`
-` .........¿Cosas que quiero que se transmitan, y lo que quiero comunicar?`
+` ...Cualquier cosa que quieras."`
+`"...Hmph.`
+` ...¿Cosas que quiero que se transmitan, y lo que quiero comunicar?`
 ` Ridículo.`
 ` ¡¡Yo, Ushiromiya Kinzo, no tengo ni una sola cosa que quiera decir o dejar!!"`
 `"Nací sin nada.`
@@ -80,7 +80,7 @@
 ` ¡¡No hay nada que quiera dejar a mis tontos hijos!!`
 ` ¡Incluso si el fin llegase hoy, incluso si llegase ahora mismo!`
 ` ¡¡Aceptaría este destino de muerte sin un atisbo de miedo!!"`
-`"......Kinzo‐san."`
+`"...Kinzo‐san."`
 `"Yo lo creé todo.`
 ` ¡Mi fortuna!`
 ` ¡Mi prestigio!`
@@ -96,14 +96,14 @@
 ` ¡¡No hay nada que pueda dejar!!"`
 `Después de alcanzar un crescendo furioso, Kinzo repentinamente se desplomó.`
 `...Su expresión era flácida y débil, como si un espíritu maligno lo hubiera poseído y después abandonado.`
-`"..................`
+`"...`
 `Sin embargo, sí tengo un remordimiento.`
 ` No tengo nada que dejar atrás, pero hay una cosa que no puedo dejar inconclusa..."`
-`".........Harías bien en escribirla.`
+`"...Harías bien en escribirla.`
 ` Desde luego, sería mejor si pudieras terminarla antes de que llegue tu hora.`
 ` Sin embargo, aún si pasa lo peor, aquellos que sigan después de ti lo terminarán.`
 ` Debes dejar atrás tus remordimientos para que puedan ser resueltos aun si no puedes hacerlo por ti mismo.`
-` ......Ése es el propósito de un testamento."`
+` ...Ése es el propósito de un testamento."`
 `Cuando Nanjo intentó darle una gentil palmada en su hombro, el hombre desahuciado enfureció repentinamente y apartó de un golpe la mano de Nanjo.`
 `"¡¡Es inútil, inútil, inútil!!"`
 `"¡Debe ser realizado mientras viva! ¡Al instante en que muera, mi alma será devorada por los demonios del contrato y eliminada de la existencia!`
@@ -170,7 +170,7 @@
 `Pero entonces, crecí y crecí, y antes de darme cuenta, estaba por sobre 180cm.`
 `Supongo que también es gracias al entrenamiento muscular que hice sin parar, y las sospechosas pastillas para reforzar la fuerza muscular que pedí por correo.`
 `Antes de eso, jamás soñé que mediría 10cm más que George‐aniki, quien había llegado a su estatura máxima desde antes.`
-`......Maldición, apuesto que todos mis familiares dirán "¡Mira cuánto has crecido, Battler‐chan!" o algo así.`
+`...Maldición, apuesto que todos mis familiares dirán "¡Mira cuánto has crecido, Battler‐chan!" o algo así.`
 `...Es vergonzoso, así que espero que me dejen en paz.`
 `En todo caso, mi nombre es "Battler"...`
 `...bueno, es muy extraño, ¿no lo creen?`
@@ -183,7 +183,7 @@
 ` La primera parte es mi apellido, "Ushiromiya".`
 ` Hasta ahí es una pronunciación japonesa plausible.`
 `El problema es mi nombre.`
-`{n}.........{p:0:戦人} se compone de los caracteres "luchar" y "persona", y se pronuncia "Battler".`
+`{n}...{p:0:戦人} se compone de los caracteres "luchar" y "persona", y se pronuncia "Battler".`
 `Puesto todo junto es Ushiromiya Battler.`
 `Muy loco, ¿no?`
 ` De por sí ya lo es el que mis padres hayan decidido llamarme así, pero lo es incluso más que un trabajador del gobierno les permitiera oficializarlo.`
@@ -215,7 +215,7 @@
 `Habla en un extraño y muy notorio dialecto Kansai, pero es verdad que nació en Kanto.`
 `Aparentemente, las impresiones lo son todo en el mundo de los negocios,`
 ` así que hablar distinto a los demás lo hace resaltar más.`
-`......Sin embargo, parece que se avergüenza cuando habla cerca de gente de Kansai, así que vuelve a japonés estándar.`
+`...Sin embargo, parece que se avergüenza cuando habla cerca de gente de Kansai, así que vuelve a japonés estándar.`
 `...En verdad no lo entiendo, pero sin duda es una persona interesante.`
 `"Si tan solo no comenzaras siempre a fanfarronear.`
 ` Ya puedes parar.`
@@ -242,7 +242,7 @@
 `Por eso, cuando yo era un niño, me era algo complicado llevarme con ellos.`
 `{n}...Bueno, supongo que los eventos de los últimos 30 segundos prueban que todavía me es algo difícil llevarme con ellos.`
 `Aun así, la familia de George‐aniki es interesante y divertida, y parecen llevarse muy bien.`
-`......Demonios, es algo así como lo opuesto a mi familia.`
+`...Demonios, es algo así como lo opuesto a mi familia.`
 `"Battler‐kun,`
 ` ¿has visto a Rudolf‐san?"`
 `"¿Eh?`
@@ -305,13 +305,13 @@
 ` Ahora di "Padre, por favor perdóname por ser tan grosero"."`
 `"¡Con un demonio! ¡Vete a buscar una tienda de socios si tanto lo quieres!`
 ` ¡¡Gyaah, suéltameeee!!"`
-`......Este viejo bastardo es mi Papá.`
+`...Este viejo bastardo es mi Papá.`
 `{n}Creo que soy lo suficientemente alto, él mide más o menos lo mismo.`
 `Probablemente no es de sorprenderse que la tía Eva comenzara a hablar de la sangre de Papá cuando vio mi estatura.`
 `Por cierto, mi altura no es lo único que obtuve de él.`
 `{n}Parece que tener nombres extraños es de familia.`
 `El nombre completo de Papá se escribe {p:0:右代宮 留弗夫}.`
-`......No pueden leerlo, ¿cierto?`
+`...No pueden leerlo, ¿cierto?`
 ` Vamos, solo es {p:0:留弗夫}.`
 `{n}Bueno, el nombre de este hombre se pronuncia "Rudolf".`
 `Jaja... debe odiar al abuelo por llamarlo así.`
@@ -380,14 +380,14 @@
 `{n}La etiqueta "Pending Weather Clearance" seguía junto a los horarios de salida para el vuelo que debemos tomar.`
 `Según Aniki, a los aviones pequeños les afecta más el clima y otras condiciones climatológicas,`
 ` y no es nada fuera de lo común que un vuelo se retrase debido a eso.`
-`......Espera, realmente no se sacudirá...¿verdad...?`
+`...Espera, realmente no se sacudirá...¿verdad...?`
 `Desde aquí en el suelo, solo se ve nublado, no con viento.`
 `...Bueno, quizás sea distinto allá arriba donde vuelan los aviones.`
 `"El clima está algo indeciso hoy."`
 `Tía Eva estaba mirando una televisión del salón.`
 `{n}El pronóstico del clima estaba transmitiéndose, informándonos que un tifón se acercaba a la región de Kanto.`
 `"¿De nuevo un tifón?`
-` ......Supongo que es inevitable, con nuestra reunión familiar anual en Octubre.`
+` ...Supongo que es inevitable, con nuestra reunión familiar anual en Octubre.`
 ` ¿No pudo haber escogido una temporada mejor?"`
 `"Estoy de acuerdo.`
 ` Siempre he querido que se realice durante el festival de Obon a mediados de Agosto.`
@@ -414,7 +414,7 @@
 `"Aunque normalmente actúen como padres normales,`
 ` se vuelven niños de nuevo en cuanto ven a sus hermanos en las conferencias familiares."`
 `"Tú eres quien parece el adulto al analizarlo todo con tanta calma.`
-` ......Espero jamás volverme como ese viejo bastardo.`
+` ...Espero jamás volverme como ese viejo bastardo.`
 ` Preferiría por mucho terminar siendo un intelectual como tú, Aniki."`
 `"¿Como yo?`
 ` Oh, pero si todavía me queda un largo camino.`
@@ -437,10 +437,10 @@
 `Mi papá solo dice "claro, puedes estudiar en mi compañía, si te gusta lavar inodoros".`
 `Demonios, no voy a estar en deuda con ese viejo bastardo.`
 `{n}¡Encontrare mi rumbo por mi cuenta!`
-`{n}.........Si simplemente bastara el poder de voluntad para convertirse en adulto.`
+`{n}...Si simplemente bastara el poder de voluntad para convertirse en adulto.`
 `¿Quizás debería ir a uno de esos viajes de auto encuentro tan populares actualmente?`
-`{n}......Bueno, no es como si pudiera molestar a mis padres para que me dieran ese dinero...`
-`"......¡¿hm?! ¡Ohh~!"`
+`{n}...Bueno, no es como si pudiera molestar a mis padres para que me dieran ese dinero...`
+`"...¡¿hm?! ¡Ohh~!"`
 `Justo en ese momento, el tío Hideyoshi gritó con fuerza.`
 `{n}Él es una persona agradable en sí, pero su gran problema es controlar el volumen de su voz.`
 `Cuando volteé, vi que estaba saludando a la tía Rosa, quien había llegado tarde.`
@@ -457,7 +457,7 @@
 `"¡Eso es!`
 ` ¡Bien dicho!`
 ` ¡Te daré un dulce como premio!`
-` ......Oh, ¿eh?`
+` ...Oh, ¿eh?`
 ` Dónde los dejé..."`
 `"Rosa‐san, qué bueno es verte de nuevo.`
 ` También a ti, Maria‐chan."`
@@ -499,7 +499,7 @@
 ` creo que te has puesto demasiado pesada para jugar al avión..."`
 `"George‐aniki, que cosa más descortés para decirle a una dama.`
 ` Ven, yo lo hago... arriba~..."`
-`"......Uu."`
+`"...Uu."`
 `Cuando fui a levantarla en vez de Aniki, Maria puso su cuerpo rígido en defensa, mirando mi rostro con sospecha.`
 `...Ah, es cierto.`
 ` La última vez que vi a Maria fue hace seis años y ella solo tenía tres.`
@@ -507,7 +507,7 @@
 `"Maria‐chan, ¿no lo recuerdas?`
 ` Es Battler‐kun.`
 ` Solían jugar juntos, ¿recuerdas?"`
-`".........Uu."`
+`"...Uu."`
 `"Supongo que no de sorprender.`
 ` La última vez que vio a Battler tenía solo tres años.`
 ` No guardas recuerdos a esa edad."`
@@ -518,19 +518,19 @@
 ` Él es Battler onii‐chan.`
 ` El hijo del tío Rudolf.`
 ` ...¿Está claro?"`
-`"............El hijo del tío es...`
+`"...El hijo del tío es...`
 ` El hijo es el tío...`
-` ............¿¿??`
-` ......¡¡Uuuu!!"`
+` ...¿¿??`
+` ...¡¡Uuuu!!"`
 `Probablemente usa ese sonido de "uu" para llenar los vacíos cuando no entiende una explicación complicada.`
 `Supongo que fue un poco confuso para ella.`
 `"Maria‐chan.`
 ` Él es Battler‐kun.`
 ` Es tu primo, al igual que yo."`
-`"......¿Como George onii‐chan?`
-` ...........................¿Battler?`
+`"...¿Como George onii‐chan?`
+` ...¿Battler?`
 ` ¿Primo?`
-` ......Uu."`
+` ...Uu."`
 `"Así es.`
 ` Lo entendiste."`
 `Este lado de Aniki es lo que verdaderamente me hace admirarlo.`
@@ -579,7 +579,7 @@
 ` pero aunque ella tenga la misma sangre, tía Rosa no es así en lo absoluto.`
 `Ella es quien tiene más sentido común de entre sus hermanos.`
 `Como el tío Hideyoshi, ella es una tía amable que siempre estará del lado de los niños.`
-`......Por otra parte, posiblemente porque es una madre más estricta, no es tan liberal como el tío Hideyoshi al darnos dinero.`
+`...Por otra parte, posiblemente porque es una madre más estricta, no es tan liberal como el tío Hideyoshi al darnos dinero.`
 `Bien.`
 ` Ahora está presente el grupo entero de la familia que abordará el avión.`
 `Luego, como si hubiese esperado a que todos nos juntáramos, un aviso resonó en el salón.`
@@ -617,7 +617,7 @@
 ` No hay otro tipo de asientos."`
 `Como dijo George‐aniki, parece que solo habían dos filas de asientos.`
 `Sip, este avión es definitivamente pequeño...`
-` .........Estamos totalmente seguros de que no se sacudirá, ¿cierto...?`
+` ...Estamos totalmente seguros de que no se sacudirá, ¿cierto...?`
 `"Ushiromiya George‐sama."`
 `"Aquí mismo.`
 ` No te preocupes, Battler‐kun.`
