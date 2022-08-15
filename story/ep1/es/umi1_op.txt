@@ -1,5 +1,5 @@
-`"...Así que...`
-¿todavía no superas tu amor por esa bebida?"`
+`"...Así que,`
+ ¿todavía no superas tu amor por esa bebida?"`
 `El viejo médico soltó un suspiro mientras retiraba el estetoscopio.`
 `Habían dos hombres en el lúgubre estudio cubierto de polvo y con cierto hedor dulzón.`
 `En la esquina de esta habitación, que era mucho más grande que lo que la mayoría de la gente llamaría un estudio,`
@@ -68,8 +68,8 @@
 ` ...Y además de la división de la herencia, ¿qué podría escribir?"`
 `"...Oh, tus remordimientos...`
 `y asuntos que has dejado sin resolver.`
-` Cosas que quieres que se transmitan...`
-`...y cosas que quieres comunicar.`
+` Cosas que quieres que se transmitan,`
+` ...y cosas que quieres comunicar.`
 ` ...Cualquier cosa que quieras."`
 `"...Hmph.`
 ` ...¿Cosas que quiero que se transmitan, y lo que quiero comunicar?`
@@ -204,7 +204,7 @@
 ` ¡Battler‐kun lo entiende!`
 ` ¡Los verdaderos hombres ganan o pierden con base en lo que tengan dentro!`
 ` Jamás debes olvidar mantener tu entrenamiento y disciplina.`
-` Haces eso, esperas mu~y en alerta el momento perfecto... ¡y entonces atacas!"`
+` Haces eso, esperas muuy en alerta el momento perfecto... ¡y entonces atacas!"`
 `"Yo mismo jamás imaginé que llegaría a ser el presidente de compañía que soy ahora, amo de mi propio dominio...`
 ` Sí, ¡y pensar que comencé en la ruina y sin ningún centavo...!"`
 `Este viejo señor robusto e inflado...`
@@ -498,7 +498,7 @@
 `...ack...`
 ` creo que te has puesto demasiado pesada para jugar al avión..."`
 `"George‐aniki, que cosa más descortés para decirle a una dama.`
-` Ven, yo lo hago... arriba~..."`
+` Ven, yo lo hago... Arriba~..."`
 `"...Uu."`
 `Cuando fui a levantarla en vez de Aniki, Maria puso su cuerpo rígido en defensa, mirando mi rostro con sospecha.`
 `...Ah, es cierto.`
