@@ -21,7 +21,7 @@
 `Pues bien, han pasado seis años desde la última vez que vi su cara, así que vamos presentar al padre de Jessica.`
 `El hombre sentado a la izquierda de mi padre es su hermano mayor y el padre de Jessica,`
 ` mi tío Krauss ({p:0:蔵臼}).`
-`......Este nombre es fácil de leer.`
+`...Este nombre es fácil de leer.`
 ` Krauss.`
 `...Ya que todos tienen nombres extraños, nuestra idea de cómo han de ser los nombres debe estar bastante retorcida,`
 ` así que Krauss en realidad no parece tan malo.`
@@ -31,7 +31,7 @@
 `De los chismes que me dio mi padre, parece ser que él era una persona bastante rencorosa e irracional.`
 `Si lo que mi padre dijo es cierto, solía ostentar una posición muy dominante como el mayor de los hermanos,`
 ` y era odiado por la tía Eva, tía Rosa, y el resto de la familia.`
-`......Teniendo eso en cuenta, es extraño verlo tener una charla bastante amistosa con el resto de la familia, ¿no?`
+`...Teniendo eso en cuenta, es extraño verlo tener una charla bastante amistosa con el resto de la familia, ¿no?`
 `Oh, bueno. Aunque no se llevaran muy bien cuando eran niños, a veces, cuando las personas crecen y sus caminos se separan, sus relaciones cambian.`
 `Sí, creo que es eso.`
 `Después de todo, todos tienen niños de aproximadamente la misma edad.`
@@ -46,10 +46,10 @@
 `Tengo entendido que poseía una enorme clínica en la isla cercana Niijima, pero se la entregó a su hijo y ahora vive una vida de ocio en su vejez.`
 `Ha conocido al abuelo desde que se construyó la mansión en esta isla, y llevan cultivando su relación varias décadas.`
 `Supuse que sería el aliado del abuelo en sus extrañas aficiones, pero sorprendentemente, parece ser que no es más que su rival de ajedrez.`
-`......Ya veo. Este tipo de pasatiempo parece adecuado para nuestro abuelo, tan amante de todo lo occidental.`
+`...Ya veo. Este tipo de pasatiempo parece adecuado para nuestro abuelo, tan amante de todo lo occidental.`
 `Se podría decir que es la única persona que puede entrar en Rokkenjima sin ser ni un miembro de la familia, ni un criado.`
 `Da la impresión de ser un calmado y caballeroso anciano mientras escucha la conversación de Kyrie y las otras mujeres.`
-`......Viendo que ha permanecido tanto tiempo junto al abuelo, su gran corazón no es nada de lo que uno pueda burlarse.`
+`...Viendo que ha permanecido tanto tiempo junto al abuelo, su gran corazón no es nada de lo que uno pueda burlarse.`
 `...Sin embargo, incluso si el es el médico familiar, el que alguien externo a la familia Ushiromiya asistiera a la conferencia era un poco extraño.`
 Por esto, supuse que la condición del abuelo había empeorado mucho,`
 ` y esto puede haberse hecho uno de los principales temas de discusión...`
@@ -60,7 +60,7 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 `Y es que, cuanto más hay que repartir, más problemas hay.`
 `...Dicha conversación podría aparecer en la reunión familiar.`
 `{n}...Aunque bueno, no es como si tuviera algo que ver con nosotros los jóvenes.`
-`......Por último, aunque esté ausente, permítanme presentar a nuestro abuelo.`
+`...Por último, aunque esté ausente, permítanme presentar a nuestro abuelo.`
 `La persona que debería sentarse en aquel Asiento del Incipiente es Ushiromiya Kinzo ({p:0:金蔵}).`
 `...Realmente apesta.`
 ` Todos los demás en la familia tienen nombres extraños, pero él mismo tiene un nombre perfectamente normal.`
@@ -98,15 +98,15 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 `El abuelo, en un parpadeo, comenzó a tener un gran éxito en los negocios bajo la protección de las fuerzas de ocupación, convirtiéndose rápidamente en un hombre muy rico.`
 `Y desde entonces, la información y no la suerte dio sus frutos.`
 `Debió haber tenido una gran conexión con las fuerzas de ocupación.`
-`......El abuelo sabía de antemano acerca de las demandas de emergencia que se harían para la Guerra de Corea.`
+`...El abuelo sabía de antemano acerca de las demandas de emergencia que se harían para la Guerra de Corea.`
 `No, por el contrario, debe haber previsto estas consecuciones desde el principio y empezó a preparar sus negocios para ello.`
 `En los libros de historia leemos que todo Japón se benefició de las demandas de emergencia de la Guerra de Corea, pero no fue así.`
 `Solo un pequeño grupo de los realmente ricos jugó al juego del dinero y obtuvo un beneficio sencillo.`
 `La mayor parte de la población siguió siendo pobre.`
-`{n}......En otras palabras, el abuelo fue un muy afortunado miembro de este grupo de ganadores.`
+`{n}...En otras palabras, el abuelo fue un muy afortunado miembro de este grupo de ganadores.`
 `Todo esto ocurrió... en el año {ruby:1950:25} de la era Showa, o eso creo.`
 `{n}Y, ya que el Gran Terremoto de Kanto ocurrió en el año {ruby:1923:12} de la era Taisho...`
-`......Eso significa que, en poco más de 20 años, el abuelo revivió a la casi muerta familia y la llevó a un nivel nunca alcanzado hasta entonces.`
+`...Eso significa que, en poco más de 20 años, el abuelo revivió a la casi muerta familia y la llevó a un nivel nunca alcanzado hasta entonces.`
 `Con esto, pensarías que reviviría la rama principal de la familia en Odawara,`
 ` pero por alguna razón, hizo algo tan extraño como comprar una isla entera del archipiégalo de Izu.`
 `Comprar toda una isla no es algo que puedas hacer ordinariamente en estos días.`
@@ -128,14 +128,14 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 `El abuelo, con su estilo occidental, una vez comprada esta isla deshabitada, Rokkenjima, creó en ella un lienzo en el cual podría realizar sus sueños a sus anchas.`
 `Con la mansión occidental que él siempre se había imaginado, desbordándose por la emoción, al jardín hermoso donde varias rosas habían sido plantadas.`
 `Y una playa privada donde no permitiría a nadie dejar huellas, excepto a él.`
-`......Si un chico pudiera tener todo esto, sería un sueño hecho realidad.`
+`...Si un chico pudiera tener todo esto, sería un sueño hecho realidad.`
 `Después de esto, haciendo un buen empleo de su enorme fortuna,`
 ` se convirtió en un gran titular en el balance muy estable de la industria del hierro y el acero y era capaz de vivir una vida fácil y cómoda utilizando solo los dividendos.`
 `Bueno, él es realmente una persona increíble.`
 `Este tipo de persona normalmente tiene la capacidad de prever y predecir el futuro, o al menos así los retratan,`
 ` pero el abuelo niega todo esto,`
 ` y asegura que simplemente fue bendecido con una suerte extraordinaria...`
-`......De todas formas, aun siendo como él era, con todos sus sueños hechos realidad,`
+`...De todas formas, aun siendo como él era, con todos sus sueños hechos realidad,`
 ` no se puede evitar que se volviera más y más extraño al estar encerrado solo en una isla.`
 `Todo el mundo ha sabido desde siempre de su obsesión por lo occidental,`
 ` ...pero ninguno de nuestros padres sabe realmente cuándo apareció su extraño pasatiempo de la magia negra.`
@@ -144,7 +144,7 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 `...En algún punto, el abuelo convirtió la investigación de la magia negra en el objetivo de su vida,`
 ` llenando su estudio de libros sospechosos, productos químicos y objetos mágicos, envolviéndose más en su locura.`
 `Escuché que un hombre de éxito puede decidir cómo quiere vivir el resto de su vida, con aquellos que lo rodearon cuidando calurosamente de él, pero...`
-`.........Es claramente una mentira.`
+`...Es claramente una mentira.`
 ` Es probable que todos le abandonaran, pensando "Repugnante, mejor no entrometerme".`
 `Bueno, ...ese agitado período fue como una gran apuesta, con oportunidades y riesgos.`
 `Me pregunto si al abuelo le iría bien en estos tiempos.`
@@ -171,7 +171,7 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 ` Y en medio de todo eso, parece ser que se le obligó a retirarse.`
 ` Entonces, por casualidad, Mamá envió ofertas de empleo para un criado."`
 `Gohda recogió el plato vacío y, sin perder su sonrisa, comenzó a narrar su propio pasado.`
-`"......El mundo es un lugar difícil.`
+`"...El mundo es un lugar difícil.`
 ` Sin embargo, gracias a eso he adquirido otra oportunidad de demostrar mis capacidades culinarias una vez más, esta vez para la familia Ushiromiya."`
 `"A pesar de que también gozo observando la sonrisa de un gran número de personas,`
 ` el desempeñar estas tareas solo para el placer de quienes me han contratado es extremadamente entretenido para mí.`
@@ -182,7 +182,7 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 `...Oh vaya, ¿realmente necesita hablar siempre con tanta franqueza?`
 `Si tan solo ella hablara con más suavidad, daría una impresión muy distinta.`
 `Shannon‐chan y Kumasawa‐san entraron desde el pasillo con un conjunto de mesa.`
-`"......Por favor, discúlpennos."`
+`"...Por favor, discúlpennos."`
 `"Pasemos al postre del día."`
 `Gohda‐san y los demás colocaron sobre la mesa el postre bellamente adornado.`
 `Supongo que es cierto eso de que se tiene otro estómago para el postre...`
@@ -209,13 +209,13 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 `{n}Si fuera amarilla, sospecharía que fuese limón, pero no me podía ni imaginar qué podía ser ese color rojo.`
 `Decidí preguntarle a Shannon, que estaba tras nosotros con el carro de servicio.`
 `"Shannon‐chan, ¿qué clase de salsa es esta cosa ácida?"`
-`"......Umm......`
-`............err...`
-`......u..."`
+`"...Umm...`
+` ...err...`
+` ...u..."`
 `Shannon‐chan dudó.`
 `Tal vez su trabajo fuera solo poner la mesa y no lo supiera.`
 `{n}Vaya, está realmente confundida.`
-`{n}......¿He hecho mal preguntándole?`
+`{n}...¿He hecho mal preguntándole?`
 `¿O acaso no conviene que sepamos qué es lo que usaron?`
 `Aunque tía Natsuhi tenía aspecto de estar sufriendo un dolor de cabeza, Kumasawa‐san, que estaba poniendo la mesa, soltó una risita.`
 `"¿De qué ingredientes crees que está hecha?`
@@ -223,7 +223,7 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 `"¿Eh? ...No tengo ni la menor idea.`
 ` Kumasawa baa‐san, esa risa es bastante espeluznante.`
 ` ¡¿Qué es?!"`
-`"......No se lo digas a nadie, ¿está bien?`
+`"...No se lo digas a nadie, ¿está bien?`
 ` Acerca tus oídos."`
 `Kumasawa‐san se inclinó hacia mí desde el otro lado de la mesa.`
 ` También yo me incliné hacia ella.`
@@ -234,7 +234,7 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 ` ¡Rápidoo!`
 ` ¡Rápidoo!"`
 `"La parte agria es, bueno...`
-` ......De hecho, es el jugo exprimido de una caballa, ¡jo‐jo‐jo!"`
+` ...De hecho, es el jugo exprimido de una caballa, ¡jo‐jo‐jo!"`
 `"""¡¿¡¿EEEeeeeehh, caballa?!?!"""`
 `"¡Es una locura!", pensamos, horrorizados.`
 `{n}Solo Maria lo aceptó, asintiendo con la cabeza con un "ajá".`
@@ -265,7 +265,7 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 ` Por favor disfruten de esta mezcla del dulzor de la fresa y la acidez del escaramujo.`
 ` Y por cierto, los pétalos de rosa están para decorar, así que por favor no se los coman.`
 ` Dicho eso, por favor, disfruten."`
-`......Jaaa... ...Un poco más y rompo en aplausos antes de comer.`
+`...Jaaa... ...Un poco más y rompo en aplausos antes de comer.`
 `Al igual que con la medicina, la lectura de las instrucciones parece tener un efecto mayor que la propia medicina.`
 `Con Gohda‐san dando los detalles sobre el postre, éste parecía cada vez más delicioso.`
 `Pero en serio, ¿debería llamarse sutileza o simplemente talento?`
@@ -281,7 +281,7 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 `"Espléndido, como siempre.`
 ` Digno de nuestros invitados."`
 `"Le agradezco mucho sus palabras.`
-` ......Señora, ¿sabe?`
+` ...Señora, ¿sabe?`
 ` He oído que el escaramujo cura dolores de cabeza.`
 ` Pensé que lo apreciaría, así que lo preparé especialmente."`
 `"...¿En serio?`
@@ -324,8 +324,8 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 `"""¡¡¡Wajajajajajaja!!!"""`
 `Kumasawa‐san y Shannon‐chan hicieron una reverencia y se fueron con el carrito de servicio.`
 `Curiosamente, Gohda‐san, que se sentía como si le hubieran apartado de los focos, explicó con total seriedad que la cena de esta noche sería bistec de ternera.`
-`"......Umm...`
-`.........Kumasawa‐san, ...muchas gracias por tu ayuda..."`
+`"...Umm...`
+`...Kumasawa‐san, ...muchas gracias por tu ayuda..."`
 `Mientras empujaba el carrito de servicio, Shannon inclinó respetuosamente la cabeza.`
 `"Jo‐jo‐jo, no he hecho na~da para recibir tu agradecimiento."`
 `Aunque Kumasawa‐san fingiera ignorancia, estaba claro que había saltado para intentar salvar a Shannon a tiempo.`
@@ -383,7 +383,7 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 `"Cierto.`
 ` Jessica‐chan se ha convertido en una joven bastante linda, ¿verdad?`
 ` Eso es fruto de tu educación, ¿verdad, Natsuhi‐san?"`
-`".........Gracias."`
+`"...Gracias."`
 `Respondió Natsuhi con frialdad.`
 `...Y con ello se acabó la conversación, y el silencio invadió la sala.`
 `Posiblemente por no poder soportarlo más, Hideyoshi rompió el silencio con un gesto exagerado.`
@@ -403,13 +403,13 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 `Con la sarcástica sonrisa de Eva, todo se volvió repentinamente tenso.`
 `...Como si el aroma del té que Genji había estado preparado con tanto cuidado hubiese huido por la ventana.`
 `"Llevamos tiempo queriendo tener una discusión algo más intelectual, ¿me equivoco?`
-` ......Tu sarcasmo llega en mal momento.`
+` ...Tu sarcasmo llega en mal momento.`
 ` Como siempre."`
 `"...‘Como siempre’, ¿verdad?`
 ` Vaya, vaya.`
 ` Ojalá pudiera empaquetar estas palabras y enviarla a esta misma habitación varias décadas atrás.`
 ` ¿Verdad, Rosa?"`
-`".................."`
+`"..."`
 `Rosa sonrió con cierta duda.`
 `{n}...Estuviera o no de acuerdo, claramente se ganaría el desagrado de su hermano o de su hermana.`
 `Un poco de mundana sabiduría que hubo de aprender como hermana pequeña.`
@@ -417,12 +417,12 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 ` Mientras no estén los mocosos, será mejor centrarse en el tema principal.`
 ` Propongo que comencemos nuestro debate intelectual."`
 `Mientras Rudolf miraba el rostro de todos los presentes, algunos soltaron un pequeño suspiro y otros permitieron que la resignación se reflejara en su mirada.`
-`......Era la inevitable...`
+`...Era la inevitable...`
 ` agenda del día.`
 `"El año pasado, su esperanza de vida era de aproximadamente tres meses.`
 ` Lo que significa que ya es de menos nueve meses, ¿verdad?`
 ` Supongo que eso significa que podría llegar en cualquier momento."`
-`".........El líder de familia goza de buena salud.`
+`"...El líder de familia goza de buena salud.`
 ` Sacar un tema tan inapropiado a plena luz del día...me hace dudar de tus verdaderas intenciones, Rudolf‐san."`
 `"Pero Natsuhi‐san.`
 ` ...Si no hablamos sobre esto hasta que pase algo, será demasiado tarde.`
@@ -432,9 +432,9 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 ` ...Doctor Nanjo.`
 ` ¿Le importaría contarnos los detalles?`
 ` Parece que ellos también lo están esperando."`
-`".....................*cof*."`
+`"...*cof*."`
 `Nanjo, apoyado en la ventana y observando el jardín de rosas, tosió una única vez al darse cuenta de que lo llamaban.`
-`"......Doctor Nanjo.`
+`"...Doctor Nanjo.`
 ` ...¿Cómo está Padre?"`
 `"Antes que nada...`
 ` Ya que mi estimación del año pasado de que le quedaban tres meses de vida ha resultado ser equivocada, permítanme revisar mis palabras."`
@@ -445,8 +445,8 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 ` La vida de un humano tiene dos grandes pilares: cuerpo y mente.`
 ` ...La situación es peligrosa si el cuerpo es débil, pero si la mente es lo suficientemente fuerte, se puede soportar."`
 `"Así que, está diciendo que aunque su cuerpo está débil, su mente aún está firme y energética."`
-`".........Kyrie, disculpa, pero por favor permanece callada un rato."`
-`"......Lo siento."`
+`"...Kyrie, disculpa, pero por favor permanece callada un rato."`
+`"...Lo siento."`
 `"Correcto.`
 ` El cuerpo de Kinzo‐san está siendo destrozado por el demonio de la mala salud.`
 ` Y además, seguir teniendo la manía de tomar un licor tan fuerte es muy, muy..."`
@@ -454,7 +454,7 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 ` ¿Su larga vida ha sido culpa del alcohol también?`
 ` Parece típico de Papá, el bebedor empedernido."`
 `"Bien, Doctor, sé que no puede hacer más que una predicción...`
-`......¿pero cree que tendría posibilidades de seguir vivo este mismo día el año que viene...?"`
+`...¿pero cree que tendría posibilidades de seguir vivo este mismo día el año que viene...?"`
 `"Ésa es una pregunta bastante maleducada hacia el líder de la familia."`
 `Natsuhi saltó ante las palabras de Eva, incapaz de ocultar su expresión de asombro.`
 `Como respuesta, Eva le lanzó una mirada desafiante, pero Hideyoshi, dándose cuenta de lo que ocurría, trató de tranquilizar las cosas con una sonrisa amarga.`
@@ -463,27 +463,27 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 `"Lo siento.`
 ` Simplemente estaba muy preocupada por la condición de Padre.`
 ` *risita*."`
-`"............¿En serio?`
+`"...¿En serio?`
 ` Quién lo hubiera dicho."`
 `"Doctor Nanjo, díganos.`
 ` Por el bien del bello amor filial de una hija preocupada por la vida de su padre."`
 `Krauss rió sarcásticamente y Eva, con una dulce sonrisa, rió de forma idéntica.`
 `"...Pregunta si seguirá teniendo una salud decente el año que viene,`
-` ......pero como médico, no es algo que me resulte fácil decir.`
+` ...pero como médico, no es algo que me resulte fácil decir.`
 ` Ya que, aunque pienso que esta pequeña tregua en su condición podría continuar un cierto tiempo,`
 ` si sufre alguna clase de ataque, probablemente no habrá nada que podamos hacer."`
-`"......De cualquier forma, Rokkenjima es una isla muy solitaria.`
+`"...De cualquier forma, Rokkenjima es una isla muy solitaria.`
 ` No es como si una ambulancia pudiera entrar a salvarlo.`
 ` Normalmente me gustaría tenerlo hospitalizado en tierra firme, pero..."`
 `"Padre declaró que no quiere que su noble investigación sea interrumpida.`
-` ......Parece que nos guarda rencor por cómo le intentamos obligar a salir el año pasado.`
+` ...Parece que nos guarda rencor por cómo le intentamos obligar a salir el año pasado.`
 ` Aparentemente, sospecha que será encerrado en algún hospital si sale.`
 ` Así están las cosas."`
 `"¿Le ha estado examinando el doctor Nanjo?"`
 `"Padre confía en el doctor Nanjo.`
 ` ...Por lo visto, puede ser examinado cuando está de buen humor."`
-`"......Puedo examinar su condición, pero si intento recomendarle algo de medicamento u hospitalización, se niega a escuchar.`
-` ......En realidad solo he podido observarle."`
+`"...Puedo examinar su condición, pero si intento recomendarle algo de medicamento u hospitalización, se niega a escuchar.`
+` ...En realidad solo he podido observarle."`
 `"Es verdad que hay gente que odia a los médicos...`
 ` De todas formas, ¡qué molestia!"`
 `Nanjo suspiró profundamente.`
@@ -492,21 +492,21 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 `"En resumen,`
 ` su esperanza de vida sigue siendo de tres meses.`
 ` No hay forma de saber cuánto tiempo seguirá viviendo al borde de la muerte."`
-`".........Rudolf‐san.`
+`"...Rudolf‐san.`
 ` ¿Te importaría cuidar un poco tus palabras?"`
 `"Ah, lo siento.`
 ` Siempre hablo de esta forma.`
 ` Dame un respiro."`
 `"Comprendo la opinión del doctor.`
-` ......¿Qué opinas, Krauss nii‐san?"`
-`"......Hm.`
+` ...¿Qué opinas, Krauss nii‐san?"`
+`"...Hm.`
 ` Para ser honesto, discrepo con el Doctor Nanjo.`
 ` Me cuesta mucho pensar que nuestro padre es una persona enferma a la que le quedan solo tres meses de vida.`
 ` Su grito es tan enérgico como siempre, y todavía siento escalofríos al pensar en sus puñetazos lloviendo sobre mí.`
-` ......Obligar al hermano mayor a encargarse él solo del cuidado de su padre no es justo."`
+` ...Obligar al hermano mayor a encargarse él solo del cuidado de su padre no es justo."`
 `"Jaajaja.`
 ` En nuestra próxima vida, nace después de mí."`
-`".........Bien, volvamos a nuestra discusión.`
+`"...Bien, volvamos a nuestra discusión.`
 ` Por lo que veo ante la imparcial opinión del médico, podría fallecer en cualquier momento.`
 ` Lo siento, Aniki, pero prefiero confiar en la opinión de un especialista.`
 ` Por tanto, creo que la discusión sobre la fortuna de Papá ya no es nada prematura."`
@@ -522,47 +522,47 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 ` Y además, la riqueza de la familia Ushiromiya es enorme.`
 ` ¿Acaso no comprendes que es necesario examinar el tema en profundidad antes de que ocurra?`
 ` Y es que hay una enorme diferencia entre las riquezas de esta familia y las de la tuya."`
-`"......Qué maleducada.`
+`"...Qué maleducada.`
 ` Mi familia no tiene nada que ver con esto."`
 `Con la respuesta indignada en voz baja de Natsuhi, la atmósfera se volvió aun más hostil...`
 `"Déjalo, Eva...`
 ` ¡Discúlpanos, Natsuhi‐san!`
 ` Disculpa su grosería."`
 `Hideyoshi trató de suavizar las cosas mirándolas con una sonrisa forzada, pero no consiguió más que aumentar la tensión entre Natsuhi y Eva...`
-`"............Si me quedo más tiempo, sería una carga.`
+`"...Si me quedo más tiempo, sería una carga.`
 ` Por favor, discúlpenme."`
 `Nanjo se levantó de su asiento y salió del salón.`
-`......Para un extraño, tal vez fuera un simple acto de cortesía, pero varias miradas de envidia ante el hecho de que pudiese escapar siguieron sus pasos.`
+`...Para un extraño, tal vez fuera un simple acto de cortesía, pero varias miradas de envidia ante el hecho de que pudiese escapar siguieron sus pasos.`
 `Después de que el doctor se hubiera ido y ya no se oyeran sus pasos en la distancia, Krauss cruzó las piernas.`
 `"Por lo que veo, lo que quieren decir es algo así.`
-` ......A nuestro padre le queda poco tiempo.`
+` ...A nuestro padre le queda poco tiempo.`
 ` Quieren empezar a hablar rápidamente de la distribución de la herencia.`
-` ......¿Por qué tanta prisa?"`
+` ...¿Por qué tanta prisa?"`
 `"Tal y como dicen, repartir la riqueza de la familia Ushiromiya no es algo fácil.`
 ` Por tanto, ¿no deberíamos calcularlo cuidadosa y deliberadamente?`
 ` Parecen algo impacientes por repartir la tarta esta misma noche.`
 ` ¿Me equivoco, Rosa?`
 ` ¿Estás impaciente por algo?"`
-`"...............No es impaciencia.`
+`"...No es impaciencia.`
 ` ...Pero es vital que los hermanos tomemos un acuerdo.`
 ` No importa cuándo,`
 ` pero si se acerca el día del empeoramiento de la condición de Padre,`
 ` discutir el asunto de antemano no es lo que yo calificaría como impaciencia..."`
 `Rosa lanzó una mirada a Eva y a Rudolf.`
 `{n}...Al ser la hermana menor de la familia, no le resultaba agradable ser interrogada por el hermano mayor.`
-`".........¿Oh?`
+`"...¿Oh?`
 ` ¿Es esa tu verdadera opinión?`
 ` No esperaba que la más honesta y pura de corazón de los hermanos dijera algo así.`
 ` ¿Acaso esos dos te pidieron que lo dijeras...?"`
-`"........................"`
+`"..."`
 `"Déjalo, Aniki.`
 ` Rosa también es hermana nuestra.`
 ` Tiene derecho a una porción de la herencia de papá.`
 ` Es natural que esté interesada, ¿verdad?`
 ` ...Después de todo, nuestro padre morirá. Ya no es algo que podamos considerar como parte de un futuro lejano."`
-`"......Sin embargo, Aniki, tú estás demasiado relajado.`
+`"...Sin embargo, Aniki, tú estás demasiado relajado.`
 ` Parece que te encantaría desviar el tema de discusión a cualquier cosa que no sea la herencia."`
-`".........¿Qué quieres decir?`
+`"...¿Qué quieres decir?`
 ` ¿Intentas acusar a mi marido de algo?"`
 `"C‐cálmate, Natsuhi‐san.`
 ` Escucha lo que tenemos que decir..."`
@@ -571,10 +571,10 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 ` Por lo visto, ya no es sueño que el dólar llegue a valer 100 yenes."`
 `"Y el gobierno asegura que establecerá la ley de mantenimiento de recursos sanitarios el año que viene.`
 ` Gran cantidad de empresas de desarrollo de recursos de todo Japón se esfuerzan en obtener una gran cantidad de fondos de guerra."`
-`"......Estás muy bien informada.`
+`"...Estás muy bien informada.`
 ` Pronto, veremos en Japón un auge imprecedente.`
 ` Igual que cuando Padre revivió la riqueza de la familia. Algo parecido a las demandas de la Guerra de Corea."`
-`"......La gente de Japón está en frenesí, intentando conseguir un impresionante auge económico y convertirnos en la gente más próspera del mundo, glorificando la primavera de nuestra sociedad.`
+`"...La gente de Japón está en frenesí, intentando conseguir un impresionante auge económico y convertirnos en la gente más próspera del mundo, glorificando la primavera de nuestra sociedad.`
 ` Las inversiones privadas han aumentado, y las instituciones que pueden obtener beneficio de ello pueden obtener dinero con gran facilidad en esta era."`
 `"Las necesidades de la gente no son tres clases de aplicaciones eléctricas.`
 ` Sitios para esquiar, para jugar golf, piscinas públicas.`
@@ -586,23 +586,23 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 ` Como la gente más próspera del mundo, al fin podemos aceptarlo."`
 `"Krauss nii‐san, tu prospectiva parece salido de otro mundo.`
 ` ...Cuando me enteré de ello años atrás, pensé que era ridículo.`
-` ......Pero todo cambió con lo del acuerdo de los países del G5."`
+` ...Pero todo cambió con lo del acuerdo de los países del G5."`
 `"El precio del yen aumentó y aumentó, y creo que el precio del terreno pronto estará por las nubes.`
 ` El día en que Japón se convierta en el centro económico del mundo no está lejos.`
-` ......Tienes una visión bastante amplia.`
+` ...Tienes una visión bastante amplia.`
 ` No cabe duda sobre eso."`
 `"Opino lo mismo que Hideyoshi nii‐san.`
 ` Aniki, puedes predecir lo que ocurrirá en la próxima década.`
 ` Ese sexto sentido seguramente lo heredaste de papá.`
 ` Es impresionante."`
-`"......Aunque, al contrario que Papá, no siempre sabes predecir cuándo se cumplirán tus pronósticos, ¿me equivoco?"`
+`"...Aunque, al contrario que Papá, no siempre sabes predecir cuándo se cumplirán tus pronósticos, ¿me equivoco?"`
 `"Nii‐san, creyendo que sin duda Japón se enfrentará a un boom económico, has planificado complejos turísticos en todo el mundo. Y casi todos ellos siguen fracasando.`
 ` ...Estoy segura de que la era que has previsto llegará, pero creo que no cuando tú esperabas."`
-`"......Te diste demasiada prisa.`
+`"...Te diste demasiada prisa.`
 ` Y después intentaste vender todo lo que tenías para solucionarlo, lo cual no hizo más que agravar la herida.`
 ` ...Si tu sexto sentido realmente fuera de confianza al predecir la llegada de semejante auge, no tendrías que vender tu propiedad.`
 ` ¿Acaso no confías en tus propias capacidades?"`
-`"......¡Qué grosería!`
+`"...¡Qué grosería!`
 ` ¿Intentas insultar a mi marido?"`
 `Aparecieron arrugas en la frente de Natsuhi al levantarse ésta del sofá.`
 `Eva le hizo casi omiso y miró a Krauss con tranquilidad.`
@@ -612,7 +612,7 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 ` ...Cálmate un poco.`
 ` O tu dolor de cabeza empeorará."`
 `"También aquí tenemos pruebas de tu falta de talento.`
-` ............¿Acaso no estabas todo emocionado ante la idea de convertir esta isla en una estación turística?`
+` ...¿Acaso no estabas todo emocionado ante la idea de convertir esta isla en una estación turística?`
 ` La construcción de un gran hotel con balneario, manteniendo el jardín bello.`
 ` Solo soy una aficionada y no pretendo comprenderlo, pero debes de haber gastado una enorme cantidad de dinero, ¿verdad?"`
 `"¿¡Qué intentas decir?!`
@@ -623,7 +623,7 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 ` Y por supuesto, el hotel que fue construido es de Aniki, ¿verdad?`
 ` Puedes cobrarnos por el alojamiento esta noche, si quieres.`
 ` ¿Verdad, Rosa?"`
-`"...............Bueno, hmm.`
+`"...Bueno, hmm.`
 ` ...Si lo que tengo a mano es suficiente."`
 `"Si puedo convertirla en un centro turístico, el valor económico de esta isla aumentará.`
 ` Es cierto que los gastos se han acumulado, pero creo que lo recobraremos con intereses en el futuro.`
@@ -643,10 +643,10 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 ` Si no ventilas el edificio, se pondrá mal."`
 `"Pensando en ello, es curioso que construyas una casa de invitados para gente que viene una vez al año.`
 ` ¿Verdad, Rosa?"`
-`"..................Así es.`
+`"...Así es.`
 ` Si es tan maravilloso, estoy segura de que se volverá bastante famoso cuando lo abras."`
 `"Oh...`
-`.........Ese hotel que mencionaron antes es la casa de invitados, ¿me equivoco...?"`
+`...Ese hotel que mencionaron antes es la casa de invitados, ¿me equivoco...?"`
 `"Es espléndida.`
 ` Como bien ha dicho Rosa, si lo abren, será muy popular."`
 `El alojamiento al que les habían llevado no se había construido con el propósito de ser una casa de invitados.`
@@ -661,20 +661,20 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 `"Pero ya han pasado dos años desde que acabaste la construcción, ¿verdad?`
 ` Tras dos años, ¿todavía no has podido abrirlo?`
 ` ¿Dónde está la compañía de gestiones a la que se lo diste?"`
-`"......¡Qué impertinente!`
+`"...¡Qué impertinente!`
 ` ¡No es culpa de mi marido!`
 ` Tan solo ha habido algunos problemas con la empresa que contrató. ¡Se mire como se mire, nosotros somos las víctimas!"`
 `"Sin embargo...`
 ` Sobre la compañía que contrató Krauss nii‐san...`
 `la verdad es que no he oído buenos rumores sobre ella, ¿saben?"`
 `"Escúpelo de una vez.`
-` ......¿Acaso crees que los rumores sobre impago, malversación y proyectos desintegrados a medio camino no llegarían a nuestros oídos?`
+` ...¿Acaso crees que los rumores sobre impago, malversación y proyectos desintegrados a medio camino no llegarían a nuestros oídos?`
 ` He estado recogiendo pruebas."`
 `"No sé qué clase de pruebas has encontrado, ¡pero no tienen ninguna base lógica!`
 ` Como nuevos miembros del mundo de los negocios, es necesario trabajar con muchas clases de personas.`
 ` También es importante discutir qué tan de confianza es el otro grupo.`
 ` ¡No estamos más que tomándonos nuestro tiempo para conseguir lo mismo!"`
-`"......Acepto que fui un imprudente al terminar el hotel tan pronto.`
+`"...Acepto que fui un imprudente al terminar el hotel tan pronto.`
 ` Pero no pagamos gastos de mantenimiento.`
 ` Es una estrategia lenta, pero dará sus resultados."`
 `"Mentiroso.`
@@ -682,7 +682,7 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 ` No hay razón para que cualquiera pueda comprar ese extravagante hotel en una isla aislada sin ningún tipo de rutas turísticas establecidas.`
 ` ¿Y qué pasó con la financiación que recolectaste para este proyecto?"`
 `"Aunque no inviertas en gastos de mantenimiento, el dinero que te prestaron y no puedes pagar no deja de aumentar.`
-` ......Lo siento, Krauss nii‐san.`
+` ...Lo siento, Krauss nii‐san.`
 ` He investigado un poco el plan de desarrollo de esta isla.`
 ` ...Sinceramente, tampoco he oído nada bueno."`
 `"Hideyoshi‐san.`
@@ -696,11 +696,11 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 `"Eso lo comprendo.`
 ` No cabe duda de que pronto el mundo de los negocios sufrirá un enorme auge...`
 ` Aunque no sé si será suficiente para ti..."`
-`".........Sin embargo, Krauss nii‐san.`
+`"...Sin embargo, Krauss nii‐san.`
 ` Tras todos tus fracasos del pasado, ¿quién te daría fondos a estas alturas?`
 ` Tendría que ser una enorme cantidad de fondos.`
 ` Lo suficiente como para cubrir tu deuda masiva, ¿verdad?"`
-`"......¿Qué intentas decir, Hideyoshi‐san?"`
+`"...¿Qué intentas decir, Hideyoshi‐san?"`
 `"¡Aah, por favor, Natsuhi‐san, no te enfades!`
 ` También eso lo hemos investigado.`
 ` ...Hemos investigado para ver si alguien estaría dispuesto a prestar a Krauss nii‐san, que tanto está perdiendo, una cantidad enorme de dinero suficiente para apoyarle."`
@@ -715,13 +715,13 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 `"¿Y entonces...?`
 ` ¿De dónde sacaste ese dinero?`
 ` ...Ésa es la pregunta del millón."`
-`".........Jo.`
+`"...Jo.`
 ` Qué historia tan interesante.`
 ` ¿Y?"`
 `"¡C‐cariño!`
 ` ¿¡Cuánto tiempo pretendes seguir tamañas insolencias?!"`
 `"Siéntate, Natsuhi‐san.`
-` .........Permítanme ser directo.`
+` ...Permítanme ser directo.`
 ` Aniki ha estado extrayendo dinero de los fondos privados de Papá para usarlo en sus propios negocios.`
 ` Estamos casi totalmente seguros de ello.`
 ` Si hemos cometido algún error, por favor, no duden en explicárnoslo."`
@@ -770,15 +770,15 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 `"¡¡No eres más que un útero alquilado para dar a luz al siguiente sucesor de la familia Ushiromiya!!`
 ` ¡¡Comprende tu posición, despreciable sirviente!!"`
 `Una desagradable mueca apareció en la cara de Eva mientras sus palabras penetraban en el corazón de Natsuhi, como si unas garras lo estuvieran perforando y retorciéndolo.`
-`"..............................!!!"`
-`......Había cien formas en las que Natsuhi quería responderle.`
+`"...!!!"`
+`...Había cien formas en las que Natsuhi quería responderle.`
 `{n}Pero su ira y dolor aplastaron su garganta, y ninguna de ellas llegó a su boca.`
 `...La ira, sin ninguna otra forma de expresarse, se convirtió en una única lágrima caliente que se deslizó lentamente hacia abajo...`
 `"¿Quéee?`
 ` Si tienes algo que decir, dilo.`
 ` Vamos."`
 `Eva le lanzó una mirada provocativa.`
-`......Pero el puño de Natsuhi tembló, todo su cuerpo tembló, pues sabía que no podía hacer nada...`
+`...Pero el puño de Natsuhi tembló, todo su cuerpo tembló, pues sabía que no podía hacer nada...`
 `Krauss rompió ese tenso ambiente que olía a pólvora.`
 `"Natsuhi.`
 ` Deja tu asiento.`
@@ -799,23 +799,23 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 `{n}Y en ese estado huyó de la habitación.`
 `Esto dejó una atmósfera algo incómoda en el salón...`
 `Cuando el sonido de los pasos se alejó y volvió el silencio, Krauss se encogió de hombros.`
-`"......Permítanme disculparme de parte de mi esposa.`
+`"...Permítanme disculparme de parte de mi esposa.`
 ` Nunca se le ha dado muy bien controlar sus emociones.`
 ` También a mí me resulta difícil."`
 `"Si así es como suele comportarse, debe preocupar bastante a nuestro querido Nii‐san, ¿eh?`
 ` ¡*risita*risita*...!"`
 `"Uuuuu...`
 ` ¡¡¡UuuuuUUUuuUUughhu!!!"`
-`"......Se‐......señora......"`
+`"...Se‐...señora..."`
 `"¡No es nada...!`
 ` ¡¡Solo déjame...!!"`
 `Natsuhi corrió hacia su habitación y se dobló en la cama lamentándose...`
 `Esos desgarradores sollozos llegaron a los oídos de Kumasawa en el corredor...`
-`......Pobre señora Natsuhi...`
+`...Pobre señora Natsuhi...`
 `Hay una profunda enemistad entre ella y Eva‐sama.`
 `...Explicar su relación sería muy cansador para una mujer como yo...`
 `La familia Ushiromiya le da una enorme importancia a su sangre, pero si alguien de fuera de la familia se casa con alguien de ésta, normalmente serían excluidos de la jerarquía familiar.`
-`......Por lo tanto, en circunstancias normales, Eva‐sama habría sido removida al momento de casarse con Hideyoshi‐sama.`
+`...Por lo tanto, en circunstancias normales, Eva‐sama habría sido removida al momento de casarse con Hideyoshi‐sama.`
 `Sin embargo,`
 ` ...esto no fue culpa de nadie.`
 `La señora definitivamente no tuvo la culpa.`
@@ -823,19 +823,19 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 `...Krauss‐sama y Natsuhi‐sama no fueron bendecidos con hijos por mucho tiempo.`
 `Sea como sea, ésta era la familia Ushiromiya, dominada por hombres.`
 `Una esposa era no más que una herramienta para traer un heredero al mundo.`
-`......Si dicha esposa no podía cumplir su única tarea, no sería tratada como un humano.`
+`...Si dicha esposa no podía cumplir su única tarea, no sería tratada como un humano.`
 `Recordar cuánto torturaba el amo a la señora durante esos tiempos es doloroso...`
 `En esos tiempos se comenzó a hablar acerca del casamiento de Eva‐sama y Hideyoshi‐sama.`
-`......Eva‐sama era astuta.`
+`...Eva‐sama era astuta.`
 `...Aprovechándose de la dificultad de la señora para embarazarse, consiguió la preferencia del amo.`
 `Lo convenció de permitirle casarse y dar a luz a un sucesor ella misma, asegurándose así de evitar transferir su nombre fuera del registro Ushiromiya.`
 `Había una amplia diferencia en la jerarquía Ushiromiya entre la señora, quien se había casado a la familia y a quien se le trataba como forastera, y Eva‐sama, quien tenía lazos sanguíneos con la familia y cuyo esposo tomó el apellido Ushiromiya.`
 `Y más allá de eso, Eva‐sama fue la primera en dar a luz a un niño...`
 `En cuanto a qué tan inferior era la posición de la señora a comparación de la de Eva‐sama, supongo que ya lo vieron por sus cuentas...`
 `...Estoy segura que a la señora le atormenta el pensamiento de que si se hubiese embarazado antes, el Amo no habría aceptado la petición de Eva‐sama de mantener su apellido tras su casamiento, y a Eva‐sama no se le habría tolerado el actuar tan arrogantemente como acababa de hacer...`
-`Sin embargo...eso no fue culpa de la señora......`
-`Toda la culpa recae en los caprichos de Dios y la cigüeña que tardó en llevarles a Jessica‐san......`
+`Sin embargo...eso no fue culpa de la señora...`
+`Toda la culpa recae en los caprichos de Dios y la cigüeña que tardó en llevarles a Jessica‐san...`
 `Aun así, la señora no se permite a sí misma ver las cosas de esta manera...`
-`......Probablemente no puede evitar llorar amargamente por no haber podido cumplir los deberes esperados de una esposa...`
+`...Probablemente no puede evitar llorar amargamente por no haber podido cumplir los deberes esperados de una esposa...`
 `Ahh, qué triste...`
-`No puedo hacer más que velar por ella desde las sombras......`
+`No puedo hacer más que velar por ella desde las sombras...`
