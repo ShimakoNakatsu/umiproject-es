@@ -34,7 +34,7 @@
 ` ¡Es el lugar donde el oro está escondido!"`
 `"...Esperen, ¿es la historia del oro oculto de la familia Ushiromiya?`
 ` Hay otra cosa que recuerdo de hace tiempo...`
-` ...Wait, Aniki, ...¿es en serio?"`
+` ...Un momento, Aniki, ...¿es en serio?"`
 `"El abuelo mandó escribir esto, pero nunca dijo nada sobre este retrato o el epitafio.`
 ` ...Aun así, entre la familia se ha murmurado que indica la ubicación del oro oculto del abuelo,`
 ` y que otorgará la herencia y el oro a la persona que resuelva el acertijo."`
@@ -45,7 +45,7 @@
 ` Diez toneladas de lingotes de oro.`
 ` Pienso que es falso."`
 `"Aun así, si lo lees hasta el final, suena casi real."`
-`...Creo que ya había explicado la forma en que creció el Abuelo,`
+`...Creo que ya había explicado la forma en que creció el abuelo,`
 ` pero permítanme mencionar la "Leyenda del Oro" de la familia Ushiromiya.`
 `El abuelo heredó la familia Ushiromiya después de que esta fuera casi aplastada por el Gran Terremoto de Kanto,`
 ` y, superando exitosamente los torrentosos mares luego de la guerra, se las ingenió para acumular una gran fortuna.`
@@ -78,7 +78,7 @@
 ` ...¿No nos perdimos en el bosque y comenzamos a llorar hasta que los sirvientes nos encontraron? Nuestros padres estaban bastantes enojados con nosotros.`
 ` ...Qué nostálgico."`
 `"De seguro eramos idiotas, ¿no?`
-` Después de todo, el Abuelo usó eso para reunir los fondos con los que compraron esta isla, ¿no?`
+` Después de todo, el abuelo usó eso para reunir los fondos con los que compraron esta isla, ¿no?`
 ` Eso significa que debió tener el oro antes de venir a la isla.`
 ` No hay razón para que el oro deba estar en la isla."`
 `"...No es necesariamente así.`
@@ -90,7 +90,7 @@
 ` ...Ya veo, eso hace la Leyenda del Oro más creíble."`
 `"Los fondos que revivieron la familia Ushiromiya, los cuales él llamaba el oro de la bruja, pesaban diez toneladas.`
 ` ...Y está descansando en algún lugar, listo para ser entregado a quien sea que resuelva el acertijo del abuelo."`
-`"...Haa, supongo que algo así suena como el estilo del Abuelo...`
+`"...Haa, supongo que algo así suena como el estilo del abuelo...`
 ` ¡Ijiji!`
 ` Si eso es verdad, es bastante increíble."`
 `El epitafio escrito en la placa era misterioso, con algo como un poema o una canción escrita en él.`
@@ -105,7 +105,7 @@
 ` Es fácil decirlo para él."`
 `"...Bueno, ciertamente no es una historia realista.`
 ` En ese tiempo, cuando el abuelo era aún un don nadie sin conexiones, no había nadie que le hubiera prestado una masiva cantidad de barras de oro gratis.`
-` ...Por eso, no es impensable que el Abuelo le llamara a ese patrocinador una bruja."`
+` ...Por eso, no es impensable que el abuelo le llamara a ese patrocinador una bruja."`
 `"Sí, pero, son diez toneladas, ¡diez toneladas!`
 ` Si tú cambiaras eso por dinero, ¿cuánto saldría de ello?`
 ` De cualquier modo, tiene que ser un monto ridículo, ¡¿cierto?!"`
@@ -124,7 +124,7 @@
 `Una pregunta que yo también quería saber en ese momento.`
 `No importa si escucho que son diez kilogramos o diez toneladas, sé que es una cantidad increíble, pero no pude adivinar exactamente qué tan increíble es cada una.`
 `George‐aniki cruzó sus brazos y trató de recordar el precio mercantil del oro.`
-`"...Well.`
+`"...Veamos.`
 ` El oro también es afectado por la especulación, y su precio también puede cambiar dependiendo de su pureza y la fiabilidad de la fundidora.`
 ` También necesitarías pagar una comisión para convertirlo en dinero.`
 ` Aun así, definitivamente es un metal precioso, y algunas personas estiman que si el minado de oro continúa con su ritmo actual, dentro de medio siglo, la humanidad lo habrá minado todo."`
@@ -184,7 +184,7 @@
 `"Jejeje, quizás alguna esposa ociosa de un hombre rico generosamente le prestó al abuelo.`
 ` ¿Y quizás entonces él comenzó a llamar esa persona una bruja?"`
 `Ya veo. El ejemplo de Jessica no es malo.`
-`...Alguien quien generosamente le prestó una gran cantidad de dinero al Abuelo cuando su confiabilidad seguía siendo cero,`
+`...Alguien quien generosamente le prestó una gran cantidad de dinero al abuelo cuando su confiabilidad seguía siendo cero,`
 ` podría ser llamada una bruja.`
 `...Además, el abuelo luego usó ese dinero para construir una gran fortuna.`
 `...Alguien con una habilidad tan grande para juzgar a la gente,`
@@ -195,7 +195,7 @@
 ` entonces podría cobrar sentido.`
 `"Ya veo.`
 ` ...Así que, en otras palabras, la bruja le dio los fondos necesarios para revivir la familia Ushiromiya y el abuelo estuvo en deuda con ella por mucho tiempo.`
-` ...Si ése es el caso, el Abuelo, con sus sentimientos de gratitud hizo que pintaran y pusieran en exhibición ese enorme retrato... lo entiendo. No es una historia tan extraña."`
+` ...Si ése es el caso, el abuelo, con sus sentimientos de gratitud hizo que pintaran y pusieran en exhibición ese enorme retrato... lo entiendo. No es una historia tan extraña."`
 `"¿Qué tal si esa persona lucía como una anciana y vieja bruja?`
 ` Si eso es verdad, definitivamente puedo comprender por qué el abuelo trató de hacerla más bella cuando mandó pintar el retrato.`
 ` ¡Jajajajaja, apuesto que si hubiéramos conocido a esta persona, no sería así de bella!"`
@@ -213,7 +213,7 @@
 ` ¿Qué pasa, Maria?"`
 `"¡Uu!`
 ` ¡¡Uu!!`
-` ¡{f:5:Beatrice} exiiiiste!"`
+` ¡{f:5:Beatrice} e—xis—te!"`
 `Maria se quedó mirándome.`
 `{n}...Tenía su usual mirada agria, pero podías decir que estaba enojada por el color de sus ojos.`
 `"¡Las Brujas existen!`
@@ -298,7 +298,7 @@
 ` ...Pero, umm..."`
 `Sin estar segura de si era realmente aceptable servir galletas en un lugar como éste, en frente del retrato,`
 ` Shannon‐chan nos envió una mirada que parecía preguntar lo que queríamos hacer al respecto.`
-`...Bueno, si lo piensas bien, eso podría ser considerado descortés.`
+`...Bueno, si lo piensas bien, hacer algo así podría ser considerado descortés.`
 `"Maria, ¿por qué no comemos en otro lugar?`
 ` Pongamos las galletas en un bento y tengamos un picnic."`
 `"¡Uu!`
@@ -456,7 +456,7 @@
 `"...Nii‐san, tú encontraste diez toneladas de oro,`
 ` y las usaste como garantía para juntar algunos fondos.`
 ` ...Sí, justo como Padre en el pasado, ¿verdad?"`
-`"Si ése es el caso, no habría divertidas desapariciones en las finanzas de padre.`
+`"Si ése es el caso, no habría divertidas desapariciones en las finanzas de Padre.`
 ` Siempre has sido un buen hijo, cuidando a Padre.`
 ` ¿Por qué desconfiaríamos de una persona así?"`
 `"...Han estado dando tantos rodeos que apenas puedo comprenderlos.`
@@ -466,7 +466,7 @@
 `"...¿Están pidiéndome que admita que poseo oro que no existe?"`
 `"Nuestra segunda condición:`
 ` En relación al oro, toma la porción de cada uno de los hermanos y páganosla."`
-`" estúpido.`
+`"Qué estúpido.`
 ` Con los no existentes 20 mil millones de yenes en oro, serían 5 mil millones para cada persona. ¿Están diciéndome que pague un total de 15 mil millones de yenes?`
 ` ...¡Ridículo!"`
 `"¡Sigue escuchando hasta el final!`
@@ -481,7 +481,7 @@
 ` 2,5 mil millones irán a mí,`
 ` y 2,5 irán a Rosa."`
 `"...Esa porción me hace tan agradecido que podría llorar.`
-` Así que lo que están diciendo, por el bien del oro que no existe, debo pagar 7,5 mil millones."`
+` Así que lo que están diciendo es que, por el bien del oro que no existe, debo pagar 7,5 mil millones."`
 `"¿Qué sucede?`
 ` Nii‐san, tu parte es cinco veces el tamaño de la de nosotros.`
 ` Ésa es una condición tan buena, yo saltaría de alegría.`
@@ -490,12 +490,12 @@
 ` El oro dividido será incluido cuando la herencia sea distribuida en el momento de la muerte de papá.`
 ` Sin embargo, como depósito, 10% de nuestras porciones serán pagadas a la brevedad.`
 ` El pago debe ser realizado antes de marzo del próximo año."`
-`"...¿Cuál es tu opinión, Krauss nii‐san? ¡Ésta es tu oportunidad ideal para restaurar la confianza que necesitas para hacer correr los bienes de Padre, ¿o no?!?!`
-` Por supuesto, sería imposible obtener un total de 7.5 mil millones antes de que Padre muera.`
+`"...¿Cuál es tu opinión, Krauss nii‐san? ¡Ésta es tu oportunidad ideal para restaurar la confianza que necesitas para hacer correr los bienes de Padre, ¿o no?!`
+` Por supuesto, sería imposible obtener un total de 7,5 mil millones antes de que Padre muera.`
 ` Sin embargo, no puedes decir que no puedes lograr un depósito de 750 millones, ¿cierto?"`
 `"Pagar 700 millones en la mitad de un año podría ser un poco fastidioso,`
 ` pero Aniki, quien tiene muchos amigos en las esferas políticas y empresariales, debería ser capaz de arreglárselas."`
-`"Es cierto que me gustaría recivir los 7,5 mil millones ahora mismo, de una vez.`
+`"Es cierto que me gustaría recibir los 7,5 mil millones ahora mismo, de una vez.`
 ` Pero lejos de preocuparme por ti, te mostraré mi sinceridad pidiendo solo una décima parte de eso por ahora.`
 ` Está bien dejar el 90% restante a entregarse hasta la distribución de la herencia.`
 ` ...¿Correcto?`
@@ -523,9 +523,9 @@
 `Que Krauss no era completamente confiable como el hermano mayor era tan obvio en este punto que no había que explicarlo.`
 `El antiguo tiránico hermano siempre abusaba de sus privilegios e infrigía en las acciones de los otros hermanos.`
 `...En respuesta a eso, los otros tres, quienes se habían vuelto adultos, solo ahora estaban devolviendo el golpe por primera vez, y trabajando juntos...`
-`"siento, pero las condiciones aún continúan.`
+`"Lo siento, pero las condiciones aún continúan.`
 ` Nuestra quinta condición:`
-` esta decisión debe prevalecer por sobre el testamento de Padre.`
+` Esta decisión debe prevalecer por sobre el testamento de Padre.`
 ` ...Más tarde, no queremos que un testamento aparezca y haga esta decisión completamente inútil."`
 `"...Ustedes son bastante cautelosos.`
 ` ...Entonces déjenme preguntarles, si el oro realmente fuera encontrado, ¿qué harían?"`
@@ -534,15 +534,15 @@
 ` "realmente"`
 ` no nos importa si aparece el oro o no.`
 ` ...Puedes pensar en nuestra parte como un pago con anticipación."`
-`"*risita*, está bien soñar`
+`"*risita*, está bien soñar.`
 ` Ustedes planean convertir esta isla en una estación turística, ¿cierto?`
 ` Durante la construcción, podrían encontrarse con el oro por casualidad."`
 `Eva lanzó una risa aguda.`
 `{n}Krauss la miró sin siquiera pestañear.`
-`"...Permítanme añadir una séptima condición antes de que acepte.`
+`"...Permítanme añadir una última condición antes de que acepte.`
 ` En la situación que cualquier otro hermano además de mí encuentre el oro, inmediatamente me lo pasará."`
 `"Sí, sí, por supuesto, eso está garantizado.`
-` *giggle*!"`
+` *risita*!"`
 `Era un juego de palabras.`
 ` Quienes estaban forzando a Krauss a pagar dinero por un oro inexistente,`
 ` obviamente no asegurarían la porción de Krauss si ellos realmente encontraran el oro.`
@@ -586,7 +586,7 @@
 ` Hay una para cada persona.`
 ` Todos firmarán los mismos contenidos."`
 `Rudolf tomó cuatro contratos escritos del bolsillo de su chaqueta que tenía los detalles de su trato escrito en él.`
-`"La séptima condición que Krauss nii‐san propuso será, por supuesto, añadida desde ahora.`
+`"La condición que Krauss nii‐san propuso será, por supuesto, añadida desde ahora.`
 ` No te preocupes."`
 `"Aniki, ¿usarás una pluma?"`
 `Rudolf tomó una pluma fuente del bolsillo de su chaqueta y se la ofreció a Krauss.`
@@ -631,7 +631,7 @@
 ` ...En secreto, sin decirle al resto de los hermanos."`
 `"...No, no es como si yo..."`
 `"Para, Aniki.`
-` Todos lo que te estamos preguntando es si vas a firmar o no.`
+` Todo lo que te estamos preguntando es si vas a firmar o no.`
 ` Solo olvídate de hacer cualquier trato extraño o algo sospechoso."`
 `"...¿Jo?`
 ` Así que no poseo margen de negociación.`
@@ -650,7 +650,7 @@
 `{n}...Así que fue capturado por la mirada de Krauss.`
 `"Hideyoshi nii‐san.`
 ` Escuché que a tu compañía le ha estado yendo extremadamente bien recientemente, ¿no es así?`
-` Con un ritmo impresionante se ha tomado gran valor, y sus rendimiento y el precio de sus acciones se han disparado.`
+` Con un ritmo impresionante se ha tomado gran valor, y su rendimiento y el precio de sus acciones se han disparado.`
 ` Estoy realmente celoso."`
 `"...L‐la situación de mi marido no tiene nada que ver con esto."`
 `"Sin embargo, es lamentable que hayas descuidado tus accionistas.`
@@ -673,7 +673,7 @@
 `...Ese derecho era garantizado a todos los accionistas, y podían a veces usarlo para despedir a la administración ineficaz.`
 `Ese era el "derecho" para prevenir que el dinero que habían gastando financiando a la compañía fuera a la basura observando la administración de la empresa.`
 `Sin embargo, si usaban ese derecho a la fuerza, podían expulsar al administrador actual y tomar la compañía.`
-`...Ya que los principales de todos los accionistas tienen el poder de despedir al administrador y nominar una nuevo.`
+`...Ya que los principales de todos los accionistas tienen el poder de despedir al administrador y nominar uno nuevo.`
 `Ese poder está determinado con base en la decisión mayoritaria de los accionistas.`
 `{n}Y las personas que poseían más acciones podían reunir más votos.`
 `En otras palabras, si una persona o grupo tiene la mayoría de las acciones, pueden libremente expulsar a la administración antigua y hacer presidente a cualquiera que ellos quieran.`
@@ -681,7 +681,7 @@
 `En muchas compañías, sus acciones son compradas por personas maliciosas, y para evitar que su posición sea amenazada,`
 ` hacen que sus propios empleados o personas cercanas a ellos compren un montón de certificados de acciones. Para prevenir acciones hostiles tomadas por la mayoría, tratan de tomar algunas medidas preventivas.`
 `Sin embargo, ya que la compañía de Hideyoshi se había vuelto solo recientemente cotizada, no había tenido el tiempo para fortalecer esas medidas defensivas.`
-`No, quizás Hideyoshi estaba tan inmerso en la administración de su compañía que no pudo darse cuenta de los peligros se der cotizada.`
+`No, quizás Hideyoshi estaba tan inmerso en la administración de su compañía que no pudo darse cuenta de los peligros de ser cotizada.`
 `Es difícil decir si debía ser visto como un bondadoso y hábil gerente en administración, o un estúpido gerente que tenía sus pies atados...`
 `...Había personas afuera que no lo dejarían escapar con esa ingenuidad ileso.`
 `Ellos comenzaron a comprar acciones de la compañía de Hideyoshi repetidamente y repentinamente ganaron tal fuerza que no podían ser ignorados.`
@@ -702,7 +702,7 @@
 `{a:c:`
 `¡POR LO TANTO,`
 ` MÁS QUE CUALQUIER COSA,{n}`
-`ÉL QUERÍA UN MONTÓN DE DINERO EN ESTE MOMENTO...!}`
+`ÉL QUERÍA UN MONTÓN DE DINERO AHORA MISMO...!}`
 `Él no podía esperar por la división de la herencia de Kinzo, la cual no sabía cuando ocurriría.`
 `"Y tú, Rudolf, has estado en un montón de problemas últimamente, ¿no?`
 ` Dicen que el extranjero es tenebroso, pero parece que realmente es cierto.`
@@ -733,22 +733,22 @@
 `{a:c:`
 `¡POR LO TANTO,`
 ` MÁS QUE CUALQUIER COSA,{n}`
-`ÉL QUERÍA UN MONTÓN DE DINERO EN ESTE MOMENTO...!}`
+`ÉL QUERÍA UN MONTÓN DE DINERO AHORA MISMO...!}`
 `"...Rosa, tú eres una buena y noble hermana pequeña.`
 ` Ni siquiera te acercarías a un peligroso juego de dinero.`
 ` ...Sin embargo, tu naturaleza compasiva fue tu ruina, ¿no...?`
 ` No creo que alguien aceptaría convertirse en un aval tan a la ligera."`
 `"Nn...`
-`...umm...`
-`...¡¡E‐eso no tiene nada que ver contigo, Krauss nii‐san!!"`
+` ...umm...`
+` ...¡¡E‐eso no tiene nada que ver contigo, Krauss nii‐san!!"`
 `Rosa atípicamente dejo salir sus emociones y gritó.`
-`{n}...Porque se suponía de que él no sabía.`
+`{n}...Porque no se suponía de que él sabría eso.`
 `{n}Mientras Krauss miraba, él dejo salir una apagada risa...`
 `...Sin excepción.`
 ` Cada uno de ellos,`
 `{a:c:`
 ` ¡MÁS QUE CUALQUIER COSA,{n}`
-`QUERÍAN UN MONTÓN DE DINERO EN ESTE MOMENTO...!}`
+`QUERÍAN UN MONTÓN DE DINERO AHORA MISMO...!}`
 `En otras palabras, la situación se había invertido.`
 `Porque solo Krauss, a quien habían estado amenazando, no tenía una necesidad urgente por una gran cantidad de dinero.`
 `Comparado a eso, los tres que estaban amenazándolo querían dinero rápidamente, independientemente del costo.`
@@ -803,12 +803,12 @@
 ` Que interesante.`
 ` Bien, entonces, ¿cuáles son las condiciones que adjuntaron?"`
 `"...Sí.`
-` Independientemente de si Krauss descubriese o no el oro, él pagaría a Eva‐sama, Rudolf‐sama y Rosa‐sama un total de 7.5 mil millones por sus partes.`
+` Independientemente de si Krauss descubriese o no el oro, él pagaría a Eva‐sama, Rudolf‐sama y Rosa‐sama un total de 7,5 mil millones por sus partes.`
 ` Sin embargo, diez por ciento de eso sería pagado antes de marzo."`
 `"Fu, ja‐ja‐ja‐ja‐ja‐ja...`
 ` Krauss, qué idiota.`
 ` Que él fuese a ser derribado por sus hermanos menores...`
-` Da mucha gracia."`
+` Es simplemente divertido."`
 `"...¿Pero al parecer su trampa fue ingenua?"`
 `"...Sí.`
 ` Krauss‐sama expuso que Eva‐sama y todos los hermanos menores tenían una necesidad urgente de obtener dinero."`
@@ -867,7 +867,7 @@
 ` ...Pero también debes desafiarlo.`
 ` Ésa será la semilla con la cual el milagro de la magia será convocado.`
 ` Si todos lo desafían, y todos fallan, será así."`
-`"Sin embargo, si los milagros son reunidos y el poder mágico es creado, ¡entonces pasará!`
+`"¡Sin embargo, si los milagros son reunidos y el poder mágico es creado, entonces pasará!`
 ` {f:5:Beatrice} revivirá.`
 ` Por ello tú también debes desafiarlo.`
 ` Todos deben hacerlo.`
@@ -926,7 +926,7 @@
 `...Sin embargo, tanto Nanjo como Genji se dieron cuenta que al menos eso era definitivamente imposible.`
 `Como aquellos que portaban la más larga relación con Kinzo, más confiables que sus propios parientes de sangre,`
 ` incluso ellos no podían suponer su verdadero motivo...`
-`"...El Amo siempre decía que el derecho de desafiar al acertijo era dado a todos, sean miembros de la familia o no.`
+`"...El amo siempre decía que el derecho de desafiar al acertijo era dado a todos, sean miembros de la familia o no.`
 ` ...¿Y usted, Doctor Nanjo?"`
 `"No, no... es un poco difícil de entender para un anciano senil."`
 `"...En realidad, escribí este epitafio en mi cuaderno alguna vez.`
@@ -942,7 +942,7 @@
 `Mientras Nanjo reía ligeramente como respuesta, nuevamente miró al epitafio.`
 `"...Contempla el río de ayus atraviesa mi añorado pueblo natal.`
 ` Tú, que buscas la Tierra Dorada, sigue la corriente del río cuesta abajo en busca de la llave..."`
-`Lo que está escrito en el epitafio llamado Mi Amada Bruja {f:5:Beatrice} es lo siguiente:`
+`Lo que está escrito en el epitafio llamado "Mi Amada Bruja {f:5:Beatrice}" es lo siguiente:`
 `{e:070:Contempla el río de ayus que atraviesa mi añorado pueblo natal.`
 `{n}Tú, que buscas la Tierra Dorada, sigue la corriente del río cuesta abajo en busca de la llave.`
 `{n}{n}A medida que avances río abajo, verás una aldea.`
