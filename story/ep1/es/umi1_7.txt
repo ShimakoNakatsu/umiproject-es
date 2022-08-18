@@ -1,863 +1,863 @@
-`A news ticker popped up on top of the TV program we were watching.`
-`{n}The disaster report told how municipalities all over were continually sending out rain, flood, and wave warnings.`
-`Of course, the harshly beating raindrops on the window were much more convincing.`
-`"......This rain's incredible.`
-` Still, when it's raining this hard, it feels like it's going to stop soon."`
-`"You wish!`
-` They said the typhoon's moving slow, so it could be like this all day tomorrow.`
-` And even a little weather'd be enough to stop the boats."`
-`"It looks like we won't be able to head out on Sunday after all.`
-` ...I'm glad I was cautious and didn't make any appointments for Monday with the outside world."`
-`"I guess this means...ihihi...it looks like we'll be skipping school Monday~.`
-` Living on an island's starting to look pretty good!`
-` ......Come to think of it, Jessica, you have to take a boat to school every day, right?`
-` What do you do when the boats are closed down?`
-` Do you stay home when it rains and show up late when the wind's blowing, like King Kamehameha?"`
-`"If the boats don't come, I stay home.`
-` Still, it's not as good as it sounds.`
-` Most of the time, I get ordered to do private study, and they're super anal about checking it, so it's not like I can take it easy."`
-`"During the rainy season, when the weather stays bad for a long time,`
-` you must be forced to miss a bunch of days in a row?"`
-`"Yep, that happens.`
-` But then, every single day, I'll get a call from my homeroom teacher, sourly instructing me on what to study and what to turn in."`
-`"She can't slack off as easily as you're thinking, Battler‐kun.`
-` She has to follow the rules for people that travel to school by boat and get a good amount of studying done."`
-`"It'd actually be easier to just go to school.`
-` In my own room, I get distracted and can't concentrate.`
-` Plus, being made to do nothing but workbooks for several days straight is really mentally stressful."`
-`"......When I'm ready for college, I really just wanna go some place with dorms and say goodbye and good riddance to this pain‐in‐the‐ass island."`
+`Un reporte de noticias surgió en la parte superior del programa de televisión que estábamos viendo.`
+`{n}El informe de desastres informaba cómo los municipios de todas partes enviaban constantemente alertas de lluvias, inundaciones y advertencias de olas.`
+`Por supuesto, las gotas de lluvia golpeando fuertemente la ventana eran mucho más convincentes.`
+`"...Esta lluvia es increíble.`
+` Sin embargo, cuando llueve así de fuerte, se siente como si fuera a parar pronto."`
+`"¡Eso quisieras!`
+` Se dijo que el tifón se mueve lento, así que en el peor de los casos estará igual todo el día de mañana.`
+` Incluso un poco de mal tiempo es suficiente para detener los botes."`
+`"Parece que no podremos irnos hasta el domingo después de todo.`
+` ...Hice bien en no programar ningún negocio que tuviera con el mundo exterior para antes del lunes. Me alegro de haberlo hecho."`
+`"Supongo que esto significa que, ijiji, parece que vamos a faltar a la escuela el lunes~.`
+` ¡Vivir en una isla está comenzando a parecer bastante bueno!`
+` ...Ahora que lo pienso, Jessica, tienes que ir en barco a la escuela todos los días, ¿cierto?`
+` ¿Qué haces cuando los barcos son cancelados?`
+` ¿Te quedas en casa cuando llueve y llegas tarde cuando el viento sopla, como el rey Kamehameha?"`
+`"Si los barcos no vienen, me quedo en casa.`
+` Sin embargo, no es tan bueno como parece.`
+` Por lo general, estoy condenada a estudiar por mí misma, y no es tan divertido con alguien de pie justo detrás de ti viendo todo lo que haces."`
+`"Durante la época de lluvias, cuando el clima está malo por un largo tiempo,`
+` te debes perder un montón de días seguidos, ¿no?"`
+`"Si, eso pasa.`
+` Aun así, cada día, mi tutor llamaría y lamentablemente me diría cómo debería estudiar y qué tenía que entregar."`
+`"No es tan fácil como piensas, Battler‐kun.`
+` Tiene que seguir las reglas para las personas que viajan a la escuela por barco y estudiar mucho."`
+`"En realidad, sería más fácil simplemente ir a la escuela.`
+` En mi habitación, me distraigo y no puedo concentrarme.`
+` Después de no hacer nada excepto resolver libros de ejercicios por varios días, es bastante difícil de manejar todo ese estrés mental."`
+`"...Cuando pueda ir a la universidad, en realidad solo quiero quedarme en algún dormitorio y despedirme de una vez de esta inconveniente isla."`
 `"Huh...`
-` So, by the way, what do you do when the weather's good in the morning, but then gets so bad on your way home that the boats are closed?`
-` Do you spend the night at school?"`
-`"That actually happens a lot.`
-` So they have some lodgings there for people who can't get back to the island.`
-` I stay over there.`
-` Sometimes, when it gets really bad, I can't get back home for a few days at a time."`
-`"If you look at it from the perspective of those people who have to go to school every day on a train packed to over 200% capacity,`
-` it's easy to irresponsibly think that going to school on a boat seems pretty interesting and fun.`
-` But it's actually hard work in a lot of ways."`
-`"Inconsiderate tourists say that kind of thing all the time.`
-` I've had enough of island life.`
-` I want to finish high school quick and leave this island behind."`
-`"There must've been a full boarding school you could've gone to.`
-` Why'd you go and choose the school on Niijima?"`
-`"That's what I wanted from the very beginning!!`
-` It's Mom, she's always going on about how I need to learn manners and discipline as the successor to the head."`
-`"...In the end, I got stuck with a high school close to home.`
-` Man, I hate this island.`
-` I just want to go live in a city.`
-` A city where it doesn't matter if rain or even spears fall from the sky, 'cause as long as you stick some casual clothes and sandals on,`
-` you can still get to a shop in less than five minutes..."`
-`"Hahahaha.`
-` Hold out just a bit more.`
-` It's only a little longer until you graduate high school, right?"`
-`"I can't wait a little longer.`
+` Ah, por cierto, ¿qué haces cuando el clima es bueno en la mañana, pero luego se vuelve tan malo en tu regreso a casa que están cerrados los botes?`
+` ¿Pasas la noche en la escuela?"`
+`"Eso sucede mucho, de hecho.`
+` Por eso, se han construido unos alojamientos para las personas que no pueden volver a la isla.`
+` Yo me quedo ahí.`
+` A veces, cuando el clima se pone mal, no puedo volver a casa por unos días."`
+`"Viéndolo desde la perspectiva de las personas que tienen que ir a la escuela todos los días en un tren lleno hasta el doble de su capacidad,`
+` es fácil pensar de manera irresponsable que ir a la escuela en un barco es muy interesante y divertido.`
+` Pero en realidad, hay bastante dificultad en ello."`
+`"Eso es algo que muchos turistas desconsiderados suelen decir.`
+` Ya he tenido suficiente de la vida isleña.`
+` Realmente quiero graduarme rápido de preparatoria y decir adiós a esta isla."`
+`"Incluso para preparatoria, debería de haber lugares donde los estudiantes vivan en residencias estudiantiles.`
+` ¿Por qué te tomaste la molestia de elegir una escuela en Niijima?"`
+`"¡¡Eso es lo que quería hacer desde el principio!!`
+` Aun así, mamá siempre va con que tengo que aprender modales y disciplina como la heredera de la familia."`
+`"...Al final, quedé atrapada con una escuela cerca de casa.`
+` Cielos, odio esta isla.`
+` Solo quiero vivir en la ciudad.`
+` No importa si llueve o incluso caen lanzas del cielo, mientras pueda mudarme a la ciudad donde puedo usar ropa casual y sandalias,`
+` y pueda llegar a una tienda local en menos de cinco minutos..."`
+`"Jajajaja.`
+` Aguanta un poco más.`
+` Falta solo un poco para que te gradúes de la preparatoria, ¿verdad?"`
+`"No puedo esperar ni un poco más.`
 ` Aaaaaah..."`
-`Jessica stretched out and reclined on the sofa.`
-`Maybe because now was a bad time slot, there weren't any interesting programs on,`
-` and we had nothing to do but languidly kill time until we were called for dinner.`
-`In the end, Maria had not returned to the cousins' room.`
-`She had probably been brought back to the mansion by Auntie Rosa.`
-`It had to be pretty boring for Maria, all by herself while the adults are having a confusing conversation.`
-`......We thought we might head over to the mansion to see her, but after all, there was this lousy weather,`
-` and there wasn't much time until dinner, so we stayed where we were.`
-`At that time, we heard the sound of a humble knock.`
-`{n}Jessica answered.`
-`"Hello~!"`
-`".........The preparations for dinner are complete.`
-` Please come to the mansion."`
-`It was Kanon‐kun's voice.`
-` He went to all the trouble of coming from the mansion in this rain just to call us over?`
-`Couldn't he have just called us on the telephone?`
-`{n}......Oh well, maybe sometimes part of a servant's duty is to go against common sense.`
-`"Just when I was getting hungry.`
-` Let's go."`
-`George‐aniki turned off the television and stood up.`
-`"My stomach's been growling for a~ges!`
-` Main family dinners were always fancy as hell, every time!`
-` And didn't Gohda‐san say it was calf steak or something?`
-` Oohh, I can't wai~t!!"`
-`"They get even more fabulous on the day of the family conference.`
-` Even I'm looking forward to it!`
-` Let's go, let's go."`
-`As we left the room, Kanon‐kun bowed silently and respectfully.`
-`"Alright, let's go.`
-` Is the rain nasty out there?"`
-`"......Yes.`
-` Please take care not to get your garments wet."`
-`After seeing the three of us out, Kanon‐kun peered into the empty room.`
-`".........Is Maria‐sama not with you...?"`
-`"Nope?`
-` Isn't she with Auntie Rosa?"`
-`Rosa, lying on a sofa in the empty parlor, had fallen asleep at some point.`
-`...She was bearing a burden on her shoulders that the children could never even imagine.`
-`Therefore, when she let herself relax, that exhaustion quickly led her into the world of sleep.`
-`Realizing this, Genji brought a blanket over to her.`
-`{n}When he tried to spread it over her, her eyes snapped open as though she had received an electric shock.`
-`"..................ah...!`
-`.........`
-` ......Oh, it's you, Genji‐san......thank you."`
-`When she realized that the thing that had touched her was just a blanket, and that Genji had been considerately giving it to her, she let out a sigh of relief.`
-`"......Did I wake you?`
-` My sincere apologies."`
-`"No, it's okay.`
-` I hadn't planned on sleeping in the first place.`
-` ...What time is it now?"`
-`Asked for the time, Genji checked a pocket watch that he took out of his chest pocket.`
-`".........It is slightly after six o'clock."`
-`Rosa gave her head a little shake as she realized that, even though it had felt like she had slept for a long time, not much time had actually passed.`
-`...Even though she didn't feel rested at all, the drowsiness that wrapped around her felt very deep.`
-`"Thank you, I'll be fine without the blanket...`
-` I mustn't sleep at such a strange time.`
-` My sense of time has been completely thrown off.`
-` ..................The rain...`
-`has finally come down, I see."`
-`Rosa finally realized that the peaceful sound that had put her to sleep was actually the rain that had started falling.`
-`"The wind is blowing hard, too.`
-` ...Perhaps the typhoon is finally upon us?"`
-`"......That is what they are saying on television.`
-` The typhoon is moving slowly, and they expect it to be like this all throughout tomorrow."`
-`"I see...`
-` .........That wonderful rose garden, that must have been my last chance to see it."`
-`From the window, what she could see of the rose garden was completely blurred by the wind and the rain.`
+`Jessica se estiró y se recostó en el sofá.`
+`Tal vez porque ahora era un mal momento, no habían programas interesantes,`
+` así que no teníamos nada que hacer excepto lánguidamente matar el tiempo hasta que fuéramos llamados para la cena.`
+`Al final, Maria no volvió a la habitación de los primos.`
+`Probablemente la tía Rosa la había llevado a la mansión.`
+`Tenía que ser muy aburrido para Maria, estar totalmente sola mientras que los adultos estaban teniendo una conversación confusa.`
+`...Pensamos que podríamos ir a la mansión a verla, pero después de todo, había un clima terrible,`
+` y no quedaba mucho tiempo hasta la cena, así que nos quedamos donde estábamos.`
+`En ese momento, escuchamos el sonido de un tenue golpe.`
+`{n}Jessica respondió.`
+`"¡Sí~!"`
+`"...Los preparativos para la cena están listos.`
+` Por favor, vengan a la mansión."`
+`Era la voz de Kanon‐kun.`
+` ¿Se tomó la molestia de venir desde la mansión en esta lluvia solo para llamarnos?`
+`¿No podía simplemente habernos llamado por teléfono?`
+`{n}...Oh bueno, quizá a veces parte del deber de los sirvientes es ir contra el sentido común.`
+`"Justo cuando comenzaba a tener hambre.`
+` Vamos."`
+`George‐aniki apagó la televisión y se levantó.`
+`"¡Mi estómago gruñe desde hace ho~ras!`
+` ¡Siempre he sido un gran fan de las comidas de la familia principal!`
+` ¿Y no dijo Gohda‐san que era bistec de ternera o algo así?`
+` ¡¡Oohh, no puedo espera~r!!"`
+`"Es aún más fabulosa en el día de la conferencia familiar.`
+` ¡Incluso yo lo estoy esperando!`
+` Vamos, vamos."`
+`Al salir de la habitación, Kanon‐kun hizo una respetuosa reverencia en silencio.`
+`"Muy bien, vamos.`
+` ¿Está la lluvia muy desagradable allá afuera?"`
+`"...Sí.`
+` Tengan cuidado de no mojar su ropa."`
+`Después de ver a los tres de nosotros fuera, Kanon‐kun se asomó a la habitación vacía.`
+`"...¿No está Maria‐sama con ustedes...?"`
+`"No, no lo está.`
+` ¿No estaba con la tía Rosa?"`
+`Rosa estaba tendida en un sofá en la sala vacía, y se había quedado dormida en algún momento.`
+`...Ella llevaba una carga en sus hombros que los niños nunca podrían imaginar.`
+`Por lo tanto, cuando se pudo relajar, ese agotamiento rápidamente dejó a Rosa entrar al mundo de los sueños.`
+`Consciente de esto, Genji‐san trajo una manta para ponerla sobre Rosa.`
+`{n}Cuando trató de extenderla sobre ella, sus ojos se abrieron de golpe, como si hubiera sido golpeada con electricidad.`
+`"...ah...`
+`...`
+` ...Oh, es usted, Genji‐san... Gracias."`
+`Cuando se dio cuenta de que lo que le había tocado era solo una manta, y que Genji se la estaba dando por consideración, dejó escapar un suspiro de alivio.`
+`"...¿Acaso la desperté?`
+` Mis más sinceras disculpas."`
+`"No, está bien.`
+` Dormirme no era lo que planeaba hacer en primer lugar.`
+` ...¿Qué hora es?"`
+`Cuando le fue preguntada la hora, Genji revisó un reloj que sacó del bolsillo en su pecho.`
+`"...Son un poco más de las 6:00."`
+`Rosa le dio una ligera sacudida a su cabeza al darse cuenta de que, a pesar de que se había sentido como que había dormido durante muchas horas, no había pasado mucho tiempo realmente.`
+`...Aunque no se sentía descansada en absoluto, la somnolencia que la envolvía se sentía muy intensa.`
+`"Gracias, estaré bien sin la manta...`
+` No debo dormir a una hora tan extraña.`
+` Mi sentido del tiempo se ha apagado completamente.`
+` ...La lluvia,`
+` realmente cae a cántaros."`
+`Rosa finalmente se dio cuenta de que el sonido pacífico que la había puesto a dormir era en realidad la lluvia que había comenzado a caer.`
+`"El viento está soplando fuerte también.`
+` ...Me pregunto si es finalmente el tifón."`
+`"...La televisión ha dicho que así es.`
+` Debido a que el tifón es lento, se dijo que estaría así todo el día de mañana."`
+`"Ya veo...`
+` ...El maravilloso jardín de rosas, ésta debió haber sido mi última oportunidad de verlo."`
+`Desde la ventana, lo que podía ver del jardín de rosas era completamente borroso debido al viento y la lluvia.`
 `"...Maria...`
-` ......That's right, where's Maria?!"`
-`"............I have not seen her.`
-` I would think she has returned to the guesthouse."`
-`Rosa knew her daughter's nature well.`
-`{n}And a chill ran up her back.`
-`Maria was stupidly straightforward, to the point that "stupidly" could be repeated seven times,`
-` ......and if she was ordered to find something that didn't exist, she would look forever and ever.`
-`......Even if rain was pouring down...!!`
-`"......No.`
-` The cousins left earlier, so Maria was alone...!`
-` Unless someone told her to stop, she would stay there even if spears fell down from the skies!`
-` Without even opening an umbrella!!`
-` .........Aaaah, what have I done, losing control of my emotions!!"`
-`As her mother, she had known about Maria's foolish straightforwardness better than anyone, yet she had once again lost control of her emotions, and done such a horrible thing...!!`
-`"Mariaaaaaaa!!"`
-`Rosa pushed Genji away and ran down the hallway.`
-`The outside really looked like a typhoon, and was pouring down magnificently.`
-`Maybe because of some figure of the terrain, the winds were not as strong as a typhoon, so an umbrella wouldn't be torn out of one's hands.`
-`Even so, it was enough to call it a storm.`
-`{n}There was no time to admire the roses being soaked by the rain.`
-`"Anyway, I'm getting pretty worried about Maria.`
-` .........You don't think she's still rebelliously searching for that rose alone, do you?"`
-`"...I wonder.`
-` Surely not with this much rain...`
-`...is what I'd like to think, but Maria‐chan is sometimes really stubborn and foolishly simple."`
-`We hadn't worried much, thinking that Auntie Rosa had taken her back to the mansion.`
-`...However, it was concerning that Kanon‐kun had thought that Maria was here when he came from the mansion to call us.`
-`".........I did not see her in the mansion, so I had assumed that she was here.`
-` Since Rosa‐sama was taking a nap..."`
-`"You didn't see her on your way over here?"`
-`".........My apologies.`
-` I opened my umbrella and ran as fast as I could, so I did not pay much attention."`
-`If he had cut through the rose garden on the shortest line between the mansion and the guesthouse, then he would have missed the place where Maria had been looking for her rose by a little.`
-`And it was raining this hard, too.`
-`{n}There was a good chance that Kanon‐kun had failed to notice her.`
-`"Enough debating around here, it'd be faster to just check it out directly.`
-` ......Aniki, you up for a little race?"`
-`"So you think that you can beat me now that you've had six years to grow?`
-` Alright, let's find out.`
-` ............Let's go!!"`
-`George‐aniki and I flew out into the rain.`
-`{n}Jessica and Kanon‐kun followed us.`
-`"Mariaaaa!!`
-` If you're there, answer me!!`
-` Mariaaaaa!!"`
-`"It's Auntie Rosa.`
-` Auntie!!"`
-`When George‐aniki called back, Auntie Rosa flew at him in what almost amounted to a tackle.`
-`"Where's Maria?!`
-` Isn't she with you?!"`
-`"No, we haven't seen Maria‐chan since then."`
-`"............Mariaaaaa!!!"`
-`............Six years ago, Maria had been three years old.`
-`{n}She had been a cute and pure kid who would just accept whatever anyone said.`
-`...But six years had passed since then!`
-`{n}She was nine now, and experiencing the good and bad parts of life should have taught her something.`
-`......And yet, she's still just as innocent and pure as she used to be...?!`
-`"Mariaaaaaaaaaaaa!!!"`
-`As I circled the rose bed, something white unexpectedly turned to face me.`
-`......It was a white umbrella.`
-`Maria, holding a white umbrella, was crouching, still searching for that rose...`
-`"............Uu."`
-`Her face, which had turned bright red from her crying her eyes out, was dirtied with water and mud. It was a truly pitiful sight.`
-`"You idiot,`
-` ......are you still looking?!"`
-`"......Uu......`
-` Can't find it...`
-` My rose...`
-` ...Can't find it......`
-` ...Uu......"`
-`Maria had probably been here since the rain had started pouring down.`
-`{n}It looked like her shoulders were freezing.`
-`She looked tired to the bone, but fortunately, since she was holding an umbrella, she was not completely soaked.`
-`...It was probably an umbrella from the handbag that Maria was always walking around with.`
-`.........Thank goodness.`
-` Seriously, thank goodness.`
-`"Battler‐kun!`
-` Thank goodness, you found her!"`
-`"Mariaaaaaaaaa!!`
-` I'm sorry, I'm so sorry...!!"`
-`Auntie Rosa threw her own umbrella away and hugged Maria.`
-`"......Uu.........`
-` It's not here.`
-` ...My rose isn't here...`
-` ......Uu......"`
-`"Mama will look for it with you later...`
-` Okay?`
-` So just let it go for today.`
-` ......Okay?"`
-`"............Uu...`
-` Let it go for today........."`
-`It looked like Maria still wasn't able to accept it, but she no longer had enough energy left to resist.`
-`Jessica and Kanon‐kun caught up with us.`
-`"......I'll have a towel ready in the mansion immediately."`
-`"Maria......`
-` Were you here the whole time......?"`
-`"I'm sorry......`
-` I'm sorry for being such a bad mother........."`
-`"......Auntie Rosa, why don't we head back to the mansion for the time being.`
-` Maria‐chan will catch a cold like this."`
-`".........You're right.`
-` Maria, let's go.`
-` If we don't get you cleaned up, Grandfather will get mad at you."`
-`"Uu...`
-` I'm hungry."`
-`"It's already time to eat.`
-` You did a good job searching.`
-` Once the weather gets better, we'll all go search together."`
-`We couldn't stay in the rain forever.`
-`{n}We took Maria with us as we headed back to the mansion.`
-`Maria apparently wasn't as weak as I had thought.`
-`When she remembered that dinner was calf steak, she started chanting "I'm hungry, hungry, uu‐uu!", and returned to her usual healthy self.`
-`......Auntie Rosa didn't chide Maria on her "uu‐uu".`
-`"So that's it.`
-` You had an umbrella.`
-` You sure are good at packing the right stuff."`
-`"......Uu.`
-` I didn't bring an umbrella.`
-` Uu."`
-`"What? Then how did you get that white umbrella you're holding?"`
-`"Uu!`
-` Borrowed it!"`
-`It seemed that some caring person had brought her an umbrella.`
-`{n}A normal girl would look for shelter once it started raining, but there was no way Maria's stubbornness would be broken by something like that.`
-`...So maybe that person gave up recommending that she find shelter, and at least brought an umbrella for her.`
-`"Really?`
-` I will have to thank them.`
-` Who was it?"`
-`"Uu!`
-` {f:5:Beatrice}~!"`
-`The name that Maria mentioned very happily was that of the island's witch.`
-`Rosa took a deep breath and asked again, trying to avoid hurting Maria's feelings now that she was happy.`
-`"Really? That's nice.`
-` So, who was it...?`
-` The person who brought you that umbrella?"`
-`"Uu.`
-` {f:5:Bea}—`
-`{f:5:trice}~!`
-` Uu‐uu!"`
-`Maria, who quickly picked up that her mother didn't believe her, made an angry face once again.`
-`So Rosa stopped pursuing the subject.`
-`{n}It looked like it would be faster to ask the person who had lent Maria the umbrella during dinner rather than ask Maria herself...`
-`"Father.`
-` Please at least join us for dinner.`
-` It won't be a family conference like this."`
-`Along with a dull pounding on the door, the sound of Krauss's entreaty could be heard.`
-`However, that voice seemed to harbor a sense of resignation, that its sound would not reach its intended ears.`
-`".........Kinzo‐san.`
-` Won't you at least go out for dinner?`
-` Haven't all of your children gathered here to see your face?"`
-`"Silence, Nanjo.`
-` ............So the bishop won't work.`
-` ..................One move short......"`
-`Apparently, Kinzo was completely focused on the final battle of his long‐lasting chess match with Nanjo.`
-`His brow wrinkled, he continued to glare at the game board through his spectacles; Krauss's voice didn't reach his ears.`
-`"............Kinzo‐san.`
-` I am also hungry.`
-` Won't you go down and eat?"`
-`"In that case, you can go by yourself.`
-` Let me consider this next move for a little longer.`
-` ...We are going to finish it tonight."`
-`"............Otherwise, it looks like this match will never in eternity be settled."`
-`Nanjo stood from his seat, hoping this would prompt Kinzo to do the same, but Kinzo's eyes never left the chessboard.`
-`He knew well that Kinzo always displayed a blind concentration when it came to chess,`
-` but he had never seen Kinzo as focused as he was now.`
-`...He was acting almost as though—just as he had said—if the game wasn't finished tonight, there would never be another chance for them to continue their contest...`
-`Further attempts to persistently call him would surely not reach his heart.`
-`Nanjo gave up and headed to the door that Krauss was still banging on...`
-`The door to the study opened.`
-`Krauss took a step back—surely Kinzo hadn't actually come out?!`
-`But it was Nanjo who stood at the door; Krauss breathed a sigh of relief...`
-`"......Doctor Nanjo.`
-` Is Father..."`
-`"...............I am sorry I couldn't be of service...`
-` ...Kinzo‐san's world is nothing but this room now."`
-`Nanjo shook his head with a completely defeated expression.`
-`{n}Krauss raised his fist once more and banged on the door, shouting.`
-`"......Father, can you hear me?!`
-` We are heading down now, but any time you feel like it, please join us.`
-` All of your children are waiting for you...!"`
-`The voice was very loud, and the door was being noisily pounded on.`
-`{n}There was no way that it wouldn't reach Kinzo's ears.`
-`............It was reaching him.`
-`{n}However, he was ignoring it anyway.`
-`However, unlike the time he was being called down for lunch, he did not get into a rage.`
-`{n}......Kinzo was now simply calm at heart, ...and it was almost as though he had attained peace by turning himself over to fate.`
-`"......I am not interested in dinner, nor in my sons' faces.`
-` ............I will only leave here when {f:5:Beatrice} is resurrected or when I am chosen as a sacrifice for the key...`
-` The Demons' Roulette has already started spinning.`
-` What meaning does dinner have at this point........."`
-`As though the painfully loud banging on the door had completely failed to enter his hearing,`
-`{n}Kinzo, in a state of total peace, silently thought about his next chess move...`
-`Just as always, Kinzo was the only one missing from the dining hall.`
-`{n}Krauss, wearing a bitter smile, returned with Nanjo.`
-`"Just as always, Father is not feeling well.`
-` He truly regrets missing this once‐a‐year opportunity to sit together with his gathered relatives."`
-`Eva and Rudolf snickered.`
-`Judging by Kinzo's character, he didn't regret it at all,`
-` ...and none of his relatives regretted that he hadn't appeared either.`
-`"Then why don't we start dinner.`
-` Gohda, get it started."`
-`"Certainly.`
-` Well then, ladies and gentlemen, we shall begin."`
-`Upon finally being told to begin the family conference dinner, his highlight scene for the whole year, Gohda nodded, grinning broadly.`
-`"......Umm, I was wondering, who was it that lent Maria an umbrella?"`
-`When Rosa timidly cut through the silence of the dining hall, everyone there turned their attention to her at once.`
-`"...Umbrella?`
-` What's this about?"`
-`"Umm......`
-` It started raining while Maria was in the rose garden a short while back...`
-` It seems she borrowed a white umbrella from someone, and I wanted to thank them..."`
-`"It wasn't one of us.`
-` After you went out, Rosa, we changed rooms and continued our "friendly" chat the whole rest of the time."`
-`"Haha, ...that's right.`
-` Even after that, us siblings kept on with our friendly chat."`
-`The word friendly fell awkwardly from Hideyoshi's lips,`
-` so that even those that hadn't been there realized that it hadn't been a pleasant conversation.`
-`"At the very least, it certainly couldn't have been me, Eva, Rudolf, or even Hideyoshi‐san or Kyrie‐san."`
-`"We were together the whole time, even after Natsuhi nee‐san and Rosa‐san left.`
-` The whole time until the meal started."`
-`"Nii‐san went up to the study with Genji‐san to call Father.`
-` At that time, the rest of us went straight to the dining hall.`
-` So it wasn't one of us.`
-` ...For a consideration like lending an umbrella, wouldn't it be one of the servants?"`
-`"So, Gohda‐san?"`
-`"......I have been in the kitchen the whole time preparing.`
-` My sincere apologies..."`
-`Gohda looked slightly disappointed about missing this chance to show off.`
-`At that time, Shannon and Kumasawa appeared, pushing a serving cart loaded with hors d'oeuvres.`
-`"Then perhaps it was Kumasawa‐san or Shannon‐chan?"`
-`"...I'm sorry?`
-` Ha‐have I made some mistake...?"`
-`Shannon shrunk, mistakenly thinking that she was being accused of making some error, having come in partway.`
-`"No, you haven't.`
-` When Maria‐chan was alone in the rose garden, it started to rain.`
-` Someone gave her an umbrella.`
-` Auntie Rosa said that she wanted to thank that person."`
-`"......Uu.`
-` ......{f:5:Beatrice}..."`
-`Maria, her mouth a thin line, said the witch's name in a small voice.`
-`Auntie Rosa explained the situation one more time.`
-`{n}As she did, Kumasawa‐san cackled.`
-`"Hoh‐hoh‐ho.`
-` It wasn't us.`
-` Shannon‐san and I were preparing the rooms together, so we did not go outside."`
-`"...Yes.`
-` ......I apologize for not being able to help......"`
-`"Preparing the rooms?`
-` What do you mean by that...?"`
-`"..................Because of this rain,`
-` I thought that it would be difficult for all of the guests to return to the guesthouse,`
-` so I ordered the servants to prepare the guest rooms inside the mansion."`
-`"...Reeally? How thoughtful!`
-` That's right, it would be rude to chase us outside in all this rain, wouldn't it?"`
-`"Could you give it a rest..."`
-`"Yes.`
-` We received the order from Madam, and I, Kumasawa‐san, and Kanon‐kun were preparing the rooms.`
-` ...Then it became time for dinner, and since we had received an order from Genji‐sama to go to the guesthouse and call the children,`
-` Kanon‐kun left on our behalf."`
-`"Yes.`
-` In that case, did Kanon‐san find Maria on the way to the guesthouse and hand her the umbrella?"`
-`"......Uu.`
-` That's—not—it!!"`
-`The person who had actually received the umbrella denied it.`
-`{n}Rosa was troubled.`
-`All she wanted to do was give a word of thanks to the person who had lent the umbrella, but she couldn't find them.`
-`And she had thought that asking like this with everyone gathered for dinner would work immediately...`
-`"...Then, Natsuhi nee‐san?"`
-`"I'm sorry.`
-` After my "friendly" conversation with everyone, my headache was so bad that I have been resting in my room.`
-` Therefore, I did not go outside."`
-`".........Then who?`
-` George‐kun and the kids?`
-` ......That can't be right."`
-`"No, it wasn't us.`
-` We were watching television in the guesthouse the whole time."`
-`"Actually, we thought that Maria had just gone back to the mansion with you..."`
-`"Then Kanon‐kun came, and he asked whether Maria was with us. That was when we first realized that she wasn't in the mansion.`
-` In the first place, if it were me, before lending her an umbrella, I'd have grabbed her hand and pulled her under a roof."`
-`Rosa was completely baffled.`
-`{n}One by one, the relatives and the servants were claiming that it wasn't them.`
-`{n}...Even though it really wasn't something anyone would need to hide.`
-`With that, by process of elimination, the number of people it could have been wasn't large.`
-`"Of course, it wasn't me.`
-` Right after it began raining, I visited Kinzo‐san's room, and have been playing chess with him until just now."`
-`"......Which means that it also wasn't Grandfather."`
-`"Wait a sec...`
-` Isn't this starting to get a bit weird?`
-` Who's left?"`
-`"Then, ...who?`
-` ...Genji‐san?`
-` Huh?"`
-`"Um, wait a second, don't get me wrong.`
-` It's not like I'm searching for some culprit or anything.`
-` All I want to do is, as a mother, thank that person who gave Maria an umbrella in the middle of the rain......!"`
-`...Giving an umbrella to a girl loitering in the rain was something to be praised, not hidden.`
-`...Despite that, no one raised their hand.`
-`......Why?`
-`Everyone started whispering about how strange this had gotten...`
-`"......Calm down, Rosa.`
-` Why don't we just ask the person who borrowed the umbrella?"`
-`An idea that everyone would agree makes sense.`
-`{n}They were all scratching their heads at why she didn't just ask Maria, who had been given the umbrella.`
-`However, Rosa bit her lower lip.`
-`{n}After all, she already knew how Maria would answer if asked.`
-`"Of course!`
-` Rudolf‐kun here's got it right.`
-` Maria‐chan, tell your uncle!`
-` Who lent you the umbrella?"`
-`"{f:5:Beatrice}!"`
-`The dining hall was wrapped in silence for an instant, but that soon broke and it was wrapped in laughter.`
-`"Hahahaha.`
-` I see, {f:5:Beatrice}, the witch of the forest, felt pity and lent her an umbrella.`
-` What a nice story.`
-` Rosa, there you go."`
-`"......nn...`
-`.........nnnn."`
-`Rosa didn't seem satisfied.`
-`{n}...She just wanted to say thanks for the umbrella; why did everything have to be so clouded in smoke...`
-`"Uu!`
-` Just like Uncle Krauss said.`
-` {f:5:Beatrice} lent it to me!`
-` Uu‐uu!"`
-`"Hahahahaha...`
-` Isn't that wonderful.`
-` Oh, innocence, such an enviable thing.`
-` Don't you all agree?`
-` Hahahaha..."`
-`Krauss was laughing with a face that was clearly mocking her,`
-` but Maria, apparently feeling that her claim was being believed, was overjoyed.`
-`"......What's going on?`
-` Don't tell me a witch really appeared and lent her an umbrella?"`
-`Jessica asked me in a small voice that wouldn't carry over to Maria, who was sitting across from me.`
-`"Has Maria ever been the type to joke?"`
-`If we had heard that kind of story pop out of that old bastard's mouth, we'd have just taken it as another joke.`
-`......However, coming from Maria's mouth, it became somewhat inexplicable, strangely unsettling...`
-`"No way.`
-` She's always been frank and serious.`
-` Hasn't she always just swallowed up jokes that were supposed to be obvious lies?`
-` I've never even heard of her cracking a joke."`
-`Auntie Rosa probably knew that better than anyone.`
-`{n}It appeared that because of this weird situation, she had no idea what was going on anymore.`
-`"So, if Maria says that she borrowed an umbrella from {f:5:Beatrice}, that definitely was {f:5:Beatrice}?"`
-`".........We're talking about Maria here, so I can't imagine it was some kind of metaphor or joke.`
-` ...It might be best to take what she says at face value."`
-`"Then what's going on?`
-` Are you saying that Genji‐san or someone put on that fancy dress from the portrait and gave Maria the umbrella?"`
-`"...I have no idea...`
-` Actually, that's what I want to know."`
-`Jessica shrugged jokingly, but her expression wasn't completely joking.`
-`Once the hors d'oeuvres were set out and Gohda showed off his vast store of knowledge, the meal began.`
-`A couple casual chats broke out here and there, but they seemed somehow distant; it was a quiet dinner, granting no respite from the intrusive sound of rain that was creeping into the dining hall.`
-`Kumasawa and Shannon, pushing the serving cart, ran into Genji and Kanon on their way to the kitchen.`
-`"...Genji‐san, were you the one who lent Maria‐sama an umbrella?"`
-`".........Umbrella?`
-` What are you talking about?"`
-`"Right.`
-` ......I heard that when it started raining, Maria‐sama was alone in the rose garden.`
-` ...And it seems that she borrowed an umbrella from someone there,`
-` but we don't know who it was."`
-`"......It wasn't me.`
-` After all, I thought that Maria‐sama was in the guesthouse.`
-` When Battler‐sama first found her, she was already holding a white umbrella."`
-`"My apologies, but it was not me either..."`
-`".........Then, you don't think it was...`
-`...the Master,`
-` possibly?"`
-`Everyone in both the dining hall and the place where they were standing now had stated that it wasn't them.`
-`...Which meant that only Kinzo was left, but...`
-`"Maybe he went walking down the corridor for some reason, when, by coincidence, he saw Maria‐sama in the rose garden without even an umbrella..."`
-`"...............The Master...`
-`does not particularly like Maria‐sama."`
-`"I agree.`
-` ............I can't imagine that, just for Maria‐sama, he would trouble himself to go all the way down the stairs to carry an umbrella to her directly."`
-`"Oh, my......how troublesome.`
-` So that means that the one who lent Maria‐sama an umbrella really was {f:5:Beatrice}‐sama?`
-` Hoh‐hoh‐hoh‐ho..."`
-`Kumasawa laughed, just like the relatives in the dining hall had laughed it off.`
-`{n}......She couldn't think of any other way to break through the smoke veiling the current situation.`
-`Just then, the crisp sound of hands clapping twice rang through the hallway.`
-`They all turned around at once to see that it was Gohda, who was coming out of the dining hall.`
-`"Chop‐chop, everyone.`
-` When serving a dinner, it is essential to make sure the dishes are served with the proper timing.`
-` Please immediately see to setting out the soup.`
-` Genji‐san, the women are in the middle of an important job, so please don't get in their way."`
-`"........................"`
-`Kanon glared at Gohda for being rude to Genji, a person Kanon respected.`
-`Genji, realizing this, patted Kanon once on the shoulder as if to warn him.`
-`Kanon reluctantly turned away, and returned his expression to normal.`
-`"......Obey Gohda's order.`
-` Let us now hurry to prepare the dinner table."`
-`"Come on, we have no time.`
-` Don't just dawdle around!`
-` Hurry...!"`
-`Gohda grabbed the serving cart from Shannon and drove it past her, heading towards the kitchen at pace.`
-`"...Then please allow us to return to the kitchen.`
-` ...After all, Gohda‐san's patience is very short, ...hoh‐hoh‐ho."`
-`"Ple‐please excuse me as well..."`
-`Kumasawa and Shannon left.`
-`{n}Only Genji and Kanon remained.`
-`{n}Through the window, the darkness of the rainy night could be seen, along with the occasional thunderbolt.`
-`"............Genji‐sama.`
-` Has {f:5:Beatrice}‐sama really...`
-`......returned?"`
-`"...........................I don't know."`
-`"......Should we inform the Master?"`
-`"There's no need.`
-` .........If she has truly returned, she will eventually appear before the Master of her own accord.`
-` .........Furthermore, she is a fickle person.`
-` It would be pointless to report to the Master only to find that she does not appear..."`
-`"..................I wonder if this means that the Master's ritual has already begun."`
-`"...Probably.`
-` However, that has nothing to do with furniture like us.`
-` ......We must return the favor that we received from the Master...until our final moments."`
-`".........Yes.`
-` ...As furniture, that is our...`
-`............duty."`
-`The thunder crashed once more.`
-`Except for that instant when the lightning lit up the sky, all that could be seen out of the window was the darkness of night.`
-`Just as humans rule when the sun is up, the time when the sun is down is ruled by those that are not human.`
-`The darkness of night that now surrounded Rokkenjima was ruled not by the Ushiromiya family, but by another master.`
-`Did this master take pity on Maria when she was alone and pummeled by the rain in the rose garden, and lend her an umbrella...?`
-`Kanon looked at the rose garden's lights, dimly visible beyond the window.`
-`{n}The dim lights were not enough to illuminate the surrounding area.`
-`Looking at those lights felt like making eye contact with the witch, and Kanon forcibly averted his gaze.`
-`...If he didn't, it felt like his eyes would be absorbed by that light......`
-`Perhaps the weather was also a factor.`
-`{n}You often hear stories about how things like atmospheric pressure can influence people's moods and physical health.`
-`For some time now, everyone had been making periodic attempts to clear the gloomy atmosphere,`
-` but any conversation was quickly cut off, and in the end the dining hall was simply buried by the sound of the rain.`
-`Dessert was some kind of chocolate cake accompanied by pear sherbet.`
-`Gohda‐san enthusiastically explained the recipe as if delivering the coup de grace, but I quickly forgot the details.`
-`The guest of honor, Grandfather, was absent; the weather was horrible; and the person who had lent Maria the umbrella was still a mystery.`
-`When dinner ended, no one felt even one bit refreshed.`
-`...It was too late now, but I realized painfully that taste wasn't the only important part of a meal. The whole atmosphere was also critical.`
-`Gohda‐san, the supposed conductor of this performance called dinner, did his best to enliven the place,`
-` dropping little jokes left and right, but it seemed they didn't quite get there.`
-`After taking orders for after‐dinner coffee, tea, and orange juice, he left for the kitchen.`
-`As soon as he disappeared, Uncle Krauss spoke.`
-`"......My, my.`
-` How truly irksome that this dinner, which Gohda worked so hard to create, has been so poorly received."`
-`".........Yes, seriously.`
-` It feels like nothing would taste good today. It's just that kind of mood."`
-`"Hoh.`
-` I would love to hear why you feel that way.`
-` Sometime later, allow me, as your older brother, to help cheer you up."`
-`Auntie Eva grimaced slightly.`
-`{n}...I had already heard that she was not on good terms with Uncle Krauss, but now I could clearly feel it.`
-`When I looked around, I noticed that my dad and Auntie Rosa were also grimacing.`
-`Anyhow, it looked like there was something besides the weather that was troubling all of them...`
-`"......Auntie Eva and my dad,`
-` ...they both look like they're in a bad mood."`
-`"Really?`
-` I don't think so."`
-`I asked Aunt Natsuhi, who was sitting on my right, ...but it looked like she was also in a bad mood.`
-`She snapped back as though she was absolutely not interested.`
-`"Well, our adult conversation got a little complicated.`
-` It's not somethin' kids like you need to worry about, Battler‐kun.`
-` Hahahahaha,`
-` right? Natsuhi‐san? Kyrie‐san?"`
-`Uncle Hideyoshi laughed as he spoke, but without his usual brightness,`
-` so I could vaguely imagine just how complicated their adult conversation had actually become.`
-`On top of that, even Aunt Natsuhi and Kyrie‐san, the people he had directed his comment to, ignored him as though they hadn't heard anything.`
-`...I didn't know what kind of conversation they had been having while we kids were away,`
-` but it reminded me of how Dad had said he had stomach cramps when we had arrived at the mansion.`
-`The family conference might have been a playful reunion to us kids, but it was definitely different for the adults...`
-`After Uncle Hideyoshi was ignored by the other adults, an awkward silence fell over the room; Kyrie‐san spoke up.`
-`"......We were talking about how the kids' careers would turn out.`
-` What will you do in the future, Battler‐kun?`
-` Just drift on to college?`
-` Wouldn't that be a little disheartening as a starting line for the long race of life?"`
-`"Hey! Wait a sec...`
-` Kyrie‐san, if you start talking about something like that in the middle of a meal, it won't digest well and we'll all get constipated, ri~ght?"`
-`"Wahahaha...!`
-` That's right, that's right! We were talking about Battler‐kun and Jessica‐chan's careers!`
-` You can't take the future too seriously!`
-` Wahahaha..."`
-`Hideyoshi heartily agreed as if they really had been talking about that, but they probably hadn't.`
-`Kyrie‐san had obviously been trying to avoid talking about something.`
-`{n}However, if Kyrie‐san had determined that this was the best course of action for now, then she was probably right.`
-`Taking this into account, I decided to cast aside my suspicions as to the cause behind Auntie Eva and Dad's bad moods...`
-`At long last, the serving cart returned, filled with coffee and tea.`
-`Kumasawa‐san and Shannon‐chan served it to everyone.`
-`{n}Gohda‐san then explained that, with this, tonight's dinner was over.`
-`If I had been able to eat in a more cheerful mood, it might have been the best dinner of my life.`
-`It was a shame that this greatest of dinners couldn't have been had under the greatest of conditions.`
-`"Uu!`
-` George onii‐chan, is dinner over now?`
-` Over?"`
-`"Yes.`
-` We're all done now."`
-`"That's not ladylike.`
-` Stay in your seat, and calmly drink up."`
+` ...¡Es cierto, ¿donde está Maria?!"`
+`"...No la he visto.`
+` He de suponer que ha regresado a la casa de huéspedes."`
+`Rosa conocía la naturaleza de su hija muy bien.`
+`{n}Un escalofrío le recorrió su espalda.`
+`Maria era estúpidamente honesta, hasta el punto en el que "estúpidamente" podría ser repetido siete veces,`
+` ...y si se le ordenaba encontrar algo que no existía, ella lo buscaría por siempre y para siempre.`
+`...¡¡Incluso si la lluvia caía a cántaros...!!`
+`"...Esto está mal.`
+` ¡Los primos se fueron antes, así que Maria está sola...!`
+` ¡A menos que alguien le dijera que parara, se quedaría allí, incluso si cayesen lanzas del cielo!`
+` ¡¡Sin siquiera abrir un paraguas!!`
+` ...¡¡Aaaah, qué he hecho, perdiendo el control de mis emociones!!"`
+`¡¡A pesar de conocer esa simple honestidad mejor que nadie, tuve que perder el control de mis emociones una vez más y hacer una cosa horrible...!!`
+`"¡¡Mariaaaaaaa!!"`
+`Rosa empujó a Genji y corrió por el pasillo.`
+`El exterior realmente parecía un tifón, y la lluvia caía magníficamente.`
+`Tal vez por alguna forma del terreno, los vientos no fueron tan fuertes como un tifón, por lo que un paraguas no sería arrancado de las manos.`
+`Aún así, era lo suficiente como para llamarlo una tormenta.`
+`{n}No había tiempo para admirar las rosas siendo empapadas por la lluvia.`
+`"De todas formas, estoy muy preocupado por Maria.`
+` ...No crees que esté buscando sola la rosa rebeldemente, ¿o sí?"`
+`"...Me lo pregunto.`
+` Espero que no, con esta lluvia,`
+` ...es lo que me gustaría pensar, pero Maria‐chan a veces es realmente terca y demasiado inocente."`
+`No nos preocupamos mucho, ya que pensamos que la tía Rosa la había llevado de vuelta a la mansión.`
+`...Sin embargo, era preocupante que Kanon‐kun haya pensado que Maria estaba aquí cuando vino de la mansión a llamarnos.`
+`"...No la vi en la mansión, así que asumí que ella estaba aquí.`
+` Puesto que Rosa‐sama estaba tomando una siesta..."`
+`"¿No la viste de camino hasta aquí?"`
+`"...Mis disculpas.`
+` Abrí mi paraguas y corrí tan rápido como pude, así que no le presté mucha atención."`
+`Si había tomado un atajo a través del jardín de rosas entre la mansión y la casa de huéspedes, entonces por poco habría omitido el lugar en que Maria había estado buscando su rosa.`
+`Y además estaba lloviendo tan fuerte.`
+`{n}Hubo una gran posibilidad de que Kanon‐kun no se hubiese percatado de ella.`
+`"Basta de discusiones aquí, sería más rápido solo salir y revisar directamente.`
+` ...Aniki, ¿por qué no hacemos una carrera hasta allí?"`
+`"¿Piensas en ganarme a mí ahora que tú has estado creciendo durante seis años?`
+` Muy bien, vamos a ver quién gana.`
+` ...¡¡Vamos!!"`
+`George‐aniki y yo nos lanzamos hacia afuera en la lluvia.`
+`{n}Jessica y Kanon‐kun nos siguieron.`
+`"¡¡Mariaaaa!!`
+` ¡¡Si estás ahí, respóndeme!!`
+` ¡¡Mariaaaaa!!"`
+`"Es la tía Rosa.`
+` ¡¡Tía!!"`
+`Cuando George‐aniki la llamó, tía Rosa saltó casi al punto de llamarlo una embestida.`
+`"¡¿Dónde está Maria?!`
+` ¡¿No está con ustedes?!"`
+`"No, no nos hemos reunido con Maria‐chan después de eso."`
+`"...¡¡¡Mariaaaaa!!!"`
+`...Hace seis años, Maria tenía tres años de edad.`
+`{n}Había sido una chica adorable y pura que simplemente aceptaría lo que cualquiera dijera.`
+`...¡Pero han pasado seis años desde entonces!`
+`{n}Tenía nueve años ahora, y experimentar las cosas buenas y malas de la vida tendría que haberle enseñado algo.`
+`...¡Y aun así, ¿sigue siendo tan inocente y pura como lo era antes...?!`
+`"¡¡¡Mariaaaaaaaaaaaa!!!"`
+`Mientras yo circundaba la rosaleda, algo blanco inesperadamente vino hacia mí.`
+`...Era un paraguas blanco.`
+`Maria, sosteniendo un paraguas blanco, estaba en cuclillas, buscando todavía aquella rosa...`
 `"...Uu."`
-`Maria looked like she was really excited about the occasionally crashing thunder.`
-`{n}Maybe she wanted to quickly finish eating and run over to the window.`
-`{n}She had been fidgeting for a while, waiting for the meal to end.`
-`......Some people are afraid of thunder, while others find it interesting, and Maria was apparently one of the latter.`
-`So, when she heard from George‐aniki that dinner was over, a huge smile broke across her face.`
-`She then stood from her seat, took out her handbag—which she had set under her seat, never having left it even while she was eating—and began fishing around inside of it.`
-`No one seemed particularly concerned with this behavior...`
-`".........What's...`
-`that?`
-` Where did you get it?"`
-`George was the first to notice it.`
-`{n}As he spoke, Battler also noticed.`
-`When they looked, they noticed that Maria was now holding a beautiful Western‐style envelope.`
-`On the front of the envelope, the Ushiromiya family crest—the One‐winged Eagle—was done in gold leaf.`
-`Furthermore, it was sealed with dark red wax, imbuing a level of class upon it that made it clear that this was not something that Maria should be carrying around for fun.`
-`"......Maria‐chan, what is that?"`
-`It seemed that Natsuhi had also noticed the strangeness of the envelope that Maria was holding.`
-`{n}Because her voice sounded too serious to be admonishing a small child, the other relatives around her finally noticed.`
-`"What's up, Natsuhi nee‐san?"`
-`"............What is...`
-`that?"`
+`Su rostro, que se había puesto color rojo brillante por las lágrimas de sus ojos, estaba algo sucio con el agua y el barro. Era un espectáculo verdaderamente lamentable.`
+`"¡Idiota,`
+` ...¿aún sigues buscándola?!"`
+`"...Uu...`
+` No la puedo encontrar...`
+` La rosa de Maria...`
+` ...No la puedo encontrar...`
+` ...Uu..."`
+`Maria probablemente había estado aquí desde que la lluvia había comenzado a caer.`
+`{n}Parecía que sus hombros se congelaban.`
+`Se veía cansada hasta los huesos, pero afortunadamente, ya que estaba sosteniendo una sombrilla, no estaba completamente empapada.`
+`...Probablemente fue un paraguas del bolso que Maria llevaba consigo.`
+`...Gracias a Dios.`
+` En serio, gracias a Dios.`
+`"¡Battler‐kun!`
+` ¡Menos mal, la encontraste!"`
+`"¡¡Mariaaaaaaaaa!!`
+` ¡¡Lo siento, lo siento mucho...!!"`
+`Tía Rosa tiró su paraguas y abrazó a Maria.`
+`"...Uu...`
+` No está aquí.`
+` ...La rosa de Maria no está aquí...`
+` ...Uu..."`
+`"Mamá la buscará contigo más tarde...`
+` ¿Sí?`
+` Así que déjalo por hoy.`
+` ...¿Sí?"`
+`"...Uu...`
+` Dejémoslo por hoy..."`
+`Parecía que Maria todavía no lo había podido aceptar, pero ya no tenía la energía suficiente para resistirse.`
+`Jessica y Kanon‐kun nos alcanzaron.`
+`"...Prepararé una toalla en la mansión inmediatamente."`
 `"Maria...`
-`where did you pick that up...?"`
-`"That envelope has...`
-`...Kinzo‐san's......"`
-`As Nanjo muttered that, even us kids could understand why everyone seemed to be frozen solid.`
-`The envelope that Maria held was one of the Ushiromiya family head's custom‐made envelopes for private use.`
-`......In other words, it could only mean one thing.`
-`{n}This envelope contained a message from Kinzo.`
-`"Hoh.........`
-` ...What is an envelope like that doing here...?"`
-`"......It, ......it looks like something interesting has jumped out at us."`
-`".........J‐just let me have a peek...!"`
-`"Uu!!`
-` No, I'm reading it!`
-` I was told to read it to everyone!!"`
-`Uncle Hideyoshi tried to snatch the envelope out from Maria's hands, but she protected it as though hugging it, and didn't let go.`
-`"Hideyoshi nii‐san, you shouldn't take something from a child by brute force.`
-` .........Maria‐chan, where did you get this envelope?"`
-`"Uu!`
-` Got it from {f:5:Beatrice} when she gave me the umbrella.`
-` She told me to read it to everyone after the meal was over!`
-` I'm the witch's mes—`
-` mess—`
-` "messenger"!`
-` Uu!"`
-`"Messenger...?`
-` Ihihihi, the witch of the island sure likes to mess around."`
-`Battler tried to joke about it, but no one went along with him.`
-`"..................I, I wonder what's written inside of it. Maria‐chan...?"`
-`"Uu.`
-` Reading!`
-` Uu!"`
-`Maria casually opened the envelope.`
-`...It was sealed only with wax, so she just had to remove the sealing wax to open it.`
-`...That sealing wax fell onto the desk.`
-`{n}Hideyoshi hastily picked it up and stared fixedly at it.`
-`He then set it in the center of the table, where Natsuhi, Kyrie, and Nanjo glared at it.`
-`Imprinted there in the sealing wax was the One‐winged Eagle—which was the Ushiromiya family crest, and also Kinzo's personal crest.`
-`"............This is the family head's personal crest..."`
-`".........I know because I have received letters from Kinzo‐san before.`
-` Without a doubt, this is Kinzo‐san's wax seal."`
-`"But, in this mansion, couldn't there be several identical seals?`
-` For example, if there was some kind of stamp for wax seals, couldn't someone other than Kinzo‐san have sealed it?"`
-`"No, Kinzo‐san would always use a ring on his finger, his "Proof of the Ushiromiya Family Headship", when he sealed the wax.`
-` This shape and complex design is definitely Kinzo‐san's seal..."`
-`"That is not necessarily so.`
-` Anyone in the family must have received a letter from Dad at least once.`
-` We can't eliminate the possibility that someone, using that wax as a model, created a fake seal to pass themselves off as Father."`
-`"I agree with Aniki.`
-` No matter how the seal resembles Dad's, we can't prove that it is the real thing.`
-` Therefore, it doesn't prove that this envelope came from Dad."`
-`"I feel the same way.`
-` I cannot approve of arbitrarily deciding that this is Father's letter only by the seal in the wax.`
-` Doctor Nanjo, would you mind refraining from speaking such vague words...?!"`
-`"............I apologize...`
-` I said too much..."`
-`One after another, all of the siblings, from Krauss on downwards, rejected Nanjo's statement, saying that the envelope that Maria was holding had not necessarily been sent by Kinzo.`
-`They were afraid.`
-`Kinzo's intentions were written in there,`
-` and they feared from the bottoms of their hearts that it might be some decidedly unfavorable announcement regarding the inheritance.`
-`"...Maria...`
-` The person who gave you that envelope was the same person who lent you that umbrella, right...?"`
-`"Uu!"`
-`"I don't know what "uu" means!`
-` Is it true?!"`
+` ¿Estuviste aquí todo el tiempo...?"`
+`"Lo siento...`
+` Lo siento por ser tan mala madre..."`
+`"...Tía Rosa, ¿por qué no regresa a la mansión por el momento?`
+` A Maria‐chan le dará un resfriado si sigue aquí."`
+`"...Tienes razón.`
+` Maria, vamos.`
+` Si no conseguimos limpiarte, el abuelo se enojará contigo."`
 `"Uu...`
-` ......Yes.`
+` Tengo hambre."`
+`"Ya es hora de comer.`
+` Lo hiciste bien, Maria.`
+` Una vez que el clima se ponga mejor, iremos todos a buscar juntos."`
+`No podíamos quedarnos en la lluvia para siempre.`
+`{n}Llevamos a Maria con nosotros y nos dirigimos de nuevo a la mansión.`
+`Maria, aparentemente, no era tan débil como yo había pensado.`
+`Al recordar que la cena era filete de becerro, empezó a cantar "¡Tengo hambre, tengo hambre, uu‐uu!", y volvió a su salud habitual.`
+`...Tía Rosa no reprendió a Maria por su "uu‐uu".`
+`"Ya veo.`
+` Así que tenías un paraguas.`
+` Eres realmente buena empacando las cosas adecuadas."`
+`"...Uu.`
+` Maria no trajo un paraguas.`
 ` Uu."`
-`"So, in other words,`
-` ...the witch,`
-` {f:5:Beatrice}, gave you that envelope along with the umbrella...?"`
-`"Uu!"`
-`Maria nodded forcefully.`
-`"...I, I agree with my husband.`
-` It's a dubious letter handed over by some suspicious person.`
-` It's not even worth reading."`
-`"Oh, go on, what's the worst that could happen, right?"`
-`Battler said it to Jessica in a small voice, pretending to stir things up, but Natsuhi heard him clearly and glared at him with threatening eyes.`
-`"A‐and then,`
-` err,`
-` ...{f:5:Beatrice} told you to read it after the meal was over, right?"`
-`"Uu!"`
-`".........Why not, everyone.`
-` This isn't Grandfather's envelope, it's {f:5:Beatrice}'s.`
-` Who cares who wrote it, why can't we just hear what's inside before passing judgment?"`
-`"Th‐...that's right.`
-` Even if Father didn't necessarily write it, I'm still concerned about its contents.`
-` ......Maria‐chan, I'm sorry I tried to take it from you by force earlier!`
-` I apologize, so will you read it aloud in front of everyone?"`
-`"............Maria.`
-` Read it."`
+`"¿Qué? ¿Entonces cómo conseguiste ese paraguas blanco que estás llevando?"`
+`"¡Uu!`
+` ¡Lo tomé prestado!"`
+`Parecía que alguna persona cuidadosa de alguna manera le había llevado un paraguas.`
+`{n}Una chica normal buscaría refugio una vez que comenzara a llover, pero no había forma de que la obstinada Maria se desanimara e hiciera algo como eso.`
+`...Así que tal vez esa persona se rindió de recomendarle que encontrara refugio, y al final la dejó quedarse con el paraguas.`
+`"Ya veo.`
+` Tengo que agradecerle a esa persona.`
+` ¿Quién era?"`
+`"¡Uu!`
+` ¡{f:5:Beatrice}~!"`
+`El nombre que Maria mencionó tan feliz fue el de la bruja de la isla.`
+`Rosa respiró hondo y volvió a preguntar intentando evitar herir los sentimientos de Maria ahora que ella estaba feliz.`
+`"¿De verdad? Que bueno.`
+` Así que, ¿quién era...?`
+` ¿La persona que te trajo ese paraguas?"`
+`"Uu.`
+` ¡{f:5:Bea}—`
+`{f:5:trice}~!`
+` ¡Uu‐uu!"`
+`Maria, quien rápidamente notó que su madre no le creía, hizo una cara enfadada nuevamente.`
+`Así que Rosa dejó el tema.`
+`{n}Parecía que sería más rápido preguntar a la persona que había prestado el paraguas a Maria durante la cena en lugar de preguntárselo a la propia Maria...`
+`"Padre.`
+` Por favor, al menos ven a cenar con nosotros.`
+` No sería una reunión familiar así."`
+`Junto con un golpe sordo en la puerta, el sonido de la súplica de Krauss podía ser escuchado.`
+`Sin embargo, esa voz parecía estarse rindiendo puesto que su sonido no llegaba a los oídos que intentaba alcanzar.`
+`"...Kinzo‐san.`
+` ¿No saldrás al menos a la cena?`
+` ¿Acaso no se han reunido todos tus hijos aquí para ver tu rostro?"`
+`"Silencio, Nanjo.`
+` ...Así que el alfil no servirá.`
+` ...Un movimiento muy tarde..."`
+`Al parecer, Kinzo estaba completamente centrado en la batalla final del largo partido de ajedrez que llevaba con Nanjo.`
+`La frente de Kinzo estaba arrugándose a medida que continuaba mirando el tablero de juego a través de sus gafas. La voz de Krauss no llegó a sus oídos.`
+`"...Kinzo‐san.`
+` Yo también tengo hambre.`
+` ¿Por qué no bajas y comes?"`
+`"En ese caso, puedes ir solo.`
+` Permíteme pensar el próximo movimiento un poco más.`
+` ...Lo terminaremos esta noche."`
+`"...De lo contrario, parece que esta partida no se resolverá por toda la eternidad."`
+`Nanjo se levantó de su asiento, esperando que esto llevara a Kinzo hacer lo mismo, pero los ojos de Kinzo nunca salieron del tablero de ajedrez.`
+`Sabía muy bien que Kinzo siempre mostraba una concentración ciega cuando se trataba del ajedrez,`
+` pero nunca lo había visto tan concentrado como ahora.`
+`...Era casi como si, como Kinzo había dicho, el juego no terminaba esta noche, nunca habría otra oportunidad para ellos de continuar su lucha...`
+`Parecía incluso que aunque lo llamara obstinadamente, no llegaría al corazón de Kinzo.`
+`Nanjo se dio por vencido y se dirigió a la puerta que Krauss seguía golpeando...`
+`La puerta del estudio se abrió.`
+`Krauss se sorprendió, pensando que tal vez Kinzo en realidad iba a salir.`
+`Pero era Nanjo quién estaba de pie en la puerta. Krauss dio un suspiro de alivio...`
+`"...Doctor Nanjo.`
+` ¿Está Padre...?"`
+`"...Siento que no pudiera ser de utilidad...`
+` ...Justo ahora, el mundo de Kinzo‐san no es más que esa habitación."`
+`Nanjo sacudió su cabeza con una expresión completamente derrotada.`
+`{n}Krauss levantó el puño una vez más y golpeó a la puerta, gritando.`
+`"...¡Padre, ¿puedes escucharme?!`
+` Nos dirigimos abajo ahora, pero cuando te sientas con ánimo, por favor únete a nosotros.`
+` ¡Todos tus hijos te están esperando...!"`
+`La voz era muy fuerte, y la puerta fue golpeada ruidosamente.`
+`{n}No había manera de que no llegase a los oídos de Kinzo.`
+`...Estaba llegando a él.`
+`{n}Sin embargo, lo ignoró de todos modos.`
+`No obstante, a diferencia del momento en que había sido llamado a bajar por el almuerzo, no se puso furioso.`
+`{n}...Ahora Kinzo estaba simplemente calmado hasta el alma, ...casi como si hubiera encontrado paz al entregarse al destino.`
+`"...No estoy interesado ni en cenar, ni en las caras de mis hijos.`
+` ...Solo me iré de aquí cuando {f:5:Beatrice} sea resucitada o cuando sea elegido como un sacrificio por la llave...`
+` La Ruleta de los Demonios ya ha comenzado a girar.`
+` ¿Qué importancia tiene la cena en este momento...?"`
+`Actuando como si el fortísimo golpeteo en la puerta no pudiese entrar en sus oídos en absoluto...`
+`{n}...Y aún en su estado filosófico, Kinzo silenciosamente pensaba en su siguiente movimiento de ajedrez...`
+`Como siempre, la figura de Kinzo no fue vista en lo absoluto en el comedor.`
+`{n}Krauss, con una sonrisa amarga, regresó con Nanjo.`
+`"Como siempre, Padre no se siente bien.`
+` Él verdaderamente lamenta perderse la oportunidad anual de ver sentados juntos a sus familiares reunidos."`
+`Eva y Rudolf rieron.`
+`A juzgar por el carácter de Kinzo, él no se arrepentía en absoluto,`
+` ...y ninguno de sus familiares lamentó tampoco que no hubiese aparecido.`
+`"Entonces, ¿por qué no comenzamos la cena?`
+` Gohda, empieza."`
+`"Por supuesto.`
+` Bien, entonces, permítanme comenzar."`
+`Cuando se le dijo a Gohda que comenzara con la cena de la reunión familiar, su escena más destacada de todo el año, él asintió con la cabeza, sonriendo ampliamente.`
+`"...Umm, me preguntaba, ¿quién fue el que le prestó a Maria un paraguas?"`
+`Cuando Rosa tímidamente cortó el silencio del comedor, todos en éste centraron su atención a ella.`
+`"...¿Paraguas?`
+` ¿De qué hablas?"`
+`"Umm...`
+` Hace poco, cuando Maria estaba en el jardín de rosas y empezó a llover...`
+` Parece que ella tomó prestado un paraguas blanco de alguien, y yo quería darle las gracias..."`
+`"No fue ninguno de nosotros.`
+` Después de que salieras, Rosa, cambiamos de habitación y continuamos nuestra "amistosa" conversación todo este tiempo."`
+`"Jaja, ...es verdad.`
+` Tras eso, los hermanos seguimos nuestra charla amistosa."`
+`La palabra amigable salió torpemente de los labios de Hideyoshi,`
+` de tal manera que, incluso aquellos que no habían estado allí se dieran cuenta de que no había sido una conversación agradable.`
+`"Por lo menos, es imposible que fuera yo, Eva, Rudolf, o incluso Hideyoshi‐san o Kyrie‐san."`
+`"Estuvimos juntos todo el tiempo, incluso después de que Natsuhi nee‐san y Rosa‐san se fueran.`
+` Todo el tiempo hasta que la comida empezó."`
+`"Nii‐san subió al estudio con Genji‐san a llamar a Padre.`
+` En ese momento, el resto de nosotros fuimos directo al comedor.`
+` Así que no fue uno de nosotros.`
+` ...¿No pudo haber sido un sirviente lo suficiente amable como para dejarle un paraguas?"`
+`"Así que, ¿Gohda‐san?"`
+`"...He estado en la cocina todo el tiempo preparando la comida.`
+` Mis más sinceras disculpas..."`
+`Gohda parecía decepcionado, pensando que habría sido genial si esa persona hubiera sido él.`
+`En ese momento, Shannon y Kumasawa aparecieron, empujando un carrito de servicio con aperitivos.`
+`"¿Y qué tal Kumasawa‐san o Shannon‐san?"`
+`"...¿Sí?`
+` ¿He cometido algún error...?"`
+`Shannon se encogió, habiendo venido a mitad de la conversación y pensando equivocadamente que estaba siendo acusada por haber cometido algún tipo de error.`
+`"No, no es eso.`
+` Cuando Maria‐chan estaba sola en el jardín de rosas, empezó a llover.`
+` Alguien le dio un paraguas.`
+` Tía Rosa dijo que quería agradecerle a esa persona."`
+`"...Uu.`
+` ...{f:5:Beatrice}..."`
+`Maria, con su boca entrecerrada, dijo el nombre de la bruja en voz baja.`
+`Tía Rosa explicó la situación una vez más.`
+`{n}Cuando terminó, Kumasawa‐san rió agudamente.`
+`"Jo‐jo‐jo.`
+` No fuimos nosotros.`
+` Shannon‐san y yo estábamos preparando las habitaciones juntas, así que no salimos."`
+`"...Sí.`
+` ...Me disculpo por haber sido incapaz de ayudar..."`
+`"¿Preparando las habitaciones?`
+` ¿A qué se refieren con eso...?"`
+`"...A causa de la lluvia,`
+` pensamos que sería difícil que todos los invitados regresaran a la casa de huéspedes,`
+` así que les ordené a los sirvientes que preparasen las habitaciones para visitas dentro de la mansión ."`
+`"...¿De verdaad? ¡Qué considerada!`
+` Tienen razón, sería descortés echarnos en medio de esta lluvia, ¿no creen?"`
+`"No podrías parar un poco..."`
+`"Sí.`
+` Recibimos órdenes de la señora, así que Kumasawa‐san, Kanon‐kun y yo estábamos preparando las habitaciones.`
+` ...Después, llegó la hora de la cena, y como Genji‐sama nos ordenó ir a la casa de invitados para llamar a los niños,`
+` Kanon‐kun fue en nuestro nombre."`
+`"Sí.`
+` En ese caso, ¿quizás Kanon‐kun se encontró con Maria de camino a la casa de invitados y le entregó el paraguas?"`
+`"...Uu.`
+` ¡¡No—es—así!!"`
+`La misma persona que había recibido el paraguas lo negó.`
+`{n}Rosa estaba confusa.`
+`Todo lo que quería hacer era darle las gracias a la persona que le había dejado el paraguas a Maria, pero no podía encontrarle.`
+`Y ella había pensado que preguntar así, mientras todos estaban reunidos para cenar, funcionaría inmediatamente...`
+`"...Entonces, ¿Natsuhi nee‐san?"`
+`"Lo siento.`
+` Después de nuestra "charla amistosa", mi dolor de cabeza era tan fuerte que he estado descasando en mi habitación.`
+` Por ello, no salí."`
+`"...¿Entonces quién?`
+` ¿George‐kun y los niños?`
+` ...Eso no puede ser."`
+`"No, no fuimos nosotros.`
+` Estuvimos viendo la televisión en la casa de invitados todo el tiempo."`
+`"De hecho, pensábamos que Maria simplemente había vuelto a la mansión contigo..."`
+`"Entonces Kanon‐kun vino, y nos preguntó si Maria estaba con nosotros. En ese momento, nos dimos cuenta por primera vez de que Maria no estaba en la mansión.`
+` En primer lugar, si hubiera sido yo, antes que dejarle un paraguas, le hubiera sujetado de la mano y la hubiera llevado bajo techo."`
+`Rosa estaba completamente desconcertada.`
+`{n}Uno por uno, los familiares y los sirvientes iban afirmando que no habían sido.`
+`{n}...A pesar de que era algo que nadie tendría que ocultar.`
+`Así, mediante el proceso de eliminación, el número de gente que podría haber sido no era muy grande.`
+`"Por supuesto, no fui yo.`
+` Justo después de que empezara a llover, visité la habitación de Kinzo, y estuve jugando con él al ajedrez hasta ahora."`
+`"...Lo que significa que tampoco fue su abuelo."`
+`"Esperen un segundo...`
+` ¿No está esto empezando a volverse un poco raro?`
+` ¿Quién falta?"`
+`"Entonces, ...¿quién?`
+` ...¿Genji‐san?`
+` ¿Eh?"`
+`"Ah, esperen un segundo, no me malinterpreten.`
+` No es como si estuviera buscando a un culpable o algo parecido.`
+` ¡Todo lo que quiero hacer, como madre, es darle las gracias a la persona que le dejó un paraguas a Maria en medio de la lluvia...!"`
+`...Dejar un paraguas a una niña deambulando en medio de la lluvia es algo para ser alabado, no escondido.`
+`...Aun así, nadie levantó la mano.`
+`...¿Por qué?`
+`Todo el mundo empezó a murmurar acerca de lo raro que esto se estaba volviendo...`
+`"...Tranquilízate, Rosa.`
+` ¿Por qué no solo preguntamos a la persona que recibió el paraguas?"`
+`Era una idea que todos coincidían en que tenía sentido.`
+`{n}Todos estaban preguntándose porque simplemente no le había preguntado a Maria, quien había recibido el paraguas.`
+`Sin embargo, Rosa se mordió el labio inferior.`
+`{n}Después de todo, ella ya sabía cómo respondería Maria si le preguntaba.`
+`"¡Es cierto!`
+` Tal como Rudolf‐kun dijo.`
+` ¡Maria‐chan, dile a tu tío!`
+` ¿Quién te prestó ese paraguas?"`
+`"¡{f:5:Beatrice}!"`
+`El comedor fue envuelto en silencio durante un instante, pero éste fue roto rápidamente y luego fue envuelto por risas.`
+`"Jajajaja.`
+` Ya veo, {f:5:Beatrice}, la bruja del bosque, sintió compasión y le dejó un paraguas.`
+` Qué bonita historia.`
+` Ahí lo tienes, Rosa."`
+`"...Nn...`
+` ...Nnnn."`
+`Rosa no parecía convencida.`
+`{n}...A pesar de que ella solo quería dar las gracias por el paraguas, ¿por qué todo tenía que estar cubierto por humo...?`
+`"¡Uu!`
+` Tal como dijo el tío Krauss.`
+` ¡{f:5:Beatrice} me lo dejó!`
+` ¡Uu‐uu!"`
+`"Jajajajaja...`
+` ¿No es eso genial?`
+` Estoy celoso de tanta pureza.`
+` ¿Ustedes qué piensan?`
+` Jajajaja..."`
+`Krauss se reía on un rostro que claramente reflejaba estar burlándose de ella,`
+` pero Maria, aparentemente sintiendo que su afirmación estaba siendo creída, estaba eufórica.`
+`"...¿Qué diablos está pasando?`
+` ¿Realmente apareció una bruja y le dejó un paraguas?"`
+`Jessica me preguntó en una voz tan baja que no llegaría hasta Maria, quien se sentaba enfrente de mí.`
+`"¿Has visto a Maria bromear alguna vez?"`
+`Si hubiéramos oído esa historia salir de la boca de ese viejo bastardo, nos lo hubiéramos tomado como otra broma.`
+`...Sin embargo, era difícil explicarlo así cuando lo decía Maria. Esto se estaba volviendo realmente desconcertante...`
+`"Para nada.`
+` Maria siempre ha sido franca y seria.`
+` ¿No se ha creído siempre las bromas que, se suponía, eran mentiras obvias?`
+` Ni siquiera la he oído nunca decir una broma."`
+`Tía Rosa probablemente sabía eso mejor que nadie.`
+`{n}Parecía que debido a esta situación, Rosa ya no tenía ni idea de qué estaba pasando.`
+`"Así que, si Maria dice que tomó prestado un paraguas de {f:5:Beatrice}, ¿realmente fue {f:5:Beatrice}?"`
+`"...Estamos hablando de Maria, así que no creo que sea ni una metáfora, ni una broma.`
+` ...Sería mejor que nos tomáramos lo que dice literalmente."`
+`"¿Entonces qué?`
+` ¿Estás diciendo que Genji‐san u otra persona se puso ese lujoso vestido del retrato y le dio el paraguas a Maria?"`
+`"...No estoy segura de eso...`
+` En realidad, eso es lo que yo quiero saber."`
+`Jessica se encogió de hombros medio en broma, pero su expresión no era completamente de broma.`
+`Una vez retirados los aperitivos y que Gohda hubiera presumido su amplio conocimiento, la comida comenzó.`
+`Una serie de charlas casuales irrumpieron aquí y allá, pero parecían distantes de alguna manera. Fue una cena silenciosa, que no daba respiro del sonido instrusivo de la lluvia que se colaba en el comedor.`
+`Kumasawa y Shannon, empujando el carrito de servicio, se encontraron a Genji y a Kanon en su camino a la cocina.`
+`"...Genji‐san, ¿fue usted quien le dejó un paraguas a Maria‐sama?"`
+`"...¿Un paraguas?`
+` ¿De qué está hablando?"`
+`"Sí.`
+` ...Oí que cuando empezó a llover, Maria‐sama estaba sola en el jardín de rosas.`
+` ...Y parece que alguien por allí le dejo un paraguas,`
+` pero no sabemos quién fue."`
+`"...No fui yo.`
+` Después de todo, pensaba que Maria estaba en la casa de invitados.`
+` Cuando Battler‐sama la encontró, ya estaba sosteniendo un paraguas blanco."`
+`"Mis disculpas, pero tampoco fui yo..."`
+`"...Entonces, ¿no creerán,`
+` ...que tal vez,`
+` el amo...?"`
+`Todo el mundo, tanto en el comedor como en el lugar en que se encontraban, había declarado que no habían sido ellos.`
+`...Lo que significaba que solo quedaba Kinzo, pero...`
+`"Quizás estaba andando por el pasillo por alguna razón, cuando, por coincidencia, vio a Maria‐sama sola en el jardín sin ni siquiera un paraguas..."`
+`"...El amo...`
+` no aprecia en particular a Maria‐sama."`
+`"Estoy de acuerdo.`
+` ...No me puedo imaginar, que, por el bien de Maria‐sama estuviese dispuesto a bajar las escaleras para llevarle un paraguas."`
+`"Oh, cielos... qué problemático.`
+` Entonces, ¿eso significa que quien dejó el paraguas a Maria‐sama fue realmente {f:5:Beatrice}‐sama?`
+` Jo‐jo‐jo‐jo..."`
+`Kumasawa rió, al igual que los familiares habían hecho en el comedor.`
+`{n}...No podía pensar en ninguna otra manera de romper el velo de humo que envolvía esta situación.`
+`Justo en ese momento, el sonido de unas manos aplaudiendo varias veces recorrió el corredor.`
+`Todos se dieron vuelta a la vez para ver que era Gohda, que estaba saliendo del comedor.`
+`"Suficiente, todos ustedes.`
+` A la hora de servir una cena, una buena coordinación a la hora de poner la mesa es esencial.`
+` Por favor, ocúpense inmediatamente de servir la sopa.`
+` Genji‐san, las mujeres están en medio de una importante tarea, así que agradecería que no las interrumpieras."`
+`"..."`
+`Kanon fulminó a Gohda con la mirada por ser maleducado con Genji, a quien él respetaba profundamente.`
+`Genji, viendo esto, le dio una palmada en el hombro a Kanon, como si quisiera darle una advertencia.`
+`Kanon se sacudió la cabeza a regañadientes, y su expresión volvió a la normalidad.`
+`"...Obedece la orden de Gohda.`
+` Démonos prisa en preparar la mesa."`
+`"Vamos, no hay tiempo.`
+` ¡No se queden ahí parados!`
+` ¡Apresúrense...!"`
+`Gohda le quitó de las manos a Shannon el carrito de servicio y lo empujó con paso seguro hacia la cocina.`
+`"...En ese caso, permítanos volver a la cocina.`
+` ...Después de todo, la paciencia de Gohda‐san es más bien pequeña, ...jo‐jo‐jo."`
+`"S‐si me disculpan a mí también..."`
+`Kumasawa y Shannon se fueron.`
+`{n}Solo Genji y Kanon permanecieron.`
+`{n}A través de la ventana, la oscuridad de la noche lluviosa podía ser vista, acompañada por algún rayo ocasional.`
+`"...Genji‐sama.`
+` ¿Realmente {f:5:Beatrice}‐sama ha...`
+` ...regresado?"`
+`"...No lo sé."`
+`"...¿Deberíamos de informarle al amo?"`
+`"Eso no es necesario.`
+` ...Si ella verdaderamente ha vuelto, entonces tarde o temprano aparecerá por voluntad propia ante el amo.`
+` ...Además, es una persona muy voluble.`
+` Sería una pérdida de tiempo informar al amo solo para descubrir que ella no aparece..."`
+`"...Me pregunto si esto significa que la ceremonia del amo ya ha comenzado."`
+`"...Probablemente.`
+` Sin embargo, eso no nos concierne a muebles como nosotros.`
+` ...Debemos devolver el favor que recibimos del amo, hasta nuestros últimos momentos."`
+`"...Sí.`
+` ...Ése es el deber...`
+` ...de un mueble."`
+`Los truenos retumbaron una vez más.`
+`A excepción del instante en que los rayos iluminaban el cielo, todo lo que podía ser visto fuera de la ventana era la oscuridad de la noche.`
+`Al igual que los humanos mandan mientras el sol está en lo alto, el tiempo en que la luna lo está es dominado por aquello que no es humano.`
+`La oscuridad de la noche que ahora rodeaba a Rokkenjima era dominada, no por la familia Ushiromiya, sino por otro amo.`
+`¿Se apiadó acaso este Amo de Maria cuando estaba sola y empapada por la lluvia en el jardín de rosas, y le dejó un paraguas...?`
+`Kanon miró las luces del jardín de rosas, débilmente visibles a través de la ventana.`
+`{n}Las tenues luces no eran suficientes como para iluminar los alrededores.`
+`Al mirar a esas luces sentía como si estuviera haciendo contacto visual con la bruja, y Kanon se vio obligado a apartar la mirada.`
+`...Si no lo hacía, le parecía que sus ojos iban a ser absorbidos por esa luz...`
+`¿Podría también ser por el clima?`
+`{n}A menudo oyes historias acerca de cómo la presión atmosférica puede influenciar el humor y salud de las personas.`
+`Por un tiempo hasta ahora, todo el mundo había estado esforzándose por aliviar la atmósfera depresiva,`
+` pero cualquier conversación se cortaba rápidamente y, al final, el comedor se quedaba enterrado por el sonido de la lluvia.`
+`El postre era una especie de tarta de chocolate acompañado con jarabe de pera.`
+`Gohda‐san explicó con entusiasmo la receta en cuanto el plato fue servido, pero rápidamente me olvidé de los detalles.`
+`El invitado de honor, el abuelo, estaba ausente, el clima era horrible, y la persona que le había dejado el paraguas a Maria seguía siendo un misterio.`
+`Cuando la cena acabó, nadie se sentía en lo más mínimo descansado.`
+`...Ahora era demasiado tarde, pero me di cuenta de que tristemente el sabor no es lo único importante en una comida. La atmósfera también era un factor crítico.`
+`Gohda‐san, el supuesto director de esta pieza musical llamada cena, hizo todo lo que pudo por darle vida al comedor,`
+` lanzando pequeñas bromas aquí y allá, pero aparentemente ninguna tuvo éxito.`
+`Después de tomar los pedidos de café, té, y zumo de naranja, se fue a la cocina.`
+`En cuanto desapareció, el tío Krauss habló.`
+`"...Bueno, bueno.`
+` Cuán verdaderamente tediosa ha sido esta cena que, aun cuando Gohda se esforzó tanto por crear, ha sido tan pobremente recibida."`
+`"...Sí, en serio.`
+` Se siente como si nada pudiera saber bien hoy. Simplemente es ese tipo de atmósfera."`
+`"Jo.`
+` Me gustaría saber porqué te sientes así.`
+` Más tarde, permíteme, como tu hermano mayor, animarte."`
+`Tía Eva hizo una ligera mueca.`
+`{n}...Ya había oído que no se llevaba especialmente bien con el tío Krauss, pero ahora podía sentirlo claramente.`
+`Cuando miré alrededor, me di cuenta de que mi padre y la tía Rosa también estaban haciendo una mueca.`
+`En cualquier caso, parecía que algo más, aparte del tiempo, les preocupaba a todos...`
+`"...Tanto la tía Eva como mi padre,`
+` ...no se ven demasiado contentos."`
+`"¿En serio?`
+` Yo no lo creo."`
+`Le pregunté a la tía Natsuhi, que se sentaba a mi derecha, ...pero parecía que también estaba de mal humor.`
+`Me contestó bruscamente como si no estuviera en lo más mínimo interesada.`
+`"Bueno, nuestra conversación de mayores se complicó un poquito.`
+` No es algo que los chicos como ustedes deban preocuparse, Battler‐kun.`
+` Jajajajaja,`
+` ¿no es verdad? ¿Natsuhi‐san? ¿Kyrie‐san?"`
+`Tio Hideyoshi se rió mientras hablaba, pero sin su chispa habitual,`
+` así que apenas me podía imaginar lo complicada que su conversación de mayores se había vuelto.`
+`Además de eso, incluso tía Natsuhi y Kyrie‐san, la gente a quien había dirigido el comentario le ignoraron como si no hubieran oído nada.`
+`...No sabía qué tipo de conversación habían tenido mientras los niños no estábamos,`
+` pero me recordó a cómo mi padre había dicho que le dolía el estómago al llegar a la mansión.`
+`La conferencia familiar puede haber sido una alegre reunión para los niños, pero era definitivamente diferente para los adultos...`
+`Cuando el tío Hideyoshi fue ignorado por los otros adultos y un incómodo silencio se asentó sobre la habitación, Kyrie‐san habló.`
+`"...Estábamos hablando de cómo resultarían las carreras de los niños.`
+` ¿Qué planes tienes para el futuro, Battler‐kun?`
+` ¿Irás a la universidad sin pensarlo demasiado?`
+` ¿No sería eso un poco descorazonador como partida a la larga carrera de la vida?"`
+`"¡Oye! Espera un momento...`
+` Kyrie‐san, si empiezas a hablar de algo así en el medio de una comida, no se digerirá bien y todos nos constiparemos, ¿ver~dad?"`
+`"¡Wajajaja...!`
+` ¡Eso es, eso es! ¡Estábamos hablando de las carreras de Jessica‐kun y Battler‐kun!`
+` ¡No puedes tomarte el futuro demasia'o en serio!`
+` Wajajaja..."`
+`Hideyoshi estuvo de acuerdo animadamente, como si realmente hubieran estado hablando de eso, aunque eso era probablemente erróneo.`
+`Kyrie‐san obviamente trataba de evitar algún tema.`
+`{n}Sin embargo, si ella había determinado que éste era el mejor curso de acción por ahora, entonces probablemente estaba en lo correcto.`
+`Tomando eso en cuenta, pondré de lado mis sospechas acerca de la causa del malhumor de la tía Eva y mi papá...`
+`Finalmente, el carrito regresó, cargado de café y té.`
+`Kumasawa‐san y Shannon‐chan los sirvieron a todos.`
+`{n}Entonces Gohda‐san explicó que, con esto, la cena de esta noche había acabado.`
+`Si hubiera podido comer en un ambiente más animado, ésta podría haber sido la mejor cena de mi vida.`
+`Era una lástima que la mejor cena no haya podido ser comida bajo las mejores condiciones.`
+`"¡Uu!`
+` George onii‐chan, ¿ya terminó la cena?`
+` ¿Terminó?"`
+`"Sí.`
+` Ya acabamos."`
+`"Así no se comporta una señorita.`
+` Quédate en tu asiento, y bébelo con calma."`
+`"...Uu."`
+`Parecía que Maria estaba muy emocionada con los estruendos ocasionales de los truenos.`
+`{n}Quizás quería terminar de comer rápido para correr hacia la ventana.`
+`{n}Llevaba un rato moviéndose inquietamente, esperando a que acabara la comida.`
+`...Algunas personas temen a los truenos, mientras que otras los encuentran interesantes, y por lo visto Maria pertenecía al segundo grupo.`
+`Por ello, cuando oyó a Geoge‐aniki decir que la cena había acabado, una gran sonrisa apareció en su cara.`
+`Entonces se levantó de su asiento, y de debajo de la silla sacó su bolso, no habiéndolo dejado ni siquiera mientras estaba comiendo, y empezó a rebuscar en su interior.`
+`Nadie parecía particularmente preocupado con este comportamiento...`
+`"...¿Qué es...`
+` eso?`
+` ¿de dónde lo sacaste?"`
+`George fue el primero en darse cuenta.`
+`{n}Mientras él hablaba, Battler también lo notó.`
+`Cuando miraron, se dieron cuenta que lo que Maria estaba sosteniendo era un hermoso sobre de estilo occidental.`
+`En la parte frontal del sobre, el emblema de la familia Ushiromiya —el Águila de un Ala— estaba impresa en oro.`
+`Además, el hecho de que estuviera sellada con cera rojo oscuro dejaba claro que esto no era algo que Maria podría haber traído como una broma.`
+`"...Maria‐chan, ¿qué es esto?"`
+`Parecía que Natsuhi también se había dado cuenta de la peculiaridad del sobre que Maria estaba sosteniendo.`
+`{n}Ya que su voz sonaba demasiado seria para estar amonestando a un niño pequeño, los otros familiares a su alrededor también se habían dado cuenta.`
+`"¿Qué pasa, Natsuhi nee‐san?"`
+`"...Eso...`
+` ¿qué es?"`
+`"Maria...`
+` ¿de dónde lo has sacado...?"`
+`"Ese sobre tiene el...`
+` ...de Kinzo‐san..."`
+`Cuando Nanjo murmuró eso, incluso los niños pudimos entender por qué todo el mundo parecía estar congelado.`
+`El sobre que estaba sosteniendo Maria era uno de los sobre hechos por encargo para uso privado del líder de la familia Ushiromiya.`
+`...En otras palabras, solo podía significar una cosa.`
+`{n}Este sobre contenía un mensaje de Kinzo.`
+`"Jo...`
+` ...¿Qué está haciendo un sobre como éste aquí...?"`
+`"...Parece, ...parece que algo interesante ha salido a la vista."`
+`"...¡V‐vamos, déjame mirarlo...!"`
+`"¡¡Uu!!`
+` ¡De ninguna manera, Maria lo leerá!`
+` ¡¡A Maria le dijeron que se lo leyera a todos!!"`
+`Tío Hideyoshi intentó arrebatar el sobre de las manos de Maria, pero lo protegió como si lo abrazara, y no lo soltaba.`
+`"Hideyoshi nii‐san, no deberías quitarle cosas a una niña por fuerza bruta.`
+` ...Maria‐chan, ¿de dónde sacaste ese sobre?"`
+`"¡Uu!`
+` Lo recibí de {f:5:Beatrice} cuando me dio el paraguas.`
+` ¡Le dijo a Maria que lo leyera cuando la cena hubiese acabado!`
+` ¡La bruja nombró a Maria su me—`
+` men—`
+` "mensajera"!`
+` ¡Uu!"`
+`"¿Mensajera...?`
+` Ijijiji, a la bruja de la isla sí que le gusta molestarnos."`
+`Battler intentó tomárselo a broma, pero nadie le siguió.`
+`"...M‐me pregunto qué habrá escrito en su interior. ¿Maria‐chan...?"`
+`"Uu.`
+` ¡Leer!`
+` ¡Uu!"`
+`Maria abrió el sobre de forma casual.`
+`...Solo estaba sellado con cera, así que solo tuvo que quitar la cera para abrirlo.`
+`...El lacre cayó sobre la mesa.`
+`{n}Hideyoshi lo recogió apresuradamente y lo miró fijamente.`
+`Entonces lo puso en el centro de la mesa, donde Natsuhi, Kyrie, y Nanjo lo miraron.`
+`En el lacre estaba impreso el Águila de un Ala, el emblema de la familia Ushiromiya, y también conocido como el emblema personal de Kinzo.`
+`"...Éste es el emblema personal del líder de la familia..."`
+`"...Lo sé porque he recibido cartas de Kinzo‐san en el pasado.`
+` Sin lugar a dudas, éste es el lacre de Kinzo‐san."`
+`"Pero, ¿no podría ser que hubiera varios sellos idénticos en la mansión?`
+` Por ejemplo, si hubiera algún tipo de sello para lacres ¿no podría alguien aparte de Kinzo‐san haberlo sellado?"`
+`"No, Kinzo‐san solía usar siempre un anillo en su dedo, su "Prueba de Liderazgo de la familia Ushiromiya", cuando sellaba la cera.`
+` Esta forma y diseño complejo es definitivamente el sello de Kinzo‐san..."`
+`"No tiene porqué ser necesariamente así.`
+` Cualquier persona de la familia debe de haber recibido una carta de papá al menos una vez.`
+` No podemos eliminar la posibilidad de que alguien, usando esa cera como modelo, creara un falso sello para hacerse pasar por Padre."`
+`"Estoy de acuerdo con Aniki.`
+` No importa cuánto se parezca este sello al de papá, no podemos probar que sea el verdadero.`
+` Por lo tanto, esto no prueba que el sobre provenga de papá."`
+`"Pienso lo mismo.`
+` No puedo aprobar que decidamos arbitrariamente que esta carta es de Padre por tan solo el lacre.`
+` ¡Doctor Nanjo, ¿le importaría abstenerse de hablar palabras tan vagas...?!"`
+`"...Mis disculpas...`
+` Hablé más de la cuenta..."`
+`Uno tras otro, los hermanos, desde Krauss hacia abajo, rechazaron la afirmación de Nanjo, diciendo que, el sobre que sostenía Maria no tenía por qué haber sido necesariamente enviado por Kinzo.`
+`Estaban asustados.`
+`Las intenciones de Kinzo estaban escritas ahí,`
+` y temían desde el fondo de sus corazones que pudiera ser algún anuncio decididamente desfavorable con respecto a la herencia.`
+`"...Maria...`
+` La persona que te dió el sobre es la misma que te dió el paraguas, ¿cierto...?"`
+`"¡Uu!"`
+`"¡No sé lo que "uu" significa!`
+` ¡¿Es eso verdad?!"`
+`"Uu...`
+` ...Sí.`
+` Uu."`
+`"Así que, en otras palabras,`
+` ...la bruja,`
+` {f:5:Beatrice}, ¿fue quien te dio el sobre junto al paraguas...?"`
+`"¡Uu!"`
+`Maria asintió violentamente.`
+`"...E‐estoy de acuerdo con mi marido.`
+` Es una dudosa carta entregada por una persona sospechosa.`
+` Ni siquiera es digna de ser leída."`
+`"No hay nada malo con solo leerla, ¿cierto?"`
+`Battler se lo dijo a Jessica en voz baja, intentando hacerse el duro, pero Natsuhi le oyó claramente y le miró con ojos amenazadores.`
+`"Y‐y entonces,`
+` emm,`
+` ...{f:5:Beatrice} te dijo que leyeras la carta cuando hubiese concluido la cena, ¿cierto, Maria?"`
+`"¡Uu!"`
+`"...Muy bien, escúchenme todos.`
+` Éste no es el sobre del Abuelo, es de {f:5:Beatrice}.`
+` ¿A quién le importa quién lo escribió, por qué no podemos escuchar su contenido antes de decidir?"`
+`"E‐... eso es cierto.`
+` Incluso si Padre no escribió necesariamente esto, me sigue preocupando su contenido.`
+` ...¡Maria‐chan, siento haber intentado quitártelo a la fuerza!`
+` Lo siento, así que, ¿lo leerás en alto delante de todos?"`
+`"...Maria.`
+` Léelo."`
 `"Uu."`
-`As all of the relatives stared fiercely at Maria, she spread the letter open with a rustle...`
-`"......Do you think it really is Dad's letter?"`
-`"Impossible.`
-` Whenever Father has announced something to us in the past, if he didn't do it directly, he would always send Genji‐san, right?`
-` ......I can't believe that he would use such a joke‐like approach."`
-`"That's right.`
-` Maria, a messenger?`
-` That's seriously not his style...`
-` Rosa, this must be Maria‐chan trying to surprise us with some kind of hidden talent, right...?"`
-`"I..................M‐Maria's not a kid capable of something so clever."`
-`"Reading.`
+`Mientras todos los familiares miraban a Maria con fiereza, ésta extendió la carta con un crujido...`
+`"...¿De verdad piensas que la carta es de papá?"`
+`"Imposible.`
+` Siempre que Padre ha anunciado algo en el pasado, aun cuando no lo hacía directamente, siempre ha enviado a Genji, ¿verdad?`
+` ...Me cuesta creer que usara un método tan similar a una broma."`
+`"Tienes razón.`
+` ¿Maria, una mensajera?`
+` Ése ciertamente no es uno de sus pasatiempos...`
+` Rosa, ¿podría ser que todo esto no es más que un intento de sorprendernos por parte de Maria‐chan, con algún tipo de talento oculto...?"`
+`"...M‐Maria no es realmente el tipo de niña capaz de hacer algo tan ingenioso."`
+`"Leer.`
 ` Uu."`
-`The words came out of Maria's mouth, but for some reason it felt like her voice was different than usual.`
-`Everyone went suddenly silent...`
-`"Welcome to Rokkenjima, ladies and gentlemen of the Ushiromiya family.`
-` I am {f:5:Beatrice}, the alchemist for this family, under the employ of Kinzo‐sama."`
-`".........How absurd...!"`
-`"Quiet!"`
-`"I have served him for many years in accordance with our contract, but today, Kinzo‐sama has announced the termination of that contract.`
-` Therefore, I ask that you acknowledge my resignation from the position of family alchemist as of today."`
-`"......How foolish... What nonsense...!"`
-`"I, I can't stand to listen to it...!"`
-`"And now, there is one part of the contract that I must explain to you all.`
-` I, {f:5:Beatrice}, lent Kinzo‐sama a vast quantity of gold under certain terms.`
-` One of these terms specifies that all the gold is to be returned to me upon the termination of the contract.`
-` Furthermore, I am to receive everything of the Ushiromiya family as interest."`
-`"R‐ridiculous!!"`
-`"...I‐it's been ridiculous from the very beginning..."`
-`"So it's basically one of those things, right?`
-` Just like one of those contracts with the devil you always hear about?`
-` And, the contract has expired, so she's come to collect the interest.`
-` Is she trying to grab some retirement money for her old age or something?`
-` What a cheeky witch."`
-`"Battler‐kun, now is not the time to joke around..."`
-`Battler made a face as if to ask, "If I can't make fun of this, what can I make fun of?"`
-`At the same time, some of the adults' faces were pale, while others looked completely shocked.`
-`"After hearing this, you may feel as though Kinzo‐sama has been savagely ruthless.`
-` However, Kinzo‐sama did append a special clause to the contract so that you would have a chance to preserve your wealth and honor.`
-` If and only if that special clause is fulfilled, I will lose my rights to the gold and the interest for all eternity."`
-`"......A special clause...?"`
-`"Wh‐what is it...?!"`
-`{e:070:Special Clause.`
-`{f:5:Beatrice} has the right to collect the gold and accumulated interest upon the termination of the contract.`
-`However, if someone is able to discover the hidden gold of this contract,`
-` {f:5:Beatrice} must abandon these rights for all time.}`
-`{e:070:......The collection of the interest will proceed shortly, but if any one of you fulfills the terms of this special clause,`
-` I shall return everything, including the portion that has already been collected.`
-`Furthermore, as the first step in this collection of Kinzo‐sama's debt, I have taken possession of the "Ushiromiya Family Head's Ring", which signifies the passage of the Ushiromiya family headship from one individual to another.`
-`I ask that you confirm this for yourselves by examining the imprint on the wax seal.}`
-`".........You want me to accept this as real...?!`
-` That Dad would relinquish his ring is unthinkable...!"`
-`Krauss was staring at the sealing wax as though he was trying to burn a hole through it.`
-`{n}Eva and Rudolf were doing the same over his shoulder!`
-`"I, I did have the odd feeling that something was missing from Kinzo‐san's finger when we were playing chess........."`
-`"Doctor Nanjo!`
-` Don't say something so careless just because of a vague memory!"`
-`"We can't prove its authenticity here.`
-` The questions of whether Father really has handed over his ring, and whether this letter tells the truth, we can determine simply by asking him directly."`
-`"Th‐that's right.`
-` It's just as Kyrie‐san says..."`
-`".........Well now, I wonder.`
-` Will Kinzo‐san answer you...?`
-` After all, that person's thoughts are sometimes impossible to predict using common sense..."`
-`"In any event, this does not leave the realm of nonsense...!`
-` In the first place, the fiction of the gold is itself a deception by Father.`
-` If you want to talk about nonexistent gold, leave me out of it!"`
-`"But, you heard what the witch is saying, right?`
-` About how the headship and all of the assets would be handed over to the one who finds the gold?`
-` So, could this mean that {f:5:Beatrice}‐sama is Father's legal advisor, or maybe in charge of his funds...?"`
-`"W‐we can't possibly trust the kind of strange person who would entrust such a suspicious paper to a child!"`
-`"Aniki... Time for you to open up.`
-` Is it possible that someone you don't know is actually handling Dad's assets?!"`
-`"N‐no, that's impossible!`
-` As the agent to the head, I have total knowledge of all Father's assets!`
-` There shouldn't be anyone who can manipulate them without me knowing it!"`
-`"Then, there must be some assets that you do not have full knowledge of, mustn't there, Krauss nii‐san?"`
-`"Absurd, there's no such thing!"`
-`"..................Oh yes, there is.`
-` One asset of Father's that you know nothing about."`
-`"There is no way that something like that exists!!"`
-`"No, it does.`
-` ............That'd be Father's, no, {f:5:Beatrice}'s hidden gold!!"`
-`"Let's put things in order.`
-` In short, Dad has some trusted confidante that not even Aniki knows about.`
-` Furthermore, this person has always been in charge of watching and managing the gold.`
-` It's possible that this person is a dilettante of a very rich family who provided his financing in the first place through a mock devil's contract."`
-`".........Could it be that this confidante, this {f:5:Beatrice}‐san, is trying to test which of the sons and daughters is most fitting to be financed by her gold?"`
-`What Kyrie said was something that all of the siblings wanted clarified.`
-`Upon reflection, they realized that during the time Kinzo's strange epitaph had been displayed in the hall beneath the portrait of the witch,`
-` they had always whispered that the one who solved the puzzle would receive everything, ......yet no one had ever clearly stated it.`
-`It was just something that everyone had hoped might be true.`
-`{n}That had, right here, right now, been clearly expressed by {f:5:Beatrice}'s letter!`
-`It clearly specified that everything of the Ushiromiya family would be given to the one who found the gold.`
-`"Kinzo‐sama has already publicly displayed the location of the hidden gold within the epitaph under my portrait.`
-` The rules apply equally to all who can read the epitaph.`
-` If you discover the gold, I shall return everything to you."`
-`"Tonight, I ask that you enjoy your battle of wits with Kinzo‐sama to the fullest.`
-` I sincerely pray that this night will be both intellectual and elegant.`
-` {nobreak:—{f:5:Beatrice} the Golden}."`
-`"......Father, I know you can hear me!`
-` Please respond!"`
-`The door to Kinzo's study was being violently, violently beaten against over and over again like a percussion instrument.`
-`The screams coming from the other side were Krauss's, Rudolf's, and sometimes Eva's voices.`
-`It was the siblings, who were trying to intrude upon Kinzo's study to question him about the truth behind that mysterious letter.`
-`Kinzo was eating.`
-`An elegant tablecloth was set over the desk, and the fabulous dinner that had colored the table down in the dining hall was once again laid out.`
-`Kinzo continued his meal in silence.`
-`{n}...Shannon, taking away an empty plate, looked uncomfortably between the door being beaten on and Kinzo's face.`
-`"...............Everyone is calling for you, but...`
-`...what would you like me to do...?"`
-`"...Leave it.`
-` God values silence, and so do I during dinner."`
-`"............Should I silence them?"`
-`"There's no need.`
-` It does not even reach my ears."`
-`Kinzo coolly tasted his food.`
-`Genji quietly lowered his head and took a single step back.`
-`{n}...As he did, Kanon, who stood in reserve like a shadow behind and to the side of Genji, opened his mouth.`
-`".........Maria‐sama seems to have received a letter from {f:5:Beatrice}‐sama, so I assume they want to verify its authenticity."`
-`"...Hahahaha...`
-` .........That daredevil, she has started already?"`
-`"............Come, {f:5:Beatrice}.`
-` There's nothing lacking in the coins that have been wagered.`
-` Shall we enjoy this night to the fullest?`
-` ......I have no intention of losing.`
-` Your smile is mine for all eternity.`
-` If I could see it one more time, I wouldn't regret losing my wealth, my honor, or even my life."`
-`".........Well then, the roulette has begun to spin.`
-` Which pocket will the ball fall into?`
-` Noir? Rouge?`
-` Or house takes all?`
-` Come, you may begin, {f:5:Beatrice}.`
-` I'll show you the power of miracles once more...!"`
+`Las palabras salían de la boca de Maria, pero, por alguna razón su voz sonaba diferente a lo habitual.`
+`Todos se callaron súbitamente...`
+`"Bienvenidos a Rokkenjima, miembros de la familia Ushiromiya.`
+` Yo soy {f:5:Beatrice}, la alquimista asesora de la familia, bajo el contrato del mismo Kinzo‐sama."`
+`"...¡Qué estupidez...!"`
+`"¡Silencio!"`
+`"He estado sirviendo muchos años bajo su mando como se estipuló en nuestro contrato, pero el día de hoy, este contrato ha sido declarado como finalizado por Kinzo‐sama.`
+` En consecuencia, de ahora en adelante, por favor, acepten mi renuncia del puesto de alquimista asesora de la familia."`
+`"...¡Qué insensatez... qué tontería...!"`
+`"¡N‐no puedo aguantar escuchar esto...!"`
+`"Y ahora, hay una parte del contrato que debe ser explicada a todos los presentes.`
+` Yo, {f:5:Beatrice}, presté una enorme cantidad de de oro a Kinzo‐sama, bajo ciertas condiciones.`
+` Una de esas condiciones dicta que todo el oro habrá de ser devuelto a mí tras concluir el contrato.`
+` Además, también tengo el derecho de recibir todo lo perteneciente a la familia Ushiromiya como interés."`
+`"¡¡R‐ridículo!!"`
+`"...T‐todo ha sido ridículo desde el comienzo..."`
+`"Así que es uno de esos, ¿no?`
+` ¿No suena tal como el típico contrato con el diablo?`
+` De esos que, cuando se termina el pacto, vuelve a recoger los intereses.`
+` ¿Está intentando tomar algo de dinero de jubilación debido a su vejez o algo así?`
+` Que bruja más engreída."`
+`"Battler‐kun, no es un buen momento para bromear..."`
+`Battler hizo una cara como preguntando, "Si no me puedo reír de esto, ¿de qué me puedo reír?"`
+`Al mismo tiempo, algunas de las caras de los adultos estaban pálidas, mientras que otras estaban completamente paralizadas.`
+`"Al oír esto, lo más probable es que piensen que Kinzo‐sama ha sido increíblemente despiadado.`
+` Sin embargo, Kinzo‐sama añadió una cláusula especial con el objetivo de darles a ustedes una oportunidad de preservar su fortuna y honor.`
+` En el caso, y bajo ningún otro, de que esa cláusula especial sea cumplida, perderé por toda la eternidad mi derecho de recuperar el oro y los intereses."`
+`"...¿Una cláusula especial...?"`
+`"¡¿Cu‐cuál es...?!"`
+`{e:070:Cláusula especial.`
+`{f:5:Beatrice} posee el derecho a recuperar el oro y los intereses acumulados al ser concluido el contrato.`
+`Sin embargo, dado el caso de que alguien encuentre el oro oculto mencionado anteriormente en este contrato,`
+` {f:5:Beatrice} habrá de renunciar eternamente a este derecho.}`
+`{e:070:...La recaudación de intereses habrá de comenzar en breve, sin embargo, si siquiera una sola persona cumple esta cláusula especial,`
+` habré de devolver todo, incluyendo la porción que haya sido ya recaudada.`
+`Además, como primer paso de la recolección de la deuda de Kinzo‐sama, me he apropiado del "Anillo del Líder" de la familia Ushiromiya, el cual es símbolo de la herencia del liderazgo de un individuo a otro.`
+`Les pido que por favor lo confirmen ustedes mismos examinando el sello del lacre.}`
+`"...¡¿De verdad dice algo así...?!`
+` ¡Es impensable que papá renuncie a su anillo...!"`
+`Krauss estaba mirando ese lacre como si quisiese hacerle un agujero.`
+`{n}¡Y Eva y Rudolf estaban haciendo lo mismo sobre su hombro!`
+`"E‐estoy seguro de que tuve la extraña sensación de que algo faltaba en el dedo de Kinzo‐san cuando estábamos jugando al ajedrez..."`
+`"¡Doctor Nanjo!`
+` ¡No diga algo tan descuidado como eso por un simple recuerdo vago!"`
+`"No podemos probar su autenticidad aquí.`
+` Y solo podemos determinar si Padre realmente ha entregado su anillo y si esta carta dice la verdad preguntándole a él directamente."`
+`"E‐es verdad.`
+` Es tal como dice Kyrie‐san..."`
+`"...¿Realmente piensan...`
+` que Kinzo‐san se los dirá...?`
+` Después de todo, es una persona cuyos pensamientos son, a veces, imposibles de predecir usando el sentido común..."`
+`"¡En cualquier caso, esto sigue siendo un disparate...!`
+` La ilusión del oro en sí misma ya es una falsedad creada por Padre.`
+` ¡Si quieren hablar de la existencia de oro inexistente, déjenme fuera de la conversación!"`
+`"Pero, la bruja lo dijo, ¿verdad?`
+` ¿Sobre cómo la herencia y todos los bienes serían entregadas a la persona que encuentre el oro?`
+` Así que, ¿podría esto significar que {f:5:Beatrice}‐sama es la consejera legal de Padre, o tal vez alguien a cargo de su fortuna...?"`
+`"¡N‐no es posible fiarse de una extraña persona que confía un papel tan sospechoso como éste a una niña!"`
+`"Aniki... ya es hora de que digas la verdad.`
+` ¡¿Es posible que alguien cuya identidad tú desconozcas esté realmente manejando la fortuna de papá?!"`
+`"¡N‐no, eso es imposible!`
+` ¡Como el representante del líder, yo tengo pleno conocimiento de todos los bienes de Padre!`
+` ¡No debería haber nadie que pueda hacer eso libremente sin que yo me enterara!"`
+`"Así que, eso debe significar que hay bienes que no están a tu conocimiento, ¿no es así, Krauss nii‐san?"`
+`"Qué locura, ¡es imposible que algo así exista!"`
+`"...Oh sí que lo hay.`
+` Un bien de Padre del que no tienes conocimiento."`
+`"¡¡No hay forma de que algo como eso exista!!"`
+`"No, sí existe.`
+` ...¡¡Y sería el oro oculto de Padre, no, de {f:5:Beatrice}!!"`
+`"Permítanme dejar esto claro.`
+` En resumen, papá tiene algún confidente que Aniki ni siquiera conoce.`
+` Es más, esta persona siempre ha estado a cargo de vigilar y manejar el oro.`
+` Es posible que esta persona sea un diletante de una familia muy rica que proveyó su financiación en primer lugar bajo la apariencia de un pacto con el diablo."`
+`"...¿Podría ser que esta confidente, {f:5:Beatrice}‐san, esté intentando descubrir cuál de los hijos o hijas es más adecuado para ser financiado por su oro?"`
+`Lo que Kyrie dijo era algo que todos los hermanos querían aclarar.`
+`Pensándolo bien, se dieron cuenta que desde que el extraño epitafio de Kinzo había sido puesto en la entrada bajo el retrato de la bruja,`
+` habían siempre susurrado que quien lo resolviera, recibiría todo, ...y aún así, nadie realmente lo había dicho explícitamente.`
+`Era algo que todo el mundo había deseado que pudiera ser verdad.`
+`{n}¡Eso había, en este mismo instante y lugar, sido expresado por la carta de {f:5:Beatrice}!`
+`Especificaba claramente que todo lo perteneciente a la familia Ushiromiya sería entregada a aquél que encontrara el oro.`
+`"En cuanto al escondite del oro, Kinzo‐sama ya lo ha decretado en el epitafio bajo mi retrato.`
+` Las reglas aplican invariablemente para todos quienes puedan leerlo.`
+` Si consiguen encontrar el oro, les devolveré todo con absoluta seguridad."`
+`"Esta noche, espero disfruten al máximo su lucha de ingenio junto a Kinzo‐sama.`
+` Rezo desde el fondo de mi corazón que esta noche derive en una intelectual y elegante velada.`
+` {nobreak:—{f:5:Beatrice} la Dorada}."`
+`"...¡Padre, sé que puedes oírme!`
+` ¡Responde, por favor!"`
+`La puerta que daba al estudio de Kinzo estaba siendo golpeada una y otra vez como si fuera un instrumento de percusión.`
+`Los gritos provenientes del otro lado eran las voces de Krauss, de Rudolf y en ocasiones la de Eva.`
+`Eran los hermanos, que estaban intentando inmiscuirse en el estudio de Kinzo para preguntarle acerca de la verdad detrás de la misteriosa carta.`
+`Kinzo estaba comiendo.`
+`Un elegante mantel estaba dispuesto sobre la mesa, y la fabulosa cena que había coloreado la mesa abajo en el comedor estaba una vez más dispuesta.`
+`Kinzo continuó su comida en silencio.`
+`{n}...Shannon, retirando un plato vacío, miró de manera incómoda entre la puerta que estaba siendo golpeada y la cara de Kinzo.`
+`"...Todo el mundo lo está llamando, pero,`
+` ...¿Qué debería hacer...?"`
+`"...Déjalo.`
+` Tanto Dios como yo valoramos el silencio durante la cena."`
+`"...¿Debería silenciarlos?"`
+`"No hay necesidad.`
+` No alcanzan mis oídos."`
+`Kinzo degustó fríamente su comida.`
+`Genji bajó silenciosamente su cabeza y dio un solo paso hacia atrás.`
+`{n}...Mientras lo hacía, Kanon, que estaba esperando en reserva como una sombra detrás y al lado de Genji, abrió su boca.`
+`"...Maria‐sama ha recibido una carta de {f:5:Beatrice}‐sama, así que supongo que quieren verificar su autenticidad."`
+`"...Jajajajaja...`
+` ...Esa atrevida, ¿ya ha comenzado?"`
+`"...Ven, {f:5:Beatrice}.`
+` Nada les falta a las monedas que han sido apostadas.`
+` ¿Deberíamos disfrutar este juego al máximo?`
+` ...No estoy de humor para perder.`
+` Tu sonrisa será mía hasta el fin de los tiempos.`
+` Si pudiera verla una vez más, no lamentaría perder mi riqueza, mi honor, o incluso mi vida."`
+`"...Entonces, la ruleta ha empezado a girar.`
+` ¿En qué casilla caerá la bola?`
+` ¿Noir? ¿Rouge?`
+` ¿O se lo llevará todo la casa?`
+` Vamos, {f:5:Beatrice}, puedes empezar.`
+` ¡Te mostraré una vez más el poder de los milagros...!"`
