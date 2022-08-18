@@ -837,7 +837,7 @@
 `Kinzo continuó su comida en silencio.`
 `{n}...Shannon, retirando un plato vacío, miró de manera incómoda entre la puerta que estaba siendo golpeada y la cara de Kinzo.`
 `"...Todo el mundo lo está llamando, pero,`
-` ...¿Qué debería hacer...?"`
+` ...¿qué debería hacer...?"`
 `"...Déjalo.`
 ` Tanto Dios como yo valoramos el silencio durante la cena."`
 `"...¿Debería silenciarlos?"`
