@@ -1,6 +1,6 @@
 `"Así que... al décimo crepúsculo, al final de la travesía,`
 ` habrás llegado a la Tierra Dorada.`
-` Maria, en verdad que te concentras.`
+` Maria, en verdad eres diligente.`
 ` Tomar tantas notas de esto es increíble."`
 `"¡Uu!`
 ` ¡Maria olvida muchas cosas así que las escribe tal como son!`
@@ -16,7 +16,7 @@
 ` estaba tan emocionado que no podía parar.`
 ` ¡De verdad tocaba mi sentido de romance masculino!`
 `"Comencemos con la primera línea.`
-` Contempla el río de ayus atraviesa mi añorado pueblo natal.`
+` Contempla el río de ayus que atraviesa mi añorado pueblo natal.`
 ` ¿Dónde es que vivía el abuelo?"`
 `"Escuché que, antes de la guerra, la familia Ushiromiya tenía una mansión cerca de Odawara.`
 ` Así que, estamos buscando el río de ayus que fluye por Odawara, ¿verdad?"`
@@ -47,7 +47,7 @@
 `"Ummm,`
 ` ...si lo sigues río abajo, llegarás al océano."`
 `"¡Claro, llegarías a la desembocadura!`
-` Y luego la tercer línea del epitafio era "A medida que avances río abajo, verás una aldea."`
+` Y luego la tercer línea del epitafio era "a medida que avances río abajo, verás una aldea."`
 ` Por cierto, desde hace tiempo, las desembocaduras han sido puntos clave en transporte, y tienden a construirse ciudades grandes ahí.`
 ` Ése sería el siguiente punto clave."`
 `"Hmmmmmm.`
@@ -63,7 +63,7 @@
 ` Me gustan más los parques de diversiones.`
 ` ¡Uu!"`
 `"Ya veo. ¡Bien, bien!`
-` ¡Si encontramos el oro, el gran Battler-sama generosamente reservará un parque temático entero un día y te dejará jugar en él~!"`
+` ¡Si encontramos el oro, el gran Battler‐sama generosamente reservará un parque temático entero un día y te dejará jugar en él~!"`
 `"...Como sea, el Castillo de Odawara.`
 ` El oro oculto del Castillo de Odawara...`
 ` ¡¿Oho?!`
@@ -92,17 +92,17 @@
 `"Así que~, ¿qué significa eso?`
 ` Shannon‐chan, ¿también buscas el oro e intentas resolver el acertijo~?`
 ` ¡Eso nos convierte en rivales!"`
-`"N-no es como si me interesara el oro...`
-` Solo que... George-sama me dijo anteriormente de eso..."`
+`"N‐no es como si me interesara el oro...`
+` Solo que... George‐sama me dijo anteriormente de eso..."`
 `"Eso es porque llegamos a la misma conclusión hace dos años.`
 ` ¡Incluso buscamos un mapa para poder ubicarnos!"`
 `"Estaba como a cinco kilómetros al norte del Castillo de Odawara.`
 ` Definitivamente encontramos un lugar llamado Sogakishi allí."`
-`"......Sin embargo, después de eso no sabemos.`
+`"...Sin embargo, después de eso no sabemos.`
 ` La siguiente línea no dice dónde está oculta la llave en ese lugar.`
 ` Maria‐chan, ¿nos la podrías leer?"`
 `"...Uu.`
-` ......Ahí descansa la...`
+` ...Ahí descansa la...`
 ` llave a la...`
 ` Tierra Dorada."`
 `"¡Uu!`
@@ -115,7 +115,7 @@
 `"No estoy seguro...`
 ` Jamás he estado ahí, así que en verdad no sé, pero de acuerdo al mapa, está en las montañas.`
 ` Estoy casi seguro que en la base del Monte Asama."`
-`"......Hmmmm.`
+`"...Hmmmm.`
 ` Eso es algo irritante.`
 ` ¿No debería ser el rompecabezas para el lugar oculto de un tesoro un poco más preciso?`
 ` Siento que asumir que sea Sogakishi podría ser un error, en primer lugar."`
@@ -124,7 +124,7 @@
 ` Después de todo, la primer línea mencionaba su añorado pueblo natal."`
 `"...Shannon, le has dado mucho sake al abuelo, ¿o no?`
 ` ¿No te ha hecho escuchar historias de su pasado o algo así?"`
-`"......El amo casi nunca habla de su pasado.`
+`"...El amo casi nunca habla de su pasado.`
 ` ...Sin embargo, habla del Gran Terremoto de Kanto como si fuera historia de alguien más,`
 ` así que posiblemente vivía lejos del área de Kanto."`
 `"La familia Ushiromiya puede haber vivido en Odawara, pero la rama de la familia no estaba limitada a eso.`
@@ -143,7 +143,7 @@
 `Maria había sido excluida completamente de la conversación, y ahora estaba sentada con las mejillas infladas por el aburrimiento.`
 `"A fin de cuentas,`
 ` si no podemos decidirnos en el lugar de inicio para el juego de dados del oro, ni siquiera podemos comenzar a jugar."`
-`"...............¿Pero esperen?`
+`"...¿Pero esperen?`
 ` ¿No es sólo en las primeras cinco lineas que buscamos una llave?
 ` Incluso sin una llave, podríamos derribar cualquier puerta.`
 ` ¿No podemos dejarlas a un lado y comenzar con lo demás?"`
@@ -151,7 +151,7 @@
 ` No lo había pensado."`
 `"Bien, de todos modos estamos matando el tiempo.`
 ` ¡Escuchemos el resto del razonamiento de Battler!"`
-`"......Pero lo que viene se vuelve muy perturbador..."`
+`"...Pero lo que viene se vuelve muy perturbador..."`
 `Shannon‐chan frunció ligeramente.`
 `Tras mirar la libreta de Maria para recordar qué estaba escrito,`
 ` ...está bien, concuerdo.`
@@ -168,10 +168,10 @@
 ` ¡Sacrificios para revivir a {f:5:Beatrice}!"`
 `"...Ya veo, sacrificios para resucitar a la bruja...`
 ` Supongo que se puede interpretar así.`
-` Y como resultado, la bruja resucitará al noveno crepúsculo......`
+` Y como resultado, la bruja resucitará al noveno crepúsculo...`
 ` ...Esa última parte lo concluye todo."`
-`"............En el noveno crepúsculo, la bruja revivirá y nadie podrá quedar con vida.`
-` ......Así que al final todos mueren."`
+`"...En el noveno crepúsculo, la bruja revivirá y nadie podrá quedar con vida.`
+` ...Así que al final todos mueren."`
 `"Y con eso, el objetivo se cumple en el décimo crepúsculo.`
 ` Aunque con todos muertos, no se cómo alguien podría llegar a la "Tierra Dorada"."`
 `"...Parece ser que es cuestión de interpretación el si el viajero que tiene la llave es incluído en la parte de "nadie podrá quedar con vida"."`
@@ -182,7 +182,7 @@
 ` El problema es lo que sigue.`
 ` Dice que resucitará las almas de los muertos, ¿cierto?`
 ` ¿No creen que se refiere a todos los que murieron en las líneas anteriores?"`
-`".........Si lo dices así, la que sigue, la parte de la resurrección del amor perdido,`
+`"...Si lo dices así, la que sigue, la parte de la resurrección del amor perdido,`
 ` podría referirse a la pareja que fue separada al segundo crepúsculo."`
 `"Es cierto.`
 ` Y el cuarto se refiere al noveno crepúsculo.`
@@ -209,7 +209,7 @@
 ` ¡¡Uu!!`
 ` ¡¡Uu‐uu‐uu!!"`
 `"Ah, no debí...`
-` Lo siento... ¡solo es una broma!"`
+` Lo siento... ¡solo fue una broma!"`
 `Jessica se disculpó sacando la lengua, pero Maria no lo aceptó.`
 `Tomó su libreta de vuelta de mis manos y, abriéndola en otras páginas, trató de probar que la brujas existían.`
 `Esas páginas tenían ilustraciones coloreadas de brujas en ellas,`
@@ -221,7 +221,7 @@
 ` bailando toda la noche con una taza de té y una tetera que jamás se vaciaría sin importar cuánto té virtieras de ésta.`
 `Con un movimiento de sus báculos, las estrellas del cielo caerían en forma de caramelos,`
 ` y en las orillas de las calles crecerían flores que se convertían en dulces.`
-`......Para Maria, una bruja era un concepto único, el encarnamiento de un sueño mágico que la cautivaba.`
+`...Para Maria, una bruja era un concepto único, el encarnamiento de un sueño mágico que la cautivaba.`
 `Mientras crecía, fue ésta la última cosa que le dio esplendor a su aburrida y común vida diaria.`
 `Por eso es que Maria creía en las brujas.`
 `No quería que ese sueño fuera insultado.`
@@ -235,12 +235,12 @@
 `Jessica y yo rascamos nuestras cabezas y nos disculpamos.`
 `...Puede que no sea posible arreglar las cosas de nuevo como cuando se enojó frente al retrato.`
 `Maria no quería ser consolada fácilmente.`
-`{n}A diferencia de Jessica y de mí, que colgábamos las cabezas preguntándonos qué habíamos hecho, Shannon-chan abrió su boca tímidamente.`
+`{n}A diferencia de Jessica y de mí, que colgábamos las cabezas preguntándonos qué habíamos hecho, Shannon‐chan abrió su boca tímidamente.`
 `"Umm,`
-` .........Maria‐sama, ¿sabe...?`
+` ...Maria‐sama, ¿sabe...?`
 ` Hay una historia de fantasmas de {f:5:Beatrice}‐sama que los sirvientes cuentan entre ellos."`
-`"......¿Uu?"`
-`"¡A-ah, sí, así es!`
+`"...¿Uu?"`
+`"¡A‐ah, sí, así es!`
 ` Shannon, cuéntanos.`
 ` No la conozco, pero aparentemente es muy popular entre los sirvientes."`
 `"¿Qué es esto?`
@@ -248,9 +248,9 @@
 `"Sí.`
 ` Parece ser de antes de que naciéramos.`
 ` Yo la escuché también de mi madre."`
-`"......Sí.`
+`"...Sí.`
 ` Ha sido contada desde que la mansión se construyó en esta isla.`
-` ......Los sirvientes de aquel entonces decían que la mansión tenía dos amos, uno del día y uno de la noche."`
+` ...Los sirvientes de aquel entonces decían que la mansión tenía dos amos, uno del día y uno de la noche."`
 `La historia que Shannon contaba...`
 ` era igual que una típica historia de campamento.`
 `Si en el bosque habitaba una bruja,`
@@ -258,10 +258,10 @@
 `En algún punto, esta historia naturalmente brotó entre los sirvientes.`
 `"Aquellas puertas y ventanas que se suponía que habían cerrado, estarían abiertas cuando iban a comprobar.`
 ` Luces que definitivamente habían apagado, estarían prendidas,`
-` Y luces que definitivamente habían prendido, estarían apagadas.`
+` y luces que definitivamente habían prendido, estarían apagadas.`
 ` Cosas desaparecerían de donde estaban colocadas,`
 ` y cosas aparecerían donde nadie recordaba ponerlas allí."`
-`"......Cuando alguna de estas cosas sucedían, los antiguos sirvientes decían que la bruja había visitado la mansión, siendo invisible, y jugado bromas."`
+`"...Cuando alguna de estas cosas sucedían, los antiguos sirvientes decían que la bruja había visitado la mansión, siendo invisible, y jugado bromas."`
 `"¡Uu!`
 ` ¡Lo ven, existe!`
 ` ¡¡{f:5:Beatrice} existe!!"`
@@ -276,12 +276,12 @@
 `Ésta es una isla deshabitada.`
 ` Ya que la mansión es tan ventilada, caminar en una noche de tormenta sí que sería espeluznante.`
 `"Además, algunos sirvientes también han visto fuegos fatuos y mariposas brillantes merodear por ahí.`
-` ......Kanon‐kun también vio algo así cuando hizo guardia una noche."`
+` ...Kanon‐kun también vio algo así cuando hizo guardia una noche."`
 `"Y recientemente, los sirvientes han hablado de pasos extraños dentro de la mansión cerca de la media noche.`
 ` Se cuenta entre susurros que la {f:5:Beatrice}‐sama del retrato a veces se vuelve invisible y camina por la mansión."`
 `"...Ocurrió hace mucho tiempo,`
 ` pero yo también he escuchado esos pasos en mis guardias nocturnas."`
-`"......Wow.`
+`"...Wow.`
 ` Eso es aterrador..."`
 `"Ah, ...pero,`
 ` no tienen nada que temer, ¿saben?`
@@ -295,35 +295,35 @@
 `"Uu...`
 ` Su furia definitivamente caerá sobre Battler y Jessica...`
 ` Uu..."`
-`"¡Lo-lo-lo siento!`
+`"¡Lo‐lo‐lo siento!`
 ` ¡No quiero que su furia caiga sobre mí!`
 ` Pido perdón, Maria.`
 ` Por supuesto, también pido perdón a la bruja.`
 ` Lo siento, {f:5:Beatrice}‐sama, Por favor perdona estos disparates de un forastero."`
 `"También pediré disculpas.`
 ` Lo siento, {f:5:Beatrice}‐sama.`
-` .........¿Podrá la bruja perdonarnos ahora?"`
+` ...¿Podrá la bruja perdonarnos ahora?"`
 `"...Uu.`
 ` No sé.`
 ` La bruja es caprichosa, por lo que perdona cuando perdona, y no perdona cuando no perdona.`
 ` ¡Uu!"`
 `"Eso no está bien...`
-` Maria‐chan, ¿no tienes algún objeto mágico que pueda evitar que la furia de {f:5:Beatrice}‐sama caiga sobre Battler-kun y Jessica-chan?`
+` Maria‐chan, ¿no tienes algún objeto mágico que pueda evitar que la furia de {f:5:Beatrice}‐sama caiga sobre Battler‐kun y Jessica‐chan?`
 ` ¿Alguna clase de amuleto o algo por el estilo?"`
 `Al confiar en Maria, que estaba orgullosa de ser la que más sabía sobre las brujas, George fue capaz de revivir su autoestima.`
-`......Una vez más, estaba obligado a admirar su habilidad para reconfortar a los niños.`
+`...Una vez más, estaba obligado a admirar su habilidad para reconfortar a los niños.`
 `Luego de cruzar sus brazos y pensar seriamente sobre si había algún amuleto capaz de protejer a Jessica y yo de la ira de la bruja,`
 ` Maria empezó a dar vuelta las páginas de su libro.`
 `Yo había pensado que era un simple diario con varios dibujos,`
-` ......pero me percaté que tenía varias páginas que parecían sacadas de un libro de magia negra.`
+` ...pero me percaté que tenía varias páginas que parecían sacadas de un libro de magia negra.`
 `Estaba comparando varias de estas páginas, en donde estaban dibujados lo que parecían ser círculos mágicos.`
-`.........Parece ser que la magia negra no era un pasatiempo limitado exclusivamente al abuelo.`
-`Cuando finalmente encontró lo que buscaba;`
-` efusivamente cerró de un golpe su libro y lo lanzó a su bolso, y comenzó a buscar entre los contenidos de esa bolsa.`
+`...Parece ser que la magia negra no era un pasatiempo limitado exclusivamente al abuelo.`
+`Cuando finalmente encontró lo que buscaba,`
+` repentinamente cerró de un golpe su libro y lo lanzó a su bolso, y comenzó a buscar entre los contenidos de esa bolsa.`
 `Al parecer había muchas cosas amontonadas ahí.`
-`Tras un rato, empezó a sacar varios pedazos de basura (aunque éstos probablemente eran importantes objetos mágicos para Maria)`
+`Tras un rato, empezó a sacar varios pedazos de basura —aunque éstos probablemente eran importantes objetos mágicos para Maria—`
 ` y repetidamente los lanzó de vuelta al interior, diciendo que no era lo que buscaba.`
-`Todo esto era un tanto divertido, tal como cuando Dora○mon sacaba la herramienta equivocada.`
+`Todo esto era un tanto divertido, tal como cuando Doraemon sacaba la herramienta equivocada.`
 `Finalmente, parecía que había encontrado lo que buscaba.`
 `Con una cara inimaginablemente más agradable que la desagradable expresión que había tenido hasta ahora, ella nos mostró "eso" a Jessica y a mí.`
 `"¡Uu!"`
@@ -331,11 +331,11 @@
 `Parecía un brazalete hecho de un rosario plástico,`
 ` con una medalla con un motivo de escorpión unida a éste.`
 `O sea, uno usualmente encuentra accesorios baratos que corresponden a las constelaciones.`
-`Se sentía como la clase de premio que ganarías en esos juegos de grúa en un arcade.`
+`Se sentía como la clase de premio que ganarías en esos juegos de grúa en un centro de juegos.`
 ` Realmente parecía algo así.`
 `Había dos.`
 ` Probablemente uno para mí y otro para Jessica.`
-`......Sin embargo, considerando el extraño hecho que había dos de ellos, parecían objetos de manufactura barata,`
+`...Sin embargo, considerando el extraño hecho que había dos de ellos, parecían objetos de manufactura barata,`
 ` y era bastante complicado imaginárselos como objetos mágicos.`
 `"¿Nos estás dando estos a mí y a Battler?"`
 `"¡Uu!`
@@ -348,7 +348,7 @@
 `Había hecho a Maria enojar una vez más porque había hablado demasiado...`
 `Maria sacó su cuaderno nuevamente, y mientras mostraba varias páginas,`
 ` hablaba de cómo el escorpión poseía poder divino, y que había sido dibujado en círculos para repeler la magia desde tiempos antiguos.`
-`"......Ah, había escuchado sobre eso de algunos de los sirvientes jóvenes.`
+`"...Ah, había escuchado sobre eso de algunos de los sirvientes jóvenes.`
 ` Algo de cómo el escorpión es dibujado como un símbolo para repeler la magia en la hechicería..."`
 `"¡Huh, vaya...!"`
 `"¡Uu!`
@@ -377,19 +377,19 @@
 ` ¡Es realmente un amulento útil!"`
 `"Qué efecto más increíble.`
 ` Si Maria‐sama confía en este amuleto y lo recomienda, estoy seguro que es de confianza."`
-`Mientras Shannon‐chan juntaba sus manos, Maria hinchó su pecho.`
+`Mientras Shannon‐chan juntaba sus manos, Maria infló su pecho.`
 `Estaba con ánimo nuevamente.`
 `Si esto hace que tenga este buen ánimo, probablemente sería bueno que Maria dirigiera la conversación por un rato más.`
 `Ahora que lo pienso, ella no había compartido nuestro entusiasmo cuando conversábamos sobre dónde se encuentra el oro oculto, así que probablemente se aburrió un poco.`
-`Mientras comíamos las galletas que Kumasawa-san había horneado, Jessica y yo le preguntábamos una que otra cosa a Maria sobre magia negra.`
+`Mientras comíamos las galletas que Kumasawa‐san había horneado, Jessica y yo le preguntábamos una que otra cosa a Maria sobre magia negra.`
 `Maria respondía nuestras preguntas felizmente.`
-`Por cada una de ellas, George-aniki y Shannon-chan se mostraban asombrados y asentían con todo lo que ella decía.`
+`Por cada una de ellas, George‐aniki y Shannon‐chan se mostraban asombrados y asentían con todo lo que ella decía.`
 `El color de las nubes en el cielo se puso progresivamente más oscuro, pero los primos realmente disfrutaban conversar abiertamente tras un año de separación...`
-`"......Nn.`
+`"...Nn.`
 ` ¿Será que acabo de sentir una gota caer en mi frente?"`
 `"¿Eh?`
 ` ¿Qué pasa?"`
-`Mientras George-aniki se frotaba la frente, miró hacia el cielo.`
+`Mientras George‐aniki se frotaba la frente, miró hacia el cielo.`
 `Considerando el color del cielo y la pesadez del aire, no sería raro que empezaran a caer gotas de lluvia.`
 `También parecía que el viento soplaba más fuerte.`
 `"¿Uu?`
@@ -427,13 +427,13 @@
 ` Muchas gracias."`
 `"...Parece que realmente ya no te queda tiempo.`
 ` Está bien si te adelantas."`
-`Por su apariencia de prisa, George-aniki fue capaz de ver cuán poco tiempo libre le quedaba.`
+`Por su apariencia de prisa, George‐aniki fue capaz de ver cuan poco tiempo libre le quedaba.`
 `"Genji‐san es muy riguroso en cuanto al horario.`
 ` Si no estás en el lugar correcto en el momento correcto, puede ser muy estricto."`
 `"Nos vemos más tarde.`
 ` Da lo mejor en tu trabajo."`
-`"¡S-sí!`
-` ......Si me disculpan."`
+`"¡S‐sí!`
+` ...Si me disculpan."`
 `Tras hacer una respetuosa reverencia, Shannon‐chan corrió hacia el jardín de rosas.`
 `"Bien, volvamos a la casa de invitados.`
 ` Podemos ver televisión o algo por el estilo y relajarnos un poco."`
@@ -460,14 +460,14 @@
 ` Grabado en mis ojos."`
 `Justo en ese momento, Maria repentinamente dio un aplauso con sus manos.`
 `{n}Parecía como si hubiese recordado algo.`
-`"......La rosa de Maria...`
+`"...La rosa de Maria...`
 ` El tifón la mandará a volar.`
-` ......¡Uu!"`
-`"Oh, ¿esa moribunda rosa que George-aniki marcó con un listón?"`
+` ...¡Uu!"`
+`"Oh, ¿esa moribunda rosa que George‐aniki marcó con un listón?"`
 `Parecía que Maria recordaba dónde estaba esa rosa.`
 `Corrió a toda velocidad.`
 ` El resto de nosotros la siguió.`
-`"............¿Uu?`
+`"...¿Uu?`
 ` Uu."`
 `"¿Dónde estaba...?`
 ` Estoy segura que estaba por aquí."`
@@ -479,12 +479,12 @@
 ` Intentemos separarnos un poco para buscarla."`
 `"Suena bien.`
 ` Vamos por el poder de la cantidad."`
-`".........¿Hm?`
+`"...¿Hm?`
 ` ¿Qué pasa, Maria?"`
 `Mientras nos separábamos para buscar, Maria se sujetó de mi chaqueta con una cara triste.`
-`......Era como si su intención fuese evitar que fuéramos a otro lugar.`
+`...Era como si su intención fuese evitar que fuéramos a otro lugar.`
 `"¿Qué sucede, qué pasó?"`
-`"......Uu.`
+`"...Uu.`
 ` La rosa de Maria está aquí.`
 ` ¡Está aquí...!"`
 `"Pero en realidad no está, ¿no...?`
@@ -497,15 +497,15 @@
 ` ¡¡Bús—quen—la!!`
 ` ¡¡Uuu!!"`
 `Maria pisoteó el suelo irritada.`
-`......Ella había señalado que éste era el lugar y dijo que definitivamente estaba ahí, pero no lo estaba.`
+`...Ella había señalado que éste era el lugar y dijo que definitivamente estaba ahí, pero no lo estaba.`
 `Dicho esto, Maria se enojó cuando nos separamos para buscarla en otros lados.`
 `...No teníamos idea de qué hacer.`
 `Por un rato, deberíamos estar con Maria,`
 ` y pretender buscar en este arbusto de rosas.`
-`"......Uu.`
+`"...Uu.`
 ` ¡Uu...!`
 ` No está.`
-` ......¡No está!`
+` ...¡No está!`
 ` ¡No está!`
 ` ¡¡Uuu!!"`
 `Quizás ella estaba diciendo que debería estar ahí pero no estaba.`
@@ -541,7 +541,7 @@
 ` ¡¡Es—tá—a—quí!!`
 ` ¡¡Battler no cree!!`
 ` ¡¡Uu‐uu!!"`
-`"¡Por última vez, ¿podrías parar con esa estupidez del "uu‐uu"?!`
+`"¡Por última vez, ¿podrías parar con eso del "uu‐uu"?!`
 ` ¡¡Mamá la buscará, así que quédate callada!!"`
 `Estaba un tanto asombrado de ver a la tía Rosa, a quien siempre había visto como alguien gentil, enojarse.`
 `Tía Rosa empezó a buscar también, así que estuvimos con ella durante un rato,`
@@ -563,14 +563,14 @@
 ` ¡¡Está aquí pero no está!!`
 ` ¡¡Uu‐uu‐uu!!"`
 `"¡Entonces alguien la debió haber arrancado!`
-` ¡¡De todos modos, deja ya de hacer ese "uu-uu"!!"`
+` ¡¡De todos modos, deja ya de hacer ese "uu‐uu"!!"`
 `"¡¡Uu‐uu‐uu!!`
 ` ¡¡¿Quién sacó la rosa de Maria, quién fue?!!`
 ` ¡¡Devuélvela, devuélvela!!`
 ` ¡¡Uu‐uu!!`
 ` ¡¡¡Uu‐uu‐uu‐uu!!!"`
 `"¡¡¿Cómo quieres que sepa?!!`
-` ¡¡Detente, deja de decir "uu-uu"!!"`
+` ¡¡Detente, deja de decir "uu‐uu"!!"`
 `Tía Rosa cacheteó la mejilla izquierda de Maria con su palma.`
 `{n}En ese momento, Maria quedó anonadada en silencio.`
 `Por supuesto, fue solo por un instante.`
@@ -587,11 +587,11 @@
 `Esta vez ella no se calló.`
 `{n}Se atragantó mientras empezaba a llorar, y luego a gritar cada vez más alto...`
 `Tía Rosa estaba notoriamente irritada, y levantó una vez más su mano para tratar de callar a su hija...`
-`"T-tía Rosa...`
+`"T‐tía Rosa...`
 ` Eh, eh... Es tan solo una niña pequeña. No hay necesidad de ponerse tan serios... ijiji."`
 `Traté de entrometerme con una sonrisa amarga, frotando mis manos,`
 ` ...pero la tía Rosa me amenazó con una mirada que me dijo que no me inmiscuyera.`
-`"Lo siento, ¿podría Battler-kun y el resto de ustedes regresar a sus habitaciones?`
+`"Lo siento, ¿podría Battler‐kun y el resto de ustedes regresar a sus habitaciones?`
 ` La tía tiene que tener una pequeña plática con Maria."`
 `"¡¡Uu‐uu‐uu!!`
 ` ¡¡Nadie cree en la rosa de Maria!!`
@@ -620,7 +620,7 @@
 `"O‐oye... tía Rosa,`
 ` aun si es tu hija, no deberías ser así de violenta..."`
 `Me paré entre las dos para proteger a Maria, quien seguía en el suelo, llorando "uu‐uu".`
-`......Sabía que los problemas entre madre e hija no eran asunto mío como tercero.`
+`...Sabía que los problemas entre madre e hija no eran asunto mío como tercero.`
 `{n}Pero no me criaron para simplemente observar algo así...`
 `"¿No lo encuentras raro, Battler‐kun?`
 ` ¿Hay chicas en tu escuela que digan "uu‐uu"?"`
@@ -649,30 +649,30 @@
 `Tía Rosa golpeó la temblorosa cabeza de Maria desde la cual emergía poco a poco una voz llena de insatisfacción.`
 `Traté de pararla, pero la tía me hizo a un lado...`
 `Mi espalda dio contra George‐aniki.`
-`"......Hace mucho, tía Rosa también lo veía como nada más que uno de los hábitos infantiles de Maria...`
+`"...Hace mucho, tía Rosa también lo veía como nada más que uno de los hábitos infantiles de Maria...`
 `pero ahora está a mediados de primaria, y el hecho de que no lo haya corregido le ha molestado mucho últimamente..."`
 `"No es como si importase qué tipo de palabras usa..."`
 `"No puedes convertirte en un miembro de la sociedad así.`
 ` ...Por lo tanto, incluso si ésta es una situación desagradable de ver,`
-` ......éste es un problema entre madre e hija."`
-`".........Bueno,`
+` ...éste es un problema entre madre e hija."`
+`"...Bueno,`
 ` yo también me meto en problemas con mi madre por mi manera de hablar."`
 `Si tú lo miras de esa manera, quizás un extraño como nosotros no debería interferir incluso si es doloroso de ver...`
-`"Battler-kun, cuando eras un niño alguna vez, ¿tuviste algún mal hábito que no podías solucionar y que te traía problemas?"`
-`"......Bueno, uno o dos.`
+`"Battler‐kun, cuando eras un niño alguna vez, ¿tuviste algún mal hábito que no podías solucionar y que te traía problemas?"`
+`"...Bueno, uno o dos.`
 ` En el Día de los Padres, siempre me metía en problemas frente a todos, y era tan vergonzoso que no podía soportarlo."`
-`"Entonces tú puedes entender los sentimientos de Maria-chan en este momento.`
-` ......Estoy seguro que ella no quiere que estemos ahí ahora.`
-` ......¿Entiendes tú también, Jessica-chan?"`
-`"............Creo que a nadie le gusta que lo vean cuando lo están castigando."`
+`"Entonces tú puedes entender los sentimientos de Maria‐chan en este momento.`
+` ...Estoy seguro que ella no quiere que estemos ahí ahora.`
+` ...¿Entiendes tú también, Jessica‐chan?"`
+`"...Creo que a nadie le gusta que lo vean cuando lo están castigando."`
 `"Vamos.`
 ` Regresemos a la casa de huéspedes.`
-` Entonces, después de que Maria-chan regrese,`
+` Entonces, después de que Maria‐chan regrese,`
 ` recibámosla como si nada hubiese pasado.`
 ` ...Eso... es probablemente lo mejor, ¿no?"`
-`Porque pensamos que lo que había dicho George-aniki era probablemente lo correcto,`
+`Porque pensamos que lo que había dicho George‐aniki era probablemente lo correcto,`
 ` ...y si podíamos usar esa razón de buenas intenciones para justificar nuestra retirada de esta dolorosa escena, era probablemente suficiente para nosotros.`
-`Jessica y yo asentimos frente a George-aniki, y nos retiramos.`
+`Jessica y yo asentimos frente a George‐aniki, y nos retiramos.`
 `Le gritamos a Maria que nos dirigíamos a la casa de huéspedes,`
 ` pero ya que no pareciera que nuestra voz la alcanzara, nosotros también teníamos conciencias descaradamente culpables...`
 `"¡En ese caso, búscala sola cuanto quieras!`
@@ -688,35 +688,35 @@
 `Pero desde el punto de vista de Rosa, esa no era su intención.`
 `...Era porque esa mano que había golpeado la mejilla de Maria tan emocionalmente seguía adormecida.`
 `...Era porque, si seguía ahí gritando, quizás sería superada por sus emociones y continuaría cacheteando las mejillas de su hija una y otra vez.`
-`Después que Rosa se fue, solo quedó Maria en el jardín de rosas.`
+`Después de que Rosa se fuera, solo quedó Maria en el jardín de rosas.`
 `El viento empezó a soplar más y más fuerte, y una que otra vez una gota de lluvia caía en su frente.`
 `...Sin embargo, Maria no podía abandonar ese lugar.`
 `{n}No hasta que encontrara esa pobre y marchita rosa.`
 `Definitivamente había estado ahí.`
-` ......Y aun así,`
+` ...Y aun así,`
 ` no lo estaba.`
 `{n}Incluso si ella sabía el lugar, e incluso si había estado ahí,`
 ` no estaba.`
 `Maria, mientras miraba amargamente al lugar donde se suponía que debería estar, comenzó a pensar frenéticamente.`
 `{i:Quizás el ángulo en que estoy mirando está equivocado}.`
 `{n}{i:Quizás la altura en la que estoy mirando está equivocada}.`
-`......Mientras miraba fijamente un solo punto,`
+`...Mientras miraba fijamente un solo punto,`
 ` Maria se paraba, cambiaba de posición y seguía mirando fijamente una y otra vez.`
-`El viento estaba soplando más fuerte......`
+`El viento estaba soplando más fuerte...`
 `Pero Maria seguía buscando esa rosa en frente de la cama de flores...`
-`.........Kinzo se percató del sonido de la lluvia golpeando la ventana.`
+`...Kinzo se percató del sonido de la lluvia golpeando la ventana.`
 `{n}Había finalmente empezado a llover.`
 `{n}Había empezado más tarde de lo que la predicción meteorológica había previsto.`
 `Kinzo, como si hubiese sido invocado por el sonido de la lluvia, se acercó a la ventana.`
 `{n}El sonido de la lluvia es un sonido de silencio.`
 `Ese sonido se siente más callado que cualquier otro silencio,`
 ` y hace a los humanos recordar que, al final, están solos desde que nacen hasta que mueren.`
-`"......Llegas tarde, {f:5:Beatrice}."`
+`"...Llegas tarde, {f:5:Beatrice}."`
 `¿Estaban dirigidas esas palabras al cielo lluvioso...?`
 `{n}No se podía ver a nadie hacia donde Kinzo dirigía la mirada.`
-`"......Entonces, ¿deberíamos comenzar?`
+`"...Entonces, ¿deberíamos comenzar?`
 ` Comencemos este banquete de milagros que nos pertenece.`
-` ......En este momento, esta isla ha sido separada del mundo.`
+` ...En este momento, esta isla ha sido separada del mundo.`
 ` Ahora no hay nadie que pueda interrumpir mi ceremonia."`
 `"Hay varios buenos sacrificios para ti.`
 ` Cuatro de mis hijos.`
@@ -726,9 +726,9 @@
 ` Puedes consumir a cuantos tú gustes."`
 `"La llave del destino obedecerá la Ruleta de los Demonios y elegirá los sacrificios.`
 ` Si esa ruleta me elige a mí, incluso yo seré un sacrificio para ti.`
-` ......Sin embargo, por eso...`
+` ...Sin embargo, por eso...`
 ` porque apostaré en esa locura,`
-` ......definitivamente crearé un gran milagro."`
+` ...definitivamente crearé un gran milagro."`
 `"¡¡...Vamos, devora tantos como gustes...!!`
 ` Venceré esta ruleta.`
 ` Sí, lo apostaré todo.`
