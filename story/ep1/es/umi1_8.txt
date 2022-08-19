@@ -1,1107 +1,1107 @@
-`The strange letter that the witch had entrusted Maria with had wiped all memories of dinner from our minds.`
-`Maria had been repeatedly barraged with questions by Auntie Rosa and the other parents,`
-` and was now in the worst of tempers because no one would believe her.`
-` Even when we kids tried to talk to her, she would just ignore us.`
-`Our parents were all stirred up over the gold, firing back and forth about the distribution of the assets, and completely forgetting that we children were even there.`
-`...Even though I'd already figured that they had been talking about this in the shadows,`
-` I never thought they'd be this blunt about it, and at least to us kids it was a considerable shock.`
-`...From what we could overhear, all of our parents wanted as much money as possible, as soon as possible.`
-`Back and forth about Grandfather's inheritance.`
-`{n}Back and forth about the distribution of the gold if it was found.`
-`{n}About advance payments and cash.`
-`......It was so despicable, I couldn't bear to watch, even though one of them was my dad.`
-`...It looked like Jessica felt the same way.`
-`We left our seats, although no one had asked us to leave, and went to hang out somewhere apart from the parents...`
-`".........I see.`
-` Now I really understand why Grandfather didn't want to show his face during meals."`
-`"I am so disillusioned with our parents now!`
-` The money, the inheritance!`
-` How could they act like that right out in the open!"`
-`"Well I'm already completely disillusioned with that old bastard.`
-` There's no way I could think any worse of him.`
-` Ihihi!"`
-`"A‐and you think I'm not?!`
-` But even so......that freakin' shocked me.`
-` Shocked me to the bottom of my heart..."`
-`Jessica looked down at the floor, irritated.`
-`...She was always talking about how bad her parents were, but maybe she hadn't really felt that way deep inside.`
-`I could realize that from the depths of Jessica's shock.`
-`"......You are both minors and still being brought up by your parents, so you might not understand,`
-` ......but getting money is neither a simple nor a pretty thing.`
-` You are still minors, so I won't try to force you to understand right now.`
-` ......But still, I'd like you to realize that your parents are just doing their best in their own way."`
-`".........Oh great,`
-` George‐aniki's gotten all mature."`
-`"I know that you're working hard as a full‐fledged member of society.`
-` ......But does that mean that when the conversation turns to money and assets and stuff, you're capable of turning into a shameless, greedy vulture, like our dads...?"`
-`".....................If it would just be about me, then no, I wouldn't want to do that.`
-` However, when your family and your employees, your subordinates and their families are all counting on you, ...there are some times when you must fight."`
-`".........I hate that kind of fight.`
-` That back and forth about Grandfather's inheritance, it just makes me wanna puke."`
-`Jessica pretended to spit violently.`
-`{n}...That harsh reaction made the depths of her pain very clear.`
-`"...Let's stop talking about this.`
-` All of this about Grandfather's hidden gold, about property and inheritance, is our parents' problem, not ours."`
-`"I agree.`
-` ......At the very least, I think that being considerate and staying out of the parents' way when they're talking is the duty of their children."`
-`"......Hmph.`
-` ...Where's the fun in that..."`
-`Everyone knows the phrase "Adults are filthy",`
-` ...but we had now seen that for ourselves, and that really did give us a shock.`
-`George‐aniki was now pretty much an adult, and I had already been disillusioned with my dad in the first place, so the shock wasn't that big for us,`
-` ......but it looked like it was different for Jessica.`
-`It looked like the shock that Jessica had received was even bigger than I had thought.`
-`.........This girl, she was always talking badly about her parents, but it looked like she hadn't changed at all on the inside since long ago.`
-`...Even now, she was still a pure‐hearted and delicate person who couldn't doubt others.`
-`I'm sure she respected her parents as much as anyone else does.`
-`......And then her parents started joining in with all the other parents, right in front of us children,`
-` going "money money inheritance inheritance, my money!", so it was no surprise that the shock of hearing that was so big...`
+`La extraña carta que la bruja había entregado a Maria había eliminado de nuestras mentes todos los recuerdos de la cena.`
+`Maria fue continuamente acosada con preguntas por la tía Rosa y los demás padres,`
+` y como nadie le creía, ésta estaba de muy mal humor.`
+` Incluso cuando nosotros intentábamos hablarle, nos ignoraba.`
+`Nuestros padres estaban tremendamente agitados por el oro, discutiento ávidamente por la distribución de bienes, y hasta se habían olvidado completamente que sus hijos estaban allí.`
+`...Aunque ya me había imaginado que hablaban de esta forma a nuestras espaldas,`
+` nunca habría imaginado que serían tan bruscos. Fue una gran conmoción para nosotros.`
+`...De lo que podíamos oír, todos nuestros padres querían tanto dinero como fuera posible, tan pronto como fuera posible.`
+`Una y otra vez con la herencia del abuelo.`
+`{n}Una y otra vez con la distribución del oro si era encontrado.`
+`{n}Pagos por adelantado y dinero.`
+`...Era tan despreciable que no podía aguantarlo, aun teniendo en cuenta que uno de ellos era mi padre.`
+`...Parecía que Jessica se sentía igual.`
+`Dejamos nuestros asientos, aunque nadie nos lo haya pedido, y fuimos a pasar el rato en algún lugar aparte de los padres...`
+`"...Ya veo.`
+` Ahora entiendo por qué el abuelo no quería aparecer durante las comidas."`
+`"¡Nuestros padres me han desilusionado completamente!`
+` ¡El dinero, la herencia!`
+` ¡¿Cómo pueden actuar así tan abiertamente?!"`
+`"Bueno, yo ya estaba totalmente desilusionado con el viejo bastardo.`
+` No hay forma de que mi opinión sobre él pueda empeorar aún más.`
+` ¡Ijiji!"`
+`"¡L‐lo mismo me ocurre a mí!`
+` Sin embargo... esto me ha conmocionado totalmente.`
+` Me ha llegado hasta el fondo del corazón..."`
+`Jessica dirigió la mirada al suelo, irritada.`
+`...Ella siempre hablaba sobre lo terribles que eran sus padres, pero tal vez eso no era lo que pensaba en realidad.`
+`Me di cuenta al ver lo conmocionada que estaba.`
+`"...Todos son menores de edad y han sido criados por sus padres, así que tal vez no lo comprendan,`
+` ...pero conseguir dinero no es algo simple ni bonito.`
+` Son menores de edad, así que no pretendo que lo entiendan.`
+` ...Pero aún así, quiero que se den cuenta de que sus padres están haciendo lo mejor que pueden, a su manera."`
+`"...Oh vaya,`
+` George‐aniki es todo maduro ahora."`
+`"Sé que George nii‐san se ha convertido en un miembro de pleno derecho de la sociedad y está trabajando duramente.`
+` ...¿Pero implica eso que cuando empiezas a hablar sobre dinero y activos, puedes convertirte en un desvergonzado y codicioso buitre, como nuestros padres...?"`
+`"...Si estás hablando sólo de mí, no, no es algo que querría hacer.`
+` Sin embargo, cuando tu familia y tus empleados, tus subordinados y sus familias cuentan contigo, ...hay ocasiones en las que debes pelear."`
+`"...Odio esa clase de peleas.`
+` Todo el tiempo con la herencia del abuelo, me provoca náuseas."`
+`Jessica fingió un violento escupitajo.`
+`{n}...Tan violenta reacción hacía notar la profundidad de su dolor.`
+`"...Dejemos de hablar sobre esto.`
+` Todo lo del oro escondido del abuelo, sobre propiedades y herencias, es el problema de nuestros padres, no el nuestro."`
+`"Estoy de acuerdo.`
+` ...Como mínimo, creo que ser amables y no molestar a nuestros padres mientras hablan es el deber de sus hijos."`
+`"...Tch.`
+` ...Eso no es divertido..."`
+`Todo el mundo conoce la frase "Los adultos son asquerosos",`
+` ...pero acabábamos de verlo con nuestros propios ojos, y realmente fue una conmoción.`
+`George‐aniki ya era un adulto, y yo ya no esperaba nada bueno de mi padre, así que la conmoción no era tan grande para nosotros,`
+` ...pero parecía que para Jessica era diferente.`
+`Al parecer la conmoción que sufrió Jessica fue incluso mayor de lo que pensaba.`
+`...Esta chica, siempre estaba hablando así de mal de sus padres, pero parece que no ha cambiado después de todo.`
+`...Seguía siendo una persona delicada y de corazón puro que no podía dudar de los demás.`
+`Estoy seguro de que ella respetaba a sus padres tanto como cualquier otra persona.`
+`...Y entonces sus padres se unieron a los otros, en frente de sus hijos,`
+` con eso del "¡Dinero, dinero, herencia, herencia, mi dinero!", así que no era extraño que estuviera tan conmocionada al escuchar eso...`
 `"...Jessica‐chan.`
-` Please don't start hating your mother and father.`
-` ......I won't ask you to understand them, but at least don't hate them."`
-`"I get it, just leave me alone a bit...!!"`
-`Six years ago, I would have further taunted the dejected Jessica,`
-` ......but even I have grown up over the past six years.`
-`I realized that it would be better to leave Jessica as she was right now...`
-`Jessica suddenly looked away sulkily and left the parlor.`
-`...She probably wanted to be left alone for now.`
-`{n}I could do nothing but wordlessly watch her back as she left...`
-`"......Come to think of it, I wonder where Maria‐chan went."`
-`"She's probably still huddled up on the floor in front of the portrait."`
-`Maria, who truly looked up to witches, had expected that coming in direct contact with {f:5:Beatrice}, and receiving the letter as proof,`
-` would be an event that would surprise everyone and make them happy.`
-`However, the adults had doubted its authenticity, had not taken Maria's story at face value, and had thoroughly bombarded her with questions.`
-`...Even I didn't find it hard to imagine how much that must have hurt Maria.`
-`We couldn't speak to either Maria or Jessica.`
-`...In the end, George‐aniki and I just abandoned ourselves to the sound of the falling rain in the dark night...`
-`"I wonder what's happening with that typhoon.`
-` ......Maybe there's some news."`
-`George‐aniki walked over to the corner of the parlor where the television was.`
-`He hadn't called me over, and I really couldn't have cared less where the typhoon was on the sea now.`
-` So I didn't go over to the television, but instead loitered around the window.`
-`"......The wind hasn't picked up that much here, but I wonder if it's horrible over the sea.`
-` I did hear from the weather report that there was a severe storm warning."`
+` Por favor, no odies a tus padres.`
+` ...No te pediré que los comprendas, pero por lo menos no los odies."`
+`"¡¡Ya, lo entiendo, déjame sola un rato...!!"`
+`Hace seis años, habría seguido burlándome de la abatida Jessica,`
+` ...supongo que realmente he madurado durante estos seis años.`
+`Me di cuenta de que sería mejor dejar a Jessica en paz un rato...`
+`De repente, Jessica apartó la mirada malhumoradamente y se fue del salón.`
+`...Supongo que quería estar sola un rato.`
+`{n}No pude hacer más que mirar su espalda en silencio mientras se iba...`
+`"...Ahora que lo pienso, me pregunto dónde estará Maria‐chan."`
+`"Probablemente esté todavía dando vueltas en frente del retrato."`
+`Maria, quien realmente admiraba a las brujas, había esperado que entrar en contacto directo con {f:5:Beatrice} y recibir la carta como evidencia,`
+` sería un evento que sorprendería a todo el mundo y los haría a todos felices.`
+`Sin embargo, los adultos habían dudado de su autenticidad, y sin tragarse la historia de Maria, la habían bombardeado de preguntas.`
+`...No costaba imaginar lo mucho que esto debió herir a Maria.`
+`No podíamos hablar ni con Maria ni con Jessica.`
+`...Al final, George‐aniki y yo nos abandonamos al sonido de la lluvia cayendo en la oscura noche...`
+`"Me pregunto qué ocurrirá con ese tifón.`
+` ...Tal vez haya alguna noticia."`
+`George‐aniki fue a la esquina del salón en la que estaba la televisión.`
+`No me había pedido que le acompañase, y me importaba bien poco en qué lugar del mar estaba el tifón ahora mismo.`
+` Así que sin acercarme a la televisión, holgazaneé por la ventana.`
+`"...No hay demasiado viento por aquí, pero me pregunto qué tan horrible será por el mar.`
+` Según el reportaje del tiempo había un gran peligro de tormenta."`
 `"Ah, Kyrie‐san.`
-` ...How's it going with you adults, lots to talk about?"`
-`It looked like she caught the sarcasm.`
-`{n}Kyrie‐san shrugged.`
-`"...That stomachache of a discussion could continue all night.`
-` It's very tiring."`
-`"Well, all I can say is, I hope you enjoy playing vultures to Grandfather's property to your heart's content.`
-` ...It's disgusting."`
-`"I'll agree with you on that.`
-` If I could just slip away like you, I would do it.`
-` ...Unfortunately, I can't.`
-` Even if I'm not allowed to speak.`
-` It's not easy being a partner, you know?"`
-`Kyrie‐san sighed, smiling bitterly.`
-`Well, yeah.`
-`{n}They probably won't let Kyrie‐san, who married into the family, speak.`
-`Still, as Dad's partner, she has no choice but to stay by his side and support him.`
-`......Being in the line of fire, she must be having to bear far greater mental pressure than me.`
-`I wasn't going to apologize, but, realizing that I had spoken too harshly, I cut the sarcasm for the time being...`
-`"So how does it look?`
-` Are they still stuck on the topic of the mysterious witch, {f:5:Beatrice}?"`
-`"......More or less.`
-` They'd been piling up secret agreements for some time, hoping for some kind of agreement between the four of them on the distribution of Grandfather's inheritance after his death."`
-`"...And now some unknown fifth person has appeared to make things even more complicated, so there's no way that'll make for a peaceful conversation.`
-` One moment they're snarling at each other, the next they'll set up a common front.`
-` ......Natsuhi nee‐san's not the only one getting headaches."`
-`On the one hand, they all wanted a larger portion than the other siblings, so they were all rivals,`
-` but on the other hand, they didn't want one yen to be snatched up by anyone other than the siblings, so they were also all allies.`
-`I couldn't get her to tell me the details, but they were apparently arguing on and on about their ceasefire agreement and rules to prevent anyone from getting ahead,`
-` the situations under which their portions would be protected, and what legal measures would be taken in a worst case scenario.`
-`......By this point, my emotions had shot straight past disgust, and now I perceived them as a force to be reckoned with...`
-`"So, basically,`
-` {f:5:Beatrice} is like a saboteur sent by Grandfather.`
-` ...He probably wanted to scare the hell out of his children for just talking about the distribution of the inheritance without him.`
-` Ihihi!"`
-`"Who is this {f:5:Beatrice}, I wonder?`
-` If she is who she says she is, then she's a mystery that no one knew about until today, and she also knows about the existence of Grandfather's hidden gold.`
-` Furthermore, she was even entrusted with the Head's Ring.`
-` ...She must truly have been trusted by him."`
-`"Well, obviously I don't think she's a witch riding around on a broom.`
-` ......But she's surely a person mysterious enough to merit being called a witch."`
-`"I just hope Maria‐chan will go into more detail about that.`
-` ......Even though she's just a little girl, everyone has been just chewing her up over this.`
-` They really scared her, and now we can't even ask her things she might have answered.`
-` I wonder if those people have ever even read "The North Wind and the Sun"."`
-`"What is for certain is that Maria received a letter from a person who took the name {f:5:Beatrice}.`
-` ......Entrusting Maria with a letter and hiding away even now, when she could have just appeared and talked to us directly...she sure is shy for a mystery person.`
-` Hahahahaha..."`
-`"......Hey, Battler‐kun.`
-` Do you think that someone called {f:5:Beatrice} actually exists?"`
-`"Who knows?`
-` It's probably just a false name, right?`
-` Like she's Grandfather's representative, so she was permitted to take the name of the witch from his delusions?"`
-`"No, that's not what I meant.`
-` Right now, there are a total of 18 people here on Rokkenjima.`
-` ......Do you think that there is a 19th person?"`
-`Are there really a whole 18 people on this island?`
-`{n}Wondering about that, I began counting on my fingers, and it really did come out to 18 people.`
-`"Do I think that a 19th person exists, you say.`
-` ......What exactly do you mean?"`
-`"Just what I said.`
-` ......It looks like the person who lent Maria that umbrella was not one of us 18.`
-` Therefore, isn't it reasonable to think that a 19th person exists, and that this was the person who lent Maria the umbrella?"`
-`"............Well, ......yes, I suppose."`
-`"Then, where exactly is this person now?`
-` At the very least, she must have been on this island when it started raining.`
-` And since that time, the weather has become progressively worse, so taking a boat out would be pretty much impossible.`
-` In that case, that person must still be on the island hiding from the rain somewhere.`
-` ......And without being spotted by any of us."`
-`".........Certainly, all of us have been randomly prowling around all over the mansion and the guesthouse, but no one has bumped into a 19th person."`
-`"...Even so, this island is huge.`
-` There might be other places to hide from the rain outside the mansion and the guesthouse."`
-`At about this time, I began to realize what direction Kyrie‐san's doubts were taking us in.`
-`Kyrie‐san was denying that a 19th person existed.`
-`{n}......{f:5:Beatrice} was one of us 18.`
-`...In other words, she thought that someone we knew well was using her name.`
-`"If {f:5:Beatrice} really was as she described herself, this person would definitely be the most honored of guests.`
-` The most honored of confidants, trusted by Grandfather.`
-` ...There's no way that Grandfather wouldn't give that kind of person a warm reception.`
-` She would surely have been ushered into the mansion.`
-` However, we haven't seen anyone."`
-`"Wait a second, isn't this line of reasoning a little too hasty?`
-` Yes, no one spotted them, but that doesn't mean that you can deny the possibility that a 19th person exists, right?"`
-`"Maybe, for some reason, they landed on the island stealthily and have been hiding ever since.`
-` ......It's what they call the Devil's Proof.`
-` It's easy to prove that something exists.`
-` If this {f:5:Beatrice} appears in front of us all and says hi, then everything is resolved.`
-` But it's impossible to prove that there is no 19th person."`
-`"......Yes.`
-` Battler‐kun, your way of reasoning isn't bad.`
-` In the current situation, there's not enough information to either accept that a 19th person exists or deny it.`
-` ......But if you flip over the chessboard and think of it that way, we can be nearly sure that the existence of a 19th person is impossible."`
-`"Flip over the chessboard" was one of Kyrie‐san's favorite phrases.`
-`{n}...I had also been influenced by those words, and used them myself from time to time.`
-`When you get stuck trying to find a move in chess or shogi, by flipping the board over and looking at everything from your opponent's standpoint, you can often see a strategy that would give you the upper hand.`
-`Derived from this, it means to think by putting yourself in your opponent's shoes.`
-`"......Okay.`
-` Let's say that that a 19th person called {f:5:Beatrice} actually exists.`
-` That person must have managed, without being seen by anyone, to stealthily arrive on this island and remain hidden since then.`
-` They had some reason for this, yes?`
-` In that case, why did they then deliberately appear before Maria and hand her the letter?"`
-`It really was a contradiction.`
-`If they had some reason for hiding themselves,`
-` then they should have stayed hidden the whole time, but they had appeared openly in front of Maria.`
-`"Well......`
-`...wait, Maria even said it.`
-` Didn't she say that she had been made a messenger?`
-` Since Maria was the youngest and looked the most innocent..."`
-`"Why would they need a messenger?`
-` If they just wanted a letter delivered to the family conference, they could have mailed it.`
-` If they mailed it to each of the four siblings, they would be unable to ignore it.`
-` There was no need for them to carry it themselves and secretly hand it over."`
-`".....................That really...`
-`......does sound pretty weird."`
-`"In the first place, if {f:5:Beatrice} existed, and she wanted to make her presence known to everyone, then she could have just openly presented herself to all of us.`
-` Despite that, she chose the vague method of appearing through a little girl called Maria‐chan, and only gave us an indistinct impression of who she was.`
-` Contradiction.`
-` Let's go a little deeper, shall we?"`
-`"............She appeared in front of Maria, trying to give us the impression that a 19th person existed, and yet,`
-` she still hasn't appeared before us and is hiding somewhere at this very moment.`
-` The contradiction between these.`
-` ......Keep it in mind, and flip over the chessboard."`
-`"In other words, the question is: why would a person want to give the impression that {f:5:Beatrice} exists as a 19th person?"`
-`"......If this person wanted to hide, then they wouldn't have made their presence known.`
-` And if they wanted to show themselves, they wouldn't have used the roundabout approach of entrusting someone with a letter.`
-` ......Which means...?"`
-`"It's simple.`
-` {f:5:Beatrice} is one of the 18.`
-` That is why they are creating the illusion that there is someone outside of the 18.`
-` ...A powerful suggestion of a 19th person."`
-`"The only person who could profit from this would not be some 19th person in hiding.`
-` It would be one of the original 18 people.`
-` ......Of course, this reasoning is full of holes.`
-` If you turn over even a few of its premises, it will simply fall apart.`
-` But I think it is almost certainly correct."`
-`...This was quickly starting to sound pretty creepy.`
-`Who had lent Maria the umbrella and handed her the letter?`
-`{n}All of the 18 had been ruled out.`
-`{n}And yet, {f:5:Beatrice} was hidden amongst those 18.`
-`What was that person planning, hiding their true form and pretending to be {f:5:Beatrice}...?`
-`"I also suspected that it might have been Maria‐chan playacting, but the contents of the message were extremely complicated, so it's hard to think that Maria‐chan prepared it herself.`
-` ......However, I can't deny the possibility that Maria‐chan is working together with someone."`
-`"W‐wait a sec...Maria's a nine year old kid!`
-` What on Earth could you suspect her of planning, and with who?!`
-` And what about her serious, too honest, and obedient character?!"`
-`"Yes, I also understand what kind of a person Maria‐chan is.`
-` ......But I think that's exactly why it's possible.`
-` That girl's a dreamer who looks up to and blindly accepts the existence of witches.`
-` So if a person appeared in front of her and said they were the witch {f:5:Beatrice}, Maria‐chan would be so happy that she would just swallow it up, I think."`
-`".........So you're saying that if someone disguised themselves by wearing that fancy dress from the portrait, tricking Maria wouldn't be that hard?"`
-`"Of course, with that reasoning, all of us women would become the primary suspects.`
-` ......Anyway, who did Maria‐chan encounter...`
-` Asking her the details of that would be our best and closest key to solving this riddle."`
-`"...But that key has been obstinately closed up inside her heart.`
-` Everyone denied the existence of the witch without listening to her, and barraged her with too many questions about who {f:5:Beatrice} actually was.`
-` ......Maria‐chan probably won't open her heart to the adults now."`
-`In the dim hall, in front of the portrait of {f:5:Beatrice}, ......Maria was sobbing.`
-`"......Uu...`
+` ...¿Cómo ha ido la conversación de los adultos? ¿Algo interesante para contar?"`
+`Parece que entendió el sarcasmo.`
+`{n}Kyrie‐san se encogió de hombros.`
+`"...Ese dolor de estómago de conversación podría continuar toda la noche.`
+` Es todo muy cansador."`
+`"Bueno, lo único que puedo decir es, espero que disfruten jugando a los buitres con la propiedad del abuelo tanto como quieran.`
+` ...Es repugnante."`
+`"En eso estamos de acuerdo.`
+` Si pudiera simplemente largarme como tú, lo haría.`
+` ...Por desgracia, no puedo.`
+` Aun si no se me permite hablar.`
+` No es fácil ser una pareja, ¿sabes?"`
+`Kyrie‐san respiró profundamente, sonriendo con amargura.`
+`Es cierto.`
+`{n}Probablemente no permitirían que Kyrie‐san, que se casó con alguien de la familia, hablara.`
+`Y aun así, como pareja de papá, no tenía otra opción que quedarse a su lado y apoyarle.`
+`...Al estar en la linea de fuego, debe haber sufrido toda esta presión psicológica mucho más que yo.`
+`No iba a disculparme, pero, al darme cuenta de que había sido demasiado duro, decidí dejar el sarcasmo...`
+`"¿Y con qué están ahora?`
+` ¿Siguen con el tema de la misteriosa bruja, {f:5:Beatrice}?"`
+`"...Más o menos.`
+` Ellos han estado haciendo acuerdos secretos por un largo tiempo, esperando que lleguen a algún tipo de acuerdo entre los cuatro por la distribución de la herencia del abuelo luego de su muerte."`
+`"...Y de la nada aparece una quinta persona para hacer las cosas aún complicadas, de manera que esta conversación no será para nada pacífica.`
+` En un momento se insultan mutuamente, y en el siguiente establecen un frente común.`
+` ...Natsuhi nee‐san no es la única con dolores de cabeza."`
+`Por un lado, todos quieren una porción mayor que los otros hermanos, así que son rivales,`
+` pero por el otro, no quieren que nadie ajeno a la familia  reciba ni un yen de la herencia, así que también son aliados.`
+`No me contó todos los detalles, pero aparentemente discutían y discutían sobre la tregua que tenían y de reglas para impedir que cualquiera se adelantara,`
+` y sobre las situaciones en las que sus porciones serían protegidas, y sobre qué respuestas legales  se tomarían en los peores de los casos.`
+`...A estas alturas, mis emociones habían ido más allá del disgusto, y en ese momento los percibía como una fuerza a tener en cuenta...`
+`"Entonces, básicamente,`
+` {f:5:Beatrice} es como una asesina enviada por el abuelo.`
+` ...Probablemente quisiera asustar a sus hijos por hablar sobre la distribución de la herencia sin él.`
+` ¡Ijiji!"`
+`"En cualquier caso, me pregunto quién es esta {f:5:Beatrice}.`
+` Si es quien dice ser, entonces es una persona misteriosa que nadie conocía, y que sabe de la existencia del oro escondido del abuelo.`
+` Además, incluso se le dio el anillo del líder de la familia.`
+` ...Realmente debe de ser de su confianza."`
+`"Bueno, obviamente no creo que sea una bruja de las que vuelan en una escoba.`
+` ...Pero claramente es una persona misteriosa que se hace llamar una bruja."`
+`"Ojalá Maria‐chan pudiera darnos más detalles.`
+` ...Aun siendo solo una niña pequeña, todos han estado mordiéndola por esto.`
+` Realmente la han asustado, y varias preguntas que le podríamos haber hecho ya no se pueden hacer.`
+` Me pregunto si esa gente ha llegado a leer "El Viento del Norte y el Sol"."`
+`"Lo que está claro es que Maria recibió una carta de una persona que tomó el nombre de {f:5:Beatrice}.`
+` ...Darle la carta a Maria y después esconderse, cuando podría haber aparecido sin más y hablado con nosotros... esta persona misteriosa es realmente tímida.`
+` Jajajajaja..."`
+`"...Dime, Battler‐kun.`
+` ¿Crees que alguien con el nombre de {f:5:Beatrice} realmente exista?"`
+`"¿Quién sabe?`
+` Podría ser solo un nombre falso, ¿cierto?`
+` ¿Como si siendo algo así como el representante del abuelo, se le permitiera tomar el nombre de la bruja de sus delirios?"`
+`"No, no quería decir eso.`
+` Ahora mismo, hay un total de 18 personas en Rokkenjima.`
+` ...¿Realmente piensas que hay una 19ª persona?"`
+`¿Realmente hay 18 personas en esta isla?`
+`{n}Pensando en ello, empecé a contar con los dedos, y realmente me salieron 18 personas.`
+`"Me preguntas si pienso que hay una 19ª persona.`
+` ...¿Qué quieres decir?"`
+`"Lo que he dicho.`
+` ...Parece que la persona que le dio el paraguas a Maria no era uno de los 18.`
+` Por tanto, ¿no tiene sentido pensar que existe una 19ª persona, y que ésta es la que le dio el paraguas a Maria?"`
+`"...Bueno, ...si, supongo."`
+`"Entonces, ¿dónde exactamente está esa persona ahora mismo?`
+` Por lo menos, está claro que ha de haber estado en esta isla desde que empezó a llover.`
+` Y desde entonces, el tiempo ha ido empeorando lentamente, así que usar un barco sería prácticamente imposible.`
+` En cuyo caso, debe de seguir en esta isla, escondiéndose de la lluvia en algún sitio.`
+` ...Y sin que nadie la vea."`
+`"...Cierto, hemos merodeado aleatoriamente por la casa de huéspedes, pero nadie se ha encontrado con una 19ª persona."`
+`"...Aun así, esta isla es enorme.`
+` Puede que haya otros lugares para cubrirse de la lluvia que no sean la mansión o la casa de huéspedes."`
+`En ese momento, empecé a darme cuenta de a dónde quería llegar Kyrie‐san.`
+`Kyrie‐san negaba la existencia de una 19ª persona.`
+`{n}...{f:5:Beatrice} era una de los 18.`
+`...En otras palabras, ella pensó que alguien que conocíamos estaba usando su nombre.`
+`"Si {f:5:Beatrice} realmente fuera tal como se describió, esta persona definitivamente sería uno de los invitados de más honor..`
+` La más honrada de los confidentes del abuelo, con toda su confianza.`
+` ...No creo que el abuelo no fuera a darle a esa clase de persona una cálida bienvenida.`
+` Seguramente se habría acomodado en la mansión.`
+` Sin embargo, no hemos visto a nadie."`
+`"Un momento, ¿no te estás apresurando un poco?`
+` Sí, nadie ha visto nada, pero eso no significa que puedas negar la posibilidad de que exista una 19ª persona, ¿verdad?"`
+`"Puede que, por algún motivo, llegara a la isla y llevara escondiéndose desde entonces.`
+` ...Es lo que llaman Prueba Diabólica.`
+` Es fácil probar que algo existe.`
+` Si la tal {f:5:Beatrice} aparece ante nosotros y nos saluda, todo estará resuelto.`
+` Sin embargo, es imposible probar que no hay una 19ª persona."`
+`"...Sí.`
+` Battler‐kun, tu razonamiento no es malo.`
+` En la situación actual, no hay suficiente información para aceptar o negar la existencia de una 19ª persona.`
+` ...Pero si le das vuelta al tablero y lo piensas de esa forma, podemos estar casi totalmente seguros de que es imposible que dicha 19ª persona exista."`
+`"Dar vuelta al tablero" era una de las frases favoritas de Kyrie.`
+`{n}...También yo había sido influenciado por esas palabras, y las usaba de vez en cuando.`
+`Cuando te quedas bloqueado intentando encontrar un movimiento en ajedrez o shogi, al dar vuelta al tablero y verlo todo desde la posición del oponente, a menudo podrías ver una estrategia que te daría la ventaja.`
+`En otras palabras, significa pensar poniéndote en los zapatos de tu oponente, y pensar desde su punto de vista.`
+`"...De acuerdo.`
+` Por un momento, pensemos que ésta 19ª persona llamada {f:5:Beatrice} existe.`
+` Dicha persona debe habérselas apañado para llegar sigilosamente a esta isla, sin que nadie la vea, y quedarse escondida desde entonces.`
+` Tendría algún motivo, ¿correcto?`
+` En ese caso, ¿por qué se molestaría tanto en aparecer ante Maria y darle la carta?"`
+`Una auténtica contradicción.`
+`Si tenía algún motivo para esconderse,`
+` debería haberse quedado escondida todo el tiempo. Pero aun así, apareció abiertamente ante Maria.`
+`"Entonces...`
+`...espera, incluso Maria lo dijo.`
+` ¿Acaso no dijo que era una mensajera?`
+` Después de todo, Maria era la más joven, y parecía ser la más inocente..."`
+`"¿Por qué usar un mensajero?`
+` Si quería enviar una carta a la conferencia familiar, podrían haber usado el correo.`
+` Si se la enviaran a cada uno de los cuatro hermanos, no podrían ignorarla.`
+` No era necesario llevarla y entregarla con semejante secretismo."`
+`"...Realmente suena...`
+`...bastante extraño."`
+`"En primer lugar, si {f:5:Beatrice} existiera, y quisiera que todos supiéramos de su presencia, tan solo debería haberse presentado ante nosotros.`
+` A pesar de ello, escogió el impreciso método de aparecer a través de una pequeña niña llamada Maria‐chan, y darnos una impresión poco definida de su identidad.`
+` Contradicción.`
+` Profundicemos un poco más, ¿está bien?"`
+`"...Apareció frente a Maria, intentando dar la impresión de que existe una 19ª persona, y aun así,`
+` no ha aparecido ante nosotros y se está escondiendo en este mismo momento.`
+` Son contradicciones.`
+` ...Mantenlas en tu mente y da vuelta al tablero."`
+`"En otras palabras, la pregunta es: ¿por qué querría esta persona dar la impresión de que {f:5:Beatrice} existe como una 19ª persona?"`
+`"...Si dicha persona quisiera esconderse, no habría dado a conocer su presencia.`
+` Y si quería mostrarse, no habría usado un método tan indirecto como darle una carta a alguien.`
+` ...¿Lo que significa...?"`
+`"Es simple.`
+` {f:5:Beatrice} es uno de los 18.`
+` Lo que significa que quieren crear la impresión de que hay alguien aparte de las 18 personas.`
+` ...Y de esta forma, sugerir una 19ª persona."`
+`"La única persona que podría beneficiarse de esto no sería una 19ª persona escondida.`
+` Sino una de las 18 personas originales.`
+` ...Por supuesto, esta teoría tiene un montón de agujeros.`
+` Si le das la vuelta a algunas de sus premisas, se derrumbará.`
+` Pero estoy casi segura de que es correcta."`
+`...No tardó en convertirse en un tema espeluznante.`
+`¿Quién le dió a Maria el paraguas y la carta?`
+`{n}Todos los 18 habían sido descartados.`
+`{n}Y aun así, {f:5:Beatrice} estaba escondida entre aquellos 18.`
+`¿Qué planeaba esa persona al esconder su identidad y fingir ser {f:5:Beatrice}...?`
+`"También sospechaba que podía ser una actuación de Maria‐chan, pero los contenidos del mensaje eran extremadamente complejos, así que es difícil de creer que Maria‐chan lo haya preparado por sí misma.`
+` ...Pero no puedo negar la posibilidad de que esté trabajando con alguien."`
+`"E‐espera un momento... ¡Maria tiene apenas nueve años!`
+` ¡¿Qué demonios sospechas que podría estar tramando, y con quién?!`
+` ¡¿Y su carácter serio, excesivamente honesto y obediente?!"`
+`"Sí, también sé qué clase de persona es Maria‐chan.`
+` ...Pero justo por eso creo que es posible.`
+` Es una soñadora que admira y cree ciegamente en la existencia de las brujas.`
+` Así que si una persona apareciera frente a ella y asegurara que es la bruja {f:5:Beatrice}, Maria‐chan estaría tan feliz que se lo tragaría, o eso creo."`
+`"...¿Estás diciendo que si alguien se disfrazara con ese extravagante vestido del retrato, engañar a Maria no sería tan difícil?"`
+`"Por supuesto que, con ese razonamiento, las mujeres nos convertimos en las sospechosas principales.`
+` ...De cualquier forma, con quién se encontró Maria‐chan...`
+` Preguntarle los detalles de aquello podría ser la clave para resolver este acertijo."`
+`"...Pero dicha clave se ha encerrado obstinadamente en su corazón.`
+` Todos han negado la existencia de la bruja sin escucharla siquiera, y la bombardearon con preguntas sobre la identidad de {f:5:Beatrice}.`
+` ...No creo que Maria‐chan vaya a abrir su corazón a los adultos ahora."`
+`En el poco iluminado vestíbulo, frente al retrato de {f:5:Beatrice}, ...Maria estaba llorando.`
+`"...Uu...`
 ` Uu.`
-` ...No one believes I met you!`
-` ......Uu......`
-`uu......`
-` I showed them the letter you gave me, but they still don't believe...!`
-` .........Uu......u...`
+` ...¡Nadie cree que Maria se encontró contigo!`
+` ...Uu...`
+`uu...`
+` ¡Aún tras enseñarles la carta que me diste, siguen sin creer...!`
+` ...Uu...u...`
 `u...`
-`...hic...`
+`...¡hic...`
 `hic!"`
-`"Anyway, Maria‐chan's holding the key.`
-` The key to whether {f:5:Beatrice} is one of the 18 people or a 19th person."`
-`"...Maria is stubborn, you know?`
-` That girl, when she gets angry, it's pretty hard to make her feel better."`
-`"Battler‐kun, I think there's a higher probability of a kid like you cheering her up than an adult like me.`
-` ...After she feels better, try asking her."`
-`"......I know you don't care about all this back and forth on the distribution of the inheritance,`
-` but don't you think this classic Western mansion mystery situation is exciting?`
-` Who in the world is this person who gave Maria‐chan the letter?`
-` ......It makes my intellectual curiosity tingle."`
-`"Even while being made to sit through those boring money talks, you can call this exciting? You really are tough...`
-` Adults are something else."`
-`I shrugged, exasperated.`
-`{n}...But I had realized.`
-`She had noticed the dejection I was feeling because I had overheard our parents' turbulent discussion,`
-` and was probably trying to turn my mood around.`
-`...She had at least managed to make me feel good enough to hurl abuse.`
-`......She wasn't my real mother, so I never felt like calling her Mom.`
-`...But it did make me think "she's a real adult".`
-`"Hey, brats, so this is where you were?`
-` Kyrie, you really took your time fixing your makeup, didn't you?`
-` From now on, I'll start wearing it too."`
-`"I'm sorry.`
-` A woman's makeup takes a long time.`
-` ............So?`
-` How has the discussion been without me?"`
-`"Hehehe, I'm sure everything was all peaceful and harmonious."`
-`Kyrie‐san poked the weak spot under my arm with her elbow.`
-`"...We decided to take a break to cool our heads a little.`
-` It looks like it'll last all night.`
-` I could cry."`
-`His way of talking hadn't changed, but he couldn't completely hide his fatigue.`
-`...I couldn't say I was sympathetic, but he looked pitiful compared to his normal, energetic self.`
-`"Still, that rain's just awful.`
-` I really don't want to go back to the guesthouse.`
-` It looks like Natsuhi nee‐san made preparations for us to spend the night here in the mansion.`
-` What'll we do?"`
-`"......We don't need to think about that until you're done, right?`
-` If you run out of enough energy to head back to our room, then we can let them take care of us."`
-`"You're right.`
-` We can think about it later.`
-` ......What about you, Battler?"`
-`"If I stayed, I'd just get in the way.`
-` I'll be nice and go back over there."`
-`".........OK.`
-` Will you go back soon?"`
-`"I dunno.`
-` It'd be lonely to head back by myself.`
-` I'll head back with the rest of the kids as a group."`
-`"Yeah.`
-` That'd be good.`
-` ...............So, Battler.`
-` You won't just be going to sleep that easily, right?"`
-`"Yeah, I'll probably be up talking with the cousins.`
-` It feels like we might be up all night.`
-` Is there a problem with that?"`
-`"......OK.`
-` If, when the adults' discussion is over, you are still awake, I want to have a little talk as a family."`
-`"...A what?`
-` That doesn't sound like you."`
-`Apparently, Kyrie‐san was thinking the same thing.`
-`{n}"What are you talking about?",`
-` she asked him in a small voice.`
-`...It looked like Kyrie‐san didn't have a clue what Dad was talking about either.`
-`"......I want to talk to you about it as well.`
-` ......I'll tell you later, so don't ask now.`
-` Please."`
-`".....................?"`
-`I don't think there's anyone who ignores their family as much as this old bastard.`
-`...And this was the guy that was asking us to have a talk as a family.`
-`{n}......Both Kyrie‐san and I couldn't help but get wide‐eyed.`
-`"Don't make that scared looking face.`
-` I'm the one that should be scared.`
-` ............I mean, ......"`
-`At that point, he swallowed his words for an instant.`
-`...I don't remember Dad being the kind of person to artificially drum up suspense.`
-`"...You're freaking me out, Dad.`
-` You've got your family all here right now.`
-` Quit beating around the bush and spit it out."`
-`"..................I'm probably...`
-`......gonna get...`
-`murdered tonight."`
-`There was a huge crash of thunder.`
-`{n}It must have been really close.`
-`Dad's expression, brightly illuminated by the lightning, was burned into my eyes.`
-`......Dad's face, which always looked so sure of itself and which always wore a taunting expression,`
-` ......was, for some reason that I couldn't explain, strangely frail.`
-` ............It was so worn out that he looked like a different person.`
-`"Wh‐what...?!`
-` ...What are you talking about, that doesn't sound like you!"`
-`"*giggle*.`
-` I agree.`
-` What happened? You look so timid all of a sudden.`
-` It's not like you."`
-`".........I'm going to go fix my makeup.`
-` Don't follow me."`
-`Dad turned away, weakly.`
-`...After that, only Kyrie‐san and I were left, still wide‐eyed.`
-`"What the hell was that.........?`
-` He's gonna get {i:murdered} tonight?"`
-`"You don't think that mysterious letter scared him?`
-` Hasn't he been watching too many serial murder movies?"`
-`"..................Hmmm."`
-`Kyrie‐san didn't answer my lighthearted words, and continued to stare at my dad's disappearing back...`
-`"......Battler‐kun, when you told Rudolf‐san to talk about it, he left without telling us anything.`
-` Even though he said that he had something to say to everyone, he didn't answer you.`
-` Why?`
-` ......Flip over the chessboard.`
-` ............And when you do?"`
-`"There's the contradiction that he said he wanted to talk but then couldn't.`
-` ...What, can you see anything by looking from Dad's perspective?"`
-`"......*giggle*.`
-` Yes, I can see something.`
-` He wants to talk about something.`
-` However, he doesn't have the courage to bring it up.`
-` So he actually means "In that case, chase after me, talk to me, and question it out of me".`
-` He also means the opposite when he says "Don't follow me".`
-` He actually means "Follow me and force me to answer."`
-` ......Honestly, what a spoiled little child."`
-`"Whaaaa?!`
-` Are you sure that theory's OK?!`
-` Th‐that's ridiculous."`
-`"Heheheh, can great detectives deduce the emotions and feelings between men and women?`
-` They can't, right?`
-` Figuring out the feelings of the opposite sex is an even more advanced art than exposing the tricks in difficult crime cases.`
-` If you ask me, romance novels have much deeper mysteries than masterpiece mystery novels."`
-`"I, ...I see.`
-` Is that how it is......"`
-`"I'll be with that spoiled little child.`
-` ......He normally loves to act tough, but tonight he's completely tired out from that heated discussion.`
-` He probably wants someone to lean on at the moment.`
-` And responding to that need is the duty of his partner."`
-`"Hahh.`
-` Sounds passionate.`
-` Then I'll leave the old bastard in your hands."`
-`"Yes, leave it to me."`
-`As Kyrie‐san departed, I called out to her.`
-`"......Huh?`
-` What?"`
-`"Um, I wanted to say thanks.`
-` Thanks to you, my gloomy mood has cleared up a lot."`
-`"That's good.`
-` Communication is important."`
-`After answering with a wink, Kyrie‐san followed after Dad...`
-`Natsuhi could be found in the dimly lit hallway.`
-`{n}Now and then, the thunder would crash, but this had no effect on Natsuhi's expression.`
-`......Her expression was completely worn out.`
-`The discussion that had just taken place between the relatives in the dining hall was repeating itself inside Natsuhi's mind...`
-`{f:5:Beatrice} had proclaimed that in addition to the gold, the headship and all of the assets of the Ushiromiya family would be given to the person who could solve the riddle.`
-`...In other words, she planned to undermine the absolute guarantee that Krauss, as the oldest brother, had to succeed the family head.`
-`Originally, the other siblings had absolutely no chance to succeed the head.`
-`To them, this "proposal" by {f:5:Beatrice} was extremely desirable.`
-`It was obvious that they would accept {f:5:Beatrice}'s proposal.`
-`...Even without playing clumsy detective games, she knew that this so called 19th person, {f:5:Beatrice}, couldn't exist.`
-`This was a message employing a fictional character called {f:5:Beatrice} as a messenger; it may as well have been written in Kinzo's own handwriting.`
-`The proof was that Kinzo remained stubbornly neutral as to that letter's authenticity.`
-`......He was completely ignoring these reckless claims that he shouldn't be able to ignore: that he had given up the Head's Ring.`
-`............In short, Kinzo had wordlessly admitted that the letter held his own message.`
-`Most likely, one of the servants had given Maria the letter.`
-`Kinzo had probably worked out an elaborate plan where the dress from the portrait would be prepared,`
-` ......and someone, probably Shannon, would be made to wear it and deliver the letter and the umbrella.`
-`By doing that, he could make it seem like the witch from the portrait actually existed.`
-`...No, if anything, that is why you could be certain that Kinzo was behind all of this.`
-`In that case, ......it was just as if Kinzo had butted in on the siblings' private discussion.`
-`And, by announcing that he would give everything to the person who could solve the riddle, Kinzo had weakened Krauss's overwhelming advantage.`
-`.........Now it was certain.`
-`{n}Kinzo had listened in on the siblings' discussion in the parlor earlier that day.`
-`So he had known how Krauss had staved off the attack by the other three,`
-` and to make the scales of the battle go back into balance, he had sent out this strange letter which benefited the other three.`
-`Eva and Rudolf had dragged Rosa in, who had a weak position among the siblings because of her age,`
-` and they were trying once again to overwhelm Krauss three‐on‐one, and push through their crazy reasoning.`
-`......And so, they had resumed what had once been a nearly decided conflict, and were repeatedly pressing Krauss to pay them a large amount of money...`
-`Talk about the advance payment, which had been denied once already, was being brought up again under the terms that all of the siblings would guarantee Krauss the succession to the family head.`
-`Of course, even without the story about the hidden gold, the Ushiromiya family's store of wealth was vast.`
-`Just that store was worth more than enough by itself.`
-`{n}Even if the hidden gold was buried forever along with Kinzo's death, there would be more than enough to satisfy.`
-`Therefore, even if they had no interest in the gold itself,`
-` there would be the lifelong fear that, on the off‐chance that someone found the gold, that person would be granted the position of family head.`
-`And this kind of Achilles' heel would definitely be taken advantage of by someone sooner or later.`
-`The only person with this fatal weakness was the successor to the head, Krauss.`
-`{n}......The other siblings had found,`
-` ...no, they had been told, by Kinzo, about something that only Krauss could lose, and they had thoroughly taken advantage of that.`
-`...Natsuhi, as Krauss's only ally in his painful position, and as his wife, had believed she was fighting alongside him.`
-`She kept trying to point out to him that the existence of the gold itself was a farce and that there was no need for him to compromise.`
-`Krauss had always told Natsuhi.`
-` He had told all of the siblings.`
-`{n}He had always, always said that the hidden gold was nothing more than a fiction created by Kinzo.`
-`Therefore, Natsuhi had believed that as his wife, and on that foundation had supported her husband.`
-`Yet her words would not reach him.`
-`...Even though she was fighting so hard and lending all of her strength, he continued to fight by himself, and was trying to compromise with the other three siblings...`
-`Wondering why she could not be of use to him, Natsuhi felt sorrow, shame, and then anger.`
-`It had happened when everyone decided to take a short break to cool their heads.`
-`Natsuhi had flared up against Krauss.`
-`Enraged, she had asked why she could not be useful to him.`
-`......He had told her that he wanted to talk about something, and had invited her into one of his private rooms, which she was normally not allowed to enter.`
-`That room had been sealed with a heavy‐looking padlock, and just looking at it had given her an uncomfortable feeling...`
-`"There's no reason for you to worry about what those three or even this suspicious person who calls themselves {f:5:Beatrice} says!!`
-` After all, the gold is just a ruse created by Father.`
-` There's no way something like that could be found!!`
-` It is set in stone that you will be the successor to the family.`
-` What are you afraid of?!"`
-`Krauss removed the padlock on the door.`
-`{n}He then motioned for Natsuhi to enter.`
-`"Enter."`
-`"Wha‐......what is this?"`
-`"There's something I want to show you.`
-` ......I have never shown it to you before."`
-`Natsuhi timidly opened the door with a dubious expression on her face...`
-`It was pitch black.`
-`She searched for a switch to turn on the lights, but since this was her first time in the room, she didn't know where it was.`
-`Krauss entered behind her, pushing her in, and closed the door before making any attempt to turn on the lights; the two were swallowed up by the darkness.`
-`Only the sound of Krauss locking the door rang out through the dark.`
-`"Wh‐what are you doing...?`
-` The, the lights..."`
-`"I am turning it on now.`
-` Wait."`
-`True to his word, Krauss pushed a switch on the wall, and a flickering light turned on and lit up the room.`
-`"...........................Wh‐`
-`what is......?"`
-`Natsuhi had her breath taken away.`
-`The room had no windows, and at a glance, it appeared to be empty.`
-`In the middle of the room, a small, round table had been set,`
-` and the lights brightened only that table, as if it were the leading part in a play.`
-`Laid out on top of the table was a red tablecloth of elaborate design, covered with dust,`
-` ......and on top of that, "something" about the size of a grown man's arm had been set down.`
-`......That something took Natsuhi's breath away.`
-`"It's a gold ingot of incredible purity.`
-` Without this, no one would have believed in the Legend of the Gold."`
-`It was an ingot of solid gold.`
-`Even in the faint light, it sparkled with a noble and dignified gold glint...`
-`"This is not a proper ingot.`
-` I don't even know whether it was cast inside or outside the country."`
-`It takes a high level of skill to make the purest of solid gold ingots.`
-`{n}And in order to verify that purity, it is standard to have the original foundry and the name of the bank that guaranteed it imprinted on the gold.`
-`...However, this ingot did not have that kind of seal.`
-`{n}.........This mysterious gold bar had come from an unknown foundry.`
-`"Look here.`
-` ............There's nothing to be afraid of.`
-` It's just a bar of gold."`
-`Natsuhi, following Krauss's words, timidly approached the ingot......`
-`"Right there."`
-`Krauss pointed at the surface of the ingot.`
-`{n}...Natsuhi concentrated on that section...`
-`".....................!!"`
-`Right there was the thin imprint of the One‐winged Eagle crest!`
-` Natsuhi's breath was taken away once again.`
-`"That's right.`
-` This is the legendary ingot that Dad said he received from the witch, that the president of Marusoo witnessed and was allowed to select at random to take back with him,`
-` that gained the trust of the fixers in the business world.`
-` I had to use all possible means to find it.`
-` ......Before the other siblings could."`
-`".........How could............`
-` ......Then,`
-` .........the legend of Father's gold is........."`
-`"It actually exists.`
-` ......The gold that Ushiromiya Kinzo received from {f:5:Beatrice} actually exists."`
-`"How could...............!`
-` H‐......how could it really exist............"`
-`Natsuhi was shocked......`
-`Krauss had always said that Kinzo's gold was just a fabrication.`
-`{n}So she had believed it as his wife.`
-`However, the reality was different.`
-`{n}He had held definite proof, and had been more certain than any of the other siblings that the Legend of the Gold was true.`
-`Because of this, Krauss was deeply frightened at the possibility that someone other than himself would find the gold that he had failed to find, costing him everything.`
-`......But to Natsuhi, this truth was more than enough to split open her heart.`
-`She had thought that, as Krauss's wife, she should be his closest confidant, which was why she had been selflessly supporting him.`
-`...And yet, he had hidden this fact from her until today.`
-` .........Why?`
-`"......Ha‐`
-`.........have I been...`
-`.........so undeserving of your trust............?"`
-`".........I didn't mean it like that.`
-` It was only that there was no need to mention it."`
-`"Is,`
-` ......is that all a,`
-` ............a wife...`
-`means to you............?!"`
-`"Calm down...`
-` Becoming passionate easily is one of your bad habits."`
-`"You're the one who's making me like that, aren't you!!!`
-` I have been supporting you as a wife ever since I married into this family...!`
-` For your sake, I threw away the family I was born into,`
-` I've been offering up my heart and my body to serve you...!!"`
-`"And in return,`
-` .........I get this.........?!!`
-` How could......`
-` ............How could you............!!"`
-`Krauss grimaced, looking annoyed...`
-`{n}His expression effectively communicated how much he disliked this part of Natsuhi...`
-`"......I.........`
-` I don't think I can be of any use to you anymore............"`
-`"Mm, and that is fine.`
-` .........I can resolve problems between the siblings by myself.`
-` I don't need your help."`
-`"That's wrong!!`
-` This is the Ushiromiya family's problem!`
-` It's true that I am not permitted to have the family crest imprinted on my body!`
-` But I am still your wife!!"`
-`"Even so, ......are you saying I'm not qualified to help you...?!`
-` Are you.........?!!!"`
-`".....................I deliberately chose not to involve you, out of consideration for you.`
-` Let's not talk any further; it will likely only worsen your headaches.`
-` Take a rest for today.`
-` The siblings will deal with the siblings' problems.`
-` It has nothing to do with you.`
-` That is all."`
-`A dull headache tormented Natsuhi...`
-`{n}No matter what medicine she took, no matter what scents she burned, it wouldn't heal.`
-`......On the other hand, by standing here alone in a dimly lit corridor, her head filled with the sound of the rain, she felt like the pain had softened a little...`
-`.........I may have been Natsuhi,`
-` ...but I was not Ushiromiya Natsuhi.`
-`Denigrated as being a sorry excuse for a wife, ...verbally abused for not even being able to take care of that,`
-` .........even so, I tried to properly perform the duties of a wife,`
-` ......but have been rejected even by my husband.`
-`I did my best raising my daughter as though it was the last job left to me.`
-`{n}...However, my anger and sadness, having no place to go, caused me to subconsciously strain that relationship too...`
-`Because I have been excessively strict in Jessica's education, I am thoroughly disliked by her.`
-`Jessica despises me for not being interested in anything but grades.`
-`......There is no longer...`
-`......anything I can do for the Ushiromiya family.........`
+`"Como sea, Maria‐chan es quien tiene la clave.`
+` La clave del misterio de si {f:5:Beatrice} está entre los 18 o es una 19ª persona."`
+`"...Maria es bastante obstinada, ¿sabes?`
+` Cuando se enfada, es muy difícil conseguir que se sienta mejor."`
+`"Battler‐kun, creo que un joven como tú podría animarla con más facilidad que una adulta como yo.`
+` ...Cuando se sienta mejor, intenta preguntárselo."`
+`"...Sé que no te preocupa todo lo del reparto de la herencia,`
+` ¿pero no crees que esta típica situación de misterio en una mansión occidental es emocionante?`
+` ¿Quién le dio la carta a Maria‐chan?`
+` ...Todo esto enciende mi curiosidad intelectual."`
+`"¿Incluso con toda esa charla del dinero, llamas a esto emocionante? Vaya que eres dura...`
+` Los adultos sí que son asombrosos."`
+`Me encogí de hombros, sorprendido.`
+`{n}...Pero fui consciente de aquello.`
+`Se había dado cuenta del desprecio que sentí cuando escuché la turbulenta discusión de nuestros padres,`
+` y estaba intentando cambiar mi estado de humor.`
+`...Por lo menos me había hecho sentir lo suficientemente bien como para soltar insultos.`
+`...No era mi verdadera madre, así que nunca me apetecía llamarla mamá.`
+`...Pero me hacía pensar "es una auténtica adulta".`
+`"Oigan, mocosos, así que aquí estaban.`
+` Kyrie, realmente te llevó mucho tiempo arreglar tu maquillaje, ¿no?`
+` A partir de ahora, creo que también yo empezaré a llevarlo."`
+`"Lo siento.`
+` El maquillaje de una mujer lleva mucho tiempo.`
+` ...¿Entonces?`
+` ¿Cómo ha ido la discusión sin mí?"`
+`"Jejeje, seguro que era totalmente pacífica y armoniosa."`
+`Kyrie‐san me dio un codazo en mi punto débil bajo el brazo.`
+`"...Decidimos que sería mejor tomarnos un descanso para tranquilizarnos un poco.`
+` Parece que durará toda la noche.`
+` Me dan ganas de llorar."`
+`Su forma de hablar no había cambiado, pero no podía esconder del todo su fatiga.`
+`...No puedo decir que sintiera compasión, pero estaba lamentable comparado con su yo normal y enérgico.`
+`"Como sea, esta lluvia es horrible.`
+` No quiero volver a la casa de huéspedes.`
+` Parece que Natsuhi nee‐san ha hecho preparaciones para que podamos pasar la noche aquí, en la mansión.`
+` ¿Qué hacemos?"`
+`"...No necesitamos pensar en ello hasta haber acabado, ¿verdad?`
+` Si te quedas sin la energía suficiente para volver a nuestra habitación, podemos dejar que cuiden de nosotros."`
+`"Cierto.`
+` Podemos pensar en ello luego.`
+` ...¿Y tú, Battler?"`
+`"Si me quedara, tan solo estorbaría.`
+` Estaría bien volver allí."`
+`"...Ya veo.`
+` ¿Volverás pronto?"`
+`"No sé.`
+` Me sentiría aislado volviendo yo solo.`
+` Reuniré a todos los jóvenes y nos iremos."`
+`"Sí.`
+` Eso estaría bien.`
+` ...Entonces, Battler.`
+` No dormirás tan fácilmente esta noche, ¿no?"`
+`"Sí, me quedaré hablando con mis primos.`
+` Siento que estaremos despiertos toda la noche.`
+` ¿Hay algún problema con eso?"`
+`"...Ya veo.`
+` Si para cuando la discusión se haya acabado, sigues despierto, quiero que tengamos una pequeña charla familiar."`
+`"...¿Una qué?`
+` No parece algo típico de ti."`
+`Por lo visto, Kyrie‐san pensaba lo mismo.`
+`{n}"¿De qué estás hablando?",`
+` le preguntó en voz baja.`
+`...Como sea, parecía que tampoco Kyrie‐san tenía idea de qué estaba hablando papá.`
+`"...También quiero hablarlo contigo, Kyrie.`
+` ...Se los diré luego, así que no pregunten ahora.`
+` Por favor."`
+`"¿...?"`
+`No creo que nadie ignore tanto a su familia como este viejo bastardo.`
+` ...Y la misma persona nos pedía que tuviéramos una charla familiar.`
+`{n}...Tanto Kyrie‐san como yo nos quedamos boquiabiertos.`
+`"No pongan esas caras de miedo.`
+` Yo debería ser el asustado.`
+` ...En cualquier caso..."`
+`En ese momento, se tragó sus palabras por un instante.`
+`...No era típico de él dejar tanto las cosas al suspenso.`
+`"...Me estás asustando, papá.`
+` Toda la familia está reunida aquí ahora mismo.`
+` No lo exageres tanto y suéltalo."`
+`"...Es probable que...`
+`...esta noche...`
+`me asesinen."`
+`Un trueno provocó un fuerte estrépito.`
+`{n}Debió caer muy cerca.`
+`La expresión de papá, iluminada por el relámpago, se me grabó en los ojos.`
+`...El rostro de papá, que siempre parecía tan seguro de sí mismo, y siempre llevaba una expresión burlesca,`
+` ...estaba extrañamente débil por algún motivo que no puedo explicar.`
+` ...Estaba tan agotado que parecía alguien diferente.`
+`"¡¿Q‐qué...?!`
+` ...¡¿De qué estás hablando? No pareces el de siempre!"`
+`"*risita*.`
+` Estoy de acuerdo.`
+` ¿Qué ha ocurrido? Pareces tan tímido de repente.`
+` No es típico de ti."`
+`"...Voy a arreglar mi maquillaje.`
+` No me sigan."`
+`Papá se dio la vuelta débilmente.`
+`...Tras eso, Kyrie‐san y yo nos quedamos solos, todavía boquiabiertos.`
+`"¿Qué demonios...?`
+` ¿Esta noche será {i:asesinado}?"`
+`"¿No creerás que esa misteriosa carta lo haya asustado?`
+` ¿No habrá estado viendo demasiadas películas de asesinatos en serie?"`
+`"...Hmmm."`
+`Kyrie‐san no contestó a mis alegres palabras, y se quedó ensimismada mirando cómo desaparecía la espalda de mi padre...`
+`"...Battler‐kun, cuando le dijiste a Rudolf‐san que dijera algo, se fue sin decirnos nada.`
+` Aunque aseguró que tenía algo que decirnos a todos, no te respondió.`
+` ¿Por qué?`
+` ...Da vuelta al tablero.`
+` ...¿Y qué ves cuando lo haces?"`
+`"Está la contradicción de que decía que quería hablar pero no podía.`
+` ...Espera, ¿puedes ver algo desde la perspectiva de mi padre?"`
+`"...*risita*.`
+` Sí, puedo ver algo.`
+` Quiere hablarnos de algo.`
+` Pero, no tiene el valor para sacar el tema.`
+` Lo que quiere decir es "En ese caso, síganme y hablen conmigo, y pregúntenme sobre ello".`
+` Cuando dijo "No me sigan", quería decir lo contrario.`
+` Quería decir "Síganme y obliguenme a responder."`
+` ...En serio, que niño más mimado."`
+`"¡¿Queeeé?!`
+` ¡¿Realmente puedes razonarlo de esa forma?!`
+` E‐es ridículo."`
+`"Jejeje, ¿pueden los grandes detectives deducir las emociones y sentimientos entre hombres y mujeres?`
+` No pueden, ¿verdad?`
+` Descubrir los sentimientos del sexo opuesto es un arte mucho más avanzado que exponer los trucos de un complejo crimen.`
+` Si me lo preguntas, te diré que las novelas de romance tienen misterios mucho más profundos que las mejores novelas de misterio."`
+`"E, ...entiendo.`
+` Así que es así..."`
+`"Estaré junto a ese chiquillo mimado.`
+` ...Normalmente le encanta fanfarronear, pero esta noche está completamente agotado por tan acalorada discusión.`
+` Supongo que quiere a alguien en quién apoyarse en este momento.`
+` Y responder a esa necesidad es el deber de su pareja."`
+`"Jaa.`
+` Suena apasionado.`
+` Entonces dejaré a ese viejo bastardo en tus manos."`
+`"Sí, déjamelo a mí."`
+`Llamé a Kyrie‐san cuando ésta ya estaba marchándose.`
+`"...¿Eh?`
+` ¿Qué?"`
+`"Um, quería darte las gracias.`
+` Gracias a ti, me he animado bastante."`
+`"Eso es bueno.`
+` La comunicación es importante."`
+`Tras responder con un guiño, Kyrie‐san persiguió a papá...`
+`Natsuhi estaba en el pasillo escasamente iluminado.`
+`{n}De cuando en cuando, sonaba el estrépito de un trueno, pero esto no tenía efecto alguno en la expresión de Natsuhi.`
+`...Tenía el rostro de una persona completamente agotada.`
+`La discusión que acababa de ocurrir entre los familiares en el salón comedor seguía repitiéndose en su cabeza...`
+`{f:5:Beatrice} había proclamado que además del oro, toda la herencia de la familia Ushiromiya sería entregada a quien resolviera el acertijo.`
+`...En otras palabras, quería minar la absoluta seguridad de que Krauss, como el primogénito, sería el sucesor del liderazgo de la familia.`
+`Normalmente, los otros hermanos no tenían la oportunidad de heredar el liderazgo.`
+`Para ellos, esta "propuesta" de {f:5:Beatrice} era bastante conveniente.`
+`Estaba claro que aceptarían su propuesta.`
+`...No era necesario jugar a ese torpe juego de detectives. Sabía que esta 19ª persona, {f:5:Beatrice}, no existía.`
+`Claramente, {f:5:Beatrice} no era más que un personaje ficticio usado para entregar un mensaje escrito por el mismo Kinzo.`
+`La prueba era que él se mantenía obstinadamente neutral en lo referente a la autenticidad de la carta.`
+`...Ignoraba totalmente las imprudentes afirmaciones que no debería poder ignorar: que había cedido el Anillo del Líder.`
+`...En resumen, Kinzo había admitido silenciosamente que la carta era suya.`
+`Lo más probable era que uno de los sirvientes le hubiera entregado la carta a Maria.`
+`Kinzo probablemente habría creado un intrincado plan en el que prepararían un vestido como el del retrato,`
+` ...y alguien, probablemente Shannon, lo llevaría puesto y portaría la carta y el paraguas.`
+`Al hacer eso, podría hacer que pareciera que la bruja del retrato realmente existía.`
+`...No, como fuera, por solo eso podrías concluir que Kinzo estaba detrás de todo eso.`
+`En ese caso... era como si Kinzo intentara meterse en la discusión privada de los hermanos.`
+`Y entonces, al anunciar que le daría todo a la persona que resolviera el acertijo, él había debilitado Krauss la absoluta ventaja de Krauss.`
+`...Estaba claro.`
+`{n}Kinzo escuchó la discusión de los hermanos en el salón de aquel mismo día.`
+`Así que sabía cómo se había librado Krauss del ataque de sus hermanos,`
+` y para volver a equilibrar las cosas, envió esa extraña carta que beneficiaba a los otros tres.`
+`Eva y Rudolf se habían unido con Rosa, quién tenía una posición bastante débil entre los hermanos por su edad,`
+` y estaban una vez más tratando de abrumar a Krauss, y de sacar adelante esta extraña teoría.`
+`...Y así, habían reanudado lo que una vez fue un conflicto ya casi decidido, y presionaban repetidamente a Krauss para pagarles grandes cantidades de dinero...`
+`El tema de los pagos adelantados, los cuales habían sido anteriormente rechazados, se planteó de vuelta bajo los términos de que todos ellos garantizarían que Krauss fuera el sucesor.`
+`Por supuesto, aun sin la historia del oro escondido, la reserva de riqueza de la familia era enorme.`
+`Dicha reserva era más que suficiente.`
+`{n}Aunque el oro escondido estuviera enterrado para siempre junto con la muerte de Kinzo, habría más que suficiente para satisfacerlos.`
+`Por tanto, aunque no estuvieran tan interesados en el propio oro,`
+` Kinzo había conseguido instar el largo terror a que, si alguien encontraba el oro, esa persona se convertiría en líder de la familia.`
+`Y alguien se aprovecharía de este talón de Aquiles tarde o temprano.`
+`La única persona con esta horrible debilidad era el sucesor del liderazgo, Krauss.`
+`{n}...Los otros hermanos habían encontrado,`
+` ...no, Kinzo les había dicho algo que solo a Krauss le haría perder, y se habían aferrado a ello con todas sus fuerzas.`
+`...Natsuhi, como la única aliada de Krauss en esa dolorosa posición, y a la vez como su esposa, creía estar luchando junto a él.`
+`Más de una vez intentó explicar que lo del oro era una farsa y que no había necesidad de comprometerse.`
+`Krauss siempre le había dicho a Natsuhi.`
+` Le había dicho a todos los hermanos.`
+`{n}Siempre, siempre había dicho que el oro escondido no era más que una ilusión creada por Kinzo.`
+`Por tanto, como su esposa, Natsuhi le había creído, y con esos cimientos había apoyado a su marido.`
+`Y aun así, sus palabras no les alcanzaban.`
+`...Aunque ella estaba luchando con todas sus fuerzas, él seguía seguía luchando en solitario, e intentaba llegar a un acuerdo con los otros hermanos...`
+`Preguntándose por qué no estaba siendo de utilidad, Natsuhi sintió tristeza, vergüenza, y luego enojo.`
+`Ocurrió cuando decidieron descansar para tranquilizarse un poco.`
+`Natsuhi descargó su cólera contra Krauss.`
+`Furiosa, le preguntó por qué no podía serle de utilidad.`
+`...Él le había dicho que quería hablarle de algo, y la invitó a una de sus habitaciones privadas, en las que normalmente no se le tenía permitido entrar.`
+`Estaba cerrada con un candado de aspecto pesado, y tan solo mirarlo le daba una sensación desagradable...`
+`"¡¡No hay motivo para que te preocupes de lo que dicen esos tres o incluso esa sospechosa persona que se llama a sí misma {f:5:Beatrice}!!`
+` Después de todo, el oro es solo una artimaña creada por Padre.`
+` ¡¡No hay forma de que algo así pueda ser encontrado!!`
+` Ya está decidido que serás el sucesor de la familia.`
+` ¡¿A qué le tienes miedo?!"`
+`Krauss apartó el candado de la puerta.`
+`{n}E indicó a Natsuhi que entrara.`
+`"Entra."`
+`"¿Qué‐... qué es esto?"`
+`"Hay algo que quiero enseñarte.`
+` ...No es algo que te haya mostrado antes."`
+`Natsuhi abrió tímidamente la puerta con la duda reflejada en su expresión...`
+`La oscuridad era total.`
+`Buscó un interruptor para encender las luces, pero al ser la primera vez que entraba en esa habitación, no sabía dónde estaba.`
+`Krauss entró tras ella, empujándola al interior, y cuando cerró la puerta antes de encender las luces, fueron tragados por la oscuridad.`
+`Solo el sonido de Krauss cerrando la puerta con llave resonó en la oscuridad.`
+`"¿Q‐qué estás haciendo...?`
+` La, las luces..."`
+`"Voy a encenderlas.`
+` Espera."`
+`Tal y como había dicho, cuando Krauss pulsó un interruptor en el muro, se encendió una parpadeante luz e iluminó la habitación.`
+`"...¿E‐`
+`eso es...?"`
+`Natsuhi se quedó sin aliento.`
+`La habitación no tenía ventanas, y a primera vista, parecía vacía.`
+`En medio de la habitación había una mesa pequeña y redonda,`
+` y las luces iluminaban solo esa mesa, como si fuera la protagonista de una obra de teatro.`
+`Sobre la mesa había un mantel rojo de diseño elaborado, cubierto de polvo,`
+` ...y sobre ello, había "algo" del tamaño del brazo de un adulto.`
+`...Ese algo dejó a Natsuhi sin aliento.`
+`"Es un lingote de oro de una pureza impresionante.`
+` Sin esto, nadie habría creído en la Leyenda del Oro."`
+`Era un lingote de oro sólido.`
+`Aun con la débil luz, centelleaba con los nobles y dignos destellos del oro...`
+`"No es un lingote propiamente dicho.`
+` Ni siquiera sé si fue fundido dentro o fuera del país."`
+`Se necesita mucha habilidad para hacer un lingote de oro sólido de alta pureza.`
+`{n}Y, para verificar esa pureza, lo normal era que la fundición y el banco que la garantizaba imprimieran su nombre en el oro.`
+`...Sin embargo, este lingote no tenía esa clase de sello.`
+`{n}...Esta misteriosa barra de oro venía de una fundición desconocida.`
+`"Mira aquí.`
+` ...No hay nada que temer.`
+` Es solo una barra de oro."`
+`Natsuhi, tras las palabras de Krauss, se acercó tímidamente al lingote...`
+`"Aquí mismo."`
+`Krauss señaló la superficie del lingote.`
+`{n}...Natsuhi se concentró en esa sección...`
+`"¡¡...!!"`
+`¡Y ahí mismo estaba plasmada la cresta del Águila de un Ala!`
+` Natsuhi volvió a quedarse sin aliento.`
+`"Así es.`
+` Éste es el legendario lingote que Padre asegura haber recibido de la bruja, que vio el presidente de Marusoo al cual se le permitió escoger uno al azar para llevarlo con él,`
+` que le ganó la confianza de los inversores del mundo de los negocios.`
+` He tenido que hacer mil cosas para encontrarlo.`
+` ...Antes de que los otros hermanos pudieran."`
+`"...Cómo puede...`
+` ...Entonces,`
+` ...la leyenda del oro de padre es..."`
+`"Existe.`
+` ...El oro que Ushiromiya Kinzo recibió de {f:5:Beatrice} existe."`
+`"¡¿Cómo puede...?!`
+` ¿C‐...cómo puede ser que exista...?"`
+`Natsuhi estaba conmocionada...`
+`Krauss siempre había dicho que el oro de Kinzo era solo una ilusión.`
+`{n}Así que, como su esposa, lo había creído.`
+`Sin embargo, la realidad era diferente.`
+`{n}Tenía pruebas concluyentes, así que tenía mucha más seguridad que los otros hermanos de que la Leyenda del Oro era cierta.`
+`Por ello, Krauss había estado aterrorizado por la posibilidad de que alguien que no fuera él encontrara el oro que él no había conseguido encontrar, lo cual le haría perder todo.`
+`...Pero para Natsuhi, esta verdad era más que suficiente para romper su corazón.`
+`Había pensado que, como la esposa de Krauss, sería su mayor confidente, por lo que siempre había estado apoyándole incondicionalmente.`
+`...Y aun así, le había escondido lo del oro hasta ese mismo día.`
+` ...¿Por qué?`
+`"...¿He,`
+` ...he sido...`
+` ...tan indigna de tu confianza...?"`
+`"...Esa no fue mi intención.`
+` Simplemente no había necesidad alguna de mencionarlo."`
+`"¡¿E‐,`
+` ...es eso todo,`
+` ...lo que una esposa...`
+` significa para ti...?!"`
+`"Cálmate...`
+` Emocionarte con demasiada facilidad es uno de tus malos hábitos."`
+`"¡¡¡Tú eres quién hace que me comporte así!!!`
+` ¡Te he estado apoyando como una esposa desde que me casé en esta familia...!`
+` Por tu bien, abandoné la familia en la que nací,`
+` ¡¡te he ofrecido mi corazón y mi cuerpo para servirte...!!"`
+`"¡¡¿Y a cambio,`
+` ...es esto lo que recibo...?!!`
+` ¿Cómo has...?`
+` ...¡¡¿Cómo has podido...?!!"`
+`Krauss hizo una mueca, algo molesto...`
+`{n}Su expresión dejaba claro cuánto le disgustaba esta parte de Natsuhi...`
+`"...No parece que...`
+` vaya a serte de utilidad..."`
+`"Mm, está bien.`
+` ...Puedo resolver los problemas con los hermanos por mí mismo.`
+` No necesito tu ayuda."`
+`"¡¡Te equivocas!!`
+` ¡Éste es un problema de la familia Ushiromiya!`
+` ¡Es verdad que no puedo llevar la cresta familiar sellada en mi cuerpo!`
+` ¡¡Pero sigo siendo tu esposa!!"`
+`"¡¿Y aún así, ...me estás diciendo que no soy capaz de ayudarte...?!`
+` ¡¿Es eso...?!!!"`
+`"...Fue por consideración por tí, que decidí no involucrarte.`
+` Dejemos de hablar. Solo empeorará tu dolor de cabeza.`
+` Descansa por hoy.`
+` Los hermanos tratarán los problemas de los hermanos.`
+` No tiene nada que ver contigo.`
+` Eso es todo."`
+`Un sordo dolor de cabeza atormentaba a Natsuhi...`
+`{n}No importaba qué medicina tomase, no importaba qué inciensos usara, no se curaría.`
+`...Por otro lado, al estar sola en un corredor débilmente iluminado, su cabeza llena del sonido de la lluvia, sintió que el dolor se suavizaba un poco...`
+`...Aun si soy Natsuhi,`
+` ...no soy Ushiromiya Natsuhi.`
+`Me desprecian como a un útero prestado, ...y me insultan por no poder ocuparme ni siquiera de eso,`
+` ...aun así, he intentado cumplir mis deberes como esposa,`
+` ...pero he sido rechazada incluso por mi marido.`
+`Hice lo mejor que pude como si criar a mi hija fuera mi último trabajo.`
+`{n}...Sin embargo, mi ira y tristeza, al no tener lugar dónde ir, me han hecho tensar también esa relación de forma inconsciente...`
+`He sido demasiado estricta con la educación de Jessica, así que ahora me desprecia.`
+`Me desprecia por no estar interesada en nada excepto en sus calificaciones.`
+`...Ya no hay...`
+` ...nada que pueda hacer por la familia Ushiromiya...`
 `No,`
-` ......that's no good.`
-`Even so, I must help my husband dislodge the schemes of the other greedy siblings.`
-`The head won't be around much longer.`
-` Eventually, Krauss will succeed the head.`
-`{n}And the next successor will be Jessica.`
-`.........Strictly speaking, the man who enters the family by marrying Jessica will become the next head, but it all comes to the same thing.`
-`......I have to make Jessica an excellent successor who everyone will accept as worthy to take over the Ushiromiya family.`
-`In the years to come, that greedy Ushiromiya Eva will surely be continually plotting to find some fault with the main family,`
-` so that if all goes as she plans, Jessica will be dragged down from the succession, with George in her place.`
-`......It is regrettable, but George is a man, and even more, has matured as a person.`
-`...If you compare him to Jessica, who is right in the middle of her rebellious period and whose grades are below average, you can see at a glance who is more fit to succeed the head.`
-`So in order to secure Jessica's position, I need to turn her into an excellent person.`
-`After doing that, .........I want to find her an excellent husband worthy of the excellent person she will have become.`
-`.........A wonderful man who will truly accept Jessica, and stay with her through all of life's joys and sorrows.`
-`Was that...............Natsuhi trying to entrust her daughter with fulfilling some desire of her own?`
-`Natsuhi thought back to the days when she'd had no choice but to marry into the Ushiromiya family, because of that unavoidable fate...`
-`She had tried to block that from her memory.`
-`.........She had consciously forgotten that, and had actively attended to the life she had been given as Ushiromiya Natsuhi...`
-`And this was the new life she had built.`
-`.........But, ...it felt like,`
-` ......just now, all of that had been casually rejected.`
-`"..............................`
-` How should I think as I live my life?`
-` ...............I don't know."`
-`Natsuhi helplessly rested her head against the glass of the window...`
-`The glass, cooled by the raindrops beating against it, was somehow refreshing, and even though it had no emotions, ...right then it seemed to be the only thing that could understand Natsuhi...`
-`Even if someone showed up there and saw her like this, Natsuhi had no intention of caring in the least.`
-`.........But she found herself caring.`
-` .........Because it was her beloved daughter.`
-`".........Oh,`
-` ......it's you, Mom.`
-` What the heck are you doing here?`
-` Thought you were a ghost..."`
-`Just like always, her words were rough and not at all like a girl's.`
-`...Instinctively, words of rebuke rose to Natsuhi's throat.`
-`{n}.........However, they did so only weakly, and so she was able to prevent them from escaping her lips.`
-`"........................Jessica.`
-` I'm sorry, your mother has an awful headache.`
-` Please leave me be."`
-`"..................Oh......"`
-`Jessica was more than slightly disconcerted by this first ever sight of feebleness from her mother.`
-`Until just now, she had been filled with contempt for all of the parents, including her mother.`
-`...But now, not the slightest bit of that feeling remained.`
-`......All of it had been wiped out by her mother's completely exhausted face.`
-`In its place, the words that George had told her floated back up in her mind.`
-`{n}The parents are doing their best in their own way.`
-`...They are supporting their family, so they can't afford to keep everything pleasant, and have a heavy responsibility to fight.`
-`......Couldn't her mother have been standing around in this dimly lit hallway because no one had tried to understand that...?`
-`Jessica didn't like her mother.`
-`{n}......So she had no instinct to give her mother words of kindness just because she looked a little frail...`
-`Therefore, in order to give those words regardless, she had to clench both her fists, and wrench the words out from the depths of her heart.`
-`"It, .........it looks like you really have your hands full with that discussion..."`
-`".....................It has nothing to do with you.`
-` Please go somewhere else."`
-`".........Is your headache bad?`
-` Should, should I go get some medicine...?"`
-`"...............You don't have to trouble yourself.`
-` ...Please, leave me by myself."`
-`Natsuhi was not being cold to her.`
-`{n}...She just wanted to get her daughter far away from her, so that she could avoid subjecting her to her short temper.`
-`......But there was no chance that her intentions would reach Jessica.`
-`".....................o......okay."`
-`Jessica hung her head, looking sad.`
-`...Looking at that expression, Natsuhi realized that Jessica was trying to muster up the strength to be kind to her mother.`
-`She gave her head a small shake to drive away her own unkind feelings...`
-`"Then I'll......leave.`
-` ......I'll be with the other cousins so I don't get in the way of the adults.`
-` ............See you..."`
-`".........Wait."`
-`She called Jessica, about to make her desolate exit, to a stop.`
-`"......What...?"`
-`"............Thank you for being considerate.`
-` .........It isn't good of me to go to sleep and leave you alone."`
-`"D‐don't talk like that, you'll bring bad luck..."`
-`"...I apologize for worrying you.`
-` I'm alright now.`
-` .........I will go."`
-`Staying here any longer with such a feeble expression would actually make her daughter feel more uncomfortable.`
-`...Thinking this, Natsuhi left Jessica with words of gratitude and made to depart.`
-`......This time, it was Jessica who called out to her mother's back.`
-`{n}Natsuhi stopped, turned around, and asked what she wanted.`
-`But Jessica herself didn't know why she had stopped her mother,`
-` ...and for a while, she muttered to herself with a slightly forced smile as she hesitated over what to say.`
-`She was poking around in her pocket when her hand touched something, and she took it out.`
-`"Um, hey, Mom!`
-` I, uh, was given a charm today.`
-` What was it, a charm against magic?"`
-`"Umm, err...... I'm pretty sure that...you were supposed to hang it from your doorknob, was it?`
-` Ahahaha... I forget...`
-` There's no reason for me to have it, so......`
-`I'm giving it to you."`
-`It was the scorpion charm that Maria had given her by the beach that day.`
-`Although she had heard of its various effects from Maria, right now, Jessica's mind was blank, and it was all she could do to say even that much.`
-`Thinking that her mother probably wouldn't accept the charm anyway, Jessica had immediately drawn back the hand offering it to her.`
-`......So when Natsuhi came back and took hold of that hand, she was extremely surprised...`
-`"......................What is this?`
-` Some kind of giveaway...?"`
-`"W‐well, it's, I think it's something like that...`
-` I guess you can't expect any benefits from a charm that looks like a toy......"`
-`But her mother took the scorpion charm from her grip.`
-`"Thank you.`
-` I'll take good care of it.`
-` ............Sometime soon, in exchange, I'll give you a charm that was important to me when I was a child."`
-`"...It, it's not like that's why I gave it to you.`
-` ......But, well,`
-` ......if you really say so..."`
-`"Then I will rest for now.`
-` My headache is awful.`
-` .........Try not to stay up too late."`
-`"Sure..."`
-`Natsuhi put the charm in her pocket and turned away.`
-`{n}......She then disappeared into the dark hall...`
-`"...It looks like the weather will be like this all day tomorrow after all."`
-`"Damn... It's hard to believe it was dry out earlier."`
-`George‐aniki and I were killing time in front of the parlor television.`
-`At that point, Jessica returned.`
-`{n}Her face was still blank, but it looked like she had calmed down a little since she had left.`
-`"......Is Maria still in front of the portrait?"`
-`"Nope.`
-` She just came back, and she's sleeping over there on the sofa.`
-` It is getting pretty late for her."`
-`Looking at the clock, it was a little past 10 p.m.`
-`{n}...Even if we were going to stay up all night, it was about time to head back to our room.`
-`"My mom did prepare a room for us in the mansion, but...`
-`...what d'you wanna do?"`
-`"I think I'd rather head back to the guesthouse.`
-` ......Judging by our parents' appearance, I think it would be better if we weren't in the mansion."`
-`"Second that.`
-` Feels like they're telling us kids to mind our own business and stay out of their way.`
-` Let's do that, like good little boys and girls."`
-`After we discussed that, Auntie Rosa came into the parlor.`
-`She was looking all over restlessly, probably trying to find Maria.`
-`"Auntie Rosa, if you're looking for Maria, she's over there on the sofa."`
-`"Thank you.`
-` My, she's out cold.`
-` ......We must move her to a bed."`
-`"If you would like me to, I can carry her to a bed."`
-`"Thank you, that would be wonderful.`
-` .........Will all of you return to the guesthouse?`
-` Or will you stay in the room Natsuhi nee‐san had prepared?"`
-`"We were just talking about that.`
-` We just decided to head over to the guesthouse."`
-`"Really.`
-` Then I wonder if you wouldn't mind taking Maria with you.`
-` ...I think it will be much more comforting for her if she's with all of her cousins."`
-`It seemed that, in the shadow behind those words, there was some regret that the adults, herself included, had deeply hurt Maria's feelings...`
-`"Leave it to us, Auntie.`
-` After all, we do have an expert at comforting Maria with us!"`
-`"A‐are you talking about me?`
-` I couldn't do it by myself.`
-` We'll need everyone together."`
-`"That's right.`
-` Battler, weren't you the one who hit it off with Maria when you were messing around earlier?"`
-`As we said this, Auntie Rosa smiled, looking truly happy.`
-`"Thank you, everyone.`
-` ......It looks like our meeting will last until very late.`
-` So, I'm sorry for the burden, but I'll have to leave Maria in your hands."`
-`"Hey, Maria, are you awake...?`
-` We're going back to the guesthouse~."`
-`Maria muttered something indistinct as if answering, but then rolled over and fell back asleep.`
-`......It looked like she was sleeping deeply.`
-`"She's really out cold.`
-` It'd be bad to wake her."`
-`"Right, I'll carry her."`
-`Maria's body was much lighter than it looked.`
-`{n}George‐aniki picked her up and pulled her over his back.`
-`It was raining hard outside, and Aniki couldn't hold an umbrella and carry Maria at the same time.`
-`It looked like Auntie Rosa would come with us as far as the guesthouse to help out.`
-`However, when she heard Uncle Krauss's voice call out to her, she had no choice but to return.`
-`"......Oh dear.`
-` I have to go back."`
-`".........Is everyone returning to the guesthouse?"`
-`After we left the hall on the way to the entrance, the door to the servant room opened and Shannon‐chan stepped out.`
-`"It has become very dark, so allow me to guide you."`
-`"Perfect timing, Shannon‐chan.`
-` George‐kun is going to carry Maria there.`
-` Could you hold an umbrella for him?"`
-`"Yes, certainly."`
-`Shannon‐chan brought umbrellas for each of us and a flashlight to guide the way.`
-`As we opened the front door, the downpour was quite terrific.`
-`It looked like we wouldn't have any spare time to take a pleasant walk and enjoy the nighttime rose garden...`
-`"Aniki, is she too heavy?`
-` Want me to carry her?"`
-`"It's alright.`
-` I can at least carry Maria‐chan."`
-`"......I'm truly grateful.`
-` Please take care of Maria."`
-`"Right, we understand.`
-` In that case, goodnight, Auntie."`
-`"Then I will see them over there and return here."`
-`"Yes, please..."`
-`Auntie Rosa saw us off.`
-`".........Maria.`
-` ......I'm sorry for everything..."`
-`Rosa's mumbling voice didn't reach the person in question, nor anyone else, but disappeared beneath the sound of the rain...`
-`After cutting through the rainy rose garden, we arrived at the guesthouse.`
-`"Ahh, if only I'd applied for the position of Maria‐carrier!`
-` Then I'd have gotten to rub Shannon‐chan's huge chest all over with my arm as she held the umbrella over me!"`
-`"Th‐th‐th‐that's not on purpose, it's a misunderstanding...!"`
-`"I, I thought that if I didn't, George‐sama would get all wet........."`
-`"C'mon, quit babbling and go in!"`
-`After being nudged by Jessica, Shannon folded up her umbrella and went into the guesthouse.`
-`"Has anyone gotten their clothes wet?`
-` I can bring some towels if you would like..."`
-`"You don't need to worry about us that much.`
-` Thanks, Shannon‐chan."`
-`"Oh, yes.`
-` We were saying earlier that we would play some cards, do you want to stay with us for a while?"`
-`"Huh?`
-` Who had the night shift on today's schedule?"`
-`"I believe there is a special schedule for the duration of the family conference.`
-` I think there were a few changes, so I will go and check......"`
-`"Wait, if you have to go all the way back to the mansion to find out, you don't have to force yourself—"`
-`"Ah, it's alright.`
-` I can find out from the servant room in the guesthouse.`
-` ......Please excuse me for a short while."`
-`Shannon‐chan gave a quick bow and went into the guesthouse servant room.`
-`The rest of us headed for the cousins' room and put Maria in the bed for the time being.`
-`Maria was sleeping very deeply, and there was absolutely no sign of her eyes opening...`
-`We got some drinks out of the room's refrigerator, and spent some time playing cards while drinking...`
-`"......Oh?`
-` Kanon‐kun?`
-` Even Genji‐sama is here.`
-` ...What is happening with tonight's shift...?"`
-`"............Krauss‐sama has given an order.`
-` There have been modifications made to most of the schedule."`
-`"......Indeed.`
-` Gohda has been changed to the night shift at the mansion.`
-` You and Kanon have the night shift in the guesthouse.`
-` Kumasawa‐san and I have been ordered to spend the night in the guesthouse...`
-` We just now had a phone call stating that you are to remain here as well."`
-`"Huh...?`
-` Th‐that's quite a large modification...`
-` The shifts at the guesthouse and the mansion have been completely reversed, haven't they...?"`
-`Originally, Shannon and Kanon had been given the night shift in the mansion, while the night shift in the guesthouse, where all of the relatives were staying, had been assigned to Gohda, who had an abundance of experience in entertaining.`
-`Kumasawa had been scheduled to stay in the guesthouse, while Genji had been scheduled to stay in the mansion.`
-`However, it seemed that Krauss had suddenly ordered that the schedule be modified.`
-`......The shifts at the guesthouse and the mansion had all been reversed, and Genji was spending the night in the guesthouse.`
-`"............It's probably because of {f:5:Beatrice}‐sama's letter."`
-`"Probably? ......Why?"`
-`".........When such a mysterious letter appeared, it was only natural that Krauss‐sama would suspect one of us.`
-` .........We serve directly under the Master, so Krauss‐sama probably wanted to keep us as far away from the family conference as possible."`
-`Genji, Shannon, and Kanon were all permitted to wear the Ushiromiya family crest, the "One‐winged Eagle", as the servants who served directly under Kinzo.`
-`Of course, since they were working for the Ushiromiya family, they had to obey anyone's orders, but their only boss was Kinzo.`
-`Since only Kinzo held the right to employ them, even Krauss could not have them dismissed of his own accord.`
-`Because of this, they were often viewed by Krauss and the others as Kinzo's underlings, and shunned.`
-`And in reality, Kinzo would seldom let anyone other than them enter his study.`
-`You could probably call this sudden shift change a clear expression of that sense of distrust.`
-`Considering the time Kinzo had left to live, this would definitely be the last family conference before the problem of the inheritance would come up.`
-`On top of that, the mysterious letter that claimed to be from {f:5:Beatrice} had dropped in out of the blue.`
-`Krauss definitely wanted to keep Kinzo's loyal subjects away from the table of such a delicate and important discussion...`
-`"......If you would excuse me, I will go rest.`
-` ...If anything happens, call me immediately."`
-`"Our company tonight is...{i:special}."`
-`""Yes, certainly, Genji‐sama.""`
-`Genji nodded back, went behind a screen, took off his jacket, and slowly began to relax after a day's worth of tension...`
-`".........The ones who just returned now, were they the children...?"`
-`"Yes.`
-` The other relatives are having a conference in the mansion.`
-` It looked like it would drag on until much later..."`
-`"......That would be comfortable.`
-` It's already this late, and there's this weather.`
-` Probably, the rest of the relatives will spend the night in their rooms in the mansion."`
-`"Yes, probably...`
-` I'm only saying this because Genji‐sama isn't around, but...`
-`...I'm a little happy I was sent to the guesthouse......I think..."`
-`"Oh...?`
-` Why's that?`
-` Because you were able to distance yourself from the bullying of Madam and Eva‐sama?`
-` ...Or do you have another reason?"`
-`"I, ......I don't have any...`
-`...o‐other reasons...!"`
-`".........I see.`
-` Then, let's do our best together with our midnight shift.`
-` I'm counting on you, Nee‐san."`
-`"Ah, ......umm.........`
-` Just now, I was asked to go to the children's room and play with them..."`
-`Shannon hung her head apologetically, ...and made uncertain glances toward Kanon's eyes.`
-`Kanon didn't try to meet her gaze, and spoke curtly as he sighed.`
-`It looked like he didn't plan on indulging his "sister".`
-`"............You can't.`
-` You were assigned the night shift.`
-` ...And besides that, it is not necessary for furniture like us to respond to an invitation to play.`
-` ...You understand, right?"`
-`"Y‐...yes, I do understand.`
-` ..................nn."`
-`Shannon dropped her shoulders slightly.`
-`...She had already expected that Kanon, who considered rules to be very important, would probably say something like that, but even so, she was a little discouraged.`
-`As Kanon turned the pages of a logbook, he spoke without facing Shannon.`
-`"............In that case, you must be keeping the children waiting.`
-` You will have to apologize and tell them that you have the night shift and won't be able to stay with them.`
-` ......Off you go, then."`
-`"Huh.........ah, yes!`
-` I'll just go apologize..."`
-`Shannon hurriedly stood from her seat before her brother's mood could change, gave a quick bow, and flew out of the servant room...`
-`As he watched her disappear, Kanon took a single deep breath...`
-`Genji's voice came from beyond the screen.`
-`"......Kanon.`
-` ......I will be here, so you should go too."`
+` ...no es así.`
+`Aun así, he de ayudar a mi marido a apartar las intrigas de los otros codiciosos hermanos.`
+`El líder no estará aquí mucho tiempo.`
+` Con el tiempo, Krauss heredará el liderazgo.`
+`{n}Y la siguiente sucesora será Jessica.`
+`...Técnicamente hablando, el hombre que se case con Jessica se convertirá en el próximo líder, pero es lo mismo.`
+`...He de convertir a Jessica en una excelente sucesora que todo el mundo acepte como digna de liderar la familia Ushiromiya.`
+`No cabe duda de que, en estos días, esa codiciosa Ushiromiya Eva tramará algo para encontrar algún problema en la familia principal,`
+` y si todo va como ella planea, Jessica será apartada de la sucesión, y sustituida por George.`
+`...Es lamentable, pero George es un hombre, e incluso más, ha madurado como persona.`
+`...Comparándolo con Jessica, que está el medio de su fase rebelde y cuyas notas son inferiores a la media, está claro quién es más adecuado para heredar el liderazgo.`
+`Así que para asegurar la posición de Jessica, he de convertirla en una persona excelente.`
+`Tras hacer eso, ...quiero encontrarle un marido excelente digno de la magnífica persona en la que se habrá convertido.`
+`...Un hombre maravilloso que aceptará a Jessica, y estará junto ella en las alegrías y tristezas de la vida.`
+`¿Estaba Natsuhi... intentando que su hija completara un deseo de ella misma?`
+`Ella recordó los días en los que no tuvo otra elección que unirse a la familia Ushiromiya, por ese destino inevitable...`
+`Había intentado bloquear esos recuerdos.`
+`...Había olvidado conscientemente todo aquello, y había puesto atención en su vida como Ushiromiya Natsuhi...`
+`Y esta era la nueva vida que había construído.`
+`...Pero, ...parecía que,`
+` ...en ese instante, todo aquello había sido rechazado.`
+`"...`
+` ¿Cómo debo pensar mientras viva esta vida?`
+` ...No lo sé."`
+`Natsuhi apoyó su cabeza contra el cristal de la ventana...`
+`El cristal, que estaba frío gracias a la lluvia que lo golpeaba, era en cierto sentido refrescante. Aunque no debía tener sentimientos...  parecía que era la única cosa que podía comprender a Natsuhi...`
+`A esas alturas, aunque alguien apareciera y la viera en ese estado, Natsuhi no tenía la intención de darle nada de importancia.`
+`...Pero se encontró algo que le importaba.`
+` ...Porque era su querida hija.`
+`"...Oh,`
+` ...eres tú, mamá.`
+` ¿Qué demonios estás haciendo aquí?`
+` Pensaba que eras un fantasma..."`
+`Como siempre, sus palabras eran bruscas y muy poco femeninas.`
+`...Instintivamente, acudieron palabras de reproche a la garganta de Natsuhi.`
+`{n}...Sin embargo, éstas llevaban poca, y no escaparon de sus labios.`
+`"...Jessica.`
+` Lo siento, el dolor de cabeza de mamá es horrible.`
+` Por favor, déjame sola."`
+`"...Oh..."`
+`Jessica había estado desconcertada al ver por primera vez la debilidad de su madre.`
+`Hasta aquel momento, había estado llena de desprecio hacia todos los padres, su madre incluida.`
+`...Pero ahora, no quedaba ni una pequeña parte de esos sentimientos.`
+`...Todo ello había sido borrado por la cara totalmente exhausta de su madre.`
+`En su lugar, las palabras de George volvieron a aparecer en su cabeza.`
+`{n}Nuestros padres están haciendo lo mejor que pueden a su manera.`
+`...Y al estar apoyando a su familia, no podían permitirse que todo fuera agradable, y tenían la dura responsabilidad de pelear.`
+`...¿Y si su madre había estado parada en ese pasillo escasamente iluminado porque nadie había intentado comprenderla...?`
+`A Jessica no le agradaba su madre.`
+`{n}...Por lo que sería difícil consolar a su madre aun si se veía un poco frágil...`
+`Por tanto, cuando aun así intento consolar a su madre, tuvo que buscar las palabras desde el fondo de su corazón, apretando ambos puños.`
+`"Pa...parece que realmente tienes las manos llenas por lo de la discución..."`
+`"...No tiene nada que ver contigo.`
+` Por favor, ve a algún otro lado."`
+`"...¿Tu dolor de cabeza es muy grave?`
+` ¿De‐debería ir por algo de medicina...?"`
+`"...No tienes que molestestarte.`
+` ...Por favor, déjame sola."`
+`Natsuhi no intentaba ser fría.`
+`{n}...Ella solo quería que su hija se fuera lejos, para que así no tuviera que encontrarse con el mal humor de su madre.`
+`...Pero era imposible que Jessica se diera cuenta de sus intenciones.`
+`"...S‐... sí."`
+`Jessica bajó la cabeza, con aspecto triste.`
+`...Mirando a esa expresión, Natsuhi se dio cuenta de que Jessica estaba intentando reunir sus fuerzas para ser amable con su madre.`
+`Le dio una sacudida a su cabeza para alejar sus propios sentimientos hirientes...`
+`"Entonces me... iré.`
+` ...Estaré con el resto de primos para no molestar a los adultos.`
+` ...Hasta luego..."`
+`"...Espera."`
+`Llamó a Jessica, quien estaba por irse en soledad.`
+`"...¿Qué?..."`
+`"...Gracias por ser considerada.`
+` ...No estaría bien que me fuera a dormir y te dejara sola."`
+`"N‐no hables así, traerá mala suerte..."`
+`"...Siento haberte preocupado.`
+` Ya me encuentro bien.`
+` ...Me iré."`
+`Quedarse allí por más tiempo con esa expresión endeble solo haría que su hija se sintiese más incómoda.`
+`...Pensando esto, Natsuhi dejó a Jessica con palabras de gratitud y se preparó para irse.`
+`...Esta vez, fue Jessica quien llamó a las espaldas de su madre.`
+`{n}Natsuhi se detuvo y se volvió, preguntando qué necesitaba Jessica.`
+`Pero la propia Jessica no tenía muy claro porqué había detenido a su madre,`
+` ...y durante un tiempo, sonrió amargamente, murmurando mientras dudaba sobre qué decir.`
+`Estaba revolviendo su bolsillo, cuando su mano tocó algo y lo sacó.`
+`"¡Um, oye, Mamá!`
+` Me han, eh, dado este amuleto hoy.`
+` ¿Qué era?... ¿Un amuleto contra la magia?"`
+`"Ehh, emmm... estoy bastante segura de que... ¿lo tenías que colgar del pomo de la puerta, creo?`
+` Jajajaja... no me acuerdo...`
+` No hay ninguna razón para que yo lo tenga, así que...`
+`Te lo puedes quedar."`
+`Era el amuleto de escorpión que Maria le había dado ese día en la playa.`
+`Aunque Maria le había hablado de sus diversos efectos, en ese instante, Jessica estaba en blanco y era apenas capaz de decir incluso eso.`
+`Jessica, pensando que, de todas maneras, lo más probable sería que su madre no lo aceptara, retiró inmediatamente la mano que había alargado, agarrando el amuleto.`
+`...Así que, cuando Natsuhi volvió a por el amuleto, Jessica estaba extremadamente sorprendida...`
+`"...¿Qué es esto?`
+` ¿Algún tipo de regalo?..."`
+`"B‐bueno, esto es, creo que es algo por el estilo, sí...`
+` Supongo que no puedes esperar realmente que un amuleto que parece un juguete sea efectivo..."`
+`Pero su madre agarró su mano y aceptó el amuleto de escorpión.`
+`"Gracias.`
+` Lo trataré con cuidado.`
+` ...Un día de estos, a cambio, ¿por qué no te doy un amuleto que era importante para mí cuando era una niña?"`
+`"...No, no es como si te lo hubiera dado por eso.`
+` ...Pero, bueno,`
+` ...si tú lo dices..."`
+`"Entonces, me voy a descansar por ahora.`
+` Mi dolor de cabeza es horrible.`
+` ...Intenta no quedarte levantada hasta muy tarde."`
+`"Claro..."`
+`Natsuhi puso el amuleto en su bolsillo y se dio la vuelta.`
+`{n}...Entonces desapareció en el largo vestíbulo...`
+`"...Parece que el tiempo seguirá así mañana al final."`
+`"Vaya... el tiempo de esta mañana casi parece una mentira."`
+`George‐aniki y yo estábamos matando el tiempo enfrente de la televisión del salón.`
+`En ese momento, Jessica regresó.`
+`{n}Su cara todavía estaba pálida, pero parecía que se había calmado un poco desde que se había ido.`
+`"...¿Está Maria todavía enfrente del retrato?"`
+`"No.`
+` Acaba de volver, y está durmiendo en el sofá por ahí.`
+` Se está haciendo bastante tarde para ella."`
+`Mirando al reloj, pasaba un poco de las 10:00 p. m.`
+`{n}...Incluso si vamos a quedarnos levantados toda la noche, va siendo hora de volver a nuestro cuarto.`
+`"Mi madre tiene una habitación preparada para nosotros en la mansión, pero...`
+`...¿qué quieren hacer?"`
+`"Creo que preferiría volver a la casa de invitados.`
+` ...A juzgar por el aspecto de nuestros padres, creo que sería mejor si no estuviéramos en la mansión."`
+`"Estoy de acuerdo.`
+` Parece que nos están diciendo a los niños que nos metamos en nuestros propios asuntos y nos mantengamos fuera de su camino.`
+` Hagamos eso, como los buenos niños y niñas que somos."`
+`Después de que discutiéramos eso, tía Rosa entró en el salón.`
+`Estaba buscando por todas partes sin descanso, probablemente tratando de encontrar a Maria.`
+`"Tía Rosa, si estás buscando a Maria, está en el sofá por allí."`
+`"Gracias.`
+` Cielos, sí está dormida.`
+` ...Debemos llevarla a una cama."`
+`"Si quieres, yo la llevaré."`
+`"Gracias, eso sería maravilloso.`
+` ...¿Van a volver todos a la casa de invitados?`
+` ¿O se quedarán en la habitación que Natsuhi nee‐san les ha preparado?"`
+`"Justo estábamos hablando sobre eso.`
+` Decidimos dirigirnos a la casa de invitados."`
+`"¿De verdad?`
+` Entonces me pregunto si no les importaría llevar a Maria con ustedes.`
+` ...Creo que sería mucho mejor si todos los primos estuvieran juntos."`
+`Parecía que, en la sombra tras esas palabras, había algo de lamentación de que los adultos, ella incluida, habían herido profundamente los sentimientos de Maria...`
+`"Déjanoslo a nosotros, tía.`
+` ¡Después de todo, tenemos un experto en consolar a Maria entre nosotros!"`
+`"¿T‐te refieres a mí?`
+` Yo no podría hacerlo solo.`
+` Necesitaremos estar todos juntos."`
+`"Eso es cierto.`
+` Battler, ¿no fuiste tú el que congenió con Maria cuando estaban jugueteando antes?"`
+`Mientras decíamos esto, tía Rosa sonrió, pareciendo verdaderamente feliz.`
+`"Muchas gracias a todos.`
+` ...Parece que nuestra reunión durará hasta tarde.`
+` Por lo que, lo siento por la carga, pero estaré contando con todos ustedes por el bien de Maria."`
+`"Ey, Maria, ¿estás despierta?...`
+` Nos vamos de vuelta a la casa de invitados~."`
+`Maria murmuró algo incomprensible como respuesta, pero dio la vuelta y siguió durmiendo.`
+`...Parecía que estaba profundamente dormida.`
+`"Vaya que está dormida.`
+` No estaría bien despertarla."`
+`"Cierto, la llevaré yo."`
+`El cuerpo de Maria era mucho más ligero de lo que parecía.`
+`{n}George‐aniki la levantó y la puso sobre su espalda.`
+`Afuera estaba lloviendo bastante fuerte y Aniki no podía sostener un paraguas y llevar a Maria a la vez.`
+`Parecía que la tía Rosa iba a venir con nosotros hasta la casa de invitados para ayudarnos.`
+`Sin embargo, cuando oyó la voz del tío Krauss que la llamaba, se vio obligada a volver.`
+`"...Qué mala suerte.`
+` Tengo que volver ahora."`
+`"...¿Todo el mundo está volviendo a la casa de invitados?"`
+`Después de dejar el vestíbulo de camino a la entrada, la puerta de la habitación de los sirvientes se abrió y salió Shannon‐chan.`
+`"Está muy oscuro, así que, por favor permítanme guiarlos."`
+`"Justo a tiempo, Shannon‐chan.`
+` George‐kun va a llevar allí a Maria.`
+` ¿Podrías sostener el paraguas por él?"`
+`"Sí, por supuesto."`
+`Shannon‐chan trajo paraguas para cada uno de nosotros y una linterna para guiar el camino.`
+`Mientras abríamos la puerta principal, el aguacero era realmente terrorífico.`
+`Parecía que no íbamos a tener un momento libre para dar un agradable paseo y disfrutar del jardín de rosas nocturno...`
+`"Aniki, ¿pesa demasiado?`
+` ¿Quieres que la lleve yo?"`
+`"Está bien.`
+` Por lo menos puedo llevar a Maria‐chan."`
+`"...Estoy realmente agradecida.`
+` Por favor, cuiden de Maria."`
+`"Tranquila, lo entendemos.`
+` En ese caso, buenas noches, tía."`
+`"Entonces les acompañaré hasta allá y luego volveré."`
+`"Sí, por favor..."`
+`Tía Rosa nos despidió.`
+`"...Maria.`
+` ...Lo siento por todo..."`
+`La voz entre dientes de Rosa no alcanzó a la persona en cuestión, tampoco a los demás, sino que desapareció bajo el sonido de la lluvia...`
+`Tras atravesar el lluvioso jardín de rosas, llegamos a la casa de invitados.`
+`"¡Ahhh, si solo me hubiera presentado a la posición de portador de Maria!`
+` ¡Entonces habría podido restregar mi brazo contra los enormes pechos de Shannon‐chan todo lo que hubiese querido mientras sostenía el paraguas!"`
+`"N‐n‐n‐no fue a propósito, ¡es un malentendido...!"`
+`"Yo, yo pensé que si no hacía eso, George‐sama se podría haber empapado..."`
+`"¡Vamos, dejen de balbucear y entren de una vez!"`
+`Después de recibir un codazo de Jessica, Shannon plegó su paraguas y entró en la casa de invitados.`
+`"¿A alguien se le ha mojado la ropa?`
+` Puedo traer toallas si es que alguien quiere..."`
+`"No tienes por qué preocuparte tanto por nosotros.`
+` Gracias, Shannon‐chan."`
+`"Ah, si.`
+` Antes estábamos hablando de jugar un rato a las cartas, ¿quieres quedarte con nosotros un rato?"`
+`"¿Eh?`
+` ¿Quién tenía el turno de noche en el horario de hoy?"`
+`"Creo que hay un horario especial durante la conferencia familiar.`
+` Deben de haberse dado algunos cambios, así que voy a echar un vistazo..."`
+`"Espera, si tienes que ir todo el camino de vuelta hasta la mansión para saberlo, no te fuerces—"`
+`"Ah, no se preocupe.`
+` Puedo revisarlo en la habitación de los sirvientes de la casa de invitados.`
+` ...Por favor, perdónenme un momento."`
+`Shannon‐chan dio una reverencia rápida y entró en la sala de sirvientes de la casa de huéspedes.`
+`El resto nos dirigimos hacia la habitación de los primos y, por el momento, pusimos a Maria en la cama.`
+`Maria estaba durmiendo muy profundamente, y no había ningún tipo de signo de que sus ojos se abrieran...`
+`Tomamos algunas bebidas de la nevera de la habitación, y pasamos un rato jugando a las cartas mientras bebíamos...`
+`"...¿Oh?`
+` ¿Kanon‐kun?`
+` Incluso Genji‐sama está aquí.`
+` ...¿Qué ha pasado con el turno de noche...?"`
+`"...Krauss‐sama ha dado una orden.`
+` Han habido cambios en casi todos los horarios."`
+`"...Así es.`
+` Gohda‐san fue cambiado al turno de noche en la mansión.`
+` Tu y Kanon tienen el turno nocturno en la casa de invitados.`
+` A Kumasawa‐san y a mí nos han ordenado pasar la noche en la casa de invitados...`
+` Hace un momento, nos han llamado diciendo que ustedes también deben permanecer aquí."`
+`"¿Eh...?`
+` E‐es un cambio bastante grande...`
+` Los turnos de la mansión y la casa de invitados han sido prácticamente invertidos, ¿no...?"`
+`Originalmente, a Shannon y a Kanon les habían dado los turnos de la mansión, mientras que el turno de noche en la casa de invitados, donde todos los familiares se alojaban, había sido asignado a Gohda, que tenía mucha experiencia en el entretenimiento.`
+`Kumasawa debería haberse quedado en la casa de invitados, mientras que Genji debería haberse quedado en la mansión.`
+`Sin embargo, parecía que Krauss había ordenado, de repente, que se modificaran los horarios.`
+`...Los turnos de la mansión y la casa de invitados habían sido invertidos, y Genji estaba pasando la noche en la casa de invitados.`
+`"...Es probable que sea por la carta de {f:5:Beatrice}‐sama."`
+`"¿Es probable? ...¿Por qué?"`
+`"...Cuando una carta tan misteriosa como esa apareció, es normal que Krauss‐sama sospechara de uno de nosotros.`
+` ...Servimos directamente al amo, así que Krauss‐sama hizo todo lo que pudo para alejarnos de la conferencia familiar."`
+`A Genji, Shannon, y Kanon se les estaba permitido llevar el escudo de la familia Ushiromiya, el "Águila de un Ala", como los sirvientes que servían directamente a Kinzo.`
+`Por supuesto, como estaban trabajando para la familia Ushiromiya, tenían que obedecer las órdenes de cualquier familiar, pero su único jefe era Kinzo.`
+`Y como solo Kinzo tenía el derecho de emplearlos, incluso Krauss no podría haberlos desestimado por su cuenta.`
+`Por esto, a menudo se les veía como los vasallos de Kinzo y se les rehuía.`
+`Y en realidad, Kinzo raramente dejaría que nadie, aparte de ellos, entrara en su estudio.`
+`Se podría decir que este repentino cambio de turno expresaba claramente la desconfianza que esto causaba.`
+`Teniendo en cuenta la esperanza de vida de Kinzo, ésta sería definitivamente la última conferencia familiar antes de que el problema de la herencia apareciera.`
+`Además de eso, la carta que afirmaba ser de {f:5:Beatrice} había aparecido de la nada.`
+`Krauss definitivamente quería mantener alejados a los leales súbditos de Kinzo de la mesa en la que se iba a tratar una discusión tan importante y delicada...`
+`"...Si me disculpan, me retiraré a descansar.`
+` ...Si algo pasa, llámenme inmediatamente."`
+`"Nuestra compañía esta noche es... {i:especial}."`
+`""Por supuesto, Genji‐sama.""`
+`Genji asintió, se fue tras un biombo, se quitó su chaqueta, y empezó a relajarse tras la tensión de todo un día...`
+`"...¿Los que acaban de volver, eran los niños...?"`
+`"Sí.`
+` El resto de familiares está teniendo una conferencia en la mansión.`
+` Parecía como si se fuera a alargar hasta mucho más tarde..."`
+`"...Eso sería bastante bueno.`
+` Ya es muy tarde, y tenemos este tiempo.`
+` Lo más seguro es que el resto de familiares pasen la noche en las habitaciones de la mansión."`
+`"Sí, probablemente...`
+` Solo estoy diciendo esto porque Genji‐sama no está por aquí, pero...`
+`...La verdad es que estoy un tanto contenta de que me hayan mandado a la casa de invitados... creo..."`
+`"¿Oh...?`
+` ¿Y eso por qué?`
+` ¿Porque así puedes mantenerte alejada de la señora y Eva‐sama?`
+` ...¿O tienes otra razón?"`
+`"¡No, ...no es como si tuviera...`
+` ...o‐otra razón...!"`
+`"...Ya veo.`
+` Entonces, hagamos juntos el turno de medianoche.`
+` Cuento contigo, Nee‐san."`
+`"Ah, ...umm...`
+` Los niños me acaban de ofrecer ir a su habitación y jugar con ellos..."`
+`Shannon bajó la cabeza disculpándose, ...mirando a Kanon tímidamente.`
+`Kanon no intentó devolverle la mirada, y habló bruscamente mientras suspiraba.`
+`Parecía que no planeaba ser indulgente con su "hermana".`
+`"...No puedes.`
+` Te han asignado el turno de noche.`
+` ...Y además de eso, no es necesario que los muebles como nosotros respondan a una invitación para jugar.`
+` ...Lo entiendes, ¿verdad?"`
+`"S‐... sí, lo entiendo.`
+` ...Mmmm."`
+`Shannon dejó caer sus hombros.`
+` ...Ya se esperaba que su hermano, que consideraba que las reglas eran muy importantes, dijera algo como eso, pero, aun así, estaba un poco desanimada.`
+`Mientras Kanon le daba la vuelta a un cuaderno, habló sin enojo a Shannon.`
+`"...En ese caso los niños te estarán esperando.`
+` Tendrás que ir a pedirles perdón, y a decirles que tienes el turno de noche y no podrás estar con ellos.`
+` ...Ve y vuelve."`
+`"Eh... ¡ah, sí!`
+` Iré a pedir disculpas..."`
+`Shannon se levantó rápidamente antes de que su hermano pudiera cambiar de opinión, y salió disparada de la habitación de los sirvientes tras una pequeña reverencia...`
+`Mientras la veía irse, Kanon tomó un único y profundo suspiro...`
+`La voz de Genji vino de detrás del biombo.`
+`"...Kanon.`
+` ...Yo me quedaré aquí, por lo que tú también puedes ir."`
 `"Genji‐sama...`
-` ......Shannon was the only one called.`
-` It's not like I was invited..."`
-`"That is only because you were not there at the time.`
-` If you had been, you would have been invited as well.`
-` ......It is good to play as a child from time to time."`
-`".......................................`
-` ......No, that's not something that I need to do.`
-` ......A human child may have a need to play.`
-` ......But we......are furniture."`
-`".....................Is that so."`
-`".........Nee‐san is also...`
-`furniture.`
-` .........Even if she pretends to be a person,`
-` ...it will only hurt her later.`
-` ...I understand that, so I try not to get too close to people."`
-`Genji did not say anything after that.`
-`......A few moments passed, and then he stood up, used a pot of hot water to make some hot chocolate from powder, and served it to Kanon as well.`
-`"Holy crap, seriously?!?!`
-` I did not know that...!!"`
-`"Keep it down, dumbass!`
-` You'll wake Maria up!"`
-`Battler was so surprised that he yelled obnoxiously and scattered his cards everywhere.`
-`His voice caused Maria to turn over once, but she soon fell back into a deep sleep...`
-`Jessica gave him a jab, and he lowered his voice.`
-`"No, but, yeah...now that you've said that...they really did have that kind of atmosphere, didn't they...`
-` ......Haa, now I see, that George‐aniki..."`
-`George could not be seen anywhere in the room.`
-`{n}A short while ago, when Shannon had come into the room, George had suddenly said that he had forgotten something in the mansion and needed to go back and get it.`
-`Shannon had said she would guide him, just like she had on the way to the guesthouse, and the two of them had departed together.`
-`"......They've been showing signs of it for a long time, you know?`
-` Asking what the other person liked, asking what their hobbies were.`
-` I always knew it was too much to just be a passing interest!"`
-`"Come to think of it, I get the feeling that George‐aniki has always been overly nice to Shannon‐chan......`
-` Nowww I get it..."`
-`"According to the weather report, it looks like it will be at its worst tonight.`
-` It also seems that it won't stop all tomorrow, but it should get a little better."`
-`"...Really?`
-` Then, the boat may not arrive until the day after tomorrow......`
-` ...I'm concerned that it might interfere with your work on Monday..."`
-`"Hahaha, I already knew that the typhoon would be coming beforehand.`
-` Just in case, I made sure that I didn't have any plans for Monday, so it's alright.`
-` ...I may not look like it, but I really am the type who can plan ahead in his schedule."`
-`George puffed out his chest, acting proud.`
-`Compared to the normally composed appearance that George always had as the oldest cousin, he now looked amusingly like a little kid.`
-`Shannon chuckled at this gap.`
-`"It's no surprise that someone who will soon make his company prosperous is so well prepared."`
-`"...Well, making a company prosperous really is a tough job.`
-` Money isn't the only thing that's important.`
-` I learned that well by studying from my father.`
-` Making a company prosperous is like having a castle and leading your subordinates."`
-`"My father, true to his name of Hideyoshi, really loves reading about the great leaders of the {ruby:Warring States:Sengoku} period.`
-` Most of his philosophical speeches on business management start with one of them.`
-` ...Did you know?`
-` Takeda Shingen, who was feared as the leader of the strongest cavalry corps in the Sengoku period, started out with his troops in complete disarray, and didn't have the kind of strong leadership necessary to utilize them well."`
-`"Is that true?`
-` That's a little unexpected."`
-`"In order to unite his troops, Shingen utilized several strategies.`
-` For example, when a soldier succeeded well in battle, he would immediately honor them with a medal.`
-` Normally, that kind of thing was put off until after the war and they were all awarded at once."`
-`"By doing that regularly on the field of battle,`
-` he immediately showed his appreciation for his troops' military exploits, which motivated them in an extremely significant fashion.`
-` Furthermore, whenever one of his troops was brought down by an illness, he would be the first to rush up to them and care for them, things like that."`
-`"...Takeda Shingen wasn't just the man who led the strongest calvary corps in the Sengoku period.`
-` He was the person who cared the most for his troops throughout the Sengoku period."`
-`"......That must be why all of his troops followed him."`
-`The truth was, Shannon had already heard this story several years ago.`
-`{n}...But when George started to tie his father in with one of these stories, he would always be beaming, looking like he was having a great time.`
-`So Shannon did not interrupt, but merely smiled, to encourage him to continue.`
-`"Of course, in a capitalist world, money is power, and it is also the height of your castle wall.`
-` But you can't build up a castle or succeed in war by yourself.`
-` That kind of thing can only be created with the support of many subordinates, by borrowing their strength."`
-`"......After understanding this, when I look at my father's back, I realize how immature I am,`
-` I see how much my father has cultivated his character by working hard, and understand well how he was able to build up all that he has until today."`
-`"George‐sama, you truly look up to your father...`
-` I'm jealous."`
-`"A‐ah, sorry...that's not exactly the way I meant to say it."`
-`"I, I am sorry... I also didn't mean it that way......"`
-`The two of them awkwardly looked at their feet.`
-`Shannon had no parents.`
-`{n}She had been brought up in a welfare institute owned by Kinzo called the Gospel House.`
-`Under the guidance of the honorary director, Kinzo, the Gospel House offered excellent students a chance to live a life of service.`
-`If they were accepted, they would be able to leave the institute and work as servants for the Ushiromiya family.`
-`...This was considered to be the highest honor for a student.`
-`Servants from the Gospel ({ruby:Fukuin:{p:0:福音}}) House all took names with the character "{ruby:in/on/non:{p:0:音}}" in them while they served.`
-`So "Shannon" ({p:0:紗音}) wasn't her real name.`
-`{n}The same goes for "Kanon" ({p:0:嘉音}).`
-`All of the students of the Gospel House were orphans.`
-`{n}Or, failing that, people who had been disowned by their parents through some special circumstances.`
-`......Because of this, the students had been taught to think of each other as their only family.`
-`That's why it seemed so natural to Kanon to call Shannon his sister.`
-`And while only Shannon and Kanon were working today in the mansion,`
-` there were other servants who worked in the shift rotation, named Manon ({p:0:眞音}) and Lenon ({p:0:恋音}), who also inherited the "{p:0:音}" character in their names.`
-`...However, there were not many servants who stayed with the Ushiromiya family for long.`
-`It was standard for them to quit after three years.`
-`So you could probably say that Shannon, who had been working for over ten years, was a very rare exception to the rule.`
-`Working as a servant for the Ushiromiya family was a heavy burden to bear, but the pay wasn't bad at all.`
-`Working for a full three years would earn more than what was needed to enter mainstream society.`
-`That was why, even though the students realized what a harsh task working for the Ushiromiya family was, they still hoped to be accepted.`
-`But in Shannon's case, maybe the fact that she had managed to continue for more than ten years should not be viewed as her having more willpower than any of the other servants.`
-`Maybe it was a lack of courage to say that she wanted to quit, that forced her to continue working for those ten years.`
-`To Kinzo, who could not even trust his own blood relatives, those "excellent" servants sent from the Gospel House were the only ones he could trust.`
-`Because of that, Kinzo would sometimes allow them to wear the family crest as servants under his direct control, and have them work close to him...`
-`"......Err, ......um, you've already been working here about ten years, was it?`
-` You must have saved up a lot of money by now, right?"`
-`"I don't know, really...`
-` It's not like there's anything in particular I'd like to buy...`
-` And just because you have a few million yen doesn't mean you have enough to live the rest of your life with..."`
-`"So you haven't been working here trying to reach a target sum?"`
-`".........N‐...no, I haven't.`
-` ......I have nowhere to go outside of this mansion.`
-` ......I have been getting along well with Milady and the other young servants, too...`
-` ......I am sometimes scolded by Madam, but, ......caring for the rose garden and cleaning the mansion is fun..."`
-`"But that isn't {i:your} life,`
-` ......Sayo ({p:0:紗代})‐chan."`
-`".........Umm..."`
-`Shannon cast her eyes downwards when she heard her real name...`
-`{n}She understood what George was trying to say and closed her mouth.`
-`"Even after becoming an adult and a full‐fledged member of society, I've been studying and I've learned something.`
-` ......A human's life is not as monotonous or as short as we thought when we were kids."`
-`That horrifying thought that everyone has in their student years.`
-`......Will the rest of my life be like a monotonous, boring, sleep‐inducing after‐school class,`
-` where I endlessly, lazily while away the time, until finally, it ends, without anything interesting ever happening...`
-`However, these thoughts only arise while a person is still an underage student.`
-`Compared to a human's life, the time they spend as a student is nothing more than a blink of the eye—just the period before they break out of their shells, and cast off their immaturity.`
-`The inside of the shell might be a hot, suffocating and boring world,`
-` but the world beyond that shell is vast and filled with limitless possibilities.`
-`"So far, your life has been spent only within a shell called Shannon.`
-` Aren't you making the mistake of thinking that your life will always continue like this?"`
-`"That is...... ...`
-` ....................."`
-`Shannon couldn't deny those words.`
-`...She hadn't been able to find any concrete issues with her way of life,`
-` and since she'd never had any desire or goal to change herself in any particular way, she had continued her life idly.`
-`...And if she were asked whether her life was already fulfilled,`
-` ...she wouldn't necessarily have been able to nod......`
-`That may have been a truth she was deliberately averting her eyes from.`
-`...As long as George did not realize that truth, she would have continued pretending not to notice, as her real life slipped away, neglected, bit by bit...`
-`"......George‐sama.`
-` ............Is it wrong for me to...`
-`......continue...living this way?"`
-`"It's wrong.`
-` Ah, and by the way, didn't you break one of the rules just now?"`
-`George immediately gave a strict answer, and then broke out into a mischievous smile.`
-`Shannon already knew what she was being chided for, ...and it seemed that it embarrassed her, as she hung her head.`
-`"Didn't you promise not to use "sama" when the two of us are alone...?"`
-`".........I, ......I can't obey that as a promise.`
-` .........But, if it was an order, I would have to obey it...`
-` Because I'm............furniture."`
-`"Then it's an order."`
+` ...Shannon es a la única que han llamado.`
+` Y tampoco es como si me hubieran invitado..."`
+`"Eso es solo porque tu no estabas allí en ese momento.`
+` Si hubieras estado, también habrías sido invitado.`
+` ...Es bueno jugar como un niño de vez en cuando."`
+`"...`
+` ...No, eso no es algo que yo necesite hacer.`
+` ...Los niños que sean humanos pueden tener una necesidad de jugar.`
+` ...Pero nosotros... solo somos muebles."`
+`"...¿Eso crees?"`
+`"...Nee‐san también es,`
+` ...un mueble.
+` ...Incluso si pretende ser una persona,`
+` ...solo le hará daño más adelante.`
+` ...Yo entiendo eso, y por eso intento no acercarme demasiado a la gente."`
+`Genji se mantuvo en silencio después de eso.`
+`...Al rato, se levantó y usó una tetera para hacer cacao en polvo, y también le sirvió algo a Kanon.`
+`"¡¿¡¿Me lo dices en serio?!?!`
+` ¡¡No lo sabía...!!"`
+`"¡Idiota, eres demasiado ruidoso!`
+` ¡Vas a despertar a Maria!"`
+`Battler estaba tan sorprendido que pegó un grito, y esparció las cartas por todas partes.`
+`Su voz hizo que Maria se girara una vez, pero enseguida volvió a sumirse en un profundo sueño...`
+`Jessica le dio un derechazo, y él bajó su tono de voz.`
+`"Pero, aún así... Ahora que lo dices, sí que es cierto que tenían ese tipo de atmósfera a su alrededor, ¿no?...`
+` ...Ahhhh, ya veo, ese George‐aniki..."`
+`No se podía ver a George en ningún lugar de la habitación.`
+`{n}Hace un rato, cuando Shannon había entrado a la habitación, George‐aniki había dicho que se había olvidado algo en la mansión y necesitaba volver por él.`
+`Shannon se había ofrecido a guiarle, al igual que había hecho de camino a la casa invitados, y los dos se habían marchado juntos.`
+`"...Sep, llevan mucho tiempo mostrando signos, ¿sabes?`
+` Preguntándole el uno al otro cuáles eran sus pasatiempos y sus intereses.`
+` ¡Siempre supe que era demasiado para ser solo un interés pasajero!"`
+`"Ahora que lo pienso, me da la sensación de que George‐aniki siempre ha sido extra amable con Shannon‐chan...`
+` A~ho~ra lo entiendo..."`
+`"De acuerdo con la predicción meteorológica, lo peor de la tormenta será esta noche.`
+` También parece que no amainará mañana, pero debería mejorar un poco."`
+`"...¿De verdad?`
+` Entonces, es posible que el barco no llegue hasta pasado mañana...`
+` ...Me ha estado preocupando que eso podría interferir con tu trabajo el lunes..."`
+`"Jajaja, ya sabía de antemano que iba a venir un tifón.`
+` Y, solo por si acaso, me aseguré de que no tuviera nada planeado para el lunes, así que no pasa nada.`
+` ...Puede que no lo parezca, pero la verdad es que se me da bien planear horarios antes de tiempo."`
+`George sacó pecho, actuando con orgullo.`
+`Comparado a la actitud relajada que tenía normalmente como el mayor de los primos, ahora se parecía curiosamente a un niño pequeño.`
+`Shannon soltó una risita ante esta diferencia.`
+`"No es ninguna maravilla que alguien que pronto va a hacer a su compañía próspera esté tan bien preparado."`
+`"...Bueno, hacer que una compañía sea próspera es un trabajo realmente duro.`
+` El dinero no es lo único importante.`
+` Estudiar a mi padre me ha enseñado eso bien.`
+` Hacer que una compañía sea próspera es como tener un castillo y dirigir a tus súbditos."`
+`"Mi papá, honrando el nombre Hideyoshi, adoraba leer libros sobre los grandes líderes del período {ruby:los Estados en guerra:Sengoku}.`
+` Gran parte de su filosofía sobre la dirección de negocios viene de hablar sobre ellos.`
+` ...¿Lo sabías?`
+` Takeda Shingen, que era temido como el líder de las tropas de caballería durante el período Sengoku, empezó con sus tropas en desorden total, y no tenía el tipo de fuerte liderazgo necesario para utilizarlos bien."`
+`"¿Eso es verdad?`
+` Es un poco inesperado."`
+`"Para unificar sus tropas, Shingen utilizó diversas estrategias.`
+` Por ejemplo, cuando un soldado tenía éxito en batalla, le honraría inmediatamente con una medalla.`
+` Normalmente, ése tipo de cosas se retrasaban hasta el final de la guerra y entonces eran todas otorgadas de golpe."`
+`"Haciendo eso con diligencia en el campo de batalla,`
+` inmediatamente mostraba aprecio por los logros militares de sus tropas, y estas se motivaban inmediatamente de una manera extremadamente significativa.`
+` Además, cada vez que alguna de sus tropas caía en una enfermedad, él sería el primero en ir a cuidar de ellos, cosas así."`
+`"...Takeda Shingen no fue simplemente el hombre que lideró las tropas de caballería más fuertes del periodo Sengoku.`
+` Él fue la persona que más se preocupo por sus tropas a lo largo de este."`
+`"...Y por ello, todas las tropas le seguían."`
+`La verdad era que Shannon ya había oído esta historia hace algunos años.`
+`{n}...Pero, cuando George empezaba a relacionar a su padre con una de estas historias, siempre estaba radiante, y parecía como si se lo estuviera pasando genial.`
+`Así que Shannon simplemente sonrió, sin interrumpirle, urgiéndole a continuar.`
+`"Por supuesto, en un mundo capitalista, el dinero es poder, y también es la altura del muro de tu castillo.`
+` Pero es imposible construir un castillo o ganar una guerra por ti mismo.`
+` Esos tipos de cosas solo pueden ser logradas con el apoyo de muchos subordinados, tomando prestadas sus fuerzas."`
+`"...Tras entender esto, cuando miro a las espaldas de mi padre, me doy cuenta de lo inmaduro que soy,`
+` Veo cuánto ha cultivado mi padre su carácter mediante trabajo duro, y consigo entender cómo ha sido capaz de construir todo lo que tiene hasta ahora."`
+`"George‐sama, realmente admiras a tu padre...`
+` Es envidiable."`
+`"A‐ah, lo siento... Eso no fue exactamente lo que quise decir."`
+`"Lo, lo siento... Tampoco quise decirlo de esa manera..."`
+`Los dos se miraron incómodamente a los pies.`
+`Shannon no tenía padres.`
+`{n}Había sido criada en un orfanato, propiedad de Kinzo, llamado la Casa Fukuin.`
+`Bajo la guía de su director honorario, Kinzo, el orfanato ofrecía a los graduados excelentes oportunidad de vivir una vida de servidumbre.`
+`Si eran aceptados, se les permitía dejar el orfanato y trabajar como sirvientes para la familia Ushiromiya.`
+`...Esto era considerado como el honor máximo para un graduado.`
+`Todos los sirvientes de la Casa {ruby:Fukuin:{p:0:福音}} tomaban nombres con el caracter "{ruby:in/on/non:{p:0:音}}" en ellos mientras servían.`
+`Así que "{ruby:Shannon:{p:0:紗音}}" no era su verdadero nombre.`
+`{n}Y lo mismo iba para "{ruby:Kanon:{p:0:嘉音}}".`
+`Todos los graduados de la Casa Fukuin eran huérfanos.`
+`{n}Aunque también podrías decir que todos eran gente que, a través de circunstancias especiales, habían sido abandonados por sus padres.`
+`...Por esto, a los graduados se les había enseñado a pensar de ellos como su única familia.`
+`Por eso sonaba tan natural cuando Kanon llamaba a Shannon su hermana.`
+`Y mientras que solo Kanon y Shannon estaban trabajando hoy en la mansión,`
+` habían otros sirvientes en el turno de rotación, llamados {ruby:Manon:{p:0:眞音}} y {ruby:Lenon:{p:0:恋音}}, que también habían heredado el carácter "{p:0:音}" en sus nombres.`
+`...Sin embargo, pocos sirvientes permanecían con la familia Ushiromiya durante mucho tiempo.`
+`El estándar era retirarse a los tres años.`
+`Por lo que podrías decir que Shannon, que había estado trabajando durante unos diez años, era una excepción a la regla.`
+`Trabajar para la familia Ushiromiya era una carga pesada, pero la paga no estaba nada mal.`
+`Trabajar durante tres años enteros te ganaría más que suficiente para entrar directo a la sociedad.`
+`Por esa razón, incluso a pesar de que los graduados se daban cuenta de la dura tarea que era trabajar para la familia Ushiromiya, seguían esperando ser aceptados.`
+`Pero en el caso de Shannon, tal vez el hecho de que hubiera conseguido hacerlo durante más de diez años no se debería interpretar como si ella tuviera más fuerza de voluntad que el resto de sirvientes.`
+`Es posible que haya tenido que continuar trabajando durante más de diez años porque no tuvo el valor de decir que se quería retirar.`
+`Para Kinzo, que no podía confiar ni siquiera en sus familiares consanguíneos, esos "excelentes" sirvientes de la casa Fukuin eran los únicos quién podía confiar.`
+`Por eso, Kinzo les permitiría llevar de vez en cuando el emblema familiar como sirvientes bajo su control directo, y hacerles trabajar a su lado...`
+`"...Ummm, ...eh, ya has estado trabajando durante unos diez años, ¿verdad?`
+` Debes de haber ahorrado un montón de dinero hasta ahora, ¿no?"`
+`"No lo se...`
+` Tampoco es como si hubiera algo que me quisiera comprar...`
+` Creo que alrededor de unos pocos millones de yenes, lo cual no es suficiente como para vivir el resto de mi vida..."`
+`"¿Así que no has estado trabajando aquí para conseguir una cantidad concreta?"`
+`"...A‐... así es.`
+` ...No tengo a dónde ir fuera de la mansión.`
+` ...También me llevo bien con la señorita y el resto de los sirvientes jóvenes...`
+` ...A veces la señora me reprende, pero, ...cuidar de jardín de rosas y limpiar la mansión es divertido..."`
+`"Pero, Shannon‐chan,`
+` ...no, Sayo ({p:0:紗代})‐chan, eso no es tu vida."`
+`"...Umm..."`
+`Shannon bajó la mirada cuando oyó su verdadero nombre...`
+`{n}Entendió lo que George quería decir y cerró la boca.`
+`"Incluso después de convertirme en un adulto y en un miembro completo de la sociedad, he seguido estudiando y he aprendido algo.`
+` ...Una vida humana no es tan monótona ni tan corta como pensábamos cuando éramos pequeños."`
+`Ese era el temor que todos suelen tener en sus años de estudiante.`
+`...¿Será el resto de mi vida tan monótona, aburrida, y somnífera como una clase extraescolar,`
+` donde sigue y sigue, y yo malgasto mi tiempo con pereza hasta que finalmente termina sin que nada interesante ocurra?...`
+`Sin embargo, estos pensamientos solo surgen mientras una persona sea un estudiante menor de edad.`
+`Comparado a una vida humana, el tiempo pasado como un estudiante no es sino un parpadeo, un período en el que rompen las cáscaras de su inmadurez.`
+`El interior de la cáscara puede ser, o no, un mundo caluroso, sofocante y monótono,`
+` pero el mundo más allá de esa cáscara es vasto y lleno de posibilidades ilimitadas.`
+`"Hasta ahora, has estado viviendo en una cáscara llamada Shannon.`
+` ¿No estás cometiendo un error al pensar que tu vida va a continuar así para siempre?"`
+`"Eso es... ...`
+` ..."`
+`Shannon no podía negar esas palabras.`
+`...Había sido incapaz de dudar su manera de vivir,`
+` y como nunca había tenido ninguna esperanza o meta, había continuado su vida de holgazanería.`
+`...Y si le hubieran preguntado si estaba satisfecha con su vida,`
+` ...no habría sido capaz de asentir...`
+`Esta podría ser una realidad que de la deliberadamente apartaba sus ojos.`
+`...De no haber sido reprendida por George, ella hubiera seguido pretendiendo no darse cuenta, mientras su vida real se escapaba, desatendida, poco a poco...`
+`"...George‐sama.`
+` ...¿Está mal que yo...`
+` ...continúe... viviendo así?"`
+`"No debes.`
+` Ah, y por cierto, ¿no acabas de romper una de las reglas?"`
+`George dio una respuesta estricta inmediatamente, y después estalló en una sonrisa maliciosa.`
+`Shannon ya sabía por qué estaba siendo reprendida, ...y parecía que le avergonzaba, mientras bajaba la cabeza.`
+`"¿No me prometiste no usar "sama" cuando estuviéramos solos?..."`
+`"...No, ...no puedo obedecer eso como promesa.`
+` ...Pero, si fuera una orden, tendría que obedecerla...`
+` Porque, soy... un mueble."`
+`"Entonces es una orden."`
 `"Err,`
-` ...............yes.`
-` ......Certainly,`
+` ...sí.`
+` ...Ciertamente,`
 ` ...George‐san."`
-`As Shannon hung her head, her face red, she said George's name again, this time using "san"...`
-`"Yes, that's better, Sayo‐chan."`
-`A smile rose to George's face praising Shannon's, no, Sayo's small act of bravery.`
-`The way they talked with each other gave off the sense that their relationship had already been ongoing for some time...`
-`For a long while, as if the weather raging around them didn't even enter their consciousness,`
-` the two of them talked about the many memories they'd built during their relationship that no one else knew about.`
+`Mientras Shannon bajaba la cabeza, volvió a decir el nombre de George, esta vez usando "san"...`
+`"Sí, mucho mejor, Sayo‐chan."`
+`Una sonrisa apareció en la cara de George alabando el pequeño acto de valentía de Shannon, no, de Sayo.`
+`La manera en la que se hablaban sugería que esta relación había empezado hace tiempo...`
+`Durante un largo rato, ignorando el rugido del temporal y la lluvia,`
+` los dos hablaron sobre los muchos recuerdos que habían construído durante su relación que nadie más conocía.`
 `Every once in a while, a flash of lightning would attempt to dampen the mood, but it could not sully these moments, which seemed to flush even the roses outside a deeper shade of red...`
-`"...............Oh, ...oh yes.`
-` ...I have...something I wanted to show you."`
-`"......Wh‐......what could it be?"`
-`George, who had been speaking eloquently, suddenly started to stutter.`
-`{n}From his manner, Shannon too understood something.`
-`George timidly searched through his pocket for it.`
-`{n}It got caught deep in his pocket somehow, and came out somewhat slowly and awkwardly, in the same manner as his speech.`
-`It was a very small box.`
-` A small box covered in a deep blue velvet.`
-`...Its characteristic shape was enough to make anyone realize what was resting inside.`
-`Shannon had been preparing her heart a little, sure of what it must be.`
-`But even so, when she actually saw it, she couldn't avoid blushing once more...`
-`George opened the small box, took it out...and held it out for Shannon to take.`
-`"I want you to accept this."`
-`"I, .........I can't accept something so valuable...!"`
-`"......You can't accept it...?"`
-`"Tha‐...that's not...`
-` I meant...`
-` .........Something like that...`
-`...is too...`
-`......goo‐good...for me........."`
+`"...E, ...es cierto.`
+` ...Tengo algo que te quiero enseñar."`
+`"...¿Qu‐... qué podría ser?"`
+`George, que había estado hablando elocuentemente, empezó de repente a tartamudear.`
+`{n}Shannon también se percató de algo extraño en su apariencia.`
+`George buscaba por su bolsillo tímidamente.`
+`{n}Algo fue atrapado en las profundidades de éste, y al igual que al tartamudeante George, le costó un poco salir.`
+`Era una cajita muy pequeña.`
+` Una cajita cubierta de un terciopelo azul oscuro.`
+`...Esa forma peculiar era suficiente para que cualquiera se diera cuenta de lo que descansaba en su interior.`
+`Shannon había preparado levemente su corazón, pensando que debía ser algo así.`
+`Pero aun así, cuando lo vio de verdad, no pudo evitar sonrojarse una vez más...`
+`George abrió la cajita, sacó algo de ahí... y lo sostuvo para que Shannon lo tomara.`
+`"Quiero que aceptes esto."`
+`"¡No, ...no puedo aceptar algo tan valioso...!"`
+`"...¿No puedes aceptarlo...?"`
+`"N‐... no quise...`
+` Quiero decir...`
+` ...Algo así...`
+` ...es demasiado...`
+` ...b‐bueno... para mí..."`
 `"Sayo.`
-` This is not a request.`
-` ......It's an order, okay?`
-` Accept this ring.`
-` ...Okay?"`
-`"Ha......u...`
-` I, ......I can't...`
-`......disobey an order..."`
-`"Yes, that's right.`
-` ...Good girl."`
-`Shannon, not wanting to show her bright red face, timidly accepted the ring from George's hand while still staring at the ground...`
-`That ring wasn't a simple accessory.`
-`......It was a noble object, which since ancient times was meant to be offered to a special woman, with a special meaning.`
-`...So, while George could order her to take it, he could not order anything beyond that.`
-`Anything beyond that would depend, not on an order, but on Shannon's, no, Sayo's own will.`
-`"So, from here on it's no longer an order.`
-` .........Sayo.`
-` I want you to answer me tomorrow, without using words.`
-` ...............Do you understand?"`
-`"...Err, ............h‐...how........."`
-`"I won't order you any more, so this isn't an order.`
-` ......But a ring is something you put on your finger.`
-` ......If you like it, you can just put it on any finger that you choose."`
-`Shannon had only pretended not to know.`
-`{n}She had already understood what he wanted her to do.`
-`{n}...But she was standing at a huge crossroads of her life...`
-`"......Look how late it's gotten.`
-` Let's call it a night."`
-`George faced away from Shannon, seeming slightly uncomfortable.`
-`"It might be possible for me to order you to put it onto a finger of your left hand.`
-` You, too, might be timid and dependent enough to actually obey that kind of an order.`
-` ......But I want you to do this very last part of your own will, ...Sayo.`
-` ...You understand, right?"`
-`"............Y‐`
-`.........yes."`
-`"So, ...that's my order.`
-` .........I want you to think about it well tonight and show me your answer tomorrow."`
-`"....................."`
-`Shannon nodded back.`
-`......Today was the culmination of their long relationship.`
-`{n}...This moment had not come as any surprise to Shannon...`
-`".........We should be getting back to the guesthouse soon.`
-` If we take any longer, we'll make everyone worry about us."`
-`"......Ah,`
-` ......err...`
-` ...I'm sorry, I...!`
-` Um, I just remembered something I had to do in the mansion, so,`
+` Esto no es una petición.`
+` ...Es una orden, ¿de acuerdo?`
+` Acepta este anillo.`
+` ...¿De acuerdo?"`
+`"Ha...u...`
+` N‐, ...no puedo...`
+`...desobedecer una orden..."`
+`"Sí, es cierto.`
+` ...Buena chica."`
+`Shannon, sin querer mostrar a George su cara rojo brillante, aceptó tímidamente el anillo mientras seguía mirando al suelo...`
+`Ese anillo no era un simple accesorio.`
+`...Era un objeto noble, que desde los tiempos antiguos se ha considerado con un significado especial y se ha ofrecido a una mujer especial.`
+`...Por tanto, mientras que George le podía obligar a aceptarlo, no podía ordenarle nada más allá de eso.`
+`Cualquier cosa más allá de eso, dependería no de una orden, sino de la propia voluntad de Shannon, no, de Sayo.`
+`"Así que, de aquí en adelante ya no es una orden.`
+` ...Sayo.`
+` Quiero que respondas mañana, sin usar palabras.`
+` ...¿Lo entiendes?"`
+`"...Err, ...¿c‐... cómo..."`
+`"No te voy a ordenar más, así que esto no es una orden.`
+` ...Pero un anillo es algo que pones en un dedo.`
+` ...Si te gusta, puedes ponértelo en el dedo que tú elijas."`
+`Shannon solo había pretendido no saberlo.`
+`{n}Ella ya había entendido qué es lo que él quería que hiciese.`
+`{n}...Pero ella se encontraba ante una gran encrucijada de su vida...`
+`"...Mira qué tarde que se ha hecho.`
+` Demos por concluida la jornada."`
+`George desvió su mirada de la de Shannon, pareciendo ligeramente incómodo.`
+`"Probablemente no puedo ordenarte que lo lleves en tu mano izquierda.`
+` Puede que seas lo suficiente tímida y dependiente para obedecer de verdad esa orden.`
+` ...Pero quiero que esta última parte sea dado por tu propia voluntad, Sayo.`
+` ...¿Entiendes?"`
+`"...S‐`
+` ...sí."`
+`"Así que, ...esa es mi orden.`
+` ...Quiero que lo pienses bien esta noche y me muestres tu respuesta mañana."`
+`"..."`
+`Shannon asintió en respuesta.`
+`...Hoy era la culminación de su larga relación.`
+`{n}...Este momento no había venido de sorpresa para Shannon...`
+`"...Deberíamos ir volviendo a la casa de invitados pronto.`
+` Si nos demoramos más, haremos que todo el mundo se preocupe por nosotros."`
+`"...Ah,`
+` ...err...`
+` ...¡lo siento, yo...!`
+` Em, me acabo de acordar de que tenía que hacer algo en la mansión, así que,`
 ` ...um,`
-` ......I have to go back to the mansion..."`
-`"Something this late?`
-` .........Really?"`
-`George stared into Shannon's face as he laughed mischievously.`
-`{n}He had seen through that obvious lie of Shannon's.`
-`......But, imagining how she felt, it wasn't as if he couldn't understand her embarrassment and why she might ask to be alone.`
-`And so George, having understood Shannon's lie and all that was behind it, allowed her to leave.`
+` ...tengo que regresar a la mansión..."`
+`"¿Algo tan tarde?`
+` ...¿De verdad?"`
+`George miró a Shannon fijamente a la cara y se rió con malicia.`
+`{n}Sin duda vio a través de la mentira de Shannon.`
+`...Sin embargo, tras percatarse de ese sentimiento, no es como si no entendiera que puede que estuviera tan avergonzada que quisiera estar sola.`
+`Así, como George se dio cuenta del significado tras la mentira de Shannon, la aceptó.`
