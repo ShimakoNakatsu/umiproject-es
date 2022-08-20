@@ -1,8 +1,8 @@
 `La extraña carta que la bruja había entregado a Maria había eliminado de nuestras mentes todos los recuerdos de la cena.`
 `Maria fue continuamente acosada con preguntas por la tía Rosa y los demás padres,`
-` y como nadie le creía, ésta estaba de muy mal humor.`
+` y como nadie le creía, estaba de muy mal humor.`
 ` Incluso cuando nosotros intentábamos hablarle, nos ignoraba.`
-`Nuestros padres estaban tremendamente agitados por el oro, discutiento ávidamente por la distribución de bienes, y hasta se habían olvidado completamente que sus hijos estaban allí.`
+`Nuestros padres estaban tremendamente agitados por el oro, discutiendo ávidamente por la distribución de bienes, y hasta se habían olvidado completamente que sus hijos estaban allí.`
 `...Aunque ya me había imaginado que hablaban de esta forma a nuestras espaldas,`
 ` nunca habría imaginado que serían tan bruscos. Fue una gran conmoción para nosotros.`
 `...De lo que podíamos oír, todos nuestros padres querían tanto dinero como fuera posible, tan pronto como fuera posible.`
@@ -118,7 +118,7 @@
 ` ¡Ijiji!"`
 `"En cualquier caso, me pregunto quién es esta {f:5:Beatrice}.`
 ` Si es quien dice ser, entonces es una persona misteriosa que nadie conocía, y que sabe de la existencia del oro escondido del abuelo.`
-` Además, incluso se le dio el anillo del líder de la familia.`
+` Además, incluso se le dio el Anillo del Líder de la familia.`
 ` ...Realmente debe de ser de su confianza."`
 `"Bueno, obviamente no creo que sea una bruja de las que vuelan en una escoba.`
 ` ...Pero claramente es una persona misteriosa que se hace llamar una bruja."`
@@ -143,7 +143,7 @@
 ` ...¿Qué quieres decir?"`
 `"Lo que he dicho.`
 ` ...Parece que la persona que le dio el paraguas a Maria no era uno de los 18.`
-` Por tanto, ¿no tiene sentido pensar que existe una 19ª persona, y que ésta es la que le dio el paraguas a Maria?"`
+` Por tanto, ¿no tiene sentido pensar que existe una 19ª persona, y que esta es la que le dio el paraguas a Maria?"`
 `"...Bueno, ...si, supongo."`
 `"Entonces, ¿dónde exactamente está esa persona ahora mismo?`
 ` Por lo menos, está claro que ha de haber estado en esta isla desde que empezó a llover.`
@@ -178,7 +178,7 @@
 `Cuando te quedas bloqueado intentando encontrar un movimiento en ajedrez o shogi, al dar vuelta al tablero y verlo todo desde la posición del oponente, a menudo podrías ver una estrategia que te daría la ventaja.`
 `En otras palabras, significa pensar poniéndote en los zapatos de tu oponente, y pensar desde su punto de vista.`
 `"...De acuerdo.`
-` Por un momento, pensemos que ésta 19ª persona llamada {f:5:Beatrice} existe.`
+` Por un momento, pensemos que esta 19ª persona llamada {f:5:Beatrice} existe.`
 ` Dicha persona debe habérselas apañado para llegar sigilosamente a esta isla, sin que nadie la vea, y quedarse escondida desde entonces.`
 ` Tendría algún motivo, ¿correcto?`
 ` En ese caso, ¿por qué se molestaría tanto en aparecer ante Maria y darle la carta?"`
@@ -186,15 +186,15 @@
 `Si tenía algún motivo para esconderse,`
 ` debería haberse quedado escondida todo el tiempo. Pero aun así, apareció abiertamente ante Maria.`
 `"Entonces...`
-`...espera, incluso Maria lo dijo.`
+` ...espera, incluso Maria lo dijo.`
 ` ¿Acaso no dijo que era una mensajera?`
 ` Después de todo, Maria era la más joven, y parecía ser la más inocente..."`
-`"¿Por qué usar un mensajero?`
+`"¿Por qué usar una mensajera?`
 ` Si quería enviar una carta a la conferencia familiar, podrían haber usado el correo.`
 ` Si se la enviaran a cada uno de los cuatro hermanos, no podrían ignorarla.`
 ` No era necesario llevarla y entregarla con semejante secretismo."`
 `"...Realmente suena...`
-`...bastante extraño."`
+` ...bastante extraño."`
 `"En primer lugar, si {f:5:Beatrice} existiera, y quisiera que todos supiéramos de su presencia, tan solo debería haberse presentado ante nosotros.`
 ` A pesar de ello, escogió el impreciso método de aparecer a través de una pequeña niña llamada Maria‐chan, y darnos una impresión poco definida de su identidad.`
 ` Contradicción.`
@@ -221,7 +221,7 @@
 `{n}Todos los 18 habían sido descartados.`
 `{n}Y aun así, {f:5:Beatrice} estaba escondida entre aquellos 18.`
 `¿Qué planeaba esa persona al esconder su identidad y fingir ser {f:5:Beatrice}...?`
-`"También sospechaba que podía ser una actuación de Maria‐chan, pero los contenidos del mensaje eran extremadamente complejos, así que es difícil de creer que Maria‐chan lo haya preparado por sí misma.`
+`"También sospechaba que podía ser una actuación de Maria‐chan, pero los contenidos del mensaje eran extremadamente complejos, así que es difícil de creer que ella lo haya preparado por sí misma.`
 ` ...Pero no puedo negar la posibilidad de que esté trabajando con alguien."`
 `"E‐espera un momento... ¡Maria tiene apenas nueve años!`
 ` ¡¿Qué demonios sospechas que podría estar tramando, y con quién?!`
@@ -242,12 +242,12 @@
 ` Uu.`
 ` ...¡Nadie cree que Maria se encontró contigo!`
 ` ...Uu...`
-`uu...`
+` uu...`
 ` ¡Aún tras enseñarles la carta que me diste, siguen sin creer...!`
-` ...Uu...u...`
-`u...`
-`...¡hic...`
-`hic!"`
+` ...Uu... u...`
+` u...`
+` ...¡hic...`
+` hic!"`
 `"Como sea, Maria‐chan es quien tiene la clave.`
 ` La clave del misterio de si {f:5:Beatrice} está entre los 18 o es una 19ª persona."`
 `"...Maria es bastante obstinada, ¿sabes?`
@@ -328,8 +328,8 @@
 ` Toda la familia está reunida aquí ahora mismo.`
 ` No lo exageres tanto y suéltalo."`
 `"...Es probable que...`
-`...esta noche...`
-`me asesinen."`
+` ...esta noche...`
+` me asesinen."`
 `Un trueno provocó un fuerte estrépito.`
 `{n}Debió caer muy cerca.`
 `La expresión de papá, iluminada por el relámpago, se me grabó en los ojos.`
@@ -384,7 +384,7 @@
 ` Suena apasionado.`
 ` Entonces dejaré a ese viejo bastardo en tus manos."`
 `"Sí, déjamelo a mí."`
-`Llamé a Kyrie‐san cuando ésta ya estaba marchándose.`
+`Llamé a Kyrie‐san cuando esta ya estaba marchándose.`
 `"...¿Eh?`
 ` ¿Qué?"`
 `"Um, quería darte las gracias.`
@@ -412,7 +412,7 @@
 `Al hacer eso, podría hacer que pareciera que la bruja del retrato realmente existía.`
 `...No, como fuera, por solo eso podrías concluir que Kinzo estaba detrás de todo eso.`
 `En ese caso... era como si Kinzo intentara meterse en la discusión privada de los hermanos.`
-`Y entonces, al anunciar que le daría todo a la persona que resolviera el acertijo, él había debilitado Krauss la absoluta ventaja de Krauss.`
+`Y entonces, al anunciar que le daría todo a la persona que resolviera el acertijo, él había debilitado la absoluta ventaja de Krauss.`
 `...Estaba claro.`
 `{n}Kinzo escuchó la discusión de los hermanos en el salón de aquel mismo día.`
 `Así que sabía cómo se había librado Krauss del ataque de sus hermanos,`
@@ -501,11 +501,11 @@
 ` ...Antes de que los otros hermanos pudieran."`
 `"...Cómo puede...`
 ` ...Entonces,`
-` ...la leyenda del oro de padre es..."`
+` ...la Leyenda del Oro de padre es..."`
 `"Existe.`
 ` ...El oro que Ushiromiya Kinzo recibió de {f:5:Beatrice} existe."`
 `"¡¿Cómo puede...?!`
-` ¿C‐...cómo puede ser que exista...?"`
+` ¿C‐... cómo puede ser que exista...?"`
 `Natsuhi estaba conmocionada...`
 `Krauss siempre había dicho que el oro de Kinzo era solo una ilusión.`
 `{n}Así que, como su esposa, lo había creído.`
@@ -547,8 +547,8 @@
 ` ¡Es verdad que no puedo llevar la cresta familiar sellada en mi cuerpo!`
 ` ¡¡Pero sigo siendo tu esposa!!"`
 `"¡¿Y aún así, ...me estás diciendo que no soy capaz de ayudarte...?!`
-` ¡¿Es eso...?!!!"`
-`"...Fue por consideración por tí, que decidí no involucrarte.`
+` ¡¡¡¿Es eso...?!!!"`
+`"...Fue por consideración, que decidí no involucrarte.`
 ` Dejemos de hablar. Solo empeorará tu dolor de cabeza.`
 ` Descansa por hoy.`
 ` Los hermanos tratarán los problemas de los hermanos.`
@@ -591,7 +591,7 @@
 `...Pero, ...parecía que,`
 ` ...en ese instante, todo aquello había sido rechazado.`
 `"...`
-` ¿Cómo debo pensar mientras viva esta vida?`
+`¿Cómo debo pensar mientras viva esta vida?`
 ` ...No lo sé."`
 `Natsuhi apoyó su cabeza contra el cristal de la ventana...`
 `El cristal, que estaba frío gracias a la lluvia que lo golpeaba, era en cierto sentido refrescante. Aunque no debía tener sentimientos... parecía que era la única cosa que podía comprender a Natsuhi...`
@@ -604,7 +604,7 @@
 ` Pensaba que eras un fantasma..."`
 `Como siempre, sus palabras eran bruscas y muy poco femeninas.`
 `...Instintivamente, acudieron palabras de reproche a la garganta de Natsuhi.`
-`{n}...Sin embargo, éstas llevaban poca, y no escaparon de sus labios.`
+`{n}...Sin embargo, al llevar poca fuerza, estas nunca escaparon de sus labios.`
 `"...Jessica.`
 ` Lo siento, el dolor de cabeza de mamá es horrible.`
 ` Por favor, déjame sola."`
@@ -620,11 +620,11 @@
 `A Jessica no le agradaba su madre.`
 `{n}...Por lo que sería difícil consolar a su madre aun si se veía un poco frágil...`
 `Por tanto, cuando aun así intento consolar a su madre, tuvo que buscar las palabras desde el fondo de su corazón, apretando ambos puños.`
-`"Pa...parece que realmente tienes las manos llenas por lo de la discución..."`
+`"Pa... parece que realmente tienes las manos llenas por lo de la discución..."`
 `"...No tiene nada que ver contigo.`
 ` Por favor, ve a algún otro lado."`
 `"...¿Tu dolor de cabeza es muy grave?`
-` ¿De‐debería ir por algo de medicina...?"`
+` ¿De‐debería ir por algo de medicina?..."`
 `"...No tienes que molestestarte.`
 ` ...Por favor, déjame sola."`
 `Natsuhi no intentaba ser fría.`
@@ -650,7 +650,7 @@
 `...Pensando esto, Natsuhi dejó a Jessica con palabras de gratitud y se preparó para irse.`
 `...Esta vez, fue Jessica quien llamó a las espaldas de su madre.`
 `{n}Natsuhi se detuvo y se volvió, preguntando qué necesitaba Jessica.`
-`Pero la propia Jessica no tenía muy claro porqué había detenido a su madre,`
+`Pero la propia Jessica no tenía muy claro por qué había detenido a su madre,`
 ` ...y durante un tiempo, sonrió amargamente, murmurando mientras dudaba sobre qué decir.`
 `Estaba revolviendo su bolsillo, cuando su mano tocó algo y lo sacó.`
 `"¡Um, oye, Mamá!`
@@ -693,7 +693,7 @@
 `Mirando al reloj, pasaba un poco de las 10:00 p. m.`
 `{n}...Incluso si vamos a quedarnos levantados toda la noche, va siendo hora de volver a nuestro cuarto.`
 `"Mi madre tiene una habitación preparada para nosotros en la mansión, pero...`
-`...¿qué quieren hacer?"`
+` ...¿qué quieren hacer?"`
 `"Creo que preferiría volver a la casa de invitados.`
 ` ...A juzgar por el aspecto de nuestros padres, creo que sería mejor si no estuviéramos en la mansión."`
 `"Estoy de acuerdo.`
@@ -796,9 +796,9 @@
 `"...Krauss‐sama ha dado una orden.`
 ` Han habido cambios en casi todos los horarios."`
 `"...Así es.`
-` Gohda‐san fue cambiado al turno de noche en la mansión.`
+` Gohda fue cambiado al turno de noche en la mansión.`
 ` Tu y Kanon tienen el turno nocturno en la casa de invitados.`
-` A Kumasawa‐san y a mí nos han ordenado pasar la noche en la casa de invitados...`
+` A Kumasawa y a mí nos han ordenado pasar la noche en la casa de invitados...`
 ` Hace un momento, nos han llamado diciendo que ustedes también deben permanecer aquí."`
 `"¿Eh...?`
 ` E‐es un cambio bastante grande...`
@@ -809,7 +809,7 @@
 `...Los turnos de la mansión y la casa de invitados habían sido invertidos, y Genji estaba pasando la noche en la casa de invitados.`
 `"...Es probable que sea por la carta de {f:5:Beatrice}‐sama."`
 `"¿Es probable? ...¿Por qué?"`
-`"...Cuando una carta tan misteriosa como esa apareció, es normal que Krauss‐sama sospechara de uno de nosotros.`
+`"...Cuando una carta tan misteriosa como esa aparece, es normal que Krauss‐sama sospechara de uno de nosotros.`
 ` ...Servimos directamente al amo, así que Krauss‐sama hizo todo lo que pudo para alejarnos de la conferencia familiar."`
 `A Genji, Shannon, y Kanon se les estaba permitido llevar el escudo de la familia Ushiromiya, el "Águila de un Ala", como los sirvientes que servían directamente a Kinzo.`
 `Por supuesto, como estaban trabajando para la familia Ushiromiya, tenían que obedecer las órdenes de cualquier familiar, pero su único jefe era Kinzo.`
@@ -817,7 +817,7 @@
 `Por esto, a menudo se les veía como los vasallos de Kinzo y se les rehuía.`
 `Y en realidad, Kinzo raramente dejaría que nadie, aparte de ellos, entrara en su estudio.`
 `Se podría decir que este repentino cambio de turno expresaba claramente la desconfianza que esto causaba.`
-`Teniendo en cuenta la esperanza de vida de Kinzo, ésta sería definitivamente la última conferencia familiar antes de que el problema de la herencia apareciera.`
+`Teniendo en cuenta la esperanza de vida de Kinzo, esta sería definitivamente la última conferencia familiar antes de que el problema de la herencia apareciera.`
 `Además de eso, la carta que afirmaba ser de {f:5:Beatrice} había aparecido de la nada.`
 `Krauss definitivamente quería mantener alejados a los leales súbditos de Kinzo de la mesa en la que se iba a tratar una discusión tan importante y delicada...`
 `"...Si me disculpan, me retiraré a descansar.`
@@ -834,7 +834,7 @@
 ` Lo más seguro es que el resto de familiares pasen la noche en las habitaciones de la mansión."`
 `"Sí, probablemente...`
 ` Solo estoy diciendo esto porque Genji‐sama no está por aquí, pero...`
-`...La verdad es que estoy un tanto contenta de que me hayan mandado a la casa de invitados... creo..."`
+` ...La verdad es que estoy un tanto contenta de que me hayan mandado a la casa de invitados... creo..."`
 `"¿Oh...?`
 ` ¿Y eso por qué?`
 ` ¿Porque así puedes mantenerte alejada de la señora y Eva‐sama?`
@@ -875,7 +875,7 @@
 ` Si hubieras estado, también habrías sido invitado.`
 ` ...Es bueno jugar como un niño de vez en cuando."`
 `"...`
-` ...No, eso no es algo que yo necesite hacer.`
+`No, eso no es algo que yo necesite hacer.`
 ` ...Los niños que sean humanos pueden tener una necesidad de jugar.`
 ` ...Pero nosotros... solo somos muebles."`
 `"...¿Eso crees?"`
@@ -969,7 +969,7 @@
 `Por esa razón, incluso a pesar de que los graduados se daban cuenta de la dura tarea que era trabajar para la familia Ushiromiya, seguían esperando ser aceptados.`
 `Pero en el caso de Shannon, tal vez el hecho de que hubiera conseguido hacerlo durante más de diez años no se debería interpretar como si ella tuviera más fuerza de voluntad que el resto de sirvientes.`
 `Es posible que haya tenido que continuar trabajando durante más de diez años porque no tuvo el valor de decir que se quería retirar.`
-`Para Kinzo, que no podía confiar ni siquiera en sus familiares consanguíneos, esos "excelentes" sirvientes de la casa Fukuin eran los únicos quién podía confiar.`
+`Para Kinzo, que no podía confiar ni siquiera en sus familiares consanguíneos, esos "excelentes" sirvientes de la Casa Fukuin eran los únicos quién podía confiar.`
 `Por eso, Kinzo les permitiría llevar de vez en cuando el emblema familiar como sirvientes bajo su control directo, y hacerles trabajar a su lado...`
 `"...Ummm, ...eh, ya has estado trabajando durante unos diez años, ¿verdad?`
 ` Debes de haber ahorrado un montón de dinero hasta ahora, ¿no?"`
@@ -997,8 +997,8 @@
 ` pero el mundo más allá de esa cáscara es vasto y lleno de posibilidades ilimitadas.`
 `"Hasta ahora, has estado viviendo en una cáscara llamada Shannon.`
 ` ¿No estás cometiendo un error al pensar que tu vida va a continuar así para siempre?"`
-`"Eso es... ...`
-` ..."`
+`"Eso es...`
+`..."`
 `Shannon no podía negar esas palabras.`
 `...Había sido incapaz de dudar su manera de vivir,`
 ` y como nunca había tenido ninguna esperanza o meta, había continuado su vida de holgazanería.`
@@ -1028,7 +1028,7 @@
 `La manera en la que se hablaban sugería que esta relación había empezado hace tiempo...`
 `Durante un largo rato, ignorando el rugido del temporal y la lluvia,`
 ` los dos hablaron sobre los muchos recuerdos que habían construído durante su relación que nadie más conocía.`
-`Every once in a while, a flash of lightning would attempt to dampen the mood, but it could not sully these moments, which seemed to flush even the roses outside a deeper shade of red...`
+`De vez en cuando, un destello de relámpago cortaría la lluvia, pero no podía mancillar ni a las rosas ni al tiempo que pasaban sonrojándose el uno al otro...`
 `"...E, ...es cierto.`
 ` ...Tengo algo que te quiero enseñar."`
 `"...¿Qu‐... qué podría ser?"`
@@ -1057,7 +1057,7 @@
 ` ...¿De acuerdo?"`
 `"Ha...u...`
 ` N‐, ...no puedo...`
-`...desobedecer una orden..."`
+` ...desobedecer una orden..."`
 `"Sí, es cierto.`
 ` ...Buena chica."`
 `Shannon, sin querer mostrar a George su cara rojo brillante, aceptó tímidamente el anillo mientras seguía mirando al suelo...`
@@ -1069,7 +1069,7 @@
 ` ...Sayo.`
 ` Quiero que respondas mañana, sin usar palabras.`
 ` ...¿Lo entiendes?"`
-`"...Err, ...¿c‐... cómo..."`
+`"...Err, ...¿c‐... cómo?..."`
 `"No te voy a ordenar más, así que esto no es una orden.`
 ` ...Pero un anillo es algo que pones en un dedo.`
 ` ...Si te gusta, puedes ponértelo en el dedo que tú elijas."`
