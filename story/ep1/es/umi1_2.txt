@@ -115,7 +115,7 @@
 ` Lo que pasa es que hoy las gaviotas están todas tranquilas en sus nidos."`
 `"...¿Battler mintió?`
 ` ¿George onii‐chan verdad?"`
-`A pesar de estar divirtiéndose tanto, ¿en realidad fue engañada...?`
+`A pesar de estar divirtiéndose tanto, ¿en realidad fue engañada?...`
 `{n}Sus ojos puros parecieron culparme.`
 `{n}...Tal vez me excedí un poco con ella después de todo.`
 `"Síiii, es cierto, es cierto.`
@@ -231,7 +231,7 @@
 `{n}Mientras que algunas rosas brotan, algunas ya están marchitándose.`
 `No es nada más que eso, pero Maria parecía estar muy preocupada por la única rosa poco saludable del grupo.`
 `...Probablemente pensaba que se sentía sola.`
-`"¿Te sientes mal por esta rosa porque es la única que no está sana...?"`
+`"¿Te sientes mal por esta rosa porque es la única que no está sana?..."`
 `"...Uu.`
 ` Las demás están saludables, pero ésta está triste."`
 `"Bueno, eso es porque todas florecen y luego se marchitan.`
@@ -256,7 +256,7 @@
 ` ¡Venir y darle agua!"`
 `"Opino que deberías darle un nombre a la rosa.`
 ` Estoy seguro que eso la haría feliz, y podrías conocerla mejor."`
-`"¿Nombre...?`
+`"¿Nombre?...`
 ` Nombre...`
 ` ...Uu...uu..."`
 `A pesar de no quitar su cara hosca, Maria se puso a considerarlo con los brazos cruzados en concentración.`
@@ -284,7 +284,7 @@
 `Como no éramos un grupo de turistas, no era como si tuviésemos que seguir algún horario de viaje.`
 `Además, como nuestros padres estaban visitando su antiguo hogar, llenos de nostalgia, no se iban a dejar apresurar por nadie ni por nada.`
 `Comprendiendo la situación, Gohda‐san siguió esperando, sonriendo ampliamente, hasta que nuestros padres se cansaron del jardín de rosas y le dijeron que nos guiara hacia nuestras habitaciones...`
-`"¡¿Oh...?!`
+`"¡¿Oh?!...`
 ` ¡Heeey!`
 ` ¡Pero si es Kanon‐kun!`
 ` Ha pasado tanto tiempo, ¡¿cómo te va?!"`
@@ -312,7 +312,7 @@
 ` sin importar lo que hiciera, él daba una sensación de inexperiencia típica de su edad.`
 `Cuando Gohda‐san le incitó con un susurro a que diera una introducción un poco más larga, el chico llamado Kanon solo bajó la mirada.`
 `"Kanon‐san.`
-` ¿Podrías darles una bienvenida un poco mejor...?"`
+` ¿Podrías darles una bienvenida un poco mejor?..."`
 `"...No.`
 ` ...Porque nosotros...`
 ` ...somos muebles."`
@@ -857,7 +857,7 @@
 `Shannon obedeció humildemente y sin demorarse comenzó a empujar el carrito para marcharse.`
 `Sin embargo, Kanon le reclamó en silencio a Genji, portando algo en sus ojos que no podía expresar en palabras.`
 `"...¿Qué es lo que pasa?`
-` ¿Ha ocurrido algo...?"`
+` ¿Ha ocurrido algo?..."`
 `"...Sha‐`
 `...Shannon no hizo nada malo,`
 ` pero ellos—"`
