@@ -237,7 +237,7 @@
 `Maria no quería ser consolada fácilmente.`
 `{n}A diferencia de Jessica y de mí, que colgábamos las cabezas preguntándonos qué habíamos hecho, Shannon‐chan abrió su boca tímidamente.`
 `"Umm,`
-` ...Maria‐sama, ¿sabe...?`
+` ...Maria‐sama, ¿sabe?...`
 ` Hay una historia de fantasmas de {f:5:Beatrice}‐sama que los sirvientes cuentan entre ellos."`
 `"...¿Uu?"`
 `"¡A‐ah, sí, así es!`
@@ -350,7 +350,7 @@
 ` hablaba de cómo el escorpión poseía poder divino, y que había sido dibujado en círculos para repeler la magia desde tiempos antiguos.`
 `"...Ah, había escuchado sobre eso de algunos de los sirvientes jóvenes.`
 ` Algo de cómo el escorpión es dibujado como un símbolo para repeler la magia en la hechicería..."`
-`"¡Huh, vaya...!"`
+`"¡Huh, vaya!..."`
 `"¡Uu!`
 ` El escorpión protege contra la magia mala y la mala suerte.`
 ` Y la esmeralda lleva paz al corazón.`
@@ -399,7 +399,7 @@
 `"Cálmate, tampoco yo.`
 ` De todos modos estoy seguro que lloverá tanto esta noche que todos recibiremos la misma cantidad de gotas de lluvia."`
 `"Así es.`
-` ¿Quizás deberíamos regresar pronto...?"`
+` ¿Quizás deberíamos regresar pronto?..."`
 `Shannon‐chan miró su reloj.`
 `{n}No faltaba mucho para que fuera de noche.`
 `"¿Ya es hora de que regreses a tu trabajo?"`
@@ -469,7 +469,7 @@
 ` El resto de nosotros la siguió.`
 `"...¿Uu?`
 ` Uu."`
-`"¿Dónde estaba...?`
+`"¿Dónde estaba?...`
 ` Estoy segura que estaba por aquí."`
 `Buscamos por todos lados cerca del área, pero, después de todo, era una sola flor entre todas estas rosas.`
 `Incluso si sabíamos que estaba cerca, no podíamos encontrarla.`
@@ -486,8 +486,8 @@
 `"¿Qué sucede, qué pasó?"`
 `"...Uu.`
 ` La rosa de Maria está aquí.`
-` ¡Está aquí...!"`
-`"Pero en realidad no está, ¿no...?`
+` ¡Está aquí!..."`
+`"Pero en realidad no está, ¿no?...`
 ` Quizás estaba en el otro lado de la cama de flores.`
 ` Si todos buscamos, la encontraremos más rápido, ¿no creen?"`
 `"¡¡Uu!!`
@@ -503,7 +503,7 @@
 `Por un rato, deberíamos estar con Maria,`
 ` y pretender buscar en este arbusto de rosas.`
 `"...Uu.`
-` ¡Uu...!`
+` ¡Uu!...`
 ` No está.`
 ` ...¡No está!`
 ` ¡No está!`
@@ -712,7 +712,7 @@
 `Ese sonido se siente más callado que cualquier otro silencio,`
 ` y hace a los humanos recordar que, al final, están solos desde que nacen hasta que mueren.`
 `"...Llegas tarde, {f:5:Beatrice}."`
-`¿Estaban dirigidas esas palabras al cielo lluvioso...?`
+`¿Estaban dirigidas esas palabras al cielo lluvioso?...`
 `{n}No se podía ver a nadie hacia donde Kinzo dirigía la mirada.`
 `"...Entonces, ¿deberíamos comenzar?`
 ` Comencemos este banquete de milagros que nos pertenece.`
@@ -729,7 +729,7 @@
 ` ...Sin embargo, por eso...`
 ` porque apostaré en esa locura,`
 ` ...definitivamente crearé un gran milagro."`
-`"¡¡...Vamos, devora tantos como gustes...!!`
+`"...¡¡Vamos, devora tantos como gustes!!...`
 ` Venceré esta ruleta.`
 ` Sí, lo apostaré todo.`
 ` Primero, te regresaré el liderazgo de la familia Ushiromiya.`
@@ -740,7 +740,7 @@
 ` estaré ahí.`
 ` Viviré hasta el final y te veré en tu despertar."`
 `"...Entonces ven, {f:5:Beatrice}...`
-` ¡Bienvenida a mi banquete...!`
+` ¡Bienvenida a mi banquete!...`
 ` A cambio por todo lo que he creado, muéstrame un milagro aunque sea solo esta vez.`
 ` ...Oooooohh,`
 ` ...{f:5:BeatriceeEee}..."`
