@@ -230,7 +230,7 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 ` Movidos por la curiosidad, Jessica, George‐aniki y, cómo no, Maria también acercaron sus oídos.`
 `"Uu.`
 ` ¿Qué es?`
-` ¿Qué ees?`
+` ¿Qué es?`
 ` ¡Rápidoo!`
 ` ¡Rápidoo!"`
 `"La parte agria es, bueno...`
@@ -241,9 +241,9 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 `"¿Uu?`
 ` ¿Las caballas son ácidas?`
 ` ¡Si las exprimes, esto es lo que sale!"`
-`""...Ja, ¡wajajajajaja...!""`
+`""...Ja, ¡wajajajajaja!...""`
 `Cuando Maria comenzó a decir que la caballa era ácida, los adultos fueron incapaces de contener su risa.`
-`"Te equivocas, ¡es caballa con vinagre!"`
+`"¡Te equivocas, es caballa con vinagre!"`
 `Tía Rosa le dijo a Maria en voz baja con su cara roja.`
 `Ahhhh, ahora lo recuerdo perfectamente.`
 `{n}Kumasawa‐san siempre ha sido así, ¿me equivoco?`
@@ -252,7 +252,7 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 `{n}¡Esa cosa negra del plato chino!`
 ` ¡Era un hongo kikurage!`
 `{n}Me dijo que era carne de pingüino y yo fui por el colegio diciéndoselo a todos cual sabelotodo, ¿¡no?!`
-`"¡Kumasawa baa‐chan, no has cambiado nada...!`
+`"¡Kumasawa baa‐chan, no has cambiado nada!...`
 ` Sabes que Maria te creerá, ¿verdad?"`
 `"Jo‐jo‐jo, no era más que una broma.`
 ` ¡Ahora es cuando Gohda‐san nos dice cuál es la auténtica naturaleza de esta salsa!"`
@@ -343,7 +343,7 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 `"Ah, sí.`
 ` Estaba pensando que podría empezar a cocinar algunas caballas en el horno.`
 ` ¿Te importaría ayudarme un poco antes de tu descanso."`
-`"¡Ah, sí...!`
+`"¡Ah, sí!...`
 ` Me encantaría ayudar."`
 `Para Shannon, Kumasawa era como una madre entre los sirvientes.`
 `Había que limpiar el comedor, así que nos echaron de éste.`
@@ -356,7 +356,7 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 ` No hay nubes ahora mismo, pero en el reportaje del tiempo no paraban de advertir sobre la lluvia."`
 `"¡Uu!`
 ` ¡¡Maria quiere playa, quiere playa!!"`
-`"Aw, ¿no es genial?`
+`"Ah, ¿no es genial?`
 ` No todos los días se tiene oportunidad de jugar en la playa"`
 `"¿Tú crees?`
 ` ¡Bien, vayamos entonces a la playa!"`
@@ -368,7 +368,7 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 `"*risita*, esa obediencia es ta~n linda.`
 ` Battler‐kun, por favor, vigila a Maria‐chan, ¿entendido?"`
 `"¡Muy bien, déjalo en mis manos!"`
-`"Jaah, ¿no es igual de linda tu obediencia a Kyrie‐san?`
+`"Oh, ¿no es igual de linda tu obediencia a Kyrie‐san?`
 ` ...¿Qué te parece si me haces caso a mí también por una vez?"`
 `"¡Je!`
 ` ¡De eso nada!`
@@ -452,9 +452,9 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 ` Y además, seguir teniendo la manía de tomar un licor tan fuerte es muy, muy..."`
 `"Así que el alcohol es la razón por la que su salud está al filo de la navaja.`
 ` ¿Su larga vida ha sido culpa del alcohol también?`
-` Parece típico de Papá, el bebedor empedernido."`
-`"Bien, Doctor, sé que no puede hacer más que una predicción...`
-`...¿pero cree que tendría posibilidades de seguir vivo este mismo día el año que viene...?"`
+` Parece típico de papá, el bebedor empedernido."`
+`"Bien, doctor, sé que no puede hacer más que una predicción...`
+` ...¿Pero cree que tendría posibilidades de seguir vivo este mismo día el año que viene?..."`
 `"Ésa es una pregunta bastante maleducada hacia el líder de la familia."`
 `Natsuhi saltó ante las palabras de Eva, incapaz de ocultar su expresión de asombro.`
 `Como respuesta, Eva le lanzó una mirada desafiante, pero Hideyoshi, dándose cuenta de lo que ocurría, trató de tranquilizar las cosas con una sonrisa amarga.`
@@ -500,7 +500,7 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 `"Comprendo la opinión del doctor.`
 ` ...¿Qué opinas, Krauss nii‐san?"`
 `"...Hm.`
-` Para ser honesto, discrepo con el Doctor Nanjo.`
+` Para ser honesto, discrepo con el doctor Nanjo.`
 ` Me cuesta mucho pensar que nuestro padre es una persona enferma a la que le quedan solo tres meses de vida.`
 ` Su grito es tan enérgico como siempre, y todavía siento escalofríos al pensar en sus puñetazos lloviendo sobre mí.`
 ` ...Obligar al hermano mayor a encargarse él solo del cuidado de su padre no es justo."`
@@ -509,13 +509,13 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 `"...Bien, volvamos a nuestra discusión.`
 ` Por lo que veo ante la imparcial opinión del médico, podría fallecer en cualquier momento.`
 ` Lo siento, Aniki, pero prefiero confiar en la opinión de un especialista.`
-` Por tanto, creo que la discusión sobre la fortuna de Papá ya no es nada prematura."`
+` Por tanto, creo que la discusión sobre la fortuna de papá ya no es nada prematura."`
 `"Los fondos personales de nuestro padre deben de llegar a varias decenas de miles de millones de yenes, ¿verdad?`
 ` Aunque bueno, no es como si fuera todo dinero en efectivo.`
 ` No es tan fácil como cortar una tarta de cumpleaños."`
 `"...Una metáfora muy interesante, Aneki.`
 ` Sí, a veces la fresa y el chocolate están colocadas en zonas separadas de la parte superior de la tarta, lo cual dificulta el dividirla en partes iguales.`
-` Teniendo eso en cuenta, supongo que lo mejor es discutir por dónde introducir el cuchillo, ¿verdad...?"`
+` Teniendo eso en cuenta, supongo que lo mejor es discutir por dónde introducir el cuchillo, ¿verdad?..."`
 `"No les comprendo. Aunque el líder de familia sigue con vida, están tratando esta cuestión en voz alta, como si ya esuviera muerto."`
 `"Vamos, ¿no ves que es un tema de gran importancia?`
 ` Después de todo, tras su muerte, la herencia de su fortuna debe realizarse inmediatamente, ¿verdad?`
@@ -544,7 +544,7 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 ` ¿Me equivoco, Rosa?`
 ` ¿Estás impaciente por algo?"`
 `"...No es impaciencia.`
-` ...Pero es vital que los hermanos tomemos un acuerdo.`
+` ...Pero es vital que los hermanos hagamos un acuerdo.`
 ` No importa cuándo,`
 ` pero si se acerca el día del empeoramiento de la condición de Padre,`
 ` discutir el asunto de antemano no es lo que yo calificaría como impaciencia..."`
@@ -553,7 +553,7 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 `"...¿Oh?`
 ` ¿Es esa tu verdadera opinión?`
 ` No esperaba que la más honesta y pura de corazón de los hermanos dijera algo así.`
-` ¿Acaso esos dos te pidieron que lo dijeras...?"`
+` ¿Acaso esos dos te pidieron que lo dijeras?..."`
 `"..."`
 `"Déjalo, Aniki.`
 ` Rosa también es hermana nuestra.`
@@ -579,7 +579,7 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 `"Las necesidades de la gente no son tres clases de aplicaciones eléctricas.`
 ` Sitios para esquiar, para jugar golf, piscinas públicas.`
 ` ¡Hoteles con balnearios y parques temáticos!"`
-`"¿Han ido a Delsneylandia, que abrió sus puertas hace unos años?`
+`"¿Han ido a Delsneyland, que abrió sus puertas hace unos años?`
 ` ¡Es un parque temático excelente!`
 ` En ese lugar, hasta un adulto puede ser un niño y divertirse con su familia."`
 `"Esa vieja era en la que solo pensabas en ti mismo y no en tu familia ha terminado.`
@@ -595,7 +595,7 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 ` Aniki, puedes predecir lo que ocurrirá en la próxima década.`
 ` Ese sexto sentido seguramente lo heredaste de papá.`
 ` Es impresionante."`
-`"...Aunque, al contrario que Papá, no siempre sabes predecir cuándo se cumplirán tus pronósticos, ¿me equivoco?"`
+`"...Aunque, al contrario que papá, no siempre sabes predecir cuándo se cumplirán tus pronósticos, ¿me equivoco?"`
 `"Nii‐san, creyendo que sin duda Japón se enfrentará a un boom económico, has planificado complejos turísticos en todo el mundo. Y casi todos ellos siguen fracasando.`
 ` ...Estoy segura de que la era que has previsto llegará, pero creo que no cuando tú esperabas."`
 `"...Te diste demasiada prisa.`
@@ -646,7 +646,7 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 `"...Así es.`
 ` Si es tan maravilloso, estoy segura de que se volverá bastante famoso cuando lo abras."`
 `"Oh...`
-`...Ese hotel que mencionaron antes es la casa de invitados, ¿me equivoco...?"`
+` Ese hotel que mencionaron antes es la casa de invitados, ¿me equivoco?..."`
 `"Es espléndida.`
 ` Como bien ha dicho Rosa, si lo abren, será muy popular."`
 `El alojamiento al que les habían llevado no se había construido con el propósito de ser una casa de invitados.`
@@ -712,7 +712,7 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 `"No cabe duda de que esta era pronto dará la bienvenida a un gran auge económico,`
 ` pero cuando preguntamos quién le encontraría digno de financiación,`
 ` no había nadie."`
-`"¿Y entonces...?`
+`"¿Y entonces?...`
 ` ¿De dónde sacaste ese dinero?`
 ` ...Ésa es la pregunta del millón."`
 `"...Jo.`
@@ -722,7 +722,7 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 ` ¿¡Cuánto tiempo pretendes seguir tamañas insolencias?!"`
 `"Siéntate, Natsuhi‐san.`
 ` ...Permítanme ser directo.`
-` Aniki ha estado extrayendo dinero de los fondos privados de Papá para usarlo en sus propios negocios.`
+` Aniki ha estado extrayendo dinero de los fondos privados de papá para usarlo en sus propios negocios.`
 ` Estamos casi totalmente seguros de ello.`
 ` Si hemos cometido algún error, por favor, no duden en explicárnoslo."`
 `"Rudolf, esto no es "extraer dinero".`
@@ -762,7 +762,7 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 `Bastante agresiva si lo comparamos con su anterior elegancia y su comportamiento juguetón.`
 `"Idiota. ¡¡Eres {i:tú} quien debería irse!!`
 ` ¡Me dices a mí, Eva de la familia Ushiromiya...`
-`Yo, Eva, la tercera en la jerarquía de la familia Ushiromiya, que tiene el derecho a permanecer a la izquierda del líder de la familia, ¿que me {i:vaya}?!"`
+` Yo, Eva, la tercera en la jerarquía de la familia Ushiromiya, que tiene el derecho a permanecer a la izquierda del líder de la familia, ¿que me {i:vaya}?!"`
 `"¡¡Entiende tu posición!!`
 ` ¡¡Y después observa en un espejo tu lamentable figura!!`
 ` ¿Acaso ves el ala en tus ropajes?`
@@ -770,7 +770,7 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 `"¡¡No eres más que un útero alquilado para dar a luz al siguiente sucesor de la familia Ushiromiya!!`
 ` ¡¡Comprende tu posición, despreciable sirviente!!"`
 `Una desagradable mueca apareció en la cara de Eva mientras sus palabras penetraban en el corazón de Natsuhi, como si unas garras lo estuvieran perforando y retorciéndolo.`
-`"...!!!"`
+`"¡¡¡...!!!"`
 `...Había cien formas en las que Natsuhi quería responderle.`
 `{n}Pero su ira y dolor aplastaron su garganta, y ninguna de ellas llegó a su boca.`
 `...La ira, sin ninguna otra forma de expresarse, se convirtió en una única lágrima caliente que se deslizó lentamente hacia abajo...`
@@ -790,7 +790,7 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 `"Están ignorando el hecho de que siempre hemos estado protegiendo la gloria de la familia Ushiromiya,`
 ` y para recibir aquella gloria de tu padre, no hemos dudado en hacer ningún sacrificio. ¡¡¡Están pisoteando todo lo que tanto nos ha costado contruir!!!"`
 `"¡¿Por qué no les contestas?!`
-` ¡¡Si no responderás, tendré que hacerlo yo, pero durante un tiempo has estado dependiendo totalmente de mí...!!`
+` ¡¡Si no responderás, tendré que hacerlo yo, pero durante un tiempo has estado dependiendo totalmente de mí!!...`
 ` ¿¡Me estás diciendo que me vaya y tranquilice?!`
 ` ¡¡{i:Sieeempre} soy yo!!"`
 `"¡¡Aunque siempre he tratado con seriedad todos los asuntos de la familia, tú...!!`
@@ -803,12 +803,12 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 ` Nunca se le ha dado muy bien controlar sus emociones.`
 ` También a mí me resulta difícil."`
 `"Si así es como suele comportarse, debe preocupar bastante a nuestro querido Nii‐san, ¿eh?`
-` ¡*risita*risita*...!"`
-`"Uuuuu...`
-` ¡¡¡UuuuuUUUuuUUughhu!!!"`
+` ¡*risita*risita*!..."`
+`"¡¡¡Uuuuu...`
+` UuuuuUUUuuUUughhu!!!"`
 `"...Se‐...señora..."`
-`"¡No es nada...!`
-` ¡¡Solo déjame...!!"`
+`"¡No es nada!...`
+` ¡¡Solo déjame!!..."`
 `Natsuhi corrió hacia su habitación y se dobló en la cama lamentándose...`
 `Esos desgarradores sollozos llegaron a los oídos de Kumasawa en el corredor...`
 `...Pobre señora Natsuhi...`
@@ -833,7 +833,7 @@ Por esto, supuse que la condición del abuelo había empeorado mucho,`
 `Y más allá de eso, Eva‐sama fue la primera en dar a luz a un niño...`
 `En cuanto a qué tan inferior era la posición de la señora a comparación de la de Eva‐sama, supongo que ya lo vieron por sus cuentas...`
 `...Estoy segura que a la señora le atormenta el pensamiento de que si se hubiese embarazado antes, el Amo no habría aceptado la petición de Eva‐sama de mantener su apellido tras su casamiento, y a Eva‐sama no se le habría tolerado el actuar tan arrogantemente como acababa de hacer...`
-`Sin embargo...eso no fue culpa de la señora...`
+`Sin embargo... eso no fue culpa de la señora...`
 `Toda la culpa recae en los caprichos de Dios y la cigüeña que tardó en llevarles a Jessica‐san...`
 `Aun así, la señora no se permite a sí misma ver las cosas de esta manera...`
 `...Probablemente no puede evitar llorar amargamente por no haber podido cumplir los deberes esperados de una esposa...`
