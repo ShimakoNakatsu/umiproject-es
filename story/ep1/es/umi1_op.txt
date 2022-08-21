@@ -206,7 +206,7 @@
 ` Jamás debes olvidar mantener tu entrenamiento y disciplina.`
 ` Haces eso, esperas muuy en alerta el momento perfecto... ¡y entonces atacas!"`
 `"Yo mismo jamás imaginé que llegaría a ser el presidente de compañía que soy ahora, amo de mi propio dominio...`
-` Sí, ¡y pensar que comencé en la ruina y sin ningún centavo...!"`
+` Sí, ¡y pensar que comencé en la ruina y sin ningún centavo!..."`
 `Este viejo señor robusto e inflado...`
 `es el padre de George‐aniki, mi tío Hideyoshi ({p:0:秀吉}).`
 `Es el esposo de la hermana mayor de mi Padre.`
@@ -356,7 +356,7 @@
 `"No es nada por el estilo.`
 ` Es gracias a cómo lo crió Eva nee‐san que George‐kun se convirtió en el niño bueno y gentil que es ahora.`
 ` ¿No es cierto eso, Nee‐san?"`
-`"Oh vaya. Jeje, ¿en serio lo crees...?`
+`"Oh vaya. Jeje, ¿en serio lo crees?...`
 ` A nuestro George todavía le falta mucho."`
 `"Ah, por cierto, ¿cómo está la pequeña Ange‐chan?`
 ` ¿Escuché que ha estado vomitando?"`
@@ -380,7 +380,7 @@
 `{n}La etiqueta "Pending Weather Clearance" seguía junto a los horarios de salida para el vuelo que debemos tomar.`
 `Según Aniki, a los aviones pequeños les afecta más el clima y otras condiciones climatológicas,`
 ` y no es nada fuera de lo común que un vuelo se retrase debido a eso.`
-`...Espera, realmente no se sacudirá...¿verdad...?`
+`...Espera, realmente no se sacudirá... ¿verdad?...`
 `Desde aquí en el suelo, solo se ve nublado, no con viento.`
 `...Bueno, quizás sea distinto allá arriba donde vuelan los aviones.`
 `"El clima está algo indeciso hoy."`
@@ -464,9 +464,9 @@
 `"Ha pasado demasiado tiempo, Kyrie nee‐san, Hideyoshi nii‐san."`
 `"...Y...`
 `...vaya, ¡¿Battler‐kun?!`
-` ¡Mira qué grande estás...!"`
+` ¡Mira qué grande estás!..."`
 `"Ah, vamos, jajaja...`
-` ¡Es vergonzoso escucharlo de todos los que veo hoy...!"`
+` ¡Es vergonzoso escucharlo de todos los que veo hoy!..."`
 `"Oye, Rosa.`
 ` Llegas tarde.`
 ` Si el avión estuviera a tiempo, apenas habrías llegado..."`
@@ -484,7 +484,7 @@
 `Supongo que no recuerda su propia estatura.`
 `{n}Probablemente está a mediados de su crecimiento, así que su altura debe cambiar cada mes.`
 `En unos pocos años, seguramente se comenzará a ver muy femenina.`
-`"Bueno, ...¿cuánto medías la última vez que te medimos...?`
+`"Bueno, ...¿cuánto medías la última vez que te medimos?...`
 ` Sigues creciendo y creciendo.`
 ` ¿No es así?"`
 `"¡Uu!"`
@@ -543,7 +543,7 @@
 `"¡Uu!`
 ` ¡Battler!"`
 `"¡Oye, Maria!`
-` ¡No deberías hablarle así! ¡Llámalo Battler onii‐chan...!"`
+` ¡No deberías hablarle así! ¡Llámalo Battler onii‐chan!..."`
 `"Está bien, tía Rosa.`
 ` No le doy importancia a cosas pequeñas.`
 ` ¿No es así, Maria?`
@@ -587,7 +587,7 @@
 ` Comenzará el abordaje para el vuelo 201 a Niijima.`
 ` Solicitamos a los pasajeros que por favor formen dos filas frente al mostrador, detrás de la línea blanca."`
 `"Rosa, todavía no has realizado el proceso de abordaje, ¿verdad? Apresúrate."`
-`"¡Oh no...!`
+`"¡Oh no!...`
 ` ¡Maria, vamos!"`
 `"¡Uu!"`
 `Tuvimos que pasar a través de un detector de metales antes de ir a la pista.`
@@ -617,7 +617,7 @@
 ` No hay otro tipo de asientos."`
 `Como dijo George‐aniki, parece que solo habían dos filas de asientos.`
 `Sip, este avión es definitivamente pequeño...`
-` ...Estamos totalmente seguros de que no se sacudirá, ¿cierto...?`
+` ...Estamos totalmente seguros de que no se sacudirá, ¿cierto?...`
 `"Ushiromiya George‐sama."`
 `"Aquí mismo.`
 ` No te preocupes, Battler‐kun.`
