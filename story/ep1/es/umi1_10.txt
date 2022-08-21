@@ -2,7 +2,7 @@
 `Puede que la intensidad de la lluvia se hubiera reducido un poco desde la noche anterior.`
 `{n}...Pero no parecía que las gruesas nubes de lluvia pensaran dejar pasar algún rayo de sol matinal.`
 `Era una mañana oscura, nada refrescante.`
-`".........Como cabía esperar, no parece que hoy vaya a parar..."`
+`"...Como cabía esperar, no parece que hoy vaya a parar..."`
 `"Siento haberle hecho esperar, Genji‐sama."`
 `Kanon acabó de revisar su apariencia, y salió del baño.`
 `{n}Con un horario normal, era extraño que alguien tuviera que sufrir el tener que pasar directamente de un turno de medianoche a uno de mañana.`
@@ -23,7 +23,7 @@
 `Y abrir la puerta por la mañana era el deber de los sirvientes con el turno matutino.`
 `Ya que Gohda empezaría los preparativos del desayuno apenas se levantara, esta tarea sería llevada a cabo por Genji y Kanon.`
 `Todo se encontraba en total silencio, dando la impresión de que la propia mansión estaba dormida.`
-`".........Bien, empecemos entonces nuestras labores matutinas."`
+`"...Bien, empecemos entonces nuestras labores matutinas."`
 `"Sí."`
 `Se separaron y comenzaron a abrir las cortinas de toda la mansión.`
 `...Si las cortinas permanecieran cerradas, el interior de la mansión sería incapaz de barrer su penumbra, como si no hubiera podido escapar de la noche anterior.`
@@ -31,8 +31,8 @@
 `Incluso con ese horrible clima, al abrir las cortinas empezó a parecer un poco que era por la mañana.`
 `Mientras hacía esto, pasó frente a la cocina.`
 `...Aunque sabía que todavía no podría olerla, el estómago empezó a dolerle, en antcipación de la glorificada comida de Gohda.`
-`".........Buenos días.`
-` ..................¿?"`
+`"...Buenos días.`
+` ...¿?"`
 `Intentó saludar a Gohda, que pensó que estaría preparando la comida en la cocina, pero este no estaba a la vista.`
 `La cocina estaba escasamente iluminada, y no había ningún ventilador, aún menos cortinas que abrir.`
 `Seguía haciendo frío sin señales de ningún fuego, por lo que era obvio que el desayuno no estaba siendo preparado.`
@@ -42,16 +42,16 @@
 `...En el raro caso de que eso ocurriera, era la virtud de un sirviente el suavizar casualmente la situación para no causar una escena desagradable,`
 ` y asegurarse de que el amo nunca se enterara de semejante error en primer lugar.`
 `Kanon tomó el recibidor del teléfono que se encontraba en la pared y marcó el número a la habitación donde dormían los sirvientes.`
-`"........................?"`
-`......No podía oír el característico sonido del tono de marcar.`
+`"...?"`
+`...No podía oír el característico sonido del tono de marcar.`
 `Kanon intentó volver a tomar el recibidor, pero aun así, no pudo oír aquel típico sonido.`
 `Intentó marcar de nuevo, pero no tuvo ningún efecto aparente.`
-`......¿Tal vez la tormenta de la noche anterior le hizo algo a alguna de las máquinas y rompió la línea del teléfono?`
+`...¿Tal vez la tormenta de la noche anterior le hizo algo a alguna de las máquinas y rompió la línea del teléfono?`
 `El equipo de esa mansión estaba muy desgastado.`
 `{n}Kanon comprendió que hasta la cosa más pequeña podría haber hecho que se rompiera.`
 `Por lo tanto, se rindió en intentar despertarle con el teléfono, y se dirigió corriendo hacia la habitación en la que dormían los sirvientes.`
 `...¿Hasta cuándo había dormido? ¿Cuánto tiempo llevaba despierta y mirando perezosamente al techo?`
-`......Esa vaga sensación de despertarse era la típica experiencia matinal de Natsuhi.`
+`...Esa vaga sensación de despertarse era la típica experiencia matinal de Natsuhi.`
 `Su sueño era siempre ligero, y ni siquiera podría dormir sin su medicina.`
 `{n}...Para Natsuhi, dormir no era algo alegre.`
 `Cuando miró al exterior, vio que seguía lloviendo a cántaros.`
@@ -60,19 +60,19 @@
 `Metiéndose prisa, levantó su cuerpo, que no se había recobrado totalmente del cansancio del día anterior.`
 `Mientras estuviera dentro de la habitación, nadie la atormentaría.`
 `{n}Su dolor de cabeza no se pondría peor de lo que ya estaba.`
-`{n}......Esa habitación era su único espacio de paz.`
+`{n}...Esa habitación era su único espacio de paz.`
 `Así que cuando saliera, significaría volver al mundo de los hermanos de su marido analizando la mente de los demás.`
 `...¿No sería mejor quedarse dentro de esa habitación para siempre?...`
 `Natsuhi sonrió amargamente ante esta ilusión.`
 `{n}...Empezaba a parecerse a Kinzo.`
 `...Aunque la mayoría del tiempo insultaban descuidadamente a Kinzo por quedarse encerrado en su habitación, en realidad también ella deseaba hacerlo.`
-`......Natsuhi sacudió la cabeza, y su fantasía fue reemplazada por la reaparición de su típico dolor de cabeza.`
+`...Natsuhi sacudió la cabeza, y su fantasía fue reemplazada por la reaparición de su típico dolor de cabeza.`
 `Cuando llegó a la puerta, intentando dejar la habitación, su mano tocó el amuleto en forma de escorpión que había colgado en esta antes de irse a dormir la noche anterior.`
-`......Era el amuleto de Maria, que Jessica le había dado a Natsuhi.`
+`...Era el amuleto de Maria, que Jessica le había dado a Natsuhi.`
 `Si su memoria estaba en lo correcto, Jessica había dicho que tenía el poder de repeler magia, y que debía colgarlo del pomo de la puerta.`
 `...Tal vez la habitación había sido protegida de la malicia de los hermanos de su marido gracias a su amuleto.`
-`......Esta idea mejoró un poco su humor.`
-`"...............Quizás fuese gracias a Jessica... que he podido dormir tranquilamente esta noche..."`
+`...Esta idea mejoró un poco su humor.`
+`"...Quizás fuese gracias a Jessica... que he podido dormir tranquilamente esta noche..."`
 `Entonces se acordó.`
 `{n}Es cierto, la noche anterior, le prometí a Jessica que le daría un amuleto mío a cambio de este, ¿no es así?`
 `Natsuhi abrió un cajón de su tocador, y tomó una antigua caja de accesorios que atesoraba desde que era una niña.`
@@ -87,10 +87,10 @@
 `Natsuhi devolvió el espejo a su bolsa.`
 `{n}...Probablemente fuera un objeto adecuado para entregar a Jessica.`
 `Mientras lo colocaba en el bolsillo, el sonido de alguien llamando a la puerta sonó por la habitación.`
-`".........¿Sí?"`
+`"...¿Sí?"`
 `"Buenos días, señora, soy Genji.`
 ` Mis disculpas por despertarla tan temprano."`
-`"......Ya voy.`
+`"...Ya voy.`
 ` ¿Qué ocurre?"`
 `Ningún sirviente había venido nunca tan temprano por la mañana, ni tampoco habían venido a ella directamente.`
 `...Tal vez algo malo había ocurrido.`
@@ -98,20 +98,20 @@
 `...Natsuhi respiró profundamente en anticipación de cualquier problema que estuvieran a punto de contarle...`
 `Cuando abrió la puerta, Genji volvió a darle un saludo matutino mientras hacía una reverencia.`
 `{n}Natsuhi respondió con indecisión.`
-`".........Buenos días.`
+`"...Buenos días.`
 ` ¿Ha ocurrido algo?"`
 `"Mis disculpas.`
-` .........Parece que los teléfonos se han estropeado por la tormenta de la noche pasada.`
+` ...Parece que los teléfonos se han estropeado por la tormenta de la noche pasada.`
 ` ...La extensión del teléfono se ha roto, así que por favor discúlpeme por venir a verla directamente."`
 `"¿La extensión del teléfono se ha roto?`
 ` Eso es un problema.`
 ` ¿Será posible repararla?"`
-`"......Me temo que no sabemos dónde está localizado el daño.`
+`"...Me temo que no sabemos dónde está localizado el daño.`
 ` Preferiría llamar a un experto para repararla."`
 `"¿Significa eso que no podremos repararla hasta que pase el tifón?`
 ` ...Lo que significa que no podremos contactar con los invitados mientras dure su estancia.`
 ` ...¿Habrá algún problema con los invitados?"`
-`"............Haremos todo lo posible para asegurarnos que no haya ninguno."`
+`"...Haremos todo lo posible para asegurarnos que no haya ninguno."`
 `"Está bien.`
 ` ...Cuento contigo para que te asegures de que no haya errores."`
 `Natsuhi dejó escapar un pequeño suspiro de alivio.`
@@ -120,7 +120,7 @@
 `...Aun así, incluso eso bastaría para hacer estallar el sarcasmo de Eva.`
 `Natsuhi sacudió ligeramente la cabeza.`
 `"¿Están procediendo adecuadamente las preparaciones para el desayuno?"`
-`"......Sobre eso, ...no hemos podido encontrar a Gohda.`
+`"...Sobre eso, ...no hemos podido encontrar a Gohda.`
 ` Las preparaciones del desayuno aún no han comenzado..."`
 `"¿Qué has dicho?"`
 `Natsuhi estaba indignada.`
@@ -130,60 +130,60 @@
 `Natsuhi colocó una mano en su frente y negó con la cabeza.`
 `"Lo más probable es que se haya quedado dormido.`
 ` De todas formas, no importa quién, tan solo apresúrense a preparar el desayuno.`
-` ...............Qu—"`
+` ...Qu—"`
 ` Natsuhi había salido al pasillo y se había dado la vuelta por un momento para cerrar la puerta de su habitación.`
 `Aquella "cosa" desagradable que vio allí la silenció por completo.`
 `...Era algo desagradable de ver, como si alguien con las manos manchadas de un líquido rojo hubieran intentado desgarrar el area alrededor del pomo.`
 `Era como si alguien hubiera empapado ambas manos en sangre y se hubiera puesto a tocar la puerta y el pomo...`
 ` como si alguien hubiese querido escenificar algo así y dejara esa marca como una broma pesada.`
 `"Qu‐`
-`......¿Qué case de broma es ésta?.........`
+`...¿Qué case de broma es ésta?...`
 ` ¡Es horroroso!..."`
-`".........También lo noté cuando vine a despertarla.`
+`"...También lo noté cuando vine a despertarla.`
 ` Lo limpiaré más tarde."`
 `"...T‐... tal vez,`
 ` sea una broma vulgar de alguno de los invitados.`
-` ......¡Repugnante, verdaderamente repugnante!..."`
+` ...¡Repugnante, verdaderamente repugnante!..."`
 `¡¿Quién podría hacer una broma tan infantil y repugnante?!`
 `Natsuhi lo tenía bastante claro, pero por supuesto no había pruebas,`
 ` así que aunque presionara sobre el tema, parecería que estaba montando un escándalo por nada.`
 `Al contrario, después de que la hicieran víctima de semejante broma, sería mejor que no le prestara atención en primer lugar.`
 `Natsuhi dio la orden de que fuera limpiado, y se dirigió al salón con un crujido de sus tacones.`
 `Cuando Natsuhi y Genji llegaron al salón, Eva y Hideyoshi ya estaban allí.`
-`".........Buenos días a todos."`
+`"...Buenos días a todos."`
 `"Buenos días, Natsuhi‐san.`
 ` He oído que Gohda-san también prepararía el desayuno, ¿verdad?`
 ` Mi estómago lleva todo el tiempo emociona'o desde que me levanté.`
 ` Wajajaja."`
 `"Parece que la comida es lo mejor que puedes esperar de la mansión principal, ¿verdad?`
 ` *risita* *risita*."`
-`".........Me alegra saber que usted está bien esta mañana, Eva-san."`
+`"...Me alegra saber que usted está bien esta mañana, Eva-san."`
 `Natsuhi le devolvió la mirada a Eva, que era fieramente competitiva a pesar de ser tan temprano, con una expresión cansada.`
 `Entonces Kanon corrió al interior.`
 `Tras inclinarse como disculpa ante los familiares por correr dentro de la mansión, vio a Genji y le dijo algo en voz baja.`
-`"......Kanon.`
+`"...Kanon.`
 ` ¿Sigues sin encontrar a Gohda?"`
-`".........Mis disculpas, señora.`
+`"...Mis disculpas, señora.`
 ` He recorrido toda la mansión y la casa de huéspedes, pero,`
 ` ...nada aún..."`
 `"¿Dónde demonios se habrá metido?`
-` ......Por el momento, el desayuno es más prioritario que encontrar a Gohda.`
+` ...Por el momento, el desayuno es más prioritario que encontrar a Gohda.`
 ` Rápido, encárgate de ello."`
-`".........Sí."`
+`"...Sí."`
 `Kanon miró a Genji.`
 `{n}...Parecía que tenía algo más que reportar, pero estaba preguntando a Genji si debía ser él quien lo dijera.`
 `...Genji asintió, y decidió dar la noticia él mismo.`
-`"............Señora.`
+`"...Señora.`
 ` No solo es Gohda.`
 ` ...Tampoco conseguimos encontrar a su marido."`
 `"¿Mi marido?"`
 `"Sí.`
 ` Pensé en hablarle a él antes que a usted sobre la falta de preparativos para el desayuno, y visité su habitación, pero no le encontré allí.`
 ` Además, no es el único que ha desaparecido.`
-` ......Rudolf‐sama y su esposa, además de Rosa-sama están en paradero desconocido."`
+` ...Rudolf‐sama y su esposa, además de Rosa-sama están en paradero desconocido."`
 `"¿No están en la casa de huéspedes?`
 ` ¿Tampoco en la mansión?"`
-`".........Sí.`
+`"...Sí.`
 ` Tampoco están en sus habitaciones de la sala de huéspedes."`
 `Cuando escuchó que Gohda había desaparecido, había pensado que se habría quedado dormido o estaría holgazaneando en alguna parte,`
 ` pero tras escuchar que varios de los familiares habían desaparecido también, empezó a pensar de manera un poco más optimista.`
@@ -196,30 +196,30 @@
 `{n}Tendría que entender que, si no volvía, los preparativos para el desayuno sufrirían dificultades.`
 `Así que tal vez, aunque quisiera irse de allí, aquella atmósfera no se lo permitiría,`
 ` y la conferencia continuaría de esa manera incluso en este momento.`
-`......Ya veo, pensó Natsuhi. Para ella, esta era una teoría muy convincente.`
+`...Ya veo, pensó Natsuhi. Para ella, esta era una teoría muy convincente.`
 `Natsuhi recordó la ilusión que sintió esa mañana de estar siendo arrastrada a una continuación de la noche anterior.`
 ` ...Cuando supo que no era solo una ilusión, soltó un profundo y cansado suspiro.`
 `Pues el banquete de los apestosos buitres sobre la propiedad de Kinzo continuaba.`
-`"......Tal vez están repitiendo la misma discusión sobre la herencia en el jardín, o en la playa.`
+`"...Tal vez están repitiendo la misma discusión sobre la herencia en el jardín, o en la playa.`
 ` ...De todas formas, si no llamamos a Gohda, no podremos empezar los preparativos para el desayuno."`
 `"¿Qué estás diciendo?`
 ` ...¡¿Nii‐san y los demás todavía siguen con su discusión?!..."`
 `Había intentado decirlo en voz baja, pero Hideyoshi la escuchó, y consiguió captar el hilo de la situación.`
 `"Nii‐san y Rudolf son realmente fuertes.`
 ` ¿Tal vez es solo juventud en el caso de Rosa?`
-` ......Nosotros dos estábamos tan agotados que tuvimos que volver a la cama tras la medianoche.`
+` ...Nosotros dos estábamos tan agotados que tuvimos que volver a la cama tras la medianoche.`
 ` Recuerdo que Nii‐san y los demás seguían en una discusión bastante fiera en ese momento.`
-` ......Los hombres son realmente desagradables cuando se emocionan."`
+` ...Los hombres son realmente desagradables cuando se emocionan."`
 `Natsuhi bufó, con su cara todavía en blanco.`
 `"Kanon, busca en el exterior.`
 ` Si encuentras a Gohda, dile que vuelva de inmediato y empiece a preparar el desayuno."`
-`"......Entendido."`
+`"...Entendido."`
 `"Natsuhi nee‐san, no deben de estar necesariamente fuera, ¿verdad?`
 ` ¿No puede ser que estén dentro del estudio de Padre?"`
 `"...Ya veo, no es imposible de considerar.`
 ` No sé que han estado discutiendo,`
 ` pero hay una buena posibilidad de que hayan ido al estudio de Padre para meterle en la discusión."`
-`"......No creo que a Padre le agradara tanto ese detestable tema como para que les fuera a invitar a su estudio."`
+`"...No creo que a Padre le agradara tanto ese detestable tema como para que les fuera a invitar a su estudio."`
 `"¿Eso crees?`
 ` Bien, entonces no hay nada que podamos hacer.`
 ` Lo siento, Genji‐san, Kanon‐kun, ¿podrían buscar en el exterior?`
@@ -227,29 +227,29 @@
 ` Incluso con este tiempo."`
 `"Yo iré al estudio de Padre.`
 ` Sigue habiendo alguna posibilidad de que estén allí, ¿verdad?"`
-`"..................Eva‐san, una invitada como tú no debe tomarse tantas molestias.`
+`"...Eva‐san, una invitada como tú no debe tomarse tantas molestias.`
 ` Iré yo.`
 ` Puedo aprovechar para darle los buenos días."`
 `"Oh, entonces cuento contigo, ¿está bien?`
 ` Aunque dudo que te vaya a devolver el saludo.`
 ` Natsuhi nee‐san, ¿de veras te llevas tan bien con Padre?"`
-`".........No sé si se podría decir que nos llevamos bien,`
+`"...No sé si se podría decir que nos llevamos bien,`
 ` pero esto segura de que he ganado su confianza como esposa del sucesor de la familia Ushiromiya."`
 `"Entonces estoy segura de que al menos te responderá, ¿verdad?`
 ` Me gustaría al menos desayunar con Padre.`
 ` ¿Podrías convencerle para que baje y se una a nosotros?"`
-`"......Parece que nos desprecia profundamente a todos los demás, pero seguro que si su {i:leal} Natsuhi se lo pide, escuchará."`
-`"...Si no puedes convencerle de que baje por su cuenta tras hablarme de esa forma.........`
+`"...Parece que nos desprecia profundamente a todos los demás, pero seguro que si su {i:leal} Natsuhi se lo pide, escuchará."`
+`"...Si no puedes convencerle de que baje por su cuenta tras hablarme de esa forma...`
 ` seguro que no podrás volver a decir que has ganado su confianza, ¿verdad?...`
 ` *risita*risita*!"`
-`"............No prometo nada, pero lo intentaré."`
+`"...No prometo nada, pero lo intentaré."`
 `Natsuhi respondió, desalentada.`
 `{n}Sin embargo, conociendo el temperamento de Kinzo, no tenía ninguna confianza en su habilidad para sacarle de su habitación.`
 `...La propia Eva dejaba claro que esto era imposible.`
 `A pesar de todo, Natsuhi quedaría incluso peor si llegara a rendirse, diciendo que era imposible, y dejara a Eva ir en su lugar...`
 `La cruel e irracional demanda de Eva hizo que Natsuhi apretara los puños.`
 `...Cuando Genji se dio cuenta, le habló con suavidad sobre su hombro.`
-`"......Señora.`
+`"...Señora.`
 ` Si lo desea, por favor lleve esto."`
 `"¿Esto es...?"`
 `Genji le dio a Natsuhi una llave de oro brillante de diseño ornamentado.`
@@ -257,10 +257,10 @@
 `El estudio se cerraba automáticamente, y no se abriría mientras Kinzo prohibiera la entrada.`
 `Sin embargo, al ser Genji de especial confianza para Kinzo, se le permitía llevar una llave de esa puerta...`
 `"Pero, si se usa esta llave, ¿no recibirás también la culpa?..."`
-`"......Cuando el amo está durmiendo profundamente, el llamar a la puerta no llegará a sus oídos."`
+`"...Cuando el amo está durmiendo profundamente, el llamar a la puerta no llegará a sus oídos."`
 `"...Y al persuadirlo para dejar su habitación, sería más difícil si se ha de hablar a través de la puerta.`
 ` Por favor úsela..."`
-`"......Genji..."`
+`"...Genji..."`
 `Hasta el momento, Natsuhi había pensado que Genji era un frío sirviente que, al trabajar directamente para Kinzo, no haría nada por ella.`
 `Pero parecía que tendría que cambiar su idea de él...`
 `Quería darle las gracias, pero para entonces, Genji ya le había dado la espalda, y caminaba por el pasillo con Kanon.`
@@ -275,7 +275,7 @@
 `Tras toda la emoción de la noche anterior, no había forma de que alguien fuera a levantarse temprano.`
 `George‐aniki, Jessica y yo roncábamos ruidosamente en la habitación de los primos.`
 `Pero Maria, que no se había unido, y que se había ido directamente a la cama la noche anterior, abrió repentinamente los ojos.`
-`"......................................."`
+`"..."`
 `Mientras se frotaba los ojos y miraba alrededor, el ruidoso roncar de los tres primos continuó.`
 `...Durante un rato, Maria tuvo que pensar sobre lo que había pasado.`
 `Tras esto, se dio cuenta de que su madre no estaba con ella y se sintió sola.`
@@ -283,7 +283,7 @@
 `Sin prestar atención a los tres que dormían ruidosamente, hizo un fuerte ruido al cerrar la puerta de golpe.`
 `En respuesta, Battler masculló y se giró en su cama, pero no fue suficiente para despertarlo.`
 `Un rato después, Maria volvió, de nuevo abriendo la puerta con un gran estrépito.`
-`"..................Uu."`
+`"...Uu."`
 `Cuando dejó la habitación, su cara estaba somnolienta, pero al volver, ahora parecía descontenta.`
 `Tras eso, se subió a la cama de Battler, que era la más cercana, y empezó a gritar y a saltar en ella como en un trampolín.`
 `"¡¡Uu‐uu‐uu!!`
@@ -339,79 +339,79 @@
 `Un dulce hedor que parecía comerse el interior de su cerebro salió a través de la pequeña grieta de la puerta, y aunque estaba preparada para aquello, no pudo evitar hacer una mueca.`
 `Pensando que tal vez él siguiera durmiendo, Natsuhi entró en la habitación silenciosamente...`
 `Cuando lo hizo, Kinzo, ya despierto, estaba mirando por la ventana.`
-`"A‐...... así que está despierto...`
+`"A‐... así que está despierto...`
 ` Buenos días..."`
-`"..................¿Cómo has entrado?"`
+`"...¿Cómo has entrado?"`
 `Kinzo habló todavía dándole la espalda.`
 `Su voz no era dura, sino calmada, y Natsuhi recobró algo de confianza.`
 `...Sin embargo, aunque estaba despierto, debía estar de suficiente mal humor como para ignorar el sonido de cuando llamó a la puerta.`
 `Natsuhi no fue capaz de relajar la tensión.`
-`"......Mis sinceras disculpas.`
+`"...Mis sinceras disculpas.`
 ` Se lo pedí a Genji‐san, y me permitió usar la llave del estudio..."`
 `"Jo...`
 ` ¿Genji hizo eso?`
-` .........Si mi buen amigo pensó que era tan importante, no tengo más opción que escuchar.`
+` ...Si mi buen amigo pensó que era tan importante, no tengo más opción que escuchar.`
 ` Entonces... ¿a qué has venido?"`
 `"S‐sí...`
-` .........El desayuno estará listo pronto, y apreciaría mucho que se uniera a nosotros..."`
+` ...El desayuno estará listo pronto, y apreciaría mucho que se uniera a nosotros..."`
 `"Comeré aquí.`
 ` Tráelo aquí como siempre."`
 `"Pero Padre...`
 ` Es la conferencia familiar anual.`
 ` Por favor, déjales al menos ver tu rostro."`
-`".........¿Me pides que baje,`
+`"...¿Me pides que baje,`
 ` y me una a la discusión de cómo mi herencia será consumida después de mi muerte?`
 ` Qué estupidez."`
-`".........Pueden seguir hablando sobre esas cosas tanto como quieran sin mí.`
+`"...Pueden seguir hablando sobre esas cosas tanto como quieran sin mí.`
 ` Y si llamas a eso conferencia familiar, no es tan importante como para que deba abandonar la habitación por ella.`
 ` Estoy ocupado.`
 ` No me molestes."`
 `Con estas últimas palabras llegó la amenaza de que cualquier otra pregunta sería inútil.`
 `...Natsuhi se dio cuenta de que seguir haciendo ruegos haría que su ira cayera sobre ella.`
 `Sería molesto escuchar a Eva decir sarcásticamente que no había podido convencerle después de todo, pero no había nada que pudiera hacer...`
-`".........¿Es así entonces?......`
-` ...Comprendo......`
+`"...¿Es así entonces?...`
+` ...Comprendo...`
 ` Estoy segura de que todos lamentarán oírlo, pero se los diré."`
 `Natsuhi decidió rendirse.`
 `{n}Haciendo una reverencia silenciosamente, intentó salir de la habitación antes de que el inestable carácter de Kinzo explotara.`
 `Mientras lo hacía, Kinzo habló a Natsuhi.`
-`......Comparado con el Kinzo de siempre, su voz era calmada y amable, como si viniera de otra persona.`
-`"......Natsuhi.`
+`...Comparado con el Kinzo de siempre, su voz era calmada y amable, como si viniera de otra persona.`
+`"...Natsuhi.`
 ` ...Ha pasado mucho tiempo desde que te casaste y entraste en la familia Ushiromiya."`
-`"S‐...... sí.`
+`"S‐... sí.`
 ` ...Ha pasado mucho tiempo desde que llevo el apellido Ushiromiya."`
-`"......¿Echas de menos a tu anterior familia?"`
-`"...............No.`
+`"...¿Echas de menos a tu anterior familia?"`
+`"...No.`
 ` ...El matrimonio significa olvidar la familia de tus progenitores.`
 ` Soy Ushiromiya Natsuhi.`
 ` Aquella familia a la que vaya a regresar, o extrañar, es solo la familia Ushiromiya."`
 `Definitivamente no era una exageración.`
 `{n}Natsuhi había estado así de decidida cuando adoptó el apellido Ushiromiya.`
-`......Por eso la entristeció tanto que, a pesar de todos sus infructuosos esfuerzos, no era aceptada ni por su marido.`
-`".........Si Krauss fuera una mujer,`
+`...Por eso la entristeció tanto que, a pesar de todos sus infructuosos esfuerzos, no era aceptada ni por su marido.`
+`"...Si Krauss fuera una mujer,`
 ` ...y tú fueras su marido...`
-` ............No... no diré algo así."`
-`"¿Qu‐...... qué quiere decir con eso,`
+` ...No... no diré algo así."`
+`"¿Qu‐... qué quiere decir con eso,`
 ` ...Padre?"`
 `Natsuhi estaba sorprendida.`
-`{n}......Si Kinzo había dicho eso en sentido literal...`
-`.........Para la Natsuhi de ese momento, esas palabras serían más que suficiente para arreglar todo lo que había sufrido hasta ese punto.`
-`"...............Olvídalo.`
+`{n}...Si Kinzo había dicho eso en sentido literal...`
+`...Para la Natsuhi de ese momento, esas palabras serían más que suficiente para arreglar todo lo que había sufrido hasta ese punto.`
+`"...Olvídalo.`
 ` Son solo los disparates de un anciano."`
 `Kinzo volvió a darle la espalda.`
 `{n}...Le había dicho que lo olvidara, pero Natsuhi no pudo evitar sentir un calor en su corazón...`
 `"...Padre.`
-` ............Aunque yo, Natsuhi, no estoy relacionada contigo por sangre, sigo siendo tu hija.`
-` .........El honor y gloria de la familia Ushiromiya,`
+` ...Aunque yo, Natsuhi, no estoy relacionada contigo por sangre, sigo siendo tu hija.`
+` ...El honor y gloria de la familia Ushiromiya,`
 ` ...y todo lo que te queda,`
-` ......¡yo, Natsuhi, te demostraré que puedo protegerlo......!"`
-`"..................No estás calificada para llevar el Águila de un Ala.`
+` ...¡yo, Natsuhi, te demostraré que puedo protegerlo...!"`
+`"...No estás calificada para llevar el Águila de un Ala.`
 ` ...Sin embargo, el Águila de un Ala está grabada en tu corazón.`
-` .........En ese caso, eres claramente mi familiar consanguínea, una persona que heredará la gloria de la familia Ushiromiya."`
-`"............Algunos se burlarán porque no hay un águila en tus ropas.`
+` ...En ese caso, eres claramente mi familiar consanguínea, una persona que heredará la gloria de la familia Ushiromiya."`
+`"...Algunos se burlarán porque no hay un águila en tus ropas.`
 ` Sin embargo, eso no es algo a lo que debas prestar atención.`
 ` ...Solo aquellos que llevan el águila en sus corazones son mis auténticos familiares consanguíneos.`
-` ............Creo que es un honor que se te diera la bienvenida a la familia Ushiromiya..."`
+` ...Creo que es un honor que se te diera la bienvenida a la familia Ushiromiya..."`
 `Sin decir nada más, Kinzo siguió dándole la espalda a Natsuhi.`
 `Sin embargo, Natsuhi no pudo evitar sentir un calor en su interior que no había sentido desde hace tiempo, cuando era solo una niña...`
 `Natsuhi hizo una reverencia en silencio y salió de la habitación...`
@@ -421,16 +421,16 @@
 `Cuanto Natsuhi dejó el estudio, vio a Eva subiendo las escaleras y sus miradas se encontraron.`
 `Eva, pensando que Natsuhi saldría a regañadientes tras no poder convencer a Kinzo, sonreía de forma desagradable.`
 `Sin embargo, tal y como estaba ahora mismo, una sonrisa tan frívola no molestaría a Natsuhi.`
-`......No se le permitía llevar el emblema familiar en sus ropas.`
-`{n}.........Pero se le permitía llevarlo en el corazón.`
+`...No se le permitía llevar el emblema familiar en sus ropas.`
+`{n}...Pero se le permitía llevarlo en el corazón.`
 `Así que hablo con calma y claridad...  y con la confianza de alguien que protegería la gloria de la familia Ushiromiya.`
 `"Padre dijo que no se uniría a la conferencia familiar.`
 ` Dice que no tiene ningún interés en un tema tan burdo."`
 `"...Estoy segura de que dijo algo así.`
 ` Si no pudiste persuadir a Padre, dilo francamente."`
-`"......Lamentable.`
+`"...Lamentable.`
 ` Estoy empezando a comprender los lamentos de Padre."`
-`"¿Qu‐...... qué quieres decir con eso?..."`
+`"¿Qu‐... qué quieres decir con eso?..."`
 `Natsuhi no respondió.`
 `Tal y como Kinzo había hecho antes, le dio la espalda a Eva mientras bajaba las escaleras.`
 `Apenas comprendiendo lo que sucedía, Eva solo pudo darse cuenta de que se estaba burlando de ella, y que algo había ocurrido para levantar la confianza de Natsuhi.`
@@ -438,27 +438,27 @@
 `Sin atreverse ni a llamar a la puerta, solo pudo arañar el aire enfrente de ésta, chasquear la lengua, y seguir a Natsuhi.`
 `"E‐entonces, ¿estaban Nii-san y los demás ahí dentro?`
 ` ¿Te habló Padre de ellos?"`
-`"......No tuve la oportunidad de preguntar, pero no estaban en el estudio.`
+`"...No tuve la oportunidad de preguntar, pero no estaban en el estudio.`
 ` ...Es imposible que Padre les dejara entrar por una conversación tan insignificante, así que no hay forma de que sepa dónde fueron.`
 ` Vayamos abajo y esperemos a que los sirvientes acaben su búsqueda."`
 `"...Tal vez el desayuno llegue tarde pero, ¿te apetece algo de té, Eva‐san?"`
-`"......E... estaré bien."`
+`"...E... estaré bien."`
 `Eva no pudo esconder su confusión ante el gran cambio en la apariencia de Natsuhi.`
 `...Actuaba con tanta arrogancia, y aunque Eva odiaba admitirlo, tenía hasta un cierto aire de dignidad.`
 `Incapaz de encontrar problemas con nada, solo pudo seguir a Natsuhi al salón.`
 `Cuando entraron al salón, no solo Hideyoshi, sino también los cuatro niños y Nanjo se habían reunido allí.`
 `Genji, que estaba hablando con Hideyoshi, informó de la situación actual cuando se dio cuenta de que Natsuhi había vuelto.`
 `"¿Todavía no han encontrado a mi marido y a los demás?"`
-`"......No, mis disculpas.`
-` ......Además, Kumasawa ha empezado a preparar el desayuno.`
+`"...No, mis disculpas.`
+` ...Además, Kumasawa ha empezado a preparar el desayuno.`
 ` Dice que no le llevará mucho tiempo."`
 `Según el reloj ya pasaban de las 8:00 a.m.`
 `Las ocho en punto debería haber sido la hora de empezar el desayuno.`
 `{n}Normalmente, pasar ese tiempo límite era una desgracia para el anfitrión.`
-`"......Kanon está buscando en el exterior.`
+`"...Kanon está buscando en el exterior.`
 ` ...Además, nadie ha visto a Shannon."`
 `"¿Incluso Shannon?`
-` .........En serio, ¿Cuánta gente necesita mi marido para acompañarle cuando quiere ir de paseo?"`
+` ...En serio, ¿Cuánta gente necesita mi marido para acompañarle cuando quiere ir de paseo?"`
 `¿Cuánta gente está en paradero desconocido?`
 `Ahora que el número había crecido tanto, empezaba a resultar realmente desagradable, como si les hubieran dejado fuera de algo interesante.`
 `Al menos parecía que los niños, o más bien Maria se sentía de igual forma.`
@@ -468,7 +468,7 @@
 ` Seguramente era un libro sobre ajedrez.`
 `El ruido de pasos se acercaba a ellos con un intenso golpeteo.`
 `{n}Era solo un par, así que se dieron cuenta antes de ver su origen de que no eran Krauss y los demás, sino probablemente Kanon.`
-`"............Señora, discúlpeme."`
+`"...Señora, discúlpeme."`
 `"A juzgar por tu apariencia, todavía no has podido encontrarles."`
 `"...Mis disculpas.`
 ` Aún estoy—"`
@@ -482,23 +482,23 @@
 ` Gracias a ambos por su duro trabajo tan temprano por la mañana."`
 `Natsuhi, actuando como si la bajada de tensión le hubiera causado un nuevo ataque de dolor de cabeza, se fue del salón.`
 `...Kanon intentó llamarla, pero Natsuhi se fue con rapidez.`
-`"............¿Qué ocurre?`
+`"...¿Qué ocurre?`
 ` ¿Había algo más?"`
-`".........Sí.`
+`"...Sí.`
 ` ...No pude encontrar a su marido ni a nadie más, pero,`
-` .........ummm."`
+` ...ummm."`
 `Kanon parecía evasivo.`
 `{n}No sabía dónde estaban, pero tal vez había encontrado algo que guardara alguna relación con ello.`
 `Cuando Eva y Hideyoshi se percataron de esto, se acercaron.`
 `{n}Tal vez hubieran notado el comportamiento algo extraño de Kanon.`
 `"¿Qué ocurre, Kanon‐kun?`
 ` ¿Has encontrado a Krauss nii-san y a todos los demás?"`
-`"......De hecho...`
+`"...De hecho...`
 ` Había algo extraño en el almacén del jardín de rosas."`
-`"............¿Algo extraño?...`
+`"...¿Algo extraño?...`
 ` ¿Qué quieres decir con eso?"`
-`"......Era, um,`
-` .........cómo puedo explicarlo..."`
+`"...Era, um,`
+` ...cómo puedo explicarlo..."`
 `Kanon volvió a dudar.`
 `{n}...No estaba hablando como uno esperaría del valeroso Kanon de siempre.`
 `Eva y Hideyoshi intercambiaron rostros burlones ante esta demostración...`
@@ -506,10 +506,10 @@
 ` ¿No querrás decir que están dentro del almacén?"`
 `"No... Voy a mirar en el interior ahora mismo.`
 ` Solo he vuelto para recoger la llave, pero...`
-` ......Umm..."`
+` ...Umm..."`
 `"No lo entiendo, pero parece que no habrá problema si simplemente investigamos el interior, ¿no?`
 ` ¿Dónde está la llave de ese almacén?"`
-`".........Está en la habitación de los sirvientes.`
+`"...Está en la habitación de los sirvientes.`
 ` Vayamos a inspeccionar el almacén ahora mismo."`
 `Kanon salió corriendo a la habitación de sirvientes y volvió con la llave.`
 `Genji se fue del salón, diciendo que iría a inspeccionarlo, pero Eva y Hideyoshi le siguieron.`
@@ -530,50 +530,50 @@
 ` ¡Realmente son rápidos!...`
 ` Mi corazón está a punto de explotar..."`
 `"No sabía que hubiera un almacén por aquí.`
-` .........Per—`
+` ...Per—`
 ` qu‐`
-` ......¿qué es eso?..."`
+` ...¿qué es eso?..."`
 `Cuando Eva vio a donde señalaba Kanon, se quedó sin palabras.`
 `{n}Al darse cuenta, Hideyoshi miró en la misma dirección y se quedó demasiado sorprendido para hablar.`
 `La entrada al almacén era una especie de postigo.`
-` ......Y allí, .........`
-`......Todos se dieron cuenta repentinamente de por qué Kanon no podía encontrar palabras para describir lo que estaban viendo.`
+` ...Y allí, ...`
+`...Todos se dieron cuenta repentinamente de por qué Kanon no podía encontrar palabras para describir lo que estaban viendo.`
 `En el postigo, que estaba totalmente mugriento por estar expuesto durante tanto tiempo al viento y a la lluvia,`
-` ......pegado sobre él...`
-` ......Había algo de color rojo oscuro que parecía un extraño... ¿líquido?`
+` ...pegado sobre él...`
+` ...Había algo de color rojo oscuro que parecía un extraño... ¿líquido?`
 ` ¿Mucosidad?`
 ` O tal vez alguna pintura pegajosa...`
 ` ...Una indescriptible y escalofriante figura dibujada con alguna clase de espantosa sustancia estaba en el postigo.`
 `La lluvia la había hecho gotear como sangre fresca derramándose de una herida abierta...`
 `No había razón para ser exigente con las palabras.`
-`......Con una espantosa sustancia que se suponía que debía parecerse a la sangre...`
+`...Con una espantosa sustancia que se suponía que debía parecerse a la sangre...`
 ` ...alguna clase de símbolo estaba dibujado,`
 ` ...en una forma que se suponía que debía sugerir algo siniestro.`
 `...Había dos círculos concéntricos dibujados, y en su interior un diseño que parecía una cruz.`
 `Las cuatro puntas de la cruz estaban ampliamente exageradas, y parecía alguna clase de emblema europeo.`
 `Y en las grietas entre estas formas, escritos unos muy cerca de otros, había unos extraños caracteres,`
-` o tal vez símbolos......`
-`".........Qué garabato tan vulgar...`
-` ......¿Podría esto ser... uno de esos?`
+` o tal vez símbolos...`
+`"...Qué garabato tan vulgar...`
+` ...¿Podría esto ser... uno de esos?`
 ` ¡¿Uno de esos círculos mágicos usados en ceremonias demoniacas?!"`
 `Refiriéndose a esta espantosa forma, dibujada en una sustancia chorreante de color rojo oscuro, no era de extrañar que Hideyoshi hiciese aquella comparación.`
 `"¡¿Cuándo fue hecho esto?!..."`
-`"......La noche pasada, vine aquí antes de que empezara a llover, pero no había nada dibujado."`
-`"............Debemos hacer algo antes de que alguien más lo vea.`
-` Si alguien lo viera, les causaría un gran malestar......"`
+`"...La noche pasada, vine aquí antes de que empezara a llover, pero no había nada dibujado."`
+`"...Debemos hacer algo antes de que alguien más lo vea.`
+` Si alguien lo viera, les causaría un gran malestar..."`
 `"Cierto...`
 ` Puede que no sea más que un almacén, pero no quiero dejar un garabato tan desagradable ni un solo segundo."`
 `"Hay algo de pintura en el almacén.`
 ` Pintemos sobre ello temporalmente como medida de emergencia,`
 ` y repintémoslo algún día en que el tiempo sea algo mejor.`
-`{n}.............................."`
+`{n}..."`
 `Genji recordó que acababa de ver otro garabato, y que había sido hecho con una extraña sustancia de color rojo oscuro, exactamente como esa...`
-`.........Debía ser...`
-` .........Cierto, lo había visto en la puerta de la habitación de Natsuhi...`
+`...Debía ser...`
+` ...Cierto, lo había visto en la puerta de la habitación de Natsuhi...`
 `"Kanon‐kun.`
 ` Eliminemos este garabato con rapidez y volvamos, ¿de acuerdo?`
 ` Aunque es solo un almacén, es muy irritante ver un graffiti en el hogar donde me crié."`
-`"......Sí.`
+`"...Sí.`
 ` Me encargaré de ello de inmediato..."`
 `Kanon se agachó enfrente del postigo y lo abrió.`
 `{n}Tras esto lo subió con toda su fuerza.`
@@ -592,10 +592,10 @@
 `Seguramente había venido corriendo del exterior de la mansión.`
 `{n}Sus hombros estaban empapados, y no tenía su apariencia elegante de siempre.`
 `Cuando vio que Nanjo lo observaba, Genji hizo una pequeña, silenciosa reverencia, y se acercó a él con rapidez.`
-`".........Doctor Nanjo, mis disculpas.`
+`"...Doctor Nanjo, mis disculpas.`
 ` Por favor, acompáñeme, rápido."`
 `"¿Qu‐`
-` .........qué ha pasado?"`
+` ...qué ha pasado?"`
 `Después de que Genji le susurrara algo al oído, el color de la cara de Nanjo cambió.`
 `Se levantó del sofá, intentando no llamar la atención de los jóvenes que seguían inmersos en la televisión,`
 ` y los dos se fueron rápidamente del salón, amortiguando sus pisadas.`
@@ -603,11 +603,11 @@
 `Genji le susurró algo al oído, y también la cara de Natsuhi cambió de color, horrorizada.`
 `...Dejando el carro donde estaba, los tres se fueron corriendo a la entrada...`
 `George les vio por la ventana mientras corrían por el jardín de rosas.`
-`"......¿Qué es eso?`
+`"...¿Qué es eso?`
 ` Genji‐san y el doctor Nanjo y...`
 ` y esa es tía Natsuhi, ¿no?"`
 `"¿Qué ocurre, Aniki?"`
-`".........Puede que haya ocurrido algo.`
+`"...Puede que haya ocurrido algo.`
 ` Parecían realmente nerviosos."`
 `También Jessica y Maria se dieron cuenta de que ocurrió algo al ver que Eva, Hideyoshi y Nanjo no estaban en sus asientos,`
 ` y porque el carro con el juego del té intacto había sido abandonado en la entrada al salón.`
@@ -617,7 +617,7 @@
 ` ¡Ijiji!"`
 `Por algún motivo, lo que acababa de decir Battler sonó extremadamente indiscreto.`
 `...Pero estaban algo inseguros y preocupados tras ver a los adultos correr por la lluvia sin preocuparse por las apariencias.`
-`"......Vayamos a ver, ¿no?`
+`"...Vayamos a ver, ¿no?`
 ` Me preocupa que haya ocurrido algo..."`
 `Las inseguras palabras de Jessica hablaban por todos ellos.`
 `"Oye Maria, ¿vienes tú también?`
@@ -647,7 +647,7 @@
 `Cuando Natsuhi se dio cuenta de que los jóvenes habían venido, una expresión terrible acudió a su cara, y corrió hacia ellos con ambos brazos extendidos.`
 `"¡¡¡No se acerquen!!!`
 ` ¡¡¡Vuelvan a la mansión!!"`
-`......A pesar de,`
+`...A pesar de,`
 ` ...no,`
 ` exactamente por eso,`
 ` los jóvenes vieron la escena de la que Natsuhi intentaba alejarles.`
@@ -665,7 +665,7 @@
 `...Pero ese no era el motivo por el que Eva estaba extendiendo sus brazos.`
 `...Intentaba esconder esa horrible escena de los jóvenes.`
 `¡Era su corazón de madre, tratando de proteger los ojos y los corazones de nosotros, los niños, intentando bloquear nuestra visión de la terrible escena al menos con uno de sus brazos!`
-`"......¿Es esto alguna clase de broma? ¡¿Lo es...?!"`
+`"...¿Es esto alguna clase de broma? ¡¿Lo es...?!"`
 `...He visto esta clase de escena barata con demasiada frecuencia.`
 `{n}En manga, televisión, anime y películas, la he visto una y otra vez...`
 `¡¡Esto solo... solo era ver en la vida real algo que había visto tantas veces en aquellas películas sensacionales, ¿verdad...?!!`
@@ -681,21 +681,21 @@
 ` ¡¡¡No debes mirar!!!"`
 `"¡¡Papá, Papá!!`
 ` ¡¡¡HyyaaaaaAAAAAAa!!!"`
-`".........El rigor mortis ya ha invadido totalmente los cuerpos...`
-` ......Diría que,`
+`"...El rigor mortis ya ha invadido totalmente los cuerpos...`
+` ...Diría que,`
 ` al menos seis horas han pasado tras sus muertes...`
 ` Mirando la zona dañada, diría que los daños fueron producidos tras sus muertes..."`
-`"......¡No, debo tener cuidado con lo que digo!...`
+`"...¡No, debo tener cuidado con lo que digo!...`
 ` ¡No soy un médico especializado en eso, una autopsia está fuera de mi área de experiencia!..."`
-`"......¿Qué quieres decir con eso?`
+`"...¿Qué quieres decir con eso?`
 ` ¡¡Matarlos no era suficiente... ¿Así que se tuvieron que hacer algo así?!!`
 ` ¡¡El demonio, esto es obra del demonio!!"`
 `Tía Natsuhi sujetó a Jessica en sus brazos y la tía Eva sujetó a George‐aniki,`
-` ......por lo que yo era el único que pudo acercarse a la entrada del almacén.`
-`............Aah,`
+` ...por lo que yo era el único que pudo acercarse a la entrada del almacén.`
+`...Aah,`
 ` ...si tan solo hubiera habido alguien aquí para sujetarme a mí también,`
-` ......no habría tenido que grabar esta terrible y malvada escena en mis ojos...`
-`......No, no es eso.`
+` ...no habría tenido que grabar esta terrible y malvada escena en mis ojos...`
+`...No, no es eso.`
 `...¡¡Estoy aquí, no porque las personas que me sujetarían no estan aquí...`
 ` {i:sino porque ellos están ahí mismo}!!`
 `...Tal y como había dicho Jessica, parecía un almacén usado para almacenar herramientas de jardinería.`
@@ -706,16 +706,16 @@
 `Y tratados de la misma forma, los cadáveres de varias personas habían sido dejados en el lugar.`
 ` ¡No, habían sido arrojados allí!`
 `Pude reconocerles por sus ropas.`
-`......El viejo bastardo y Kyrie‐san.`
+`...El viejo bastardo y Kyrie‐san.`
 ` ...El tío Krauss y la tía Rosa.`
-` ......Más allá... Gohda‐san y...`
+` ...Más allá... Gohda‐san y...`
 ` ¿todavía hay más?`
 ` ¿Cuánta gente ha muerto?...`
-` ......¡No puede ser en serio! ¡Ni siquiera puedo contarlos con una mano! ¡¡¡Maldita seaaaaaaaaaaaaaaaaa!!!`
+` ...¡No puede ser en serio! ¡Ni siquiera puedo contarlos con una mano! ¡¡¡Maldita seaaaaaaaaaaaaaaaaa!!!`
 `No sabía si había sido con una de esas herramientas de jardinería, que si se usaran para un propósito diferente al adecuado podrían ser blandidas con brutalidad,`
 ` o si se había usado alguna terrible herramienta específicamente para esto.`
-`......De todos modos,`
-` .........todos los cuerpos que se habían dejado en el lugar habían recibido un macabro maquillaje.`
+`...De todos modos,`
+` ...todos los cuerpos que se habían dejado en el lugar habían recibido un macabro maquillaje.`
 `...¡No era maquillaje... era más como...`
 ` si hubieran arado sobre sus caras...!`
 ` Sus caras estaban destrozadas, con una expresión que una persona normal no podría hacer tras la muerte.`
@@ -728,12 +728,12 @@
 `"Pero, no de esta forma, ¿verdad?`
 ` ¡¡No eras tan desgraciado como para tener que sufrir de forma tan brutal!!`
 ` Y Kyrie‐san,`
-` ......¿no te dije que deberías dejar de salir con este tipo?...`
+` ...¿no te dije que deberías dejar de salir con este tipo?...`
 ` ...Incluso tú...`
-`...no había razón alguna para que incluso tú pasaras por esto......"`
+`...no había razón alguna para que incluso tú pasaras por esto..."`
 `"...No tienen cara... no tienen cara...`
 ` ¡¡Maldita sea maldita sea maldita sea maldita sea, hiiiiiiiiiiiiiii!!!(¿reemplazar por otra cosa?)"`
-`"......Battler‐san, no debes seguir mirando...`
+`"...Battler‐san, no debes seguir mirando...`
 ` ¡Dudo que tus padres hubieran querido que les vieras de esta forma!...`
 ` ¡¡Por el bien de tu padre y de tu madre...  no debes seguir mirando!!"`
 `"¡La gente muerta se supone que deben tener caras que los hacen parecer que están durmiendo, ¿verdad?!`
@@ -747,9 +747,9 @@
 `"Pero, ¿por qué también la cara de Kyrie-san?...`
 ` Kyrie‐san no era una bastarda...`
 ` ...A veces me hartaba un poco de ella, pero...`
-` era genial, como una hermana mayor......"`
-`"......No merecía esto...`
-` ¡¡Ella no merecía esto!!......`
+` era genial, como una hermana mayor..."`
+`"...No merecía esto...`
+` ¡¡Ella no merecía esto!!...`
 ` ¡¡Al menos tío Krauss está mejor, ¿verdad?!!`
 ` ¡¡No es toda su cara, es solo la mitad!!`
 ` ¡¡Al menos sigue teniendo la mitad de su maldita cara!!`
@@ -757,204 +757,204 @@
 `"¡¡¡NooooooooooooooooooOOOOOOOOOOooooooooooooooooooOOOOOooooo!!!"`
 `Intentando acallar mis imprudentes palabras, Jessica intentó llenar sus oídos con el sonido de su propio grito.`
 `"...¡Detente, Battler‐kun...!`
-` ¡Solo detente... detente......!"`
+` ¡Solo detente... detente...!"`
 `"¡¡Aniki, Aniki!!`
 ` ¡¡¡UoooOoooOOOooooooooo!!!"`
 `Sin preocuparme por edad e imagen,`
-` ......caí de rodillas, abrazando la cintura de Aniki y llorando.`
+` ...caí de rodillas, abrazando la cintura de Aniki y llorando.`
 `Era como si estuviera llorando por todos los que estaban allí...`
-`Representando los sentimientos de todo el mundo, grité una y otra vez......`
-`"...............Padre...`
-` .........los muer—`
-` .........los que yacen allí son...`
+`Representando los sentimientos de todo el mundo, grité una y otra vez...`
+`"...Padre...`
+` ...los muer—`
+` ...los que yacen allí son...`
 ` tío Krauss, tío Rudolf, tía Kyrie,`
 ` tía Rosa, Gohda‐san...`
-` ...............¿Cinco personas...?"`
-`"............No.`
-` ......Hay seis.`
-` ......Hay...`
+` ...¿Cinco personas...?"`
+`"...No.`
+` ...Hay seis.`
+` ...Hay...`
 ` otra persona..."`
 `El cadáver que Hideyoshi observaba estaba escondido en la sombra de una montaña de objetos diversos,`
 ` en un punto ciego para George, que estaba en la entrada.`
-`...Así que George no podía saber... a quién pertenecía el cadáver......`
-`...Por tanto......... se maldijo a sí mismo.`
+`...Así que George no podía saber... a quién pertenecía el cadáver...`
+`...Por tanto... se maldijo a sí mismo.`
 `{n}¡Se maldijo a sí mismo por pensar siempre lo peor... y por siempre tener razón...!`
 `"...Entonces,`
-` ......yaciendo bajo tus pies está...`
-` .........Sha‐`
-` ...Shannon, ¿verdad?........."`
-`".........Sí.`
-` ......Es Shannon‐chan."`
-`"....................."`
+` ...yaciendo bajo tus pies está...`
+` ...Sha‐`
+` ...Shannon, ¿verdad?..."`
+`"...Sí.`
+` ...Es Shannon‐chan."`
+`"..."`
 `George se quedó en completo silencio.`
-` ......Se sacudió levemente, con su labio inferior temblando...`
+` ...Se sacudió levemente, con su labio inferior temblando...`
 `Quería correr con su amada, gritando y llorando.`
-`...Pero......... antes de correr precipitadamente hacia ella,`
-` ......reunió toda su fuerza, y le preguntó a su padre.`
-`"......¿Está Shannon...`
-`......igual que...`
-`.........el tío Krauss y los demás?"`
-`"................................."`
+`...Pero... antes de correr precipitadamente hacia ella,`
+` ...reunió toda su fuerza, y le preguntó a su padre.`
+`"...¿Está Shannon...`
+`...igual que...`
+`...el tío Krauss y los demás?"`
+`"..."`
 `Hideyoshi comprendió el significado de estas palabras.`
 `{n}...Por lo que no pudo responder a George.`
-`......No... Pensó que, tal y como estaba George ahora mismo, ésta era la única respuesta sincera y cariñosa.`
+`...No... Pensó que, tal y como estaba George ahora mismo, ésta era la única respuesta sincera y cariñosa.`
 `Cuando George preguntó si ella estaba igual que los demás,`
 ` ...quería decir si el cadáver estaba como el del resto.`
-`......Ya que Hideyoshi no lo había negado,`
-` .........significaba que el cadáver estaba igual de horrendo.`
-`"............¿Puedo...`
-` ...mirar a Shannon?........."`
-`".....................No,`
-` .........no puedes."`
-`"......¿Por qué?...`
+`...Ya que Hideyoshi no lo había negado,`
+` ...significaba que el cadáver estaba igual de horrendo.`
+`"...¿Puedo...`
+` ...mirar a Shannon?..."`
+`"...No,`
+` ...no puedes."`
+`"...¿Por qué?...`
 ` Después de todo... no podré volver a ver la cara de Shannon, ¿verdad?...`
-` Entonces...... ¿por qué no puedo ver...`
-` ...su última expresión......?"`
-`"......¿Ayer fue la última vez que viste a Shannon-chan?"`
-`".........Sí."`
+` Entonces... ¿por qué no puedo ver...`
+` ...su última expresión...?"`
+`"...¿Ayer fue la última vez que viste a Shannon-chan?"`
+`"...Sí."`
 `"Ya veo...`
-` .........cuando te fuiste,`
+` ...cuando te fuiste,`
 ` ¿qué clase de expresión tenía ella?..."`
-`".................................`
+`"...`
 `Era una magnífica sonrisa."`
 `Tras recibir el anillo,`
-` ......ella estaba desconcertada a pesar de que su corazón debía estar decidido,`
+` ...ella estaba desconcertada a pesar de que su corazón debía estar decidido,`
 ` y se avergonzó,`
 ` ...y escapó porque era demasiado tímida para mostrarle aquel rostro...`
 ` ...Esa expresión revivió en la memoria de George...`
-`"............Ya veo.`
-` ......Entonces, seguro que Shannon-chan...... habría deseado dejarte con esa sonrisa."`
+`"...Ya veo.`
+` ...Entonces, seguro que Shannon-chan... habría deseado dejarte con esa sonrisa."`
 `...Hideyoshi miró el cadáver de Shannon, yaciendo ante sus pies.`
-`{n}.........Como los otros cadáveres, estaba en un estado tan horrible que cualquiera que lo viera querría cubrirse los ojos.`
-`......La mitad de la cara estaba destrozada, y quedaba poco más que la mitad de su rostro.`
-`.........Si la otra mitad, empapada de sangre,`
+`{n}...Como los otros cadáveres, estaba en un estado tan horrible que cualquiera que lo viera querría cubrirse los ojos.`
+`...La mitad de la cara estaba destrozada, y quedaba poco más que la mitad de su rostro.`
+`...Si la otra mitad, empapada de sangre,`
 ` hubiera sido limpiada, su graciosa sonrisa podría haber asomado.`
-` .........Solo la mitad......`
+` ...Solo la mitad...`
 `Sin pensar, Hideyoshi se dio una palmada en los ojos.`
-`{n}......Qué cruel...`
+`{n}...Qué cruel...`
 ` Aunque estaba destrozada, si toda la cara hubiese sido aplastada, tal vez habría podido engañar al corazón de George diciendo que era alguien con la vestimenta de Shannon.`
 `¡Sin embargo, quedaba la mitad de la cara!...`
-`¡Humillaba de tal forma el cadáver, ......y también dejaba claro que no era ni más ni menos que Shannon!`
+`¡Humillaba de tal forma el cadáver, ...y también dejaba claro que no era ni más ni menos que Shannon!`
 ` Qué inhumano, qué injusto...`
 `Haciendo todo lo posible por grabar la imagen de la otra mitad del rostro de Shannon en sus ojos, estaba Kanon.`
-`......Kanon no estaba llorando.`
+`...Kanon no estaba llorando.`
 `{n}...Algunas lágrimas habían asomado a sus ojos, pero no se habían derramado.`
 `Pero eso no significaba que no estuviera tan triste como los demás.`
-`......Perder a Shannon, con quien había vivido en el mismo orfanato,`
+`...Perder a Shannon, con quien había vivido en el mismo orfanato,`
 ` a quien había querido como a una hermana,`
 ` debía de ser lo mismo que perder a un familiar de sangre...`
-`"............George.`
-` ......Seguro que Shannon‐chan...`
+`"...George.`
+` ...Seguro que Shannon‐chan...`
 ` te estaría agradecida...`
 ` si no la vieras en un estado tan lamentable.`
-` .........Estoy seguro...`
+` ...Estoy seguro...`
 ` ...de que agradecería que te mantuviera' fuerte..."`
-`"......Lo entiendo.`
-` .........Lo entiendo, padre, ......lo entiendo......"`
+`"...Lo entiendo.`
+` ...Lo entiendo, padre, ...lo entiendo..."`
 `George se apoyó en el muro exterior del almacén, ...hundiéndose al no poder hacer nada.`
-`".........Padre.`
-` ......Tengo una petición."`
-`"¿Qué es?......"`
-`"......Me gustaría que miraras por mí.`
-` ...............En el dedo de Shannon,`
-` .........¿hay algún anillo?..."`
-`"...¿Un anillo?......`
-` ......Déjame ver..."`
+`"...Padre.`
+` ...Tengo una petición."`
+`"¿Qué es?..."`
+`"...Me gustaría que miraras por mí.`
+` ...En el dedo de Shannon,`
+` ...¿hay algún anillo?..."`
+`"...¿Un anillo?...`
+` ...Déjame ver..."`
 `Hideyoshi se agachó.`
 `{n}...En ese momento, Kanon señaló en silencio una de las manos de Shannon.`
-`"............Sí,`
-` ......sí lo hay.`
+`"...Sí,`
+` ...sí lo hay.`
 ` Es un anillo de diamante.`
 ` Con un diamante de gran valor.`
 ` ...Esto debe tener un precio muy alto..."`
 `"Y,`
-` ...............¿en qué mano,`
+` ...¿en qué mano,`
 ` en qué dedo está?"`
-`"......Hmm,`
+`"...Hmm,`
 ` el dedo anular de su mano izquierda.`
-` ......Ya veo...`
-` ......Así que Shannon‐chan...`
+` ...Ya veo...`
+` ...Así que Shannon‐chan...`
 ` estaba comprometida..."`
-`"...............George...`
-` ......Tú... no puede ser que—"`
+`"...George...`
+` ...Tú... no puede ser que—"`
 `"¡¡Eva!!`
 ` ¡¡Eso no importa ahora mismo!!`
 ` ¡Un hombre hizo una promesa de por vida a Shannon‐chan!...`
 ` Un hombre le prometió felicidad de por vida...`
 ` ¡No importa quién fuera!"`
 `"Que un hombre te diga eso...`
-` ......es el sueño de una mujer, ¿verdad?...`
+` ...es el sueño de una mujer, ¿verdad?...`
 ` ...No sé cuando recibió este anillo.`
 ` ¡Tampoco sé quién se lo dio!`
 ` Sin embargo,`
-` .........sea como sea, Shannon-chan recibió el anillo."`
+` ...sea como sea, Shannon-chan recibió el anillo."`
 `"Y, ...lo aceptó y lo puso en su dedo anular de la mano izquierda.`
 ` ...Seguro que el hombre que se lo dio...`
 ` también estaba feliz."`
 `Para la mayoría de los que estaban allí, Hideyoshi estaba simplemente trastornado por la extraordinaria situación y soltaba cosas extrañas.`
-`.........Pero...`
+`...Pero...`
 ` ...para los que conocían la verdad...`
 ` sobre la relación entre Shannon y George,`
-` ......todo lo que dijo tenía sentido.`
-`"............Ya veo.`
-` .........Gracias,`
-` ............Padre."`
+` ...todo lo que dijo tenía sentido.`
+`"...Ya veo.`
+` ...Gracias,`
+` ...Padre."`
 `George se levantó.`
 ` Restos de lágrimas seguían cubriendo su cara, pero su rostro había recuperado su calma habitual...`
-`"......Vamos.`
+`"...Vamos.`
 ` Battler‐kun, Jessica‐chan.`
-` ......Si nos quedamos aquí más tiempo, estorbaremos a los adultos."`
-`"............*sniff*`
-` .........Tienes razón..."`
+` ...Si nos quedamos aquí más tiempo, estorbaremos a los adultos."`
+`"...*sniff*`
+` ...Tienes razón..."`
 `Jessica gimoteó y le mostró su rostro a su madre, que la había estado sujetando todo este tiempo, intentando decirle que ya estaba bien.`
 `...Cuando volvió a mirar a George, ella había recuperado su expresión de siempre.`
-`......Aunque aún no podía sonreír.`
-`"......Battler...`
-` No te desalientes........."`
+`...Aunque aún no podía sonreír.`
+`"...Battler...`
+` No te desalientes..."`
 `Battler seguía agachado ante los cadáveres de sus padres...`
-`"........................Lo siento.`
+`"...Lo siento.`
 ` ...Tomó llorar todo esto para calmarme...`
 ` Papá, bastardo, ...apuesto que te estás riendo de mí, yo que siempre hablaba mierda sobre ti,`
 ` y después lloro como un bebé solo porque has muerto."`
-`"......No hay otra...`
+`"...No hay otra...`
 ` ¡Está en nuestros genes el llorar cuando nuestros padres mueren!..."`
 `La cara de Battler seguía roja por el llanto, pero aunque fuera una sonrisa amarga,`
 ` ...al menos se había recuperado lo suficiente para fingir una sonrisa.`
-`"......Kanon.`
+`"...Kanon.`
 ` ...Tampoco tú debes quedarte aquí más tiempo.`
 ` Lleva a los jóvenes a la mansión."`
 `Natsuhi, incapaz de entrar en el almacén, había estado bajo la lluvia todo el tiempo.`
 ` ...Tal vez tenía su propia forma de lamentarse, diferente a la de Battler.`
 `Se dio cuenta de que tenía que hacerse responsable ahora que su marido había muerto,`
-` ......así que le dio a Kanon esa orden.`
-`"...............Sí.`
+` ...así que le dio a Kanon esa orden.`
+`"...Sí.`
 ` Señora."`
 `Kanon se levantó en silencio, y dio la vuelta en dirección de ellos.`
-`......Su cara estaba totalmente pálida, como si su propio corazón hubiera muerto con Shannon,`
-` ......no había vida en su rostro.`
+`...Su cara estaba totalmente pálida, como si su propio corazón hubiera muerto con Shannon,`
+` ...no había vida en su rostro.`
 `En un día normal, si le hubieran dicho que guiara a los jóvenes por el jardín de rosas,`
 ` habría liderado el grupo y habría hecho de guía.`
-`......Pero ahora, no había distinción entre Kanon y los jóvenes.`
+`...Pero ahora, no había distinción entre Kanon y los jóvenes.`
 `{n}...Solo eran niños de edades similares... con las heridas de haber perdido a alguien cercano.`
 `Luego de ver a los niños volver, Natsuhi le dio órdenes a Genji.`
-`".........Genji.`
+`"...Genji.`
 ` ...Contacta ahora mismo con la policía.`
 ` No creo que puedan venir hasta que pase el tifón, pero deberían poder decirnos qué hacer."`
-`"......Entendido.`
+`"...Entendido.`
 ` Hay una radio de emergencia, así que la usaré para contactar con ellos."`
 `Cuando escuchó esto, Natsuhi se acordó.`
 `{n}Cierto, los teléfonos no funcionaban, ¿verdad?...`
 `Sin embargo, ya que habían asumido que podría haber algún problema con el teléfono en esa aislada isla, se había instalado una radio.`
-`......Como sea, contactemos con la policía y recibamos sus instrucciones.`
+`...Como sea, contactemos con la policía y recibamos sus instrucciones.`
 `{n}...Lo demás puede esperar.`
-`".........Doctor Nanjo.`
-` .........¿Hay algo más que pueda hacer aquí?"`
+`"...Doctor Nanjo.`
+` ...¿Hay algo más que pueda hacer aquí?"`
 `"Desafortunadamente...`
-` .........No puedo hacer nada........."`
-`"............Entendido.`
+` ...No puedo hacer nada..."`
+`"...Entendido.`
 ` ...Genji, ¿te importaría cubrir sus caras con algo?`
 ` Exponerles de esta forma es también humillante para ellos..."`
-`".........Sí."`
+`"...Sí."`
 `Genji levantó varias toallas secas del interior del almacén,`
 ` cuando Eva le detuvo con una voz aguda.`
 `"¡Espera un momento!`
@@ -962,78 +962,78 @@
 ` Es la escena de un crimen, ¿verdad?`
 ` No podemos perturbarla.`
 ` ¡En nuestra confusión, la hemos llenado de pisadas llenas de barro, lo cual probablemente estorbe la investigación policial, ¿verdad?!"`
-`"........................"`
+`"..."`
 `Natsuhi miró a Eva, ofendida.`
-`{n}......Hablando con objetividad, Eva tenía razón.`
+`{n}...Hablando con objetividad, Eva tenía razón.`
 `Aun así, miró a Eva como acusándola de impedir concederles a los trágicos cadáveres,`
 ` que tanto habían sido humillados incluso tras la muerte, la simple amabilidad de cubrirles las caras.`
-`......Sin embargo, Eva había hablado de forma calmada y correcta.`
+`...Sin embargo, Eva había hablado de forma calmada y correcta.`
 `Este horrible estado claramente no era un accidente.`
 `{n}Era un crimen.`
-` ......Alguien los había matado.`
+` ...Alguien los había matado.`
 ` Era un caso de asesinato.`
 `En ese caso, debían tener cuidado con no perturbar el lugar...`
 `Debían ayudar a la policía al menos en eso, para al menos poder darles una prueba que podría ser usada para encontrar al detestable culpable.`
-`"............Estoy de acuerdo con Eva‐san.`
+`"...Estoy de acuerdo con Eva‐san.`
 ` ...Hasta que venga la policía, deberíamos dejar todo como está..."`
-`"......¿Qué dice usted, señora?"`
-`"...............Tienen razón.`
+`"...¿Qué dice usted, señora?"`
+`"...Tienen razón.`
 ` ...Entendido.`
 ` Ciérrenlo.`
 ` ...Y, por si acaso, tal vez debamos poner una cerradura diferente en el postigo."`
-`"......¿Una cerradura diferente?"`
+`"...¿Una cerradura diferente?"`
 `"Sí.`
-` ......Cuando llegamos aquí, el postigo estaba cerrado con llave.`
+` ...Cuando llegamos aquí, el postigo estaba cerrado con llave.`
 ` ...Eso quiere decir que el culpable usó la llave del postigo para cerrarlo."`
-`"T‐...... tiene sentido.`
+`"T‐... tiene sentido.`
 ` ¡Entonces, ¿significa eso que la llave que abre este postigo tiene las huellas dactilares del culpable?!"`
-`"......Seguro que merecerá la pena dársela a la policía como prueba,`
+`"...Seguro que merecerá la pena dársela a la policía como prueba,`
 ` pero Kanon-kun lo usó normalmente, para abrir esto.`
 ` Probablemente tenga sus huellas dactilares."`
 `"Además, la llave se le entregó a Genji ahora mismo, y la sujetó con las manos desnudas.`
 ` ...No parece que vaya a ser muy útil como prueba."`
-`".........Fue descuidado de mi parte.`
+`"...Fue descuidado de mi parte.`
 ` ...Mis disculpas..."`
 `"Genji‐san.`
 ` ¿Hay otras llaves para el almacén?"`
-`"......No.`
+`"...No.`
 ` Solo ésta."`
 `"Lo que significa que el culpable salió de la habitación de sirvientes con esa llave,`
-` ...y después la devolvió a donde la había encontrado, ¿verdad?......"`
+` ...y después la devolvió a donde la había encontrado, ¿verdad?..."`
 `La teoría de Hideyoshi sonaba plausible, pero era muy extraña si pensabas en ello.`
 `{n}¿Por qué deberían molestarse en devolver una llave que habían robado?`
-`{n}......No, si lo piensas incluso más, hay algunos puntos aún más extraños.`
+`{n}...No, si lo piensas incluso más, hay algunos puntos aún más extraños.`
 `Normalmente, cuando un criminal esconde un cadáver, está intentando retrasar el momento en que se encuentre para huir.`
 `El lugar donde los seis fueron asesinados no tenía por qué ser necesariamente aquí, pero podrían haber sido asesinados en algún lugar en esta isla,`
 ` y sería normal pensar que la razón por la que habían llevado los cuerpos a este almacén era para esconder los cuerpos y atrasar el descubrimiento del crimen.`
-`......Pero el garabato dibujado en el postigo que parecía un espeluznante círculo mágico...`
+`...Pero el garabato dibujado en el postigo que parecía un espeluznante círculo mágico...`
 ` les había indicado con elocuencia que los cadáveres estaban escondidos allí.`
-`......No decía específicamente que allí estaban, pero tras la desaparición de seis personas,`
+`...No decía específicamente que allí estaban, pero tras la desaparición de seis personas,`
 ` hacer un garabato tan inconsciente e incluso devolver la llave para abrirlo,`
-` ......parecía que alguien pretendía que los cadáveres fueran descubiertos en el lugar.`
-`"......De todas formas, no podemos confiar en una cerradura que el culpable ya ha abierto.`
+` ...parecía que alguien pretendía que los cadáveres fueran descubiertos en el lugar.`
+`"...De todas formas, no podemos confiar en una cerradura que el culpable ya ha abierto.`
 ` Si queremos proteger este lugar del alcance del culpable, creo que deberíamos poner una nueva cerradura."`
 `"Creo que es una buena idea...`
 ` Estoy de acuerdo."`
 `Genji rebuscó en el almacén, y abrió un candado nuevo que estaba dentro de una pequeña caja.`
 `"¿Qué debo hacer con la llave?..."`
-`"......Yo la llevaré.`
+`"...Yo la llevaré.`
 ` Tomaré la responsabilidad y se la daré a la policía."`
 `Natsuhi tomó el candado de la mano de Genji.`
 `Tras esto, salieron y bajaron el postigo.`
-`......Por lo tanto, los cadáveres quedaron de nuevo sellados tras el postigo, cubierto con el macabro círculo mágico.`
+`...Por lo tanto, los cadáveres quedaron de nuevo sellados tras el postigo, cubierto con el macabro círculo mágico.`
 `Genji se agachó enfrente del postigo para cerrar el nuevo candado.`
 `...Además de la cerradura principal en el postigo, a veces hay algún lugar donde puedes poner tu propia cerradura.`
 ` Como era el caso.`
 `En medio del rugido de truenos y de la lluvia, el almacén se alzaba allí, de forma siniestra...`
 `{n}Con su postigo cerrado todavía cubierto de una sustancia asquerosa y parecida a la sangre, se tragó los cadáveres de los seis.`
-`......Para Natsuhi, poner la nueva cerradura no era principalmente para preservar la escena del crimen para la policía,`
-` ......tal vez sentía que quería cerrar esa boca durante toda la eternidad,`
-` para impedir que aun más víctimas fueran tragadas por ese espeluznante demonio......`
-`"......Ahora, vamos, todo el mundo.`
+`...Para Natsuhi, poner la nueva cerradura no era principalmente para preservar la escena del crimen para la policía,`
+` ...tal vez sentía que quería cerrar esa boca durante toda la eternidad,`
+` para impedir que aun más víctimas fueran tragadas por ese espeluznante demonio...`
+`"...Ahora, vamos, todo el mundo.`
 ` ...Doctor Nanjo, muchas gracias por su trabajo.`
 ` ...Genji, rápido, contacta con la policía."`
 `"Contactaré con ellos tan pronto como regrese..."`
 `Los adultos se alejaron del almacén.`
 `...El espantoso círculo mágico dibujado en el postigo,`
-` aún después de tragarse a los seis cadáveres, era una amenaza espeluznante, iluminada ocasionalmente por los relámpagos......`
+` aún después de tragarse a los seis cadáveres, era una amenaza espeluznante, iluminada ocasionalmente por los relámpagos...`
