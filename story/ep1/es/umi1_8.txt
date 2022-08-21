@@ -33,7 +33,7 @@
 `"...Oh vaya,`
 ` George‐aniki es todo maduro ahora."`
 `"Sé que George nii‐san se ha convertido en un miembro de pleno derecho de la sociedad y está trabajando duramente.`
-` ...¿Pero implica eso que cuando empiezas a hablar sobre dinero y activos, puedes convertirte en un desvergonzado y codicioso buitre, como nuestros padres...?"`
+` ...¿Pero implica eso que cuando empiezas a hablar sobre dinero y activos, puedes convertirte en un desvergonzado y codicioso buitre, como nuestros padres?..."`
 `"...Si estás hablando sólo de mí, no, no es algo que querría hacer.`
 ` Sin embargo, cuando tu familia y tus empleados, tus subordinados y sus familias cuentan contigo, ...hay ocasiones en las que debes pelear."`
 `"...Odio esa clase de peleas.`
@@ -59,7 +59,7 @@
 `"...Jessica‐chan.`
 ` Por favor, no odies a tus padres.`
 ` ...No te pediré que los comprendas, pero por lo menos no los odies."`
-`"¡¡Ya, lo entiendo, déjame sola un rato...!!"`
+`"¡¡Ya, lo entiendo, déjame sola por un rato!!..."`
 `Hace seis años, habría seguido burlándome de la abatida Jessica,`
 ` ...supongo que realmente he madurado durante estos seis años.`
 `Me di cuenta de que sería mejor dejar a Jessica en paz un rato...`
@@ -220,7 +220,7 @@
 `¿Quién le dió a Maria el paraguas y la carta?`
 `{n}Todos los 18 habían sido descartados.`
 `{n}Y aun así, {f:5:Beatrice} estaba escondida entre aquellos 18.`
-`¿Qué planeaba esa persona al esconder su identidad y fingir ser {f:5:Beatrice}...?`
+`¿Qué planeaba esa persona al esconder su identidad y fingir ser {f:5:Beatrice}?...`
 `"También sospechaba que podía ser una actuación de Maria‐chan, pero los contenidos del mensaje eran extremadamente complejos, así que es difícil de creer que ella lo haya preparado por sí misma.`
 ` ...Pero no puedo negar la posibilidad de que esté trabajando con alguien."`
 `"E‐espera un momento... ¡Maria tiene apenas nueve años!`
@@ -243,7 +243,7 @@
 ` ...¡Nadie cree que Maria se encontró contigo!`
 ` ...Uu...`
 ` uu...`
-` ¡Aún tras enseñarles la carta que me diste, siguen sin creer...!`
+` ¡Aún tras enseñarles la carta que me diste, siguen sin creer!...`
 ` ...Uu... u...`
 ` u...`
 ` ...¡hic...`
@@ -336,7 +336,7 @@
 `...El rostro de papá, que siempre parecía tan seguro de sí mismo, y siempre llevaba una expresión burlesca,`
 ` ...estaba extrañamente débil por algún motivo que no puedo explicar.`
 ` ...Estaba tan agotado que parecía alguien diferente.`
-`"¡¿Q‐qué...?!`
+`"¡¿Q‐qué?!...`
 ` ...¡¿De qué estás hablando? No pareces el de siempre!"`
 `"*risita*.`
 ` Estoy de acuerdo.`
@@ -460,7 +460,7 @@
 `Buscó un interruptor para encender las luces, pero al ser la primera vez que entraba en esa habitación, no sabía dónde estaba.`
 `Krauss entró tras ella, empujándola al interior, y cuando cerró la puerta antes de encender las luces, fueron tragados por la oscuridad.`
 `Solo el sonido de Krauss cerrando la puerta con llave resonó en la oscuridad.`
-`"¿Q‐qué estás haciendo...?`
+`"¿Q‐qué estás haciendo?...`
 ` La, las luces..."`
 `"Voy a encenderlas.`
 ` Espera."`
@@ -505,7 +505,7 @@
 `"Existe.`
 ` ...El oro que Ushiromiya Kinzo recibió de {f:5:Beatrice} existe."`
 `"¡¿Cómo puede...?!`
-` ¿C‐... cómo puede ser que exista...?"`
+` ¿C‐... cómo puede ser que exista?..."`
 `Natsuhi estaba conmocionada...`
 `Krauss siempre había dicho que el oro de Kinzo era solo una ilusión.`
 `{n}Así que, como su esposa, lo había creído.`
@@ -518,21 +518,21 @@
 ` ...¿Por qué?`
 `"...¿He,`
 ` ...he sido...`
-` ...tan indigna de tu confianza...?"`
+` ...tan indigna de tu confianza?..."`
 `"...Esa no fue mi intención.`
 ` Simplemente no había necesidad alguna de mencionarlo."`
 `"¡¿E‐,`
 ` ...es eso todo,`
 ` ...lo que una esposa...`
-` significa para ti...?!"`
+` significa para ti?!..."`
 `"Cálmate...`
 ` Emocionarte con demasiada facilidad es uno de tus malos hábitos."`
 `"¡¡¡Tú eres quién hace que me comporte así!!!`
-` ¡Te he estado apoyando como una esposa desde que me casé en esta familia...!`
+` ¡Te he estado apoyando como una esposa desde que me casé en esta familia!...`
 ` Por tu bien, abandoné la familia en la que nací,`
-` ¡¡te he ofrecido mi corazón y mi cuerpo para servirte...!!"`
+` ¡¡te he ofrecido mi corazón y mi cuerpo para servirte!!..."`
 `"¡¡¿Y a cambio,`
-` ...es esto lo que recibo...?!!`
+` ...es esto lo que recibo?!!...`
 ` ¿Cómo has...?`
 ` ...¡¡¿Cómo has podido...?!!"`
 `Krauss hizo una mueca, algo molesto...`
@@ -546,8 +546,8 @@
 ` ¡Éste es un problema de la familia Ushiromiya!`
 ` ¡Es verdad que no puedo llevar la cresta familiar sellada en mi cuerpo!`
 ` ¡¡Pero sigo siendo tu esposa!!"`
-`"¡¿Y aún así, ...me estás diciendo que no soy capaz de ayudarte...?!`
-` ¡¡¡¿Es eso...?!!!"`
+`"¡¿Y aún así, ...me estás diciendo que no soy capaz de ayudarte?!...`
+` ¡¡¡¿Es eso?!!!..."`
 `"...Fue por consideración, que decidí no involucrarte.`
 ` Dejemos de hablar. Solo empeorará tu dolor de cabeza.`
 ` Descansa por hoy.`
@@ -616,7 +616,7 @@
 `En su lugar, las palabras de George volvieron a aparecer en su cabeza.`
 `{n}Nuestros padres están haciendo lo mejor que pueden a su manera.`
 `...Y al estar apoyando a su familia, no podían permitirse que todo fuera agradable, y tenían la dura responsabilidad de pelear.`
-`...¿Y si su madre había estado parada en ese pasillo escasamente iluminado porque nadie había intentado comprenderla...?`
+`...¿Y si su madre había estado parada en ese pasillo escasamente iluminado porque nadie había intentado comprenderla?...`
 `A Jessica no le agradaba su madre.`
 `{n}...Por lo que sería difícil consolar a su madre aun si se veía un poco frágil...`
 `Por tanto, cuando aun así intento consolar a su madre, tuvo que buscar las palabras desde el fondo de su corazón, apretando ambos puños.`
@@ -767,7 +767,7 @@
 `Tras atravesar el lluvioso jardín de rosas, llegamos a la casa de invitados.`
 `"¡Ahhh, si solo me hubiera presentado a la posición de portador de Maria!`
 ` ¡Entonces habría podido restregar mi brazo contra los enormes pechos de Shannon‐chan todo lo que hubiese querido mientras sostenía el paraguas!"`
-`"N‐n‐n‐no fue a propósito, ¡es un malentendido...!"`
+`"N‐n‐n‐no fue a propósito, ¡es un malentendido!..."`
 `"Yo, yo pensé que si no hacía eso, George‐sama se podría haber empapado..."`
 `"¡Vamos, dejen de balbucear y entren de una vez!"`
 `Después de recibir un codazo de Jessica, Shannon plegó su paraguas y entró en la casa de invitados.`
@@ -792,7 +792,7 @@
 `"...¿Oh?`
 ` ¿Kanon‐kun?`
 ` Incluso Genji‐sama está aquí.`
-` ...¿Qué ha pasado con el turno de noche...?"`
+` ...¿Qué ha pasado con el turno de noche?..."`
 `"...Krauss‐sama ha dado una orden.`
 ` Han habido cambios en casi todos los horarios."`
 `"...Así es.`
@@ -800,9 +800,9 @@
 ` Tu y Kanon tienen el turno nocturno en la casa de invitados.`
 ` A Kumasawa y a mí nos han ordenado pasar la noche en la casa de invitados...`
 ` Hace un momento, nos han llamado diciendo que ustedes también deben permanecer aquí."`
-`"¿Eh...?`
+`"¿Eh?...`
 ` E‐es un cambio bastante grande...`
-` Los turnos de la mansión y la casa de invitados han sido prácticamente invertidos, ¿no...?"`
+` Los turnos de la mansión y la casa de invitados han sido prácticamente invertidos, ¿no?..."`
 `Originalmente, a Shannon y a Kanon les habían dado los turnos de la mansión, mientras que el turno de noche en la casa de invitados, donde todos los familiares se alojaban, había sido asignado a Gohda, que tenía mucha experiencia en el entretenimiento.`
 `Kumasawa debería haberse quedado en la casa de invitados, mientras que Genji debería haberse quedado en la mansión.`
 `Sin embargo, parecía que Krauss había ordenado, de repente, que se modificaran los horarios.`
@@ -825,7 +825,7 @@
 `"Nuestra compañía esta noche es... {i:especial}."`
 `""Por supuesto, Genji‐sama.""`
 `Genji asintió, se fue tras un biombo, se quitó su chaqueta, y empezó a relajarse tras la tensión de todo un día...`
-`"...¿Los que acaban de volver, eran los niños...?"`
+`"...¿Los que acaban de volver, eran los niños?..."`
 `"Sí.`
 ` El resto de familiares está teniendo una conferencia en la mansión.`
 ` Parecía como si se fuera a alargar hasta mucho más tarde..."`
@@ -835,12 +835,12 @@
 `"Sí, probablemente...`
 ` Solo estoy diciendo esto porque Genji‐sama no está por aquí, pero...`
 ` ...La verdad es que estoy un tanto contenta de que me hayan mandado a la casa de invitados... creo..."`
-`"¿Oh...?`
+`"¿Oh?...`
 ` ¿Y eso por qué?`
 ` ¿Porque así puedes mantenerte alejada de la señora y Eva‐sama?`
 ` ...¿O tienes otra razón?"`
 `"¡No, ...no es como si tuviera...`
-` ...o‐otra razón...!"`
+` ...o‐otra razón!..."`
 `"...Ya veo.`
 ` Entonces, hagamos juntos el turno de medianoche.`
 ` Cuento contigo, Nee‐san."`
@@ -887,7 +887,7 @@
 `Genji se mantuvo en silencio después de eso.`
 `...Al rato, se levantó y usó una tetera para hacer cacao en polvo, y también le sirvió algo a Kanon.`
 `"¡¿¡¿Me lo dices en serio?!?!`
-` ¡¡No lo sabía...!!"`
+` ¡¡No lo sabía!!..."`
 `"¡Idiota, eres demasiado ruidoso!`
 ` ¡Vas a despertar a Maria!"`
 `Battler estaba tan sorprendido que pegó un grito, y esparció las cartas por todas partes.`
@@ -1043,8 +1043,8 @@
 `Pero aun así, cuando lo vio de verdad, no pudo evitar sonrojarse una vez más...`
 `George abrió la cajita, sacó algo de ahí... y lo sostuvo para que Shannon lo tomara.`
 `"Quiero que aceptes esto."`
-`"¡No, ...no puedo aceptar algo tan valioso...!"`
-`"...¿No puedes aceptarlo...?"`
+`"¡No, ...no puedo aceptar algo tan valioso!..."`
+`"...¿No puedes aceptarlo?..."`
 `"N‐... no quise...`
 ` Quiero decir...`
 ` ...Algo así...`
