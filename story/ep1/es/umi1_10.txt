@@ -32,7 +32,7 @@
 `Mientras hacía esto, pasó frente a la cocina.`
 `...Aunque sabía que todavía no podría olerla, el estómago empezó a dolerle, en antcipación de la glorificada comida de Gohda.`
 `"...Buenos días.`
-` ...¿?"`
+` ¿...?"`
 `Intentó saludar a Gohda, que pensó que estaría preparando la comida en la cocina, pero este no estaba a la vista.`
 `La cocina estaba escasamente iluminada, y no había ningún ventilador, aún menos cortinas que abrir.`
 `Seguía haciendo frío sin señales de ningún fuego, por lo que era obvio que el desayuno no estaba siendo preparado.`
@@ -42,7 +42,7 @@
 `...En el raro caso de que eso ocurriera, era la virtud de un sirviente el suavizar casualmente la situación para no causar una escena desagradable,`
 ` y asegurarse de que el amo nunca se enterara de semejante error en primer lugar.`
 `Kanon tomó el recibidor del teléfono que se encontraba en la pared y marcó el número a la habitación donde dormían los sirvientes.`
-`"...?"`
+`"¿...?"`
 `...No podía oír el característico sonido del tono de marcar.`
 `Kanon intentó volver a tomar el recibidor, pero aun así, no pudo oír aquel típico sonido.`
 `Intentó marcar de nuevo, pero no tuvo ningún efecto aparente.`
@@ -404,7 +404,7 @@
 ` ...Aunque yo, Natsuhi, no estoy relacionada contigo por sangre, sigo siendo tu hija.`
 ` ...El honor y gloria de la familia Ushiromiya,`
 ` ...y todo lo que te queda,`
-` ...¡yo, Natsuhi, te demostraré que puedo protegerlo...!"`
+` ...¡yo, Natsuhi, te demostraré que puedo protegerlo!..."`
 `"...No estás calificada para llevar el Águila de un Ala.`
 ` ...Sin embargo, el Águila de un Ala está grabada en tu corazón.`
 ` ...En ese caso, eres claramente mi familiar consanguínea, una persona que heredará la gloria de la familia Ushiromiya."`
@@ -665,14 +665,14 @@
 `...Pero ese no era el motivo por el que Eva estaba extendiendo sus brazos.`
 `...Intentaba esconder esa horrible escena de los jóvenes.`
 `¡Era su corazón de madre, tratando de proteger los ojos y los corazones de nosotros, los niños, intentando bloquear nuestra visión de la terrible escena al menos con uno de sus brazos!`
-`"...¿Es esto alguna clase de broma? ¡¿Lo es...?!"`
+`"...¿Es esto alguna clase de broma? ¡¿Lo es?!..."`
 `...He visto esta clase de escena barata con demasiada frecuencia.`
 `{n}En manga, televisión, anime y películas, la he visto una y otra vez...`
-`¡¡Esto solo... solo era ver en la vida real algo que había visto tantas veces en aquellas películas sensacionales, ¿verdad...?!!`
+`¡¡Esto solo... solo era ver en la vida real algo que había visto tantas veces en aquellas películas sensacionales, ¿verdad?!!...`
 `Solo eso no debería...`
 ` ¡¡¡Aaaaah,`
 ` pero ese... ese traje,`
-` ...es el del viejo bastardo, ¿no...?`
+` ...es el del viejo bastardo, ¿no?...`
 ` Ya lo entiendo, entonces ése es mi tío Krauss...`
 ` Y Kyrie‐san, y mi tía Rosa, uwooOOOOOOoooooOOo!!!`
 `"¡¡¡Papá, PAPÁ!!!"`
@@ -717,11 +717,11 @@
 `...De todos modos,`
 ` ...todos los cuerpos que se habían dejado en el lugar habían recibido un macabro maquillaje.`
 `...¡No era maquillaje... era más como...`
-` si hubieran arado sobre sus caras...!`
+` si hubieran arado sobre sus caras!...`
 ` Sus caras estaban destrozadas, con una expresión que una persona normal no podría hacer tras la muerte.`
 ` ...¡No podía distinguir dónde estaban los ojos y la nariz, pero podía ver sus bocas... porque estaban totalmente abiertas, con las crestas de sus dientes a la vista!`
 `¡Pero los dientes del frente no estaban, e incluso la mejilla que debería haberlos cubierto estaba totalmente arrancada y expuesta!`
-` ¡¡Incluso como un hombre, pensar que lo que me preocupaba tanto era solo un estilizado maquillaje fue algo totalmente inútil...!!`
+` ¡¡Incluso como un hombre, pensar que lo que me preocupaba tanto era solo un estilizado maquillaje fue algo totalmente inútil!!...`
 `"...¡¡¡UwooooOOOOoooooooohh!!!`
 ` ¡¡Papáaaaaa!!`
 ` ¡Es cierto que siempre pensé que irías al infierno!"`
@@ -732,7 +732,7 @@
 ` ...Incluso tú...`
 `...no había razón alguna para que incluso tú pasaras por esto..."`
 `"...No tienen cara... no tienen cara...`
-` ¡¡Maldita sea maldita sea maldita sea maldita sea, hiiiiiiiiiiiiiii!!!(¿reemplazar por otra cosa?)"`
+` ¡¡Maldita sea maldita sea maldita sea maldita sea, hiiiiiiiiiiiiiii!!!(placeholder:¿reemplazar grito por otra cosa?)"`
 `"...Battler‐san, no debes seguir mirando...`
 ` ¡Dudo que tus padres hubieran querido que les vieras de esta forma!...`
 ` ¡¡Por el bien de tu padre y de tu madre...  no debes seguir mirando!!"`
@@ -756,8 +756,8 @@
 ` ¡¡Es bastante mejor es bastante mejor!!"`
 `"¡¡¡NooooooooooooooooooOOOOOOOOOOooooooooooooooooooOOOOOooooo!!!"`
 `Intentando acallar mis imprudentes palabras, Jessica intentó llenar sus oídos con el sonido de su propio grito.`
-`"...¡Detente, Battler‐kun...!`
-` ¡Solo detente... detente...!"`
+`"...¡Detente, Battler‐kun!...`
+` ¡Solo detente... detente!..."`
 `"¡¡Aniki, Aniki!!`
 ` ¡¡¡UoooOoooOOOooooooooo!!!"`
 `Sin preocuparme por edad e imagen,`
@@ -769,7 +769,7 @@
 ` ...los que yacen allí son...`
 ` tío Krauss, tío Rudolf, tía Kyrie,`
 ` tía Rosa, Gohda‐san...`
-` ...¿Cinco personas...?"`
+` ...¿Cinco personas?..."`
 `"...No.`
 ` ...Hay seis.`
 ` ...Hay...`
@@ -778,7 +778,7 @@
 ` en un punto ciego para George, que estaba en la entrada.`
 `...Así que George no podía saber... a quién pertenecía el cadáver...`
 `...Por tanto... se maldijo a sí mismo.`
-`{n}¡Se maldijo a sí mismo por pensar siempre lo peor... y por siempre tener razón...!`
+`{n}¡Se maldijo a sí mismo por pensar siempre lo peor... y por siempre tener razón!...`
 `"...Entonces,`
 ` ...yaciendo bajo tus pies está...`
 ` ...Sha‐`
@@ -809,7 +809,7 @@
 `"...¿Por qué?...`
 ` Después de todo... no podré volver a ver la cara de Shannon, ¿verdad?...`
 ` Entonces... ¿por qué no puedo ver...`
-` ...su última expresión...?"`
+` ...su última expresión?..."`
 `"...¿Ayer fue la última vez que viste a Shannon‐chan?"`
 `"...Sí."`
 `"Ya veo...`
