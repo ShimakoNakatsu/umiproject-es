@@ -86,7 +86,7 @@
 `"...Sí.`
 ` Tengan cuidado de no mojar su ropa."`
 `Después de ver a los tres de nosotros fuera, Kanon‐kun se asomó a la habitación vacía.`
-`"...¿No está Maria‐sama con ustedes...?"`
+`"...¿No está Maria‐sama con ustedes?..."`
 `"No, no lo está.`
 ` ¿No estaba con la tía Rosa?"`
 `Rosa estaba tendida en un sofá en la sala vacía, y se había quedado dormida en algún momento.`
@@ -128,13 +128,13 @@
 `{n}Un escalofrío le recorrió su espalda.`
 `Maria era estúpidamente honesta, hasta el punto en el que "estúpidamente" podría ser repetido siete veces,`
 ` ...y si se le ordenaba encontrar algo que no existía, ella lo buscaría por siempre y para siempre.`
-`...¡¡Incluso si la lluvia caía a cántaros...!!`
+`...¡¡Incluso si la lluvia caía a cántaros!!...`
 `"...Esto está mal.`
-` ¡Los primos se fueron antes, así que Maria está sola...!`
+` ¡Los primos se fueron antes, así que Maria está sola!...`
 ` ¡A menos que alguien le dijera que parara, se quedaría allí, incluso si cayesen lanzas del cielo!`
 ` ¡¡Sin siquiera abrir un paraguas!!`
 ` ...¡¡Aaaah, qué he hecho, perdiendo el control de mis emociones!!"`
-`¡¡A pesar de conocer esa simple honestidad mejor que nadie, tuve que perder el control de mis emociones una vez más y hacer una cosa horrible...!!`
+`¡¡A pesar de conocer esa simple honestidad mejor que nadie, tuve que perder el control de mis emociones una vez más y hacer una cosa horrible!!...`
 `"¡¡Mariaaaaaaa!!"`
 `Rosa empujó a Genji y corrió por el pasillo.`
 `El exterior realmente parecía un tifón, y la lluvia caía magníficamente.`
@@ -177,7 +177,7 @@
 `{n}Había sido una chica adorable y pura que simplemente aceptaría lo que cualquiera dijera.`
 `...¡Pero han pasado seis años desde entonces!`
 `{n}Tenía nueve años ahora, y experimentar las cosas buenas y malas de la vida tendría que haberle enseñado algo.`
-`...¡Y aun así, ¿sigue siendo tan inocente y pura como lo era antes...?!`
+`...¡Y aun así, ¿sigue siendo tan inocente y pura como lo era antes?!...`
 `"¡¡¡Mariaaaaaaaaaaaa!!!"`
 `Mientras yo circundaba la rosaleda, algo blanco inesperadamente vino hacia mí.`
 `...Era un paraguas blanco.`
@@ -200,7 +200,7 @@
 `"¡Battler‐kun!`
 ` ¡Menos mal, la encontraste!"`
 `"¡¡Mariaaaaaaaaa!!`
-` ¡¡Lo siento, lo siento mucho...!!"`
+` ¡¡Lo siento, lo siento mucho!!..."`
 `Tía Rosa tiró su paraguas y abrazó a Maria.`
 `"...Uu...`
 ` No está aquí.`
@@ -216,7 +216,7 @@
 `Jessica y Kanon‐kun nos alcanzaron.`
 `"...Prepararé una toalla en la mansión inmediatamente."`
 `"Maria...`
-` ¿Estuviste aquí todo el tiempo...?"`
+` ¿Estuviste aquí todo el tiempo?..."`
 `"Lo siento...`
 ` Lo siento por ser tan mala madre..."`
 `"...Tía Rosa, ¿por qué no regresa a la mansión por el momento?`
@@ -254,7 +254,7 @@
 `El nombre que Maria mencionó tan feliz fue el de la bruja de la isla.`
 `Rosa respiró hondo y volvió a preguntar intentando evitar herir los sentimientos de Maria ahora que ella estaba feliz.`
 `"¿De verdad? Que bueno.`
-` Así que, ¿quién era...?`
+` Así que, ¿quién era?...`
 ` ¿La persona que te trajo ese paraguas?"`
 `"Uu.`
 ` ¡{f:5:Bea}—`
@@ -300,7 +300,7 @@
 `{n}Krauss levantó el puño una vez más y golpeó a la puerta, gritando.`
 `"...¡Padre, ¿puedes escucharme?!`
 ` Nos dirigimos abajo ahora, pero cuando te sientas con ánimo, por favor únete a nosotros.`
-` ¡Todos tus hijos te están esperando...!"`
+` ¡Todos tus hijos te están esperando!..."`
 `La voz era muy fuerte, y la puerta fue golpeada ruidosamente.`
 `{n}No había manera de que no llegase a los oídos de Kinzo.`
 `...Estaba llegando a él.`
@@ -310,7 +310,7 @@
 `"...No estoy interesado ni en cenar, ni en las caras de mis hijos.`
 ` ...Solo me iré de aquí cuando {f:5:Beatrice} sea resucitada o cuando sea elegido como un sacrificio por la llave...`
 ` La Ruleta de los Demonios ya ha comenzado a girar.`
-` ¿Qué importancia tiene la cena en este momento...?"`
+` ¿Qué importancia tiene la cena en este momento?..."`
 `Actuando como si el fortísimo golpeteo en la puerta no pudiese entrar en sus oídos en absoluto...`
 `{n}...Y aún en su estado filosófico, Kinzo silenciosamente pensaba en su siguiente movimiento de ajedrez...`
 `Como siempre, la figura de Kinzo no fue vista en lo absoluto en el comedor.`
@@ -352,7 +352,7 @@
 `En ese momento, Shannon y Kumasawa aparecieron, empujando un carrito de servicio con aperitivos.`
 `"¿Y qué tal Kumasawa‐san o Shannon‐san?"`
 `"...¿Sí?`
-` ¿He cometido algún error...?"`
+` ¿He cometido algún error?..."`
 `Shannon se encogió, habiendo venido a mitad de la conversación y pensando equivocadamente que estaba siendo acusada por haber cometido algún tipo de error.`
 `"No, no es eso.`
 ` Cuando Maria‐chan estaba sola en el jardín de rosas, empezó a llover.`
@@ -369,7 +369,7 @@
 `"...Sí.`
 ` ...Me disculpo por haber sido incapaz de ayudar..."`
 `"¿Preparando las habitaciones?`
-` ¿A qué se refieren con eso...?"`
+` ¿A qué se refieren con eso?..."`
 `"...A causa de la lluvia,`
 ` pensamos que sería difícil que todos los invitados regresaran a la casa de huéspedes,`
 ` así que les ordené a los sirvientes que preparasen las habitaciones para visitas dentro de la mansión ."`
@@ -415,7 +415,7 @@
 ` ¿Eh?"`
 `"Ah, esperen un segundo, no me malinterpreten.`
 ` No es como si estuviera buscando a un culpable o algo parecido.`
-` ¡Todo lo que quiero hacer, como madre, es darle las gracias a la persona que le dejó un paraguas a Maria en medio de la lluvia...!"`
+` ¡Todo lo que quiero hacer, como madre, es darle las gracias a la persona que le dejó un paraguas a Maria en medio de la lluvia!..."`
 `...Dejar un paraguas a una niña deambulando en medio de la lluvia es algo para ser alabado, no escondido.`
 `...Aun así, nadie levantó la mano.`
 `...¿Por qué?`
@@ -439,7 +439,7 @@
 `"...Nn...`
 ` ...Nnnn."`
 `Rosa no parecía convencida.`
-`{n}...A pesar de que ella solo quería dar las gracias por el paraguas, ¿por qué todo tenía que estar cubierto por humo...?`
+`{n}...A pesar de que ella solo quería dar las gracias por el paraguas, ¿por qué todo tenía que estar cubierto por humo?...`
 `"¡Uu!`
 ` Tal como dijo el tío Krauss.`
 ` ¡{f:5:Beatrice} me lo dejó!`
@@ -514,7 +514,7 @@
 ` Démonos prisa en preparar la mesa."`
 `"Vamos, no hay tiempo.`
 ` ¡No se queden ahí parados!`
-` ¡Apresúrense...!"`
+` ¡Apresúrense!..."`
 `Gohda le quitó de las manos a Shannon el carrito de servicio y lo empujó con paso seguro hacia la cocina.`
 `"...En ese caso, permítanos volver a la cocina.`
 ` ...Después de todo, la paciencia de Gohda‐san es más bien pequeña, ...jo‐jo‐jo."`
@@ -542,7 +542,7 @@
 `A excepción del instante en que los rayos iluminaban el cielo, todo lo que podía ser visto fuera de la ventana era la oscuridad de la noche.`
 `Al igual que los humanos mandan mientras el sol está en lo alto, el tiempo en que la luna lo está es dominado por aquello que no es humano.`
 `La oscuridad de la noche que ahora rodeaba a Rokkenjima era dominada, no por la familia Ushiromiya, sino por otro amo.`
-`¿Se apiadó acaso este Amo de Maria cuando estaba sola y empapada por la lluvia en el jardín de rosas, y le dejó un paraguas...?`
+`¿Se apiadó acaso este Amo de Maria cuando estaba sola y empapada por la lluvia en el jardín de rosas, y le dejó un paraguas?...`
 `Kanon miró las luces del jardín de rosas, débilmente visibles a través de la ventana.`
 `{n}Las tenues luces no eran suficientes como para iluminar los alrededores.`
 `Al mirar a esas luces sentía como si estuviera haciendo contacto visual con la bruja, y Kanon se vio obligado a apartar la mirada.`
@@ -594,7 +594,7 @@
 ` ¿No sería eso un poco descorazonador como partida a la larga carrera de la vida?"`
 `"¡Oye! Espera un momento...`
 ` Kyrie‐san, si empiezas a hablar de algo así en el medio de una comida, no se digerirá bien y todos nos constiparemos, ¿ver~dad?"`
-`"¡Wajajaja...!`
+`"¡Wajajaja!...`
 ` ¡Eso es, eso es! ¡Estábamos hablando de las carreras de Jessica‐kun y Battler‐kun!`
 ` ¡No puedes tomarte el futuro demasia'o en serio!`
 ` Wajajaja..."`
@@ -637,7 +637,7 @@
 `"...Eso...`
 ` ¿qué es?"`
 `"Maria...`
-` ¿de dónde lo has sacado...?"`
+` ¿de dónde lo has sacado?..."`
 `"Ese sobre tiene el...`
 ` ...de Kinzo‐san..."`
 `Cuando Nanjo murmuró eso, incluso los niños pudimos entender por qué todo el mundo parecía estar congelado.`
@@ -645,9 +645,9 @@
 `...En otras palabras, solo podía significar una cosa.`
 `{n}Este sobre contenía un mensaje de Kinzo.`
 `"Jo...`
-` ...¿Qué está haciendo un sobre como éste aquí...?"`
+` ...¿Qué está haciendo un sobre como éste aquí?..."`
 `"...Parece, ...parece que algo interesante ha salido a la vista."`
-`"...¡V‐vamos, déjame mirarlo...!"`
+`"...¡V‐vamos, déjame mirarlo!..."`
 `"¡¡Uu!!`
 ` ¡De ninguna manera, Maria lo leerá!`
 ` ¡¡A Maria le dijeron que se lo leyera a todos!!"`
@@ -661,10 +661,10 @@
 ` men—`
 ` "mensajera"!`
 ` ¡Uu!"`
-`"¿Mensajera...?`
+`"¿Mensajera?...`
 ` Ijijiji, a la bruja de la isla sí que le gusta molestarnos."`
 `Battler intentó tomárselo a broma, pero nadie le siguió.`
-`"...M‐me pregunto qué habrá escrito en su interior. ¿Maria‐chan...?"`
+`"...M‐me pregunto qué habrá escrito en su interior. ¿Maria‐chan?..."`
 `"Uu.`
 ` ¡Leer!`
 ` ¡Uu!"`
@@ -689,7 +689,7 @@
 ` Por lo tanto, esto no prueba que el sobre provenga de papá."`
 `"Pienso lo mismo.`
 ` No puedo aprobar que decidamos arbitrariamente que esta carta es de Padre por tan solo el lacre.`
-` ¡Doctor Nanjo, ¿le importaría abstenerse de hablar palabras tan vagas...?!"`
+` ¡Doctor Nanjo, ¿le importaría abstenerse de hablar palabras tan vagas?!..."`
 `"...Mis disculpas...`
 ` Hablé más de la cuenta..."`
 `Uno tras otro, los hermanos, desde Krauss hacia abajo, rechazaron la afirmación de Nanjo, diciendo que, el sobre que sostenía Maria no tenía por qué haber sido necesariamente enviado por Kinzo.`
@@ -697,7 +697,7 @@
 `Las intenciones de Kinzo estaban escritas ahí,`
 ` y temían desde el fondo de sus corazones que pudiera ser algún anuncio decididamente desfavorable con respecto a la herencia.`
 `"...Maria...`
-` La persona que te dió el sobre es la misma que te dió el paraguas, ¿cierto...?"`
+` La persona que te dió el sobre es la misma que te dió el paraguas, ¿cierto?..."`
 `"¡Uu!"`
 `"¡No sé lo que "uu" significa!`
 ` ¡¿Es eso verdad?!"`
@@ -706,7 +706,7 @@
 ` Uu."`
 `"Así que, en otras palabras,`
 ` ...la bruja,`
-` {f:5:Beatrice}, ¿fue quien te dio el sobre junto al paraguas...?"`
+` {f:5:Beatrice}, ¿fue quien te dio el sobre junto al paraguas?..."`
 `"¡Uu!"`
 `Maria asintió violentamente.`
 `"...E‐estoy de acuerdo con mi marido.`
@@ -736,7 +736,7 @@
 `"Tienes razón.`
 ` ¿Maria, una mensajera?`
 ` Ése ciertamente no es uno de sus pasatiempos...`
-` Rosa, ¿podría ser que todo esto no es más que un intento de sorprendernos por parte de Maria‐chan, con algún tipo de talento oculto...?"`
+` Rosa, ¿podría ser que todo esto no es más que un intento de sorprendernos por parte de Maria‐chan, con algún tipo de talento oculto?..."`
 `"...M‐Maria no es realmente el tipo de niña capaz de hacer algo tan ingenioso."`
 `"Leer.`
 ` Uu."`
@@ -744,12 +744,12 @@
 `Todos se callaron súbitamente...`
 `"Bienvenidos a Rokkenjima, miembros de la familia Ushiromiya.`
 ` Yo soy {f:5:Beatrice}, la alquimista asesora de la familia, bajo el contrato del mismo Kinzo‐sama."`
-`"...¡Qué estupidez...!"`
+`"...¡Qué estupidez!..."`
 `"¡Silencio!"`
 `"He estado sirviendo muchos años bajo su mando como se estipuló en nuestro contrato, pero el día de hoy, este contrato ha sido declarado como finalizado por Kinzo‐sama.`
 ` En consecuencia, de ahora en adelante, por favor, acepten mi renuncia del puesto de alquimista asesora de la familia."`
-`"...¡Qué insensatez... qué tontería...!"`
-`"¡N‐no puedo aguantar escuchar esto...!"`
+`"...¡Qué insensatez... qué tontería!..."`
+`"¡N‐no puedo aguantar escuchar esto!..."`
 `"Y ahora, hay una parte del contrato que debe ser explicada a todos los presentes.`
 ` Yo, {f:5:Beatrice}, presté una enorme cantidad de de oro a Kinzo‐sama, bajo ciertas condiciones.`
 ` Una de esas condiciones dicta que todo el oro habrá de ser devuelto a mí tras concluir el contrato.`
@@ -767,8 +767,8 @@
 `"Al oír esto, lo más probable es que piensen que Kinzo‐sama ha sido increíblemente despiadado.`
 ` Sin embargo, Kinzo‐sama añadió una cláusula especial con el objetivo de darles a ustedes una oportunidad de preservar su fortuna y honor.`
 ` En el caso, y bajo ningún otro, de que esa cláusula especial sea cumplida, perderé por toda la eternidad mi derecho de recuperar el oro y los intereses."`
-`"...¿Una cláusula especial...?"`
-`"¡¿Cu‐cuál es...?!"`
+`"...¿Una cláusula especial?..."`
+`"¡¿Cu‐cuál es?!..."`
 `{e:070:Cláusula especial.`
 `{f:5:Beatrice} posee el derecho a recuperar el oro y los intereses acumulados al ser concluido el contrato.`
 `Sin embargo, dado el caso de que alguien encuentre el oro oculto mencionado anteriormente en este contrato,`
@@ -777,8 +777,8 @@
 ` habré de devolver todo, incluyendo la porción que haya sido ya recaudada.`
 `Además, como primer paso de la recolección de la deuda de Kinzo‐sama, me he apropiado del "Anillo del Líder" de la familia Ushiromiya, el cual es símbolo de la herencia del liderazgo de un individuo a otro.`
 `Les pido que por favor lo confirmen ustedes mismos examinando el sello del lacre.}`
-`"...¡¿De verdad dice algo así...?!`
-` ¡Es impensable que papá renuncie a su anillo...!"`
+`"...¡¿De verdad dice algo así?!...`
+` ¡Es impensable que papá renuncie a su anillo!..."`
 `Krauss estaba mirando ese lacre como si quisiese hacerle un agujero.`
 `{n}¡Y Eva y Rudolf estaban haciendo lo mismo sobre su hombro!`
 `"E‐estoy seguro de que tuve la extraña sensación de que algo faltaba en el dedo de Kinzo‐san cuando estábamos jugando al ajedrez..."`
@@ -789,14 +789,14 @@
 `"E‐es verdad.`
 ` Es tal como dice Kyrie‐san..."`
 `"...¿Realmente piensan...`
-` que Kinzo‐san se los dirá...?`
+` que Kinzo‐san se los dirá?...`
 ` Después de todo, es una persona cuyos pensamientos son, a veces, imposibles de predecir usando el sentido común..."`
-`"¡En cualquier caso, esto sigue siendo un disparate...!`
+`"¡En cualquier caso, esto sigue siendo un disparate!...`
 ` La ilusión del oro en sí misma ya es una falsedad creada por Padre.`
 ` ¡Si quieren hablar de la existencia de oro inexistente, déjenme fuera de la conversación!"`
 `"Pero, la bruja lo dijo, ¿verdad?`
 ` ¿Sobre cómo la herencia y todos los bienes serían entregadas a la persona que encuentre el oro?`
-` Así que, ¿podría esto significar que {f:5:Beatrice}‐sama es la consejera legal de Padre, o tal vez alguien a cargo de su fortuna...?"`
+` Así que, ¿podría esto significar que {f:5:Beatrice}‐sama es la consejera legal de Padre, o tal vez alguien a cargo de su fortuna?..."`
 `"¡N‐no es posible fiarse de una extraña persona que confía un papel tan sospechoso como éste a una niña!"`
 `"Aniki... ya es hora de que digas la verdad.`
 ` ¡¿Es posible que alguien cuya identidad tú desconozcas esté realmente manejando la fortuna de papá?!"`
@@ -837,7 +837,7 @@
 `Kinzo continuó su comida en silencio.`
 `{n}...Shannon, retirando un plato vacío, miró de manera incómoda entre la puerta que estaba siendo golpeada y la cara de Kinzo.`
 `"...Todo el mundo lo está llamando, pero,`
-` ...¿qué debería hacer...?"`
+` ...¿qué debería hacer?..."`
 `"...Déjalo.`
 ` Tanto Dios como yo valoramos el silencio durante la cena."`
 `"...¿Debería silenciarlos?"`
@@ -860,4 +860,4 @@
 ` ¿Noir? ¿Rouge?`
 ` ¿O se lo llevará todo la casa?`
 ` Vamos, {f:5:Beatrice}, puedes empezar.`
-` ¡Te mostraré una vez más el poder de los milagros...!"`
+` ¡Te mostraré una vez más el poder de los milagros!..."`
