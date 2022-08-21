@@ -23,7 +23,7 @@
 ` ¡Ajajajaja!"`
 `"Wajajaja, bien, bien, todos tienen sus puntos fuertes y débiles.`
 ` Es malo reírse de ellos.`
-` ¡Wajajaja...!"`
+` ¡Wajajaja!..."`
 `"P‐papá, tú también estás riendo.`
 ` Oye, Maria‐chan, ya para de reírte."`
 `"¿Parar de reírme ya?`
@@ -72,9 +72,9 @@
 `Jessica creció más rápido, así que siempre estuvo un paso adelante en cuestiones de tamaño y fuerza física.`
 `Entonces, cuando reñíamos en una competencia de fuerza, generalmente ganaba Jessica.`
 `Por eso, aunque entiendo claramente que estoy más grande ahora, siento que todavía no puedo vencer a Jessica con mi fuerza.`
-`"¡Hnng! ¡Ghhh...!!"`
+`"¡Hnng! ¡¡Ghhh...!!"`
 `"¡...Woh...ah...!`
-` Qué demon... ¡¿por qué vas... tan en serio...?!`
+` Qué demon... ¡¿por qué vas... tan en serio?!...`
 ` Owowow..."`
 `"¡Oye, oye, oye, esto no es nada!`
 ` Jessica, te has vuelto débil."`
@@ -117,7 +117,7 @@
 ` Muy pronto."`
 `En ese momento, no entendí lo que quería decir Aniki con esa gran sonrisa...`
 `"¡Vaya, vaya... oooh!`
-` Battler‐san, ¡cuánto has crecido...!"`
+` Battler‐san, ¡cuánto has crecido!..."`
 `¿Quién es ahora?`
 ` Es una anciana con un delantal.`
 `{n}...O‐oh sí, me trae recuerdos... ¡Ya la recuerdo!`
@@ -150,7 +150,7 @@
 `"Jo‐jo‐jo, Eva‐sama, está tan severa como siempre.`
 ` Me encontré con que tenía unas compras urgentes que hacer, y mientras estaba en eso, pensé que vendría a darles la bienvenida.`
 ` Aunque, da una mala impresión que el que espere para saludarlos sea una anciana decrépita.`
-` ¡Jo‐jo‐jo...!"`
+` ¡Jo‐jo‐jo!..."`
 `Tía Eva había sido sarcástica, pero toda la experiencia de Kumasawa baa‐chan no era asunto de burla.`
 ` Era más que capaz de dejar ese comentario de lado sin problemas.`
 `Bueno, no debería decirlo, pero la vieja Kumasawa baa‐chan ya ha pasado de su momento óptimo como sirviente.`
@@ -185,7 +185,7 @@
 ` ¡Es lo que llaman una enfermedad incurable, jo‐jo‐jo!"`
 `"De cualquier manera, Jessica‐chan se ha puesto más linda.`
 ` Qué bueno que se parezca a Natsuhi nee‐san."`
-`"¿E‐en serio...?`
+`"¿E‐en serio?...`
 ` Personalmente, no veo el parecido...`
 ` Sabes, no quiero parecerme a mis padres.`
 ` Porque les tengo cero respeto."`
@@ -244,7 +244,7 @@
 ` Dice que en esos tiempos, incluso si era solo un bote pesquero, su oponente podía ir por sobre los 30 nudos."`
 `"Para saciar su sed por un encuentro de revancha, creó un genial bote modificado de súper alta velocidad.`
 ` Estoy segura de que lo amarás, Battler."`
-`...¿B‐bote modificado de súper alta velocidad...?`
+`...¿B‐bote modificado de súper alta velocidad?...`
 `...Al principio pensé que sería mucho mejor que ese pedazo de basura de bote pesquero que se podría hundir en cualquier momento...`
 `pero por alguna razón, tengo un mal presentimiento sobre esto...`
 ` ...Nah, no debe ser nada.`
@@ -259,7 +259,7 @@
 ` ¡¡Me voy a caeeeer, me voy a caeeeer, me voy a caeeeeer!!"`
 `"¡¡Uu‐uu‐uu!!`
 ` ¡¡Caer caer caeeeer!!"`
-`"¡Si me caigo terminaré en el océano y me ahogaré...! ¡¿Dónde está el paracaídas?!...no, esperen, ¡¿dónde está la noya?!`
+`"¡Si me caigo terminaré en el océano y me ahogaré!... ¡¿Dónde está el paracaídas?!...no, esperen, ¡¿dónde está la noya?!`
 ` ¡¡Denme un chaleco salvavidaaaaas!!"`
 `"¡Waa‐ja‐ja‐ja‐ja!`
 ` ¡Qué pasa, Battler, qué es esa actitud, waa‐ja‐ja‐ja‐ja!"`
@@ -289,7 +289,7 @@
 `"¡Whooooa, tía Eva, eres crueeeeeeeel!`
 ` ¡¡Ooh noooo, me voy a caeeeeeeeer!!`
 ` ¡¡¿Chaleco salvavidas, paracaíiiiidaaaas?!!`
-` ¡¡¡Whoooooooaaaaaaahh...!!!"`
+` ¡¡¡Whoooooooaaaaaaahh!!!"`
 `"¡¡N‐no, está bien, simplemente piensa al revés!!`
 ` ¡¿Cuál es el objetivo del enemigo?!`
 ` ¡¿Quiere que esté asustado?!`
@@ -353,7 +353,7 @@
 `Solamente Maria, quien en verdad no podía entender la situación, dijo sus dudas ingenuas en voz alta.`
 `Sin embargo, los otros solo me dieron miradas nerviosas sin responder a pesar de saber la respuesta.`
 `"¡Maria!`
-` ¡Mira, ya se puede ver la costa...!`
+` ¡Mira, ya se puede ver la costa!...`
 ` ¡Mira, allá está!`
 ` ¡¿La ves?!"`
 `"¡Uu!`
@@ -442,13 +442,13 @@
 `Uno supondría que había visto algo allá, pero solo decía que {i:no estaba}.`
 ` ...Muy extraño.`
 `Sin embargo, ya que mis últimos recuerdos de este lugar son de hace seis años, pude notarlo antes que Aniki, quien viene aquí cada año.`
-`"...¿Eh...?`
+`"...¿Eh?...`
 ` ...Si mal no recuerdo, ¿no había algo como un {c:86EF9C:torii} sobre un pequeño peñasco por allá?`
 ` ...Es cierto, definitivamente estaba allí.`
 ` Lo recuerdo bien, ya que al acercarnos a la isla, era lo primero en darnos la bienvenida, como un punto de referencia."`
 `"Wow, eres genial, Battler.`
 ` Aunque hayan pasado seis años, lo recordaste."`
-`"¡Estaba aquí, verdad...!`
+`"¡Estaba aquí, ¿verdad?!...`
 ` También lo recuerdo.`
 ` El templo del dios tutelar y el esa cosa parecida a un torii que habían sido construidos solos en ese peñasco.`
 ` ...Y ahora que lo dicen, es cierto, no están.`
