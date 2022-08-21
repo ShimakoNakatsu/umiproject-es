@@ -45,7 +45,7 @@
 `"Es verdad.`
 ` Estoy de acuerdo, este año es el más divertido."`
 `Las palabras sinceras de Maria probablemente hablaron por todos.`
-`Cuando George-aniki acarició la cabeza de Maria, ella sonrió como un gatito contento...`
+`Cuando George‐aniki acarició la cabeza de Maria, ella sonrió como un gatito contento...`
 `"...Disculpen.`
 ` Su comida está lista."`
 `Un tímido golpeteo y la igualmente tímida voz de una mujer joven llegó desde la puerta.`
@@ -57,7 +57,7 @@
 `"H‐ha pasado bastante tiempo desde nuestra última reunión, Battler‐sama.`
 ` Es agradable verlo después de seis años. Soy Shannon."`
 `Reconociéndome y temblando un poco, hizo una gran reverencia.`
-`"¡...Ah...!`
+`"...¡Ah!...`
 ` Jessica me ha sorprendido, pero Shannon‐chan, tu también...`
 ` ¡Te has vuelto una mujer completamente hermosa~!"`
 `"S‐...sus palabras son demasiado buenas para mí..."`
@@ -69,10 +69,10 @@
 ` quisiera señalar que no sufro de alguna condición rara que irrite mis nodos linfáticos y que los rasque hasta que me abra el cuello y que solo se evite acariciando pechos.`
 `Tan solo es mi forma de comunicación al estilo Battler.`
 `Si me acerco como estoy haciendo, hay una probabilidad de ocho o nueve de cada diez de que reciba una cachetada o una paliza, ¿cierto?`
-`¡Es la técnica original de Battler-sama para romper el hielo!`
-`...B‐bueno, eso significa que, con la probabilidad restante de uno‐de‐cada‐diez, poder tocarlos me hace un sujeto bastante suertudo, ¿verdad...?`
+`¡Es la técnica original de Battler‐sama para romper el hielo!`
+`...B‐bueno, eso significa que, con la probabilidad restante de uno‐de‐cada‐diez, poder tocarlos me hace un sujeto bastante suertudo, ¿verdad?...`
 `Ijijyajyajya, ¡no es como si estuviera esperando que vaya a suceder, ¿veeerrrrdaa~aad?!`
-`En ese momento, mis manos estaban menos de un centímetro de los pechos de Shannon-chan, pero...el contraataque aún estaba por venir.`
+`En ese momento, mis manos estaban menos de un centímetro de los pechos de Shannon‐chan, pero... el contraataque aún estaba por venir.`
 `Ella se sonrojó y, avergonzada, bajó la cabeza cuando se dio cuenta de lo que estaba pasando,`
 ` pero con ambas manos sujetadas frente a ella educadamente, no trató de resistir con violencia, o cubrir sus pechos.`
 `...¡¡Whoaaaaah, esto es inesperado!!`
@@ -81,7 +81,7 @@
 `"¡¡Guaaaah, ooooowww, gracias Jessicaaaaaaa~!!"`
 `"¡¿P‐p‐porqué demonios me estás agradeciendo?!`
 ` ¿¿¿???"`
-`"No, no, mala mía, Shannon-chan.`
+`"No, no, mala mía, Shannon‐chan.`
 ` Al parecer me quedé demasiado absorto en tu hipnótico pecho...`
 ` Así que ahora podemos ver que después de todo si me acerco demasiado me degenero hasta convertirme en un gran pervertido`
 ` ¡En serio, te tienes que resistir!"`
@@ -90,10 +90,10 @@
 `"¡Mira, un pervertido es un pervertido sin importar que sea un invitado o no!`
 ` Diez centímetros alrededor del pecho de una chica son como un Rango de Identificación de la Defensa Aérea.`
 ` Si alguien traspasa el rango de dos centímetros, ya es una invasión del espacio aéreo y de inmediato me puedes dar una bofetada, ¡como una alerta máxima de despegue!"`
-`"...¡Yo, yo no podría hacer tal cosa...!`
+`"...¡Yo, yo no podría hacer tal cosa!...`
 ` Nosotros somos...eso es, muebles y..."`
 `Por supuesto que ella no querría que le tocaran los pechos, pero...si un huésped lo deseara, ella tendría la intención de sacrificar sus propias necesidades en respuesta.`
-`...¡Una chica como esta necesita un poco de protección urgente...!`
+`...¡Una chica como esta necesita un poco de protección urgente!...`
 `"...E‐en estos tiempos, pensar que hay una chica dedicada y virtuosa como esta...`
 ` ¡Me estoy... aturdiendo de nuevo!...`
 ` ...¡Pero, no!`
@@ -116,7 +116,7 @@
 ` Lo haré como usted desee.`
 ` De ahora en adelante, permítame que lo haga.`
 ` Battler‐sama, por favor acéptelo..."`
-`Shannon-chan anunció esto mientras me hacía una elegante reverencia.`
+`Shannon‐chan anunció esto mientras me hacía una elegante reverencia.`
 `La expresión de su rostro estaba radiante.`
 `{n}Le mostré un pulgar hacia arriba para indicar que por mí estaba bien.`
 `"Hace seis años, podrías haber sido confundida con la hija de algún criado que ayudaba con el trabajo de su padre,`
@@ -442,7 +442,7 @@
 `{n}Sin embargo, como era el deber del hijo mayor, había hecho formalmente la petición.`
 `"...Kinzo‐san.`
 ` Tus hijos, hijas y nietos están aquí para verte...`
-` ¿Qué tal si muestras tu rostro, solo un poco...?"`
+` ¿Qué tal si muestras tu rostro, solo un poco?..."`
 `"¡¡¡Silencio, quédate en silencio!!!`
 ` ¡¡¿Es ese un sermón, Nanjo?!!`
 ` ¡¡No los estoy convocando a ustedes, dije que llamaran a Genji!!`
@@ -466,7 +466,7 @@
 `"...No tengo idea de qué está gritando.`
 ` Creo que finalmente se ha vuelto loco."`
 `"Krauss‐san...`
-` ¿No es eso un poco rudo, hacia tu padre biológico...?"`
+` ¿No es eso un poco rudo, hacia tu padre biológico?..."`
 `"Mi padre ya está muerto.`
 ` ...Todo lo que queda aquí es un fantasma de lo que en vida fue.`
 ` En cualquier caso, mientras no tenga intención de salir, no hay nada que podamos hacer."`
@@ -611,7 +611,7 @@
 `"¡¡Continuarás susurrándome dentro de mi jaula por toda la eternidad, solo para mí!!`
 ` {f:5:Beatrice}...`
 ` Por qué...no me darás de nuevo tu sonrisa...`
-` OOOoooooh, ¡¡OOOooOOOoooh...!!`
+` OOOoooooh, ¡¡OOOooOOOoooh!!...`
 ` ¡¡{f:5:BeatriceeEeEEeeEee}!!`
 ` OOOoooOOOOoohh..."`
 `Después de aullar, Kinzo comenzó de nuevo a toser.`
@@ -647,13 +647,13 @@
 `Kinzo miró hacia el cielo fuera de la ventana.`
 `{n}Abrió los brazos como si suplicara a alguien en el cielo.`
 `"¡¡Si solamente...!!!`
-` ¡¡Si solamente fuera capaz de obtener ese milagro...!!`
+` ¡¡Si solamente fuera capaz de obtener ese milagro!!...`
 ` ...Oooh...`
 `{f:5:Beatrice}...`
 `{f:5:Beatrice}...`
 ` Muéstrame tu encantadora sonrisa una vez más..."`
 `"Sin importar cuánto tiempo pase, tu rostro no se desvanece...`
-` Solo quiero ver tu sonrisa...¡eso es todo...!`
+` Solo quiero ver tu sonrisa...¡eso es todo!...`
 ` ¡Devolveré todo lo que me has otorgado!`
 ` ¡Devolveré toda la gloria que he adquirido desde ese día!`
 ` ¡¡No necesito fortuna, prestigio, oro!!`
