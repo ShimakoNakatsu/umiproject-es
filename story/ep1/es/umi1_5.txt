@@ -6,7 +6,7 @@
 `"...Así que esta es la bruja, {f:5:Beatrice}.`
 ` ...¿Será verdad?"`
 `"¿Uu?`
-` ¿Battler no cree...?"`
+` ¿Battler no cree?..."`
 `Anteriormente, cuando él había preguntado qué era esta pintura, la primera persona en decirle que era {f:5:Beatrice} fue Maria.`
 `Por lo tanto, cuando Battler mostró signos de duda, Maria debió haber sentido que Battler no tenía fe en ella.`
 `...Por supuesto, eso no era lo que Battler quería decir.`
@@ -155,7 +155,7 @@
 ` ...es igual al salario de trabajo de 4000 años.`
 `Es como si hubieras trabajado cada día comenzando del periodo Jomon y finalmente acumulado este dinero.`
 `"...Uu.`
-` ¿20 mil millones de yenes es mucho...?"`
+` ¿20 mil millones de yenes es mucho?..."`
 `"Sí, es mucho.`
 ` Maria, podrías comprar más de ese pastel que adoras del que podrías comer en tu vida."`
 `"...Sin embargo, mientras que puede que eso sea posible con 20 mil millones de yenes en efectivo,`
@@ -310,14 +310,14 @@
 ` Vamos, Vamos."`
 `"Shannon‐chan.`
 ` Disculpa, pero quisiera pedirte que nos consiguieras una manta y unas tazas de té."`
-`"¡Está bien...!`
+`"¡Está bien!...`
 ` Desde luego."`
 `Shannon‐chan recibió sus instrucciones y elegantemente hizo una reverencia antes de volver tras sus pasos.`
 `Fuimos a la playa por nuestra cuenta.`
 `Todos nos dirigimos a la entrada en grupo.`
 `...Sintiéndome como si la bruja estuviera observando nuestras espaldas, me di vuelta una vez más.`
 `"...Uu.`
-` ...¿Battler, aún no crees...?"`
+` ...¿Battler, aún no crees?..."`
 `"Oh, no, yo creo.`
 ` ...¡Esa forma es más imaginativa!`
 ` ¡La Bruja Dorada {f:5:Beatrice} le dio al abuelo diez toneladas de oro!"`
@@ -344,9 +344,9 @@
 `"Eso solo es un disparate de un viejo senil.`
 ` Junto con Padre, él solo estaba fabricando una historia.`
 ` No pueden tomar eso seriamente."`
-`"¡Si ese oro no existiera, no habría sido capaz de reunir tantos fondos...!`
+`"¡Si ese oro no existiese, no habría sido capaz de reunir tantos fondos!...`
 ` Antes que muriera, el presidente era una persona con tal sinceridad que ganó el respeto de muchos del mundo financiero.`
-` ¡No podría haberse vuelto cómplice de un fraude como ése...!"`
+` ¡No podría haberse vuelto cómplice de un fraude como ése!..."`
 `"Aniki.`
 ` El presidente de Marusoo definitivamente lo vio.`
 ` Diez toneladas de eso, claramente con sus ojos.`
@@ -378,7 +378,7 @@
 ` Si él dice que recibió el dinero de una bruja, nadie creería que en realidad existe, ¿cierto?"`
 `"Probablemente lo dijo por el bien de todos ustedes.`
 ` Sin embargo, han aparecido algunos estúpidos descendientes que quieren dividir ese oro inexistente con el resto de la herencia.`
-` ...Rosa, ¿no me digas que incluso tú crees en este tipo de invención...?"`
+` ...Rosa, ¿no me digas que incluso tú crees en este tipo de invención?..."`
 `"...No puedo probar si Padre realmente tiene o no tiene el oro."`
 `"...Sin embargo, como una de sus cuatro hijos, solo quiero reclamar lo que me corresponde."`
 `"Jo...`
@@ -604,7 +604,7 @@
 ` También prometo que, cuando la herencia de Padre sea distribuida, lo voy a liquidar limpia y pulcramente."`
 `"...Sin embargo, por otra parte, hay un punto con el cual no puedo comprometerme sin importar qué."`
 `"...¿De qué estás hablando?`
-` ¿Qué punto no te gusta...?"`
+` ¿Qué punto no te gusta?..."`
 `"La parte de anticipadamente pagar diez por ciento de cada porción, 750 millones de yenes.`
 ` Como se pudieron fijar, mi estado político y financiero no es próspero.`
 ` Mientras que aseguro que definitivamente reuniré futuras inversiones,`
@@ -620,7 +620,7 @@
 `"...Krauss nii‐san, no importa qué, ese diez por ciento no es más que un número para medir tu sincerida', ¿no?`
 ` Hablando estrictamente, no deberíamos estar haciendo un acuerdo en primer lugar.`
 ` Te estamos haciendo un favor al ofrecer que nosotros dejemos las cosas de lado por solo diez por ciento en dinero de buena fe."`
-`"Después de tener eso explicado, rechazarlo provocaría que nuestra relación de confianza mutua cayera al suelo, ¿no...?"`
+`"Después de tener eso explicado, rechazarlo provocaría que nuestra relación de confianza mutua cayera al suelo, ¿no?..."`
 `Hideyoshi tenía una expresión humilde en su cara y se frotaba las manos,`
 ` pero sus ojos no estaban calmados en absoluto.`
 `...Krauss ya había visto a través de la sombra en el abismo de esos ojos.`
@@ -635,7 +635,7 @@
 ` Solo olvídate de hacer cualquier trato extraño o algo sospechoso."`
 `"...¿Jo?`
 ` Así que no poseo margen de negociación.`
-` ...¿Afirman que mi posición es tan débil que ni siquiera estamos en una correlación aún...?"`
+` ...¿Afirman que mi posición es tan débil que ni siquiera estamos en una correlación aún?..."`
 `Comenzaron a trepar escalofríos por la espalda de Rudolf...`
 `Él comenzó a sentirse absorbido por el peso de la insuperable muralla y la prolongada sombra de su hermano,`
 ` los cuales nunca había podido superar desde que eran pequeños...`
@@ -643,7 +643,7 @@
 ` Para mí, esto restaurará la confianza perdida hace mucho tiempo de mi hermano y hermanas menores y el profundo amor entre nosotros.`
 ` Hay un malestar en mi corazón por resolver esto rápidamente."`
 `"Sería muy feliz si esto pudiera ser resuelto hoy.`
-` ...Pero ustedes también estarían muy felices si este trato fuera resuelto rápidamente, ¿no...?"`
+` ...Pero ustedes también estarían muy felices si este trato fuera resuelto rápidamente, ¿no?..."`
 `Krauss miró a cada uno de los hermanos.`
 `{n}...Ellos evitaron su mirada con un instinto casi animal.`
 `Solo Hideyoshi era lento evadiéndolo.`
@@ -657,7 +657,7 @@
 ` También es horrible que fueras incapaz de solidificar tu base cuando tu compañía se volvió una sociedad cotizada.`
 ` ...Antes de que te dieras cuenta, algunos colegas de mala muerte habían comprado una gran cantidad de acciones de tu compañía, ¿no?"`
 `"...¿C‐`
-`... cómo podrías saber algo como eso...?"`
+`... cómo podrías saber algo como eso?..."`
 `"De la misma forma que tú.`
 ` Si ustedes pueden reunir evidencias probando que nadie me haría un préstamo, entonces puedo reunir evidencia en tí.`
 ` Jajaja, ¿es realmente tan extraño eso?"`
@@ -702,14 +702,14 @@
 `{a:c:`
 `¡POR LO TANTO,`
 ` MÁS QUE CUALQUIER COSA,{n}`
-`ÉL QUERÍA UN MONTÓN DE DINERO AHORA MISMO...!}`
+`ÉL QUERÍA UN MONTÓN DE DINERO AHORA MISMO!...}`
 `Él no podía esperar por la división de la herencia de Kinzo, la cual no sabía cuando ocurriría.`
 `"Y tú, Rudolf, has estado en un montón de problemas últimamente, ¿no?`
 ` Dicen que el extranjero es tenebroso, pero parece que realmente es cierto.`
 ` Los juicios americanos son resueltos muy emocionalmente.`
 ` Ellos no darán una sentencia generosa a un extranjero.`
 ` ...¿No fuiste advertido por tu abogado que hacer un arreglo con la otra parte sería más económico al final?"`
-`"...¿De qué estás hablando...?"`
+`"...¿De qué estás hablando?..."`
 `"...Bueno, es un problema del trabajo.`
 ` No es gran cosa.`
 ` Será arreglado con dinero..."`
@@ -733,10 +733,10 @@
 `{a:c:`
 `¡POR LO TANTO,`
 ` MÁS QUE CUALQUIER COSA,{n}`
-`ÉL QUERÍA UN MONTÓN DE DINERO AHORA MISMO...!}`
+`ÉL QUERÍA UN MONTÓN DE DINERO AHORA MISMO!...}`
 `"...Rosa, tú eres una buena y noble hermana pequeña.`
 ` Ni siquiera te acercarías a un peligroso juego de dinero.`
-` ...Sin embargo, tu naturaleza compasiva fue tu ruina, ¿no...?`
+` ...Sin embargo, tu naturaleza compasiva fue tu ruina, ¿no?...`
 ` No creo que alguien aceptaría convertirse en un aval tan a la ligera."`
 `"Nn...`
 ` ...umm...`
@@ -748,7 +748,7 @@
 ` Cada uno de ellos,`
 `{a:c:`
 ` ¡MÁS QUE CUALQUIER COSA,{n}`
-`QUERÍAN UN MONTÓN DE DINERO AHORA MISMO...!}`
+`QUERÍAN UN MONTÓN DE DINERO AHORA MISMO!...}`
 `En otras palabras, la situación se había invertido.`
 `Porque solo Krauss, a quien habían estado amenazando, no tenía una necesidad urgente por una gran cantidad de dinero.`
 `Comparado a eso, los tres que estaban amenazándolo querían dinero rápidamente, independientemente del costo.`
@@ -773,11 +773,11 @@
 `Los hermanos menores, quienes habían, hasta ahora, estado llevando al hermano mayor a una esquina, no podían hacer nada más que hacer muecas y rechinar sus dientes...`
 `"...E‐Eva..."`
 `"...No me hagas reír...`
-` ¡Como si te fuera a pedir prestado...!`
+` ¡Como si te fuera a pedir prestado!...`
 ` No me hagas reír...`
-`¡No me hagas reír...!"`
+`¡No me hagas reír!..."`
 `"...Si...`
-` ...si confiáramos en ti, ¿cómo podrías ayudarnos...?"`
+` ...si confiáramos en ti, ¿cómo podrías ayudarnos?..."`
 `"Se los dije, ¿no?`
 ` Todo lo que puedo hacer es encontrar patrocinadores para ustedes.`
 ` Por supuesto, negociaré por la mayor tasa de interés posible.`
@@ -787,7 +787,7 @@
 `"...Cariño.`
 ` Por favor cálmate."`
 `"Estoy calmado. Estoy extremadamente sereno...`
-` ...¡Bastardo...!"`
+` ...¡Bastardo!..."`
 `Kyrie tomó la mano de su marido.`
 `Pero esa acción lo hizo sentir aun más miserable, así que Rudolf la soltó.`
 `...Krauss rió como si eso lo hiciera extremadamente feliz.`
@@ -831,9 +831,9 @@
 ` Si la realización del milagro llega primero...`
 ` ¡Si llega primero!`
 ` ¡¡{f:5:Beatrice} será revivida nuevamente!!`
-` ¡Esa sonrisa que he estado persiguiendo la mitad de mi vida será restaurada...!"`
+` ¡Esa sonrisa que he estado persiguiendo la mitad de mi vida será restaurada!..."`
 `"¡¡Oooooohhh, {f:5:Beatrice}!!`
-` ¡La sagrada noche cuando el milagro sea apostado llegará, y el juego de los demonios comenzará...!`
+` ¡La sagrada noche cuando el milagro sea apostado llegará, y el juego de los demonios comenzará!...`
 ` ¡¡Definitivamente ganaré, y definitivamente permaneceré vivo!!"`
 `"¡Daré las vidas de los demás!`
 ` ¡No necesito riqueza u honor, bienes u oro o cualquier otra cosa!`
