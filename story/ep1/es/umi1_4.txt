@@ -1,967 +1,841 @@
-`Cruzamos el salón principal nuevamente en nuestro camino hacia la entrada.`
-`Al hacerlo, una vez más vimos el retrato de la bruja.`
-`Sin embargo, la palabra "vimos" no es probablemente la mejor palabra para describir esa experiencia.`
-`{n}...Era más como si nuestros ojos fuesen absorbidos a él.`
-`Los ojos de esa mujer, con su glamour de sabiduría, definitivamente tenían el poder de hacer que los que la vieran quedaran de pie clavados en el suelo.`
-`"... Así que esta es la bruja, {f:5:Beatrice}.`
-` ¿Será verdad?"`
-`"¿Uu?`
-` ¿Battler no cree?"`
-`Anteriormente, cuando él había preguntado qué era esta pintura, la primera persona en decirle que era {f:5:Beatrice} fue Maria.`
-`Por lo tanto, cuando Battler mostró signos de duda, Maria debió haber sentido que Battler no tenía fe en ella.`
-`Por supuesto, eso no era lo que Battler quería decir.`
-`Maria corrió hacia el retrato y comenzó a golpear una placa debajo de éste.`
-`Quizás el título del retrato estaba escrito ahí.`
-`Maria, tratando de probar que no estaba mintiendo, continuó golpeando la placa obstinadamente.`
-`"Aah, discúlpame por ello,`
-` no es como si dudara todo lo que me has dicho, Maria."`
-`"¡Uu!`
-` ¡Battler cree!`
+`La conferencia familiar Ushiromiya era llevada a cabo una vez al año.`
+`{n}Tomaba lugar el primer fin de semana de octubre.`
+`Si una familia normal utilizara un nombre pretencioso como "conferencia familiar",`
+` uno esperaría que no fuese más que una reunión de familiares que se ven en contadas ocasiones rodeados de montones de sushi.`
+`Sin embargo, ya que a los hijos y hermanos se les había prestado una gran fortuna,`
+` en la familia Ushiromiya, que solo consideraba adultos a los que triunfaban en los negocios, literalmente era una conferencia.`
+`¿Qué porcentaje de la fortuna fue invertido? ¿Qué tipo de negocios se llevaron a cabo? ¿Cuánto se ganó?`
+`¿Y como resultado, qué porcentaje puede ser reembolsado a la fortuna principal de la familia?`
+`{n}O, tal vez, ¿cuánto debe ser prestado para futuras empresas de negocio?`
+`{n}¿Qué lecciones se han aprendido, y qué se puede aprender de sus errores?`
+`Parece que asuntos como éstos habían sido hablados con gran seriedad en el pasado.`
+`Mi padre lo comparó con una cama de clavos.`
+`Al parecer, solía ser una reunión familiar muy seria y solemne, bañada por el sonido de las voces llenas de ira. Incluso en un buen año, no era extraño que alguien fuera abofeteado.`
+`Sin embargo, eso es cosa del pasado.`
+`Ahora que todos tienen sus propios negocios y persiguen el éxito por su cuenta,`
+` se ha convertido en un simple encuentro anual.`
+`Aun así, ser preguntado por el abuelo sobre cómo iban las cosas provocaba una cantidad significativa de estrés,`
+` así que mientras para nosotros los nietos no era más que una simple reunión, para nuestros padres seguía siendo un auténtico dolor de estómago.`
+`Supongo que, dado que el cabecilla estaba ausente por diversas razones, el día de hoy el almuerzo sabía incluso más delicioso.`
+`La frase "mientras el demonio no esté aquí, cada uno puede relajarse" se viene a la mente.`
+`Pues bien, han pasado seis años desde la última vez que vi su cara, así que vamos presentar al padre de Jessica.`
+`El hombre sentado a la izquierda de mi padre es su hermano mayor y el padre de Jessica,`
+` mi tío Krauss ({p:0:蔵臼}).`
+`Este nombre es fácil de leer.`
+` Krauss.`
+`Ya que todos tienen nombres extraños, nuestra idea de cómo han de ser los nombres debe estar bastante retorcida,`
+` así que Krauss en realidad no parece tan malo.`
+` He empezado a pensar que su nombre es genial...`
+`Al igual que con la tía Natsuhi, no tengo muchos recuerdos de haber hablado con el tío Krauss.`
+`No era muy de pasar el rato con los niños, y tengo la impresión de que siempre estaba más acompañado de adultos. Igual que la tía Natsuhi.`
+`De los chismes que me dio mi padre, parece ser que él era una persona bastante rencorosa e irracional.`
+`Si lo que mi padre dijo es cierto, solía ostentar una posición muy dominante como el mayor de los hermanos,`
+` y era odiado por la tía Eva, tía Rosa, y el resto de la familia.`
+`Teniendo eso en cuenta, es extraño verlo tener una charla bastante amistosa con el resto de la familia, ¿no?`
+`Oh, bueno. Aunque no se llevaran muy bien cuando eran niños, a veces, cuando las personas crecen y sus caminos se separan, sus relaciones cambian.`
+`Sí, creo que es eso.`
+`Después de todo, todos tienen niños de aproximadamente la misma edad.`
+`Al compartir el mismo entorno familiar, es probable que se aprovechen del intercambio de opiniones.`
+`Tal vez debido a esto, hace poco el círculo de padres comenzó a hablar de los exámenes de Jessica y los míos.`
+`Jessica, tratando de huir de la discusión de los exámenes con mi padre sentado en su izquierda,`
+` comenzó a disparar una serie rápida de comentarios mientras miraba a su derecha a propósito, en un intento de no mostrar sus puntos débiles.`
+`Bueno, hechemos un vistazo al extremo opuesto del tío Krauss y los demás.`
+`En el último asiento de la mesa, había un caballero anciano con un aspecto robusto sentado en frente de Kyrie‐san.`
+` La verdad es que nunca antes le había visto.`
+`Acaban de presentármelo, pero al parecer es el médico personal del abuelo, un hombre llamado Nanjo ({p:0:南條}).`
+`Tengo entendido que poseía una enorme clínica en la isla cercana Niijima, pero se la entregó a su hijo y ahora vive una vida de ocio en su vejez.`
+`Ha conocido al abuelo desde que se construyó la mansión en esta isla, y llevan cultivando su relación varias décadas.`
+`Supuse que sería el aliado del abuelo en sus extrañas aficiones, pero sorprendentemente, parece ser que no es más que su rival de ajedrez.`
+`Ya veo. Este tipo de pasatiempo parece adecuado para nuestro abuelo, tan amante de todo lo occidental.`
+`Se podría decir que es la única persona que puede entrar en Rokkenjima sin ser ni un miembro de la familia, ni un criado.`
+`Da la impresión de ser un calmado y caballeroso anciano mientras escucha la conversación de Kyrie y las otras mujeres.`
+`Viendo que ha permanecido tanto tiempo junto al abuelo, su gran corazón no es nada de lo que uno pueda burlarse.`
+`Sin embargo, incluso si el es el médico familiar, el que alguien externo a la familia Ushiromiya asistiera a la conferencia era un poco extraño.`
+Por esto, supuse que la condición del abuelo había empeorado mucho,`
+` y esto puede haberse hecho uno de los principales temas de discusión...`
+`George‐aniki estaba diciendo lo mismo.`
+`{n}Ya hace alrededor de un año que llegaban informes asegurando que al abuelo le queda muy poco de vida.`
+`Por repugnante que esto resulte, el abuelo es un hombre sumamente rico.`
+`{n}En el momento de su muerte, su riqueza sería liberada, así como el ácido gástrico de nuestros padres, y probablemente formaría úlceras en el estómago.`
+`Y es que, cuanto más hay que repartir, más problemas hay.`
+`Dicha conversación podría aparecer en la reunión familiar.`
+`{n}Aunque bueno, no es como si tuviera algo que ver con nosotros los jóvenes.`
+`Por último, aunque esté ausente, permítanme presentar a nuestro abuelo.`
+`La persona que debería sentarse en aquel Asiento del Incipiente es Ushiromiya Kinzo ({p:0:金蔵}).`
+`... Realmente apesta.`
+` Todos los demás en la familia tienen nombres extraños, pero él mismo tiene un nombre perfectamente normal.`
+`Ojalá su nombre se escribiera con los caracteres de Kinzo ({p:0:金蔵}) y nos dejara llamarle "Goldsmith" o algo así.`
+` ¡Eso sí que sería genial!`
+`Como se puede adivinar con todo lo que ya se ha dicho, es una persona con un temperamento fuerte.`
+`Como soy uno de los nietos y no me he encontrado con la familia desde la escuela primaria,`
+` no tengo ningún recuerdo de haber sido golpeado, pero parece ser que nuestros padres fueron criados con un puño de hierro.`
+`Aquella conversación de antes entre mi padre y el tío Krauss sobre quién debía intentar convencer al abuelo de que salga,`
+` parece extrañamente divertida si tomamos eso en cuenta.`
+`Para narrar la historia del abuelo, y recontar la historia de la familia Ushiromiya, primero tienes que volver atrás y recordar cierto episodio que ocurrió antes de la era {ruby:1926–1989:Showa}.`
+`Durante las eras {ruby:1868–1912:Meiji} y {ruby:1912–1926:Taisho} la familia Ushiromiya fue grande y próspera.`
+`Ellos poseían varias hilanderías, así que solo tenían que reír animadamente mientras el dinero llegaba a raudales, haciéndoles muy ricos.`
+`Por cierto, el abuelo era de una rama aislada de la familia y, naturalmente, no tenía relaciones con el jefe Ushiromiya.`
+`Estaba muy separado de la línea de la herencia, y su relación con la casa principal era también muy lejana, por lo que parece.`
+`Aun así, en el Gran Terremoto de Kanto, en el año {ruby:1923:12} de la era Taishou, la mansión de la familia Ushiromiya en Odawara fue destruida.`
+`Las hilanderías que ellos tenían en las partes inferiores de Tokio se quemaron en un gran incendio,`
+` y la familia perdió la mayor parte de su fortuna y de sus miembros en un instante.`
+`Y entonces, cuando se empezó a discutir quién se convertiría en el nuevo heredero del liderazgo de la familia Ushiromiya, por lo visto solo quedaba esa rama de la familia y el abuelo pertenecía a ella.`
+`Kinzo aseguró que había sido una suerte tan impresionante que era como si el destino hubiera dado un vuelco.`
+`Y así, la vida del abuelo dio un giro de 180 grados.`
+`{n}Se le confió la resurrección de la riqueza de la familia Ushiromiya, que lo había perdido casi todo.`
+`Naturalmente, solo porque se le había encomendado esta tarea no significaba que podría lograrlo.`
+`{n}Parece que la gente de su entorno no esperaba demasiado.`
+`Sin embargo, de ahí en adelante, el abuelo comenzó a hacer uso de su extraordinario talento y buena suerte.`
+`El abuelo, usando todo lo que le quedaba a la familia Ushiromiya, y desde su pelo a las uñas de sus pies, como colateral para tomar un préstamo enorme,`
+` acumuló una enorme cantidad de fondos y revivió los negocios familiares.`
+`Era como ir colina abajo en una bicicleta sin frenos.`
+`¡Y entonces, saltar a otra bicicleta cercana, y después a otra!`
+` Como una especie de espectáculo callejero.`
+` Es probable que todos pensaran que el abuelo no tenía nada de talento para los negocios.`
+`Aun así, con una increíble cantidad de buena suerte y milagros, con acumulación de coincidencias y de oportunidades aprovechadas,`
+` antes de que nadie se diera cuenta, comenzó a tener tratos con las fuerzas de ocupación.`
+`En esa época, el General McArthur y la GHQ eran los líderes en Japón.`
+`El abuelo, en un parpadeo, comenzó a tener un gran éxito en los negocios bajo la protección de las fuerzas de ocupación, convirtiéndose rápidamente en un hombre muy rico.`
+`Y desde entonces, la información y no la suerte dio sus frutos.`
+`Debió haber tenido una gran conexión con las fuerzas de ocupación.`
+`El abuelo sabía de antemano acerca de las demandas de emergencia que se harían para la Guerra de Corea.`
+`No, por el contrario, debe haber previsto estas consecuciones desde el principio y empezó a preparar sus negocios para ello.`
+`En los libros de historia leemos que todo Japón se benefició de las demandas de emergencia de la Guerra de Corea, pero no fue así.`
+`Solo un pequeño grupo de los realmente ricos jugó al juego del dinero y obtuvo un beneficio sencillo.`
+`La mayor parte de la población siguió siendo pobre.`
+`{n}...En otras palabras, el abuelo fue un muy afortunado miembro de este grupo de ganadores.`
+`Todo esto ocurrió... en el año {ruby:1950:25} de la era Showa, o eso creo.`
+`{n}Y, ya que el Gran Terremoto de Kanto ocurrió en el año {ruby:1923:12} de la era Taisho...`
+`Eso significa que, en poco más de 20 años, el abuelo revivió a la casi muerta familia y la llevó a un nivel nunca alcanzado hasta entonces.`
+`Con esto, pensarías que reviviría la rama principal de la familia en Odawara,`
+` pero por alguna razón, hizo algo tan extraño como comprar una isla entera del archipiégalo de Izu.`
+`Comprar toda una isla no es algo que puedas hacer ordinariamente en estos días.`
+`Sin embargo, el abuelo era astuto.`
+`{n}Contactó a la GHQ y levantó una petición para construir una base de recursos marítima.`
+`Adquirió esta isla como un negocio de propiedad, y luego abandonó esa posición para reclamarla como su propio terreno.`
+`Con las dificultades de suministro de alimentos de la posguerra y el patrocinio de la GHQ, nadie podría oponerse a él.`
+`He oído que en esos días, Tokio le ofreció esta tierra casi gratis por la falta de recursos.`
+`Más tarde, Tokio provocó algunas dificultades, diciéndole a Kinzo que devolviera las tierras, pero no había mucho que se pudiera hacer con la GHQ involucrada, aunque no haya sido realmente por voluntad propia.`
+`Sin duda parece que los sobornos funcionaron a la perfección.`
+`{n}Al final, la frustrada ciudad decidió rendirse.`
+`El abuelo, con verdadera habilidad y estando bendecido con buena suerte, logró nadar a través del tormentoso mar de la época,`
+` y obtuvo una gran fortuna e incluso una isla para sí mismo.`
+`Por supuesto, probablemente no fue solo suerte.`
+`{n}Era bastante bueno en el inglés, y le apasionaba todo lo occidental.`
+`{n}Usando esto a su favor, fue capaz de sacarle lo suyo a la GHQ.`
+`Una mansión fue inmediatamente construida en la isla.`
+` Y ahí estamos.`
+`El abuelo, con su estilo occidental, una vez comprada esta isla deshabitada, Rokkenjima, creó en ella un lienzo en el cual podría realizar sus sueños a sus anchas.`
+`Con la mansión occidental que él siempre se había imaginado, desbordándose por la emoción, al jardín hermoso donde varias rosas habían sido plantadas.`
+`Y una playa privada donde no permitiría a nadie dejar huellas, excepto a él.`
+`Si un chico pudiera tener todo esto, sería un sueño hecho realidad.`
+`Después de esto, haciendo un buen empleo de su enorme fortuna,`
+` se convirtió en un gran titular en el balance muy estable de la industria del hierro y el acero y era capaz de vivir una vida fácil y cómoda utilizando solo los dividendos.`
+`Bueno, él es realmente una persona increíble.`
+`Este tipo de persona normalmente tiene la capacidad de prever y predecir el futuro, o al menos así los retratan,`
+` pero el abuelo niega todo esto,`
+` y asegura que simplemente fue bendecido con una suerte extraordinaria...`
+`De todas formas, aun siendo como él era, con todos sus sueños hechos realidad,`
+` no se puede evitar que se volviera más y más extraño al estar encerrado solo en una isla.`
+`Todo el mundo ha sabido desde siempre de su obsesión por lo occidental,`
+` ...pero ninguno de nuestros padres sabe realmente cuándo apareció su extraño pasatiempo de la magia negra.`
+`¿Comenzó su obsesión con la magia negra por su amor por todo lo occidental,`
+` o tal vez se sintiera poseedor de algún extraño poder ante la milagrosa suerte que le permitió resucitar a la familia?`
+`En algún momento, el abuelo convirtió la investigación de la magia negra en el objetivo de su vida,`
+` llenando su estudio de libros sospechosos, productos químicos y objetos mágicos, envolviéndose más en su locura.`
+`Al ser los últimos años restantes de una persona exitosa, escuché que aquellos a su alrededor le cuidaron afectuosamente, pero...`
+`... Claramente no es así.`
+` Es probable que todos le abandonaran, pensando "Repugnante, mejor no entrometerme".`
+`Bueno... ese agitado período bélico fue como una gran apuesta, con oportunidades y riesgos.`
+`Me pregunto si al abuelo le iría bien en estos tiempos.`
+`Si no hubiese tenido tantas oportunidades, probablemente se habría lanzado a la enseñanza obligatoria hasta la universidad a un ritmo relajado,`
+` y seguramente se habría convertido en nada más que un empleado común y corriente.`
+`Si eso hubiese sucedido, probablemente estaría sentado con nosotros, felizmente hablando a espaldas de su jefe.`
+`No, no. No en el comedor de una mansión, sino en un taburete de un bar.`
+`Si así fuera, seguro que sería una conferencia familiar mucho más tranquila.`
+`Bueno, basta de historias del viejo.`
+`{n}¡¡Más importante aún, hablemos de este increíble almuerzo!!`
+`"¡Estoy convencido ya por la ensalada de sashimi!`
+` ¡Gohda‐san es un cocinero excelente!`
+` Además, estos peces han sido capturados en los mares adyacentes, ¿me equivoco?`
+` ¡Son totalmente diferentes del sashimi que podemos encontrar en el supermercado!"`
+`"Déjalo ya, Battler.`
+` Queda bien claro cómo has sido criado."`
+`Todos dejaron salir una fuerte risa.`
+`Maldita sea, dices eso a pesar de amar los bares baratos.`
+`"Jajajaja.`
+` Dependiendo de la situación con mi trabajo, también he comido en muchos lugares famosos, pero en comparación con todos aquellos, éste es un excelente plato.`
+` Me imagino que te podrías haber hecho bastante conocido en ese ámbito, Gohda‐san."`
+`"Bueno, no sé mucho sobre ello.`
+` En el famoso hotel donde solía trabajar, las políticas empresariales se complicaron bastante y los trabajadores se dividieron en facciones.`
+` Y en medio de todo eso, parece ser que se le obligó a retirarse.`
+` Entonces, por casualidad, Mamá envió ofertas de empleo para un criado."`
+`Gohda recogió el plato vacío y, sin perder su sonrisa, comenzó a narrar su propio pasado.`
+`"El mundo es un lugar difícil.`
+` Sin embargo, gracias a eso he adquirido otra oportunidad de demostrar mis capacidades culinarias una vez más, esta vez para la familia Ushiromiya."`
+`"A pesar de que también gozo observando la sonrisa de un gran número de personas,`
+` el desempeñar estas tareas solo para el placer de quienes me han contratado es extremadamente entretenido para mí.`
+` Todo gracias a la oportunidad que me dio la señora."`
+`Gohda‐san inclinó respetuosamente la cabeza en dirección a la tía Natsuhi.`
+`"Eso es porque entre todos los solicitantes, Gohda era el que tenía más talento.`
+` Mi decisión fue puramente objetiva, no hace falta que me des las gracias."`
+`Oh vaya, ¿realmente necesita hablar siempre con tanta franqueza?`
+`Si tan solo ella hablara con más suavidad, daría una impresión muy distinta.`
+`Shannon‐chan y Kumasawa‐san entraron desde el pasillo con un conjunto de mesa.`
+`"... Por favor, discúlpennos."`
+`"Pasemos al postre del día."`
+`Gohda‐san y los demás colocaron sobre la mesa el postre bellamente adornado.`
+`Supongo que es cierto eso de que se tiene otro estómago para el postre...`
+`Aunque pensaba que la comida perfectamente organizada había sido suficiente para llenarme,`
+` bastó posar mis ojos en el postre para que mi estómago gritara "¡Más!"`
+`No sé mucho de postres, pero éste parece muy bueno.`
+`Era un postre blanco estilo pudín aderezado con dos tonos de salsa roja,`
+` y lo adornaban elegantes pétalos de rosa.`
+`Con tan magnífica comida a la vista de todos, era el turno del chef para alardear de su creación.`
+` Hasta que él terminase, como regla, uno no puede tocar la comida.`
+`Sin embargo, Maria, indiferente ante esta estricta regla, se emocionó al ver un postre tan hermoso y delicioso, y saltó a comérselo una vez que lo tuvo frente a ella.`
+`Tía Rosa la regañó, calificándolo de malos modales, pero George‐aniki intervino diciendo "vamos, vamos, no hay problema."`
+`"¡¿Uu?!`
+` ¡Esta parte está agria!`
+` ¡Esta parte está agria!`
+` ¡Battler, algo está mal en esto!`
 ` ¡Uu!"`
-`Cuando Battler le dio una palmada a la cabeza de Maria y se disculpó, ella pareció aceptarlo, inflando su pecho y uu‐uu‐eando orgullosamente.`
-`"... ¿Qué es esto?`
-` "Mi amada bruja, {f:5:Beatrice}".`
-` Contempla el río de ayus...`
-` ¿Y esto? ¿Qué es este extraño y largo epitafio?"`
-`La placa tenía el título del retrato escrito en ella, pero era muy grande para contener solo eso.`
-`Debajo del título, algo que lucía como un gran epitafio también estaba escrito.`
-`Si le echabas una mirada, varias palabras inquietantes saltaban hacia ti.`
-`"Increíble, ¿no?`
-` El abuelo mandó escribir eso.`
-` Bastante profundo, ¿no?"`
-`"¡Uu!`
-` ¡Maria lo sabe!`
-` ¡Es el lugar donde el oro está escondido!"`
-`"Esperen, ¿es esa historia del oro oculto de la familia Ushiromiya?`
-` Esa es otra cosa que recuerdo de hace tiempo...`
-` Un momento, Aniki... ¿Es en serio?"`
-`"El abuelo mandó escribir esto, pero nunca dijo nada sobre este retrato o el epitafio.`
-` Aun así, entre la familia se ha murmurado que indica la ubicación del oro oculto del abuelo,`
-` y que otorgará la herencia y el oro a la persona que resuelva el acertijo."`
-`"¡Uu!`
-` ¡Maria escuchó eso también, Maria escuchó eso también!`
-` ¡Montones y montones de oro!"`
-`"Bueno, algo así.`
-` Diez toneladas de lingotes de oro.`
-` Pienso que es falso."`
-`"Aun así, si lo lees hasta el final, suena casi real."`
-`Creo que ya había explicado la forma en que creció el abuelo,`
-` pero permítanme mencionar la "Leyenda del Oro" de la familia Ushiromiya.`
-`El abuelo heredó la familia Ushiromiya después de que esta fuera casi aplastada por el Gran Terremoto de Kanto,`
-` y, superando exitosamente los torrentosos mares luego de la guerra, se las ingenió para acumular una gran fortuna.`
-`Hasta ahí es donde todos conocen.`
-`{n}Sin embargo, desde aquí, la parte extraña comienza.`
-`Parte de esta está estrechamente atada a la afición del abuelo por la magia negra, así que su credibilidad es extramadamente baja, pero...`
-`Bueno, esperen hasta que termine antes de que duden y se rían de ello.`
-`Después de la guerra, el abuelo predijo correctamente lo que deparaba el futuro y ganó en una gran apuesta, acumulando una vasta cantidad de dinero,`
-` pero hay una misteriosa leyenda sobre cómo ganó el dinero con que apostar.`
-`El abuelo venía de una rama secundaria de la familia, y no tenía conexiones con el mundo de negocios o el mundo financiero.`
-` Incluso aunque después estableció conexiones con las fuerzas ocupantes, al principio supuestamente él era una persona sin nombre que aún no se había ganado la confianza de nadie.`
-`El dinero solo puede ser reunido con la confianza.`
-`{n}No hay forma de que alguien preste dinero a una persona en quien no confía.`
-`En primer lugar, ¿cómo se las arregló el abuelo, cuya confiabilidad era cero, para conseguir esa gran cantidad de dinero?`
-`Se dice que, cuando se le hacía esa pregunta, el abuelo contestaba de la siguiente forma:`
-`{i:Cierto día, encontré a la Bruja Dorada }{f:7:Beatrice}{i:.}`
-`Entonces el abuelo proseguía a explicar la forma en que continuó investigando alquimia y técnicas de invocación de demonios para poder convertirse en un gran mago.`
-`Y la entidad resultante de la ceremonia para convocar demonios fue la Bruja Dorada {f:5:Beatrice}.`
-`Entonces dice que hizo un contrato donde, a cambio de su propia alma, él recibiría fortuna y honor.`
-`Luego la bruja le dio al abuelo diez toneladas de oro.`
-`El abuelo usó ese oro como garantía para preparar una vasta cantidad de fondos,`
-` y entonces utilizó esa cantidad para multiplicar su fortuna varias veces y revivir la familia Ushiromiya...`
-`Parece que la historia era tan antigua que nuestros padres la habían escuchado cuando eran niños.`
-`Por ello, mientras nuestros padres eran aún jovenes,`
-` exploraron esta isla de varias formas, creyendo que el oro del abuelo podría haber estado escondido por ahí.`
-`Sin embargo, ya que era peligroso que se perdieran en el bosque deshabitado,`
-` la abuela o alguien más comenzó a esparcir la historia de que la bruja vivía en el bosque y que estaba prohibido acercarse a este...`
-`"... Recuerdo esa vieja historia.`
-` Cuando éramos pequeños, nuestros padres nos dijeron sobre ello y fuimos por toda la isla buscando el tesoro.`
-` ¿No nos perdimos en el bosque y comenzamos a llorar hasta que los sirvientes nos encontraron? Nuestros padres estaban bastantes enojados con nosotros.`
-` Qué nostálgico."`
-`"De seguro eramos idiotas, ¿no?`
-` Después de todo, el abuelo usó eso para reunir los fondos con los que compraron esta isla, ¿no?`
-` Eso significa que debió tener el oro antes de venir a la isla.`
-` No hay razón para que el oro deba estar en la isla."`
-`"No es necesariamente así.`
-` Quizás el oro estaba aquí desde el principio y él compró la isla entera solo para asegurarse de que sería todo para él.`
-` Había unas diez toneladas de eso, ¿cierto?`
-` Suena más realista que él tratara de asegurar el lugar donde estaba oculto en vez de moverlo."`
-`"Este epitafio fue escrito hace dos años.`
-` Y ya que el abuelo lo escribió por sí mismo...`
-` Ya veo, eso hace la Leyenda del Oro más creíble."`
-`"Los fondos que revivieron la familia Ushiromiya, los cuales él llamaba el oro de la bruja, pesaban diez toneladas.`
-` Y está descansando en algún lugar, listo para ser entregado a quien sea que resuelva el acertijo del abuelo."`
-`"Haa, supongo que algo así suena como el estilo del abuelo...`
-` ¡Ijiji!`
-` Si eso es verdad, es bastante increíble."`
-`El epitafio escrito en la placa era misterioso, con algo como un poema o una canción escrita en él.`
-`Sus párrafos eran increíblemente perturbadores, llenos de rastros de la afición por la magia negra del abuelo, y su contenido era de mal gusto,`
-` pero definitivamente podía ser visto como un rompecabezas en el cual, si se solucionaba, podía llevar al lugar donde el oro estaba oculto.`
-`"Fuera o no lo que pretendía, no puedo ni imaginar cuál era su motivo real.`
-` Todo lo que puedo decir es, este sombrío epitafio fue puesto aquí para que todos en la familia pudieran verlo."`
-`"Haciendo eso, él podía sugerir la existencia del oro mientras continuaba evitando decir dónde se escondía.`
-` Eso dejó que la imaginación de nuestros padres volara y pusieran el epitafio a la altura del nivel de genio del abuelo..."`
-`"Seguro que es mi padre quien se toma algo como esto seriamente, mostrando su codicia al mundo.`
-` Aunque se burla de la afición del abuelo por la magia negra, él aún cree esta historia sobre el oro oculto.`
-` Es fácil decirlo para él."`
-`"Bueno, ciertamente no es una historia realista.`
-` En ese tiempo, cuando el abuelo era aún un don nadie sin conexiones, no había nadie que le hubiera prestado una masiva cantidad de barras de oro gratis.`
-` Por eso, no es impensable que el abuelo le llamara a ese patrocinador una bruja."`
-`"Sí, pero, son diez toneladas, ¡diez toneladas!`
-` Si tú cambiaras eso por dinero, ¿cuánto saldría de ello?`
-` De cualquier modo, tiene que ser un monto ridículo, ¡¿cierto?!"`
-`"Sería una cantidad enorme.`
-` Dicen que el monto total de oro minado por la humanidad desde el inicio de la historia es de 100.000 toneladas como máximo.`
-` Que un diezmilésimo de todo el oro que la humanidad ha obtenido a través de la historia deba pertenecerle a una sola persona es simplemente una locura."`
-`"Y todo eso fue recolectado en un lugar, y allí había una "bruja" que podía prestárselo al abuelo como si nada.`
-` Ésa no sería una persona ordinaria."`
-`"En cuanto a mí, pienso que el número "diez toneladas" suena totalmente falso.`
-` En primer lugar, ¿alguien además del abuelo lo ha visto alguna vez?`
-` E incluso si en realidad una generosa bruja le prestó ese oro, ¿no podría en realidad ser que esos "diez" en realidad sean kilogramos?`
-` Incluso diez kilogramos sería una cantidad increíble, ¿verdad?"`
-`"Uu...`
-` ¿Cuánto valen diez kilogramos de oro?"`
-`Maria, quien no estaba siguiendo la historia y sentía como si le estuvieran hablando en acertijos, finalmente encontró una oportunidad para hacernos una pregunta.`
-`Una pregunta que yo también quería saber en ese momento.`
-`No importa si escucho que son diez kilogramos o diez toneladas, sé que es una cantidad increíble, pero no pude adivinar exactamente qué tan increíble es cada una.`
-`George‐aniki cruzó sus brazos y trató de recordar el precio mercantil del oro.`
-`"Veamos...`
-` El oro también es afectado por la especulación, y su precio también puede cambiar dependiendo de su pureza y la fiabilidad de la fundidora.`
-` También necesitarías pagar una comisión para convertirlo en dinero.`
-` Aun así, definitivamente es un metal precioso, y algunas personas estiman que si el minado de oro continúa con su ritmo actual, dentro de medio siglo, la humanidad lo habrá minado todo."`
-`"Tan solo suponiendo...`
-` por un kilogramo, creo que quizás el precio es de 2 millones de yenes."`
-`"Vaaya...`
-` Sé que solo dije al azar que diez kilogramos sería un enorme monto...`
-` Pero aun así, ¡esa cantidad valdría 20 millones de yenes!"`
-`"¿Uu?`
-` Maria pesa 28 kilogramos."`
-`"Lo que significa que si tuviéramos el peso de Maria‐chan en oro,`
-` podríamos estimar su valor por sobre unos 50 millones de yenes."`
-`"Eso es simplemente increíble...`
-` ¿Entonces cuánto dinero serían diez toneladas?`
-` Son 20 millones por cada diez kilogramos, multiplicado por mil, serían... Umm.`
-` ¡¿Eh?!`
-` ¡¿20 mil millones de yenes?!`
-` ¡Qué demonios!"`
-`¿Cuánto es el valor actual de 20 mil millones de yenes?`
-` Solo podemos medirlo en relación a nuestros propios bolsillos.`
-`De cualquier forma, digamos que el salario de toda la vida de un hombre son cerca de 200 millones de yenes.`
-`Creces y trabajas como loco, sacrificando tu vida por la compañía, y cuando alcanzas tu vejez eres finalmente libre.`
-`{n}Todo incluyendo el retiro podrían ser unos 200 millones de yenes.`
-`En otras palabras, ese es el monto de dinero para la vida de un humano.`
-` No, podrías incluso llamarlo el precio de una vida.`
-`Hablamos de una cantidad tan enorme que costaría 100 de esas vidas.`
-`Asumiendo que trabajes por 40 años desde los 20 hasta los 60...`
-` es igual al salario de trabajo de 4000 años.`
-`Es como si hubieras trabajado cada día comenzando del periodo Jomon y finalmente acumulado este dinero.`
+`Exclamó Maria, mientras probaba la salsa de dos colores.`
+`"¿Qué quieres decir? ¿Una parte está rica y otra no? ¡Muy bien, voy a probarlo~!`
+` ¡¿Mmmmm?!"`
+`Al parecer la salsa tenía una parte dulce y otra agria.`
+`{n}A pesar de ser de mala educación, también puse mi dedo meñique y lo lamí.`
+`Whoa, esta mitad está increíblemente agria.`
+`{n}Si fuera amarilla, sospecharía que fuese limón, pero no me podía ni imaginar qué podía ser ese color rojo.`
+`Decidí preguntarle a Shannon, que estaba tras nosotros con el carro de servicio.`
+`"Shannon‐chan, ¿qué clase de salsa es esta cosa ácida?"`
+`"...Umm...`
+` ...err...`
+` ...u..."`
+`Shannon‐chan dudó.`
+`Tal vez su trabajo fuera solo poner la mesa y no lo supiera.`
+`{n}Vaya, está realmente confundida.`
+`{n}...¿He hecho mal preguntándole?`
+`¿O acaso no conviene que sepamos qué es lo que usaron?`
+`Aunque tía Natsuhi tenía aspecto de estar sufriendo un dolor de cabeza, Kumasawa‐san, que estaba poniendo la mesa, soltó una risita.`
+`"¿De qué ingredientes crees que está hecha?`
+` Jo‐jo‐jo, seguro que no te lo esperas..."`
+`"¿Eh? ...No tengo ni la menor idea.`
+` Kumasawa baa‐san, esa risa es bastante espeluznante.`
+` ¡¿Qué es?!"`
+`"...No se lo digas a nadie, ¿está bien?`
+` Acerca tus oídos."`
+`Kumasawa‐san se inclinó hacia mí desde el otro lado de la mesa.`
+` También yo me incliné hacia ella.`
+` Movidos por la curiosidad, Jessica, George‐aniki y, cómo no, Maria también acercaron sus oídos.`
 `"Uu.`
-` ¿20 mil millones de yenes es mucho?"`
-`"Sí, es mucho.`
-` Maria, podrías comprar más de ese pastel que adoras del que podrías comer en tu vida."`
-`"Sin embargo, mientras que puede que eso sea posible con 20 mil millones de yenes en efectivo,`
-` no creo que sería muy realista tenerlo en barras de oro en un solo lugar."`
-`"Como dije, el oro es extremadamente pesado, y no es muy conveniente para comprar bienes.`
-` Aunque con acciones altamente valoradas o gemas preciosas extremadamente caras, no pienso que sería impensable."`
-`"Sueles escuchar de personas quienes, en el período de confusión durante la guerra, solían intercambiar su fortuna por piedras preciosas para poder llevarla con ellos.`
-` Pero usualmente no escuchas historias de personas cambiando su fortuna por oro."`
-`"Por supuesto que es pesado, pero internacionalmente es lo más confiable y estable. ¿No significa eso algo?`
-` Con fajos de billetes, por ejemplo, si el país es destruido se vuelven solo tiras de papel."`
-`"También puedes verlo de esa forma.`
-` Pero incluso un lingote de diez kilogramos es bastante pesado para andarlo llevando.`
-` ¿No lo han escuchado?`
-` Aunque puedas llevar a una persona de 50 kilogramos en tu espalda, no significa que puedas llevar una bolsa de 50 kilogramos sobre tu hombro.`
-` Con todas esas barras de oro, la cantidad de trabajo y riesgo para una persona sería difícil de calcular."`
-`"Así que lo que estás diciendo es, si fuese una pila de notas bancarias que valiese 20 mil millones de yenes, sería una cosa,`
-` pero ya que son supuestamente 20 mil millones de yenes en barras de oro, simplemente suena irreal."`
-`"Así es.`
-` Aunque la leyenda del oro suena muy interesante, tan solo escuchar la parte de las diez toneladas ya es difícil de creer."`
-`"Si piensas sobre ello de manera lógica, suena obviamente falso.`
-` Jaja, eso te vuelve a la realidad."`
-`"Dicho esto, estamos hablando del abuelo después de todo.`
-` Debe de haber esparcido exagerados rumores sobre el financiamiento de una amable persona rica diciendo que son diez toneladas de oro recibidas de una bruja, probablemente en sentido figurado.`
-` Incluso el número "diez toneladas" suena bastante simbólico."`
-`"¿Te refieres a que su gratitud por el dinero que le prestaron vale diez toneladas de oro, o algo así?"`
-`"Jejeje, quizás alguna esposa ociosa de un hombre rico generosamente le prestó al abuelo.`
-` ¿Y quizás entonces él comenzó a llamar esa persona una bruja?"`
-`Ya veo. El ejemplo de Jessica no es malo.`
-`Alguien quien generosamente le prestó una gran cantidad de dinero al abuelo cuando su confiabilidad seguía siendo cero,`
-` podría ser llamada una bruja.`
-`Además, el abuelo luego usó ese dinero para construir una gran fortuna.`
-`Alguien con una habilidad tan grande para juzgar a la gente,`
-` con razón podría ser llamada una bruja.`
-`Además, ya que se molestó en prestarle todo ese dinero, ella también debió haber dirigido activamente la manera en que era gastado.`
-`La decisión de inesperadamente envolverse con las fuerzas ocupantes y beneficiarse de las demandas de la Guerra de Corea pudieron haber sido inspiradas en el abuelo por la bruja.`
-`Si encajas todo eso, diciendo que recibió riqueza y honor de la bruja,`
-` entonces podría cobrar sentido.`
-`"Ya veo.`
-` Así que, en otras palabras, la bruja le dio los fondos necesarios para revivir la familia Ushiromiya y el abuelo estuvo en deuda con ella por mucho tiempo.`
-` Si ése es el caso, el abuelo, con sus sentimientos de gratitud hizo que pintaran y pusieran en exhibición ese enorme retrato... lo entiendo. No es una historia tan extraña."`
-`"¿Qué tal si esa persona lucía como una anciana y vieja bruja?`
-` Si eso es verdad, definitivamente puedo comprender por qué el abuelo trató de hacerla más bella cuando mandó pintar el retrato.`
-` ¡Jajajajaja, apuesto que si hubiéramos conocido a esta persona, no sería así de bella!"`
-`"Jajajaja, eso es posible.`
-` El nombre {f:5:Beatrice} suena bastante occidental, y si piensas en que todos en nuestra familia tiene nombre de estilo occidental,`
-` quizás incluso el nombre {f:5:Beatrice} es el resultado del abuelo tratando de reacomodar el nombre japonés de una persona para hacerlo sonar occidental."`
-`"Lo entiendo, lo entiendo.`
-` Eso significa que esta linda chica no existe fuera del retrato.`
-` Supongo que eso significa que no seré capaz de acariciar esos elegantes pe~chos, ¡ijiji!`
-` En primer lugar, ¿no es una bruja algo un poco extraño?`
-` Como si pudieras encontrar algo como eso en algún lugar de la tierra."`
-`Al burlarme de la bruja, riéndome, estaba tratándo de separarme del niño de hace seis años que estaba temeroso de la bruja del bosque. En ese momento, Maria tiró de mi manga.`
-`La fuerza con que lo hizo mostraba un poco de molestia.`
-`"¿Hmm?`
-` ¿Qué pasa, Maria?"`
+` ¿Qué es?`
+` ¿Qué es?`
+` ¡Rápidoo!`
+` ¡Rápidoo!"`
+`"La parte agria es, bueno...`
+` ...De hecho, es el jugo exprimido de una caballa, ¡jo‐jo‐jo!"`
+`"""¡¿¡¿EEEeeeeehh, caballa?!?!"""`
+`"¡Es una locura!", pensamos, horrorizados.`
+`{n}Solo Maria lo aceptó, asintiendo con la cabeza con un "ajá".`
+`"¿Uu?`
+` ¿Las caballas son ácidas?`
+` ¡Si las exprimes, esto es lo que sale!"`
+`""...Ja, ¡wajajajajaja!...""`
+`Cuando Maria comenzó a decir que la caballa era ácida, los adultos fueron incapaces de contener su risa.`
+`"¡Te equivocas, es caballa con vinagre!"`
+`Tía Rosa le dijo a Maria en voz baja con su cara roja.`
+`Ahhhh, ahora lo recuerdo perfectamente.`
+`{n}Kumasawa‐san siempre ha sido así, ¿me equivoco?`
+`{n}¡Apuesto a que también a mí me engañó de mil formas distintas cuando era pequeño!`
+`¡Entre todas ellas, la peor debió de ser aquélla!`
+`{n}¡Esa cosa negra del plato chino!`
+` ¡Era un hongo kikurage!`
+`{n}Me dijo que era carne de pingüino y yo fui por el colegio diciéndoselo a todos cual sabelotodo, ¿¡no?!`
+`"¡Kumasawa baa‐chan, no has cambiado nada!...`
+` Sabes que Maria te creerá, ¿verdad?"`
+`"Jo‐jo‐jo, no era más que una broma.`
+` ¡Ahora es cuando Gohda‐san nos dice cuál es la auténtica naturaleza de esta salsa!"`
+`Gohda‐san parecía algo disgustado al ver que se reían de una forma tan extraña de su obra maestra,`
+` pero tras aclararse un poco la garganta, hizo su presentación.`
+`"Bueno, permítanme entonces presentar el postre de esta noche.`
+` Basándome en el rosal que tanto parecía gustarle a todo el mundo, hice el panna cotta dándole un toque del jardín de rosas.`
+` Los pétalos de rosa fueron extraídos del rosal."`
+`"La salsa es una combinación de dos rojos, fresa y escaramujo.`
+` Por favor disfruten de esta mezcla del dulzor de la fresa y la acidez del escaramujo.`
+` Y por cierto, los pétalos de rosa están para decorar, así que por favor no se los coman.`
+` Dicho eso, por favor, disfruten."`
+`Jaaa... Un poco más y rompo en aplausos antes de comer.`
+`Al igual que con la medicina, la lectura de las instrucciones parece tener un efecto mayor que la propia medicina.`
+`Con Gohda‐san dando los detalles sobre el postre, éste parecía cada vez más delicioso.`
+`Pero en serio, ¿debería llamarse sutileza o simplemente talento?`
+`Supongo que el postre estaría planeado desde el principio, pero aprovechando cómo nos detuvimos a disfrutar de tal forma del espectáculo del jardín,`
+` ha demostrado un impresionante tacto colocando algunos pétalos de rosa del jardín.`
+`Esta combinación de dulce y agrio es exquisita.`
+`{n}Si fuera solo dulce, te acostumbrarías y aburrirías a medio camino.`
+`Pero si alcanzas entonces la parte amarga de la salsa, obtendrás un sabor realmente vivo.`
+` Y entonces, al tocar otra vez la salsa dulce, toda la acidez de tu boca sería reemplazada por una agradable dulzura.`
+`Seguro que todos se sentían igual.`
+`Cada vez que Gohda‐san pasaba ante uno de los asientos, recibía una alabanza por el sabor de su creación.`
+`"¿Que tal está, señora?"`
+`"Espléndido, como siempre.`
+` Digno de nuestros invitados."`
+`"Le agradezco mucho sus palabras.`
+` ...Señora, ¿sabe?`
+` He oído que el escaramujo cura dolores de cabeza.`
+` Pensé que lo apreciaría, así que lo preparé especialmente."`
+`"...¿En serio?`
+` Gracias."`
+`"¿No te lo había dicho, Natsuhi nee‐san?`
+` El escaramujo funciona para el dolor de cabeza."`
+`"Eso parece.`
+` ...Al menos estaría bien que así fuera."`
+`"¡Aahh!`
+` ¡Gohda‐san, eres estupendo!`
+` ¡¿Qué tal si hablamos luego de cómo te tratan aquí?!`
+` ¡Si tienes algún problema, mueve un solo dedo y te daré el sueldo que quieras!"`
+`"¡Es un sacrilegio al arte culinaria que tu talento sea monopolizado por esta isla!`
+` ¿Qué te parece demostrar tu talento a todos los huéspedes de mi empresa?"`
+`"Jajaja, Hideyoshi‐san.`
+` ¿Intentas robarnos a nuestro Gohda?`
+` Menudo problema.`
+` Debemos empezar a tratarle mejor o nos lo arrebatarán."`
+`"*risita* Sin duda.`
+` Si no, nos lo quedaremos y tendrán que comer caballa tres veces al día con Kumasawa‐san, ¿verdad?"`
+`"Jo‐jo‐jo, qué dureza.`
+` Parece que alguien siente rencor hacia mí."`
+`"""¡¡¡Wajajajajaja!!!"""`
+`Nos reímos escandalosamente.`
+`Según Jessica, la caballa de Kumasawa‐san era una broma típica del lugar,`
+` y nuestros padres llevaban tiempo acostumbrados a ella.`
+`Kumasawa‐san aseguraba que la caballa tenía un enorme valor nutricional que evitaba el envejecimiento y hacía a la gente más inteligente.`
+`Por lo visto, aunque no impedía el envejecimiento exterior, sí que ayudaba a reducir el interior.`
+`Teniendo en cuenta que a su edad sigue teniendo la presencia de ánimo suficiente como para bromear de esa forma, ése debe ser el auténtico beneficio.`
+`"Jo‐jo‐jo...`
+` En ese caso, discúlpenme.`
+` ¡Prepárense para la cena de hoy!`
+` ¡Cocinaré una enorme cantidad de platos de caballa, así que solo esperen!"`
+`"Wajajaja, eso haremos.`
+` ¡Debo vestirme para la caballa de esta noche!"`
+`"Suena fantástico.`
+` Me pregunto si se incluirá algo de sake japonés."`
+`"¿Oh?, ¡sin duda habrá!`
+` Qué tal algo del famoso licor de caballa de Rokkenjima..."`
+`"""¡¡¡Wajajajajajaja!!!"""`
+`Kumasawa‐san y Shannon‐chan hicieron una reverencia y se fueron con el carrito de servicio.`
+`Curiosamente, Gohda‐san, que se sentía como si le hubieran apartado de los focos, explicó con total seriedad que la cena de esta noche sería bistec de ternera.`
+`"... Umm...`
+` Kumasawa‐san... muchas gracias por tu ayuda."`
+`Mientras empujaba el carrito de servicio, Shannon inclinó respetuosamente la cabeza.`
+`"Jo‐jo‐jo, no he hecho nada para recibir tu agradecimiento."`
+`Aunque Kumasawa‐san fingiera ignorancia, estaba claro que había saltado para intentar salvar a Shannon a tiempo.`
+`Cuando Battler había pedido los detalles del postre, Shannon lamentablemente había vacilado.`
+`Puede que hubiera habido varias formas de evitar la pregunta, pero todas ellas habrían sido peligrosas.`
+`Shannon, que dudaba cuando se la presionaba para obtener una respuesta, siempre sufría a causa de esta pequeña debilidad.`
+`Si Shannon tuviera un poco de la habilidad de Gohda para ocultar un error, su día a día sería bastante más agradable.`
+`Aunque es capaz de manejar perfectamente su trabajo, es una debilidad muy desafortunada.`
+`Por supuesto, los que conocían la mansa naturaleza de Shannon y su nula habilidad para encubrir sus errores podían entenderlo.`
+`Y así, Kumasawa acudió al rescate sin dudarlo.`
+`"Genji‐san me acaba de avisar que se produjo un cambio en los turnos de tarde.`
+` Parece ser que a Shannon se le da un descanso hasta la noche.`
+` Jo‐jo‐jo, estoy celosa."`
+`"Eh... Ah, lo siento. No he visto los horarios."`
+`"Ah, sí.`
+` Estaba pensando que podría empezar a cocinar algunas caballas en el horno.`
+` ¿Te importaría ayudarme un poco antes de tu descanso."`
+`"¡Ah, sí!`
+` Me encantaría ayudar."`
+`Para Shannon, Kumasawa era como una madre entre los sirvientes.`
+`Había que limpiar el comedor, así que nos echaron de éste.`
+`{n}Y así es como se acabó sirviendo el té en la sala.`
+`Por lo visto, prepararon el té negro que la tía Rosa había comprado para la tía Natsuhi.`
+`Maria insistió un poco en que también ella quería beber té negro, pero el viejo bastardo se negó, diciendo que los niños debíamos ir a jugar fuera.`
+`"Battler‐kun, ¿qué tal si damos un paseo por el exterior?"`
+`"Está bien si simplemente quieren observar las rosas.`
+` Pero cuidado con el tiempo.`
+` No hay nubes ahora mismo, pero en el reportaje del tiempo no paraban de advertir sobre la lluvia."`
 `"¡Uu!`
-` ¡¡Uu!!`
-` ¡{f:5:Beatrice} e—xis—te!"`
-`Maria se quedó mirándome.`
-`{n}Tenía su usual mirada agria, pero podías decir que estaba enojada por el color de sus ojos.`
-`"¡Las Brujas existen!`
-` ¡Las Brujas sí existen!`
-` ¡¡¡Uu‐uu‐uu!!!"`
-`"Claro, por supuesto existen... si enciendes la TV y ves anime o algo así."`
-`"¡¡Existen!!`
-` ¡¡Las Brujas existen!!`
-` ¡¡Uu‐uu‐uu!!!"`
-`Comencé a ponerme impaciente, sin saber porqué Maria estaba saltando sobre mí de esa forma.`
-`Entonces, Jessica tocó mi hombro y me dijo en voz baja.`
-`"Imbécil, estás rompiendo el sueño de una niña.`
-` Maria realmente cree que cosas como las brujas y {f:5:Beatrice} existen."`
-`"Ahora que lo pienso, Maria‐chan, en estudios sociales en tu escuela, cuando te preguntaron qué querías ser de grande, tú escribiste "una bruja", ¿no?"`
-`Maria asintió seriamente.`
-`{n}Comenzaron a salir lágrimas de las esquinas de sus ojos.`
-`Ya veo. Para una niña que quiere convertirse en una bruja en el futuro,`
-` la existencia de la tal "{f:5:Beatrice}" era prueba de que las brujas existen en este mundo,`
-` y por lo tanto una imagen que ella añoraba y admiraba.`
-`"¡Exiiisten!`
-` ¡Exiiisten!`
-` ¡¡Las brujas exiiisten!!`
-` ¡Pero Battler no cree!`
-` ¡¡¡Uu‐uu‐uu!!!"`
-`"Está bien. Ellas existen, las brujas.`
-` Onii‐chan lo cree."`
-`George‐aniki se arrodilló y sujetó la cabeza de Maria.`
-`{n}Viendo esto, Jessica empujó mi costado.`
-`Así que eso es lo que era.`
-`Es como, en víspera de Navidad,`
-` gritar que Santa Claus no existe en frente de un niño que cree en él.`
-`No soy el tipo de chico que le gusta destruir los sueños de un niño.`
-`"Oh, lo siento.`
-` No estaba tratando de burlarme de tus sueños. Pido disculpas.`
-` {f:5:Beatrice} existe.`
-` Incluso ahora ella está viviendo en el bosque, y viene cada noche a la mansión para echar una ojeada y ver lo que hacen todos."`
-`"Así que no deberías entrar al bosque.`
-` En la noche, no debes quedarte viendo el bosque oscuro.`
-` Podrías ser vista por la bruja del bosque, {f:5:Beatrice}.`
-` Después de todo, la abuela lo dijo."`
-`"... Uu...`
-` ¿En serio?`
-` ¿Battler realmente cree?"`
-`"Sep, lo creo.`
-` Disculpa por dudarlo.`
-` Vamos, hagamos las paces, ¿de acuerdo?"`
-`Estiré mi mano y Maria la tomó con su pequeña mano, e hicimos las paces.`
-`Maria no refunfuñó más que eso, así que George‐aniki y Jessica se aliviaron.`
-`"... Oh.`
-` ¿Así que aquí es donde todos ustedes estaban?`
-` Estaba segura que ya se habían ido a la playa."`
-`Shannon‐chan, llevando una canasta, se sorprendió de encontrarnos reunidos frente al retrato.`
-`"Ah, Shannon.`
-` Bueno, ésta es la primera vez que Battler ha visto el retrato de {f:5:Beatrice}.`
-` Estaba simplemente fascinado por ello."`
-`"Es cierto, es fascinante...`
-` {f:5:Beatrice}‐sama es verdaderamente hermosa.`
-` Estoy segura que ella cautivó al amo."`
-`"Ajajajaja.`
-` En adición a la teoría principal, también hay una teoría de que ella fue el primer amor del abuelo.`
-` De cualquier forma, aunque han pasado muchas décadas desde que la vio, incluso ahora tiene un lugar especial en su corazón.`
-` Lo cual debe significar que aún está cautivado por ella."`
-`"Cielos.`
-` Eso debió poner a la abuela muy celosa, ¿cierto?"`
-`"No estoy realmente segura, pero eso podría ser cierto.`
-` Aparentemente la abuela creía que él la estaba engañando con una persona de cabello rubio."`
-`"... ¿Uu?`
-` ¡Buen olor!`
-` ¡Buen olor viniendo de Shannon!"`
-`Maria, olfateando, se acercó con interés a la canasta que tenía Shannon‐chan.`
-`Después de escuchar eso, me percaté de un fragante aroma con esencia de vainilla.`
-`"Ah, me disculpo.`
-` Kumasawa‐san me dijo que las trajera para ustedes."`
-`"¿Qué es, me pregunto?`
-` ¡Ooh, excelente!`
-` Galletas."`
+` ¡¡Maria quiere playa, quiere playa!!"`
+`"Ah, ¿no es genial?`
+` No todos los días se tiene oportunidad de jugar en la playa"`
+`"¿Tú crees?`
+` ¡Bien, vayamos entonces a la playa!"`
+`"¡Uu! ¡Vamos, vamos!"`
+`"Maria, intenta no mojarte la ropa.`
+` Cuidado también con los zapatos."`
 `"¡Uu!`
-` ¡Quiero comer galletas!`
-` ¡Quiero comer galletas!`
-` ¡Uu!"`
-`"Por favor, coman todo lo que quieran.`
-` Pero, umm..."`
-`Sin estar segura de si era realmente aceptable servir galletas en un lugar como éste, en frente del retrato,`
-` Shannon‐chan nos envió una mirada que parecía preguntar lo que queríamos hacer al respecto.`
-`Bueno, si lo piensas bien, comer aquí podría ser considerado descortés.`
-`"Maria, ¿por qué no comemos en otro lugar?`
-` Pongamos las galletas en un bento y tengamos un picnic."`
-`"¡Uu!`
-` ¡¡Picnic, picnic!!`
-` ¡Si podemos comer galletas, vamos!"`
-`"Esta bien, vamos a tomar algo de aire fresco.`
-` No deberíamos tomar los alimentos en frente de la bruja."`
-`"Es cierto, ¿no dijimos que queríamos bajar a la playa en primer lugar?`
-` Vamos, Vamos."`
-`"Shannon‐chan.`
-` Disculpa, pero quisiera pedirte que nos consiguieras una manta y unas tazas de té."`
-`"¡Está bien!`
-` Desde luego."`
-`Shannon‐chan recibió sus instrucciones y elegantemente hizo una reverencia antes de volver tras sus pasos.`
-`Fuimos a la playa por nuestra cuenta.`
-`Todos nos dirigimos a la entrada en grupo.`
-`Sintiéndome como si la bruja estuviera observando nuestras espaldas, me di vuelta una vez más.`
-`"Uu...`
-` ¿Battler, aún no crees?"`
-`"Oh, no, sí creo.`
-` ¡Esa forma es más imaginativa!`
-` ¡La Bruja Dorada {f:5:Beatrice} le dio al abuelo diez toneladas de oro!"`
-`"Y ese oro debe estar descansando en alguna parte.`
-` Y además, ¿no escribió el abuelo ese extraño epitafio como un desafío para encontrarlo si podemos?`
-` Creo que ese tipo de historia romántica es mucho mejor."`
-`"¡20 mil millones de yenes en oro!`
-` ¡Jeje, incluso si lo dividimos entre los cuatro, sigue siendo una cantidad ridícula de dinero!"`
-`"5 mil millones de yenes para cada uno...`
-` ¡Increíble!`
-` Con esa cantidad de dinero, cualquier negocio prosperaría.`
-` No, esperen, podríamos vivir todas nuestras vidas fabulosamente sin trabajar para nada."`
-`"¡Uu‐uu!`
-` ¡¡5 mil millones de yenes no, galletas, galletas!!"`
-`"Wajajaja, Maria tomaría galletas en vez de dinero.`
-` Aun así, 5 mil millones de yenes, ¡es como un sueño!"`
-`"Ridículo.`
-` ¿Es posible que todos ustedes realmente crean en la Leyenda del Oro de nuestro padre?"`
-`"La historia sobre la bruja que le dio el oro y lo que sigue, obviamente no lo creemos.`
-` Sin embargo, no hay equivocación sobre el oro."`
-`"Múltiples fuentes confirman el hecho de que él obtuvo las barras de oro de una fuente desconocida.`
-` Escuchamos que, antes que el presidente de la compañía Marusoo muriera, nuestro padre le mostró una gran cantidad de oro en algún lugar.`
-` Él usó esa premisa para probar que allí había un valor de diez toneladas."`
-`"Eso solo es un disparate de un viejo senil.`
-` Junto con Padre, él solo estaba fabricando una historia.`
-` No pueden tomar eso seriamente."`
-`"¡Si ese oro no existiese, no habría sido capaz de reunir tantos fondos!...`
-` Antes que muriera, el presidente era una persona con tal sinceridad que ganó el respeto de muchos del mundo financiero.`
-` ¡No podría haberse vuelto cómplice de un fraude como ése!"`
-`"Aniki.`
-` El presidente de Marusoo definitivamente lo vio.`
-` Diez toneladas de eso, claramente con sus ojos.`
-` Yendo aun más lejos, papá dejó al presidente tocar un lingote al azar y que lo examinara."`
-`"Los resultados del examen mostraron que el lingote de diez kilogramos era 99,99% puro.`
-` Él dijo que el emblema de la familia Ushiromiya, el Águila de un Ala, estaba tallado en él."`
-`"Casi instantáneamente, la Leyenda del Oro de la familia Ushiromiya se esparció entre los ilegales del mundo financiero.`
-` Oro de una fundidora desconocida tiene poca tasa de conversión en dinero.`
-` Pensando que era una oportunidad para beneficios decisivos, lo aceptaron como garantía, y como resultado nuestro padre fue capaz de recibir un préstamo gigante..."`
-`"¿No hay límite de lo ridículos que pueden ser?`
-` ¿Qué edad tienen?`
-` ¿Aún están tomando en serio ese infantil cuento que escucharon de niños?"`
-`"¿Dónde está la prueba de que esas diez toneladas de oro existen?`
-` ¿No son solo las mentiras de Padre y aquellos que fueron cercanos a él?"`
-`"Claro que es solo una historia.`
-` Pero aun así, Aniki.`
-` La cantidad de dinero que adquirió papá requirió una cantidad apropiada de garantía.`
-` Incluso si el oro fue solo un rumor, el hecho de que tuvo que mostrarles un tesoro de valor comparable es una verdad inequívoca, ¿no crees?"`
-`"Era solo una ilusión de dinero creado por nuestro mendigo padre.`
-` Hizo parecer que oro no existente realmente existía y engañó a sus patrocinadores.`
-` Probablemente la apuesta de toda una vida."`
-`"Afortunadamente, su uso de esos fondos fue exitoso.`
-` Si las demandas de la Guerra de Corea no hubieran venido y la familia Ushiromiya no hubiera sido restaurada, Padre probablemente hubiera sido perseguido como el ladrón del siglo."`
-`"En ese caso, ¿estás diciendo que el oro nunca existió, y que Padre lo inventó?"`
-`"Por supuesto.`
-` Por lo tanto, luego de que se volvió suficientemente exitoso, la ilusión del oro se volvió inconveniente.`
-` Así que Padre creó esa absurda historia sobre la bruja y magia negra e hizo todo menos creíble."`
-`"En otras palabras, él reveló que la ilusión de la bruja fue fabricada.`
-` Si él dice que recibió el dinero de una bruja, nadie creería que en realidad existe, ¿cierto?"`
-`"Probablemente lo dijo por el bien de todos ustedes.`
-` Sin embargo, han aparecido algunos estúpidos descendientes que quieren dividir ese oro inexistente con el resto de la herencia.`
-` Rosa, ¿no me digas que incluso tú crees en este tipo de invención?"`
-`"No puedo probar si Padre realmente tiene o no tiene el oro..."`
-`"Sin embargo, como una de sus cuatro hijos, solo quiero reclamar lo que me corresponde."`
-`"Jo...`
-` Parece que incluso Rosa comenzó a decirlo.`
-` Muy bien, quizás es esto lo que todos ustedes quieren decir:`
-` que estoy tratando de quedarme con todo el oro para mí..."`
-`"Nii‐san, el hecho es que tú obtuviste una enorme cantidad de financiamiento.`
-` Si descartamos la posibilidad de que has estado malversando los fondos personales de Padre...`
-` entonces solo queda una posibilidad, ¿verdad?"`
-`"Aniki, quizás tu ya has encontrado las diez toneladas de barras de oro.`
-` Es seguro que luce de esa forma para nosotros."`
-`"Ridículo.`
-` En primer lugar algo como eso nunca existió."`
-`"Entonces explícate.`
-` Malversaciones de bienes de Padre, o su oro oculto.`
-` ¿Cómo podrías haber juntado tantos fondos si no usaste ninguno de ellos?"`
-`"Yo también tengo muchos amigos en el mundo político y financiero.`
-` No he hecho nada más que ganar su ayuda.`
-` Y en cuanto a eso, no tengo la responsabilidad de explicárselos.`
-` ¿Lo entienden, no?`
-` Hay algunos temas de los que no se pueden hablar."`
-`"Si insistes eso, está bien.`
-` Pero Aniki, a papá no le queda mucho.`
-` Nadie puede asegurar que vivirá para ver este día el próximo año."`
-`"Cuando él muera, la herencia será traspasada.`
-` Todos tendremos abogados imparciales y contadores para inspeccionar el estado político y financiero de papá."`
-`"Si, en ese momento, el hecho de que nuestro hermano injustamente interfirió con el dinero de Padre sale a la luz...`
-` Lo entiendes, ¿cierto?"`
-`"No tengo idea de lo que están hablando.`
-` Están comenzando a hacerme sentir tan indignado como lo estuvo mi esposa."`
-`"¡El oro es definitivamente uno de los bienes de Padre!`
-` Entiendo que es dinero que no puedes revelar abiertamente.`
-` Pero aún así, los cuatro hermanos tienen un derecho igual a éste."`
-`"En resumen, a pesar de que eres nuestro hermano, nosotros investigaremos tu situación financiera para determinar si te estás acaparando el oro o no."`
-`"Ésta sí que es una buena oportunidad.`
-` Prueba la existencia de ese apoyo de amigos y conocidos que tú mencionaste.`
-` Entonces quedarás limpio.`
-` Y podremos disculparnos por dudar estúpidamente de ti.`
-` ¿Cierto, Rosa?"`
-`"... Es verdad.`
-` Krauss nii‐san, tú eres quien está evitando el tema.`
-` Si eres inocente, podrías simplemente probar que estabas en lo correcto. Y sin embargo ni siquiera estás tratando de responder."`
-`"Sin embargo, Aniki, aún tenemos que considerar tu posición aquí.`
-` Como el representante de papá, probablemente estás llevando un peso más grande que la carga que llevamos nosotros.`
-` No sería justo que el resto de nosotros, quienes hemos estado viviendo vidas terriblemente relajadas hasta ahora, fuéramos a reclamar sin tomar eso en cuenta."`
-`"... Jo.`
-` Parece que no pueden decidir si hablar mal de mi, o alagarme.`
-` Por favor, vayan al grano."`
-`"En resumen... investigar al azar aspectos específicos de la fortuna de Padre parece una forma bastante ineficiente de hacerlo.`
-` Como tú dijiste, Krauss nii‐san, también puede haber movimientos de dinero que pueden ser difíciles de explicar.`
-` Al comprender eso, decidimos consultarlo contigo.`
-` Una consulta mutuamente beneficiosa."`
-`"¿Consulta?`
-` Jo."`
-`"Cuando la herencia sea distribuida, ustedes serán recompensados por sus años de duro trabajo cuidando a papá con un acuerdo que es generoso a tu favor."`
-`"No nos malentiendas.`
-` No es como si dijéramos que abandonaremos nuestros derechos.`
-` Es solo que cuando repartamos lo que merecemos,`
-` no sería malo que nos permitiéramos un generoso arreglo considerando tu posición. Eso es lo que queremos decir."`
-`"En otras palabras, si aceptaras nuestras condiciones,`
-` en el momento de la división de la herencia, no nos importaría dejarte la investigación del estado financiero de Padre a ti, Krauss nii‐san."`
-`Todos los hermanos desde Eva hacia abajo sospechaban que Krauss estaba tratando de robar la fortuna de su padre.`
-`En esa situación, dejar a Krauss reportar el estado de la fortuna de su padre por sí mismo era extremadamente contradictorio y un gran privilegio.`
-`Si, como ellos decían, Krauss estaba realmente malversando dinero, sería capaz de ocultar ese hecho.`
-`Aparte de eso, sería también posible que él controlara la distribución de la herencia en una manera favorable para él.`
-`Krauss, también dándose cuenta que eso sonaba muy bueno para ser cierto, no podía evitar sentir duda.`
-`Él tenía que preocuparse sobre qué tipo de garantías tenían para proponer este compromiso.`
-`"... Jo.`
-` ¿Después de desconfiar completamente, ahora dicen que están recuperando su confianza en mí como su hermano mayor?`
-` ¿Y qué están pidiendo?"`
-`"Solo lo que merecemos como hermanos.`
-` Tú no eres el tipo de persona que robaría las propiedades de papá.`
-` Sin embargo, no hay nadie financiándote.`
-` Considerando todo eso, hay una explicación certera que satisfaría al resto de nosotros."`
-`"Nii‐san, tú encontraste diez toneladas de oro,`
-` y las usaste como garantía para juntar algunos fondos.`
-` Sí, justo como Padre en el pasado, ¿verdad?"`
-`"Si ese es el caso, no habría divertidas desapariciones en las finanzas de Padre.`
-` Siempre has sido un buen hijo, cuidando a Padre.`
-` ¿Por qué desconfiaríamos de una persona así?"`
-`"... Han estado dando tantos rodeos que apenas puedo comprenderlos.`
-` Díganlo de forma más clara y práctica."`
-`"Nuestra primera condición:`
-` Aniki, debes admitir que has encontrado el oro de papá."`
-`"¿Están pidiéndome que admita que poseo oro que no existe?"`
-`"Nuestra segunda condición:`
-` En relación al oro, toma la porción de cada uno de los hermanos y páganosla."`
-`"Qué estúpido.`
-` Con los no existentes 20 mil millones de yenes en oro, serían 5 mil millones para cada persona. ¿Están diciéndome que pague un total de 15 mil millones de yenes?`
-` ¡Ridículo!"`
-`"¡Sigue escuchando hasta el final!`
-` Sabemos que tanto dinero no puede aparecer de la nada.`
-` ¡No estamos diciéndote que hagas un trato imposible!`
-` Por supuesto, en relación a las porciones de oro, planeamos premiarte lo suficiente por tu duro trabajo hasta ahora en nuestros cálculos."`
-`"Nuestra tercera condición:`
-` La porción del oro para el que porta el título del sucesor de la familia principal será del 50%. Lo que sobre será repartido justamente entre los hermanos.`
-` Por supuesto, esto también te incluye a ti, Krauss nii‐san."`
-`"De los 20 mil millones, 12,5 irán a Aniki,`
-` 2,5 mil millones irán a Eva nee‐san,`
-` 2,5 mil millones irán a mí,`
-` y 2,5 irán a Rosa."`
-`"Esa porción me hace tan agradecido que podría llorar.`
-` Así que lo que están diciendo es que, por el bien del oro que no existe, debo pagar 7,5 mil millones."`
-`"¿Qué sucede?`
-` Nii‐san, tu parte es cinco veces el tamaño de la de nosotros.`
-` Ésa es una condición tan buena, yo saltaría de alegría.`
-` Ujujujujuju..."`
-`"Nuestra cuarta condición:`
-` El oro dividido será incluido cuando la herencia sea distribuida en el momento de la muerte de papá.`
-` Sin embargo, como depósito, 10% de nuestras porciones serán pagadas a la brevedad.`
-` El pago debe ser realizado antes de marzo del próximo año."`
-`"¿Cuál es tu opinión, Krauss nii‐san? ¡Ésta es tu oportunidad ideal para restaurar la confianza que necesitas para hacer correr los bienes de Padre, ¿o no?!`
-` Por supuesto, sería imposible obtener un total de 7,5 mil millones antes de que Padre muera.`
-` Sin embargo, no puedes decir que no puedes lograr un depósito de 750 millones, ¿cierto?"`
-`"Pagar 700 millones en la mitad de un año podría ser un poco fastidioso,`
-` pero Aniki, quien tiene muchos amigos en las esferas políticas y empresariales, debería ser capaz de arreglárselas."`
-`"Es cierto que me gustaría recibir los 7,5 mil millones ahora mismo, de una vez.`
-` Pero lejos de preocuparme por ti, te mostraré mi sinceridad pidiendo solo una décima parte de eso por ahora.`
-` Está bien dejar el 90% restante a entregarse hasta la distribución de la herencia.`
-` ¿Correcto?`
-` Ciertamente, incluso tú puedes ofrecer al menos un 10% para mostrar tu sinceridad, ¿no?"`
-`"... Así que mi derecho a investigar los bienes de Padre está siendo vendido por 750 millones...`
-` Je, jejeje.`
-` ¿No es eso genial?`
-` Sin duda ustedes han madurado.`
-` Nunca pensé que serían capaces de ofrecerme un trato a mí."`
-`"Nii‐san, si aceptas esas condiciones, el resto de nosotros dejaremos la investigación de los bienes de Padre a ti.`
-` Sin embargo, los resultados de esa investigación estarán sujetos a protesta."`
-`"Es simplemente natural, ¿cierto?`
-` Sería triste si tú ajustaras nuestra porción de 7,5 mil millones a menos."`
-`"Como regla general, no podríamos quejarnos.`
-` Mientras lo hagas pulcramente, está bien así.`
-` Mientras no hagas nada significativamente obvio, no planeamos agravar nada.`
-` Nosotros también queremos nuestra herencia lo antes posible.`
-` No queremos que el proceso se estire más de lo necesario."`
-`"En el caso de una queja, ¿quién haría la segunda investigación?"`
-`"Está bien si eres tú.`
-` Ésta será probablemente la primera y última oportunidad para que los hermanos discutamos esto.`
-` Yo creo que no llegará a eso."`
-`"Jejeje, *carcajada*carcajada*!`
-` Rosa realmente puede hablar a veces."`
-`Que Krauss no era completamente confiable como el hermano mayor era tan obvio en este punto que no había que explicarlo.`
-`El antiguo tiránico hermano siempre abusaba de sus privilegios e infrigía en las acciones de los otros hermanos.`
-`En respuesta a eso, los otros tres, quienes se habían vuelto adultos, solo ahora estaban devolviendo el golpe por primera vez, y trabajando juntos...`
-`"Lo siento, pero las condiciones aún continúan.`
-` Nuestra quinta condición:`
-` Esta decisión debe prevalecer por sobre el testamento de Padre.`
-` Más tarde, no queremos que un testamento aparezca y haga esta decisión completamente inútil."`
-`"Ustedes son bastante cautelosos...`
-` Entonces déjenme preguntarles, si el oro realmente fuera encontrado, ¿qué harían?"`
-`"Mientras que resuelvas este asunto con el pago correspondiente,`
-` al resto de nosotros`
-` "realmente"`
-` no nos importa si aparece el oro o no.`
-` Puedes pensar en nuestra parte como un pago con anticipación."`
-`"*risita*, está bien soñar.`
-` Ustedes planean convertir esta isla en una estación turística, ¿cierto?`
-` Durante la construcción, podrían encontrarse con el oro por casualidad."`
-`Eva lanzó una risa aguda.`
-`{n}Krauss la miró sin siquiera pestañear.`
-`"... Permítanme añadir una última condición antes de que acepte.`
-` En la situación que cualquier otro hermano además de mí encuentre el oro, inmediatamente me lo pasará."`
-`"Sí, sí, por supuesto, eso está garantizado.`
-` *risita*!"`
-`Era un juego de palabras.`
-` Quienes estaban forzando a Krauss a pagar dinero por un oro inexistente,`
-` obviamente no asegurarían la porción de Krauss si ellos realmente encontraran el oro.`
-`Desde el inicio, este trato no había sido más que una amenazada dirigida a Krauss.`
-`A pesar de que la verdad podía ser diferente, la posibilidad de que Krauss estuviese malversando los bienes de su padre era extremadamente alta.`
-`Cuando Kinzo al fin enfrentara la muerte y la herencia fuera distribuida, seguramente unos cuantos hechos desagradables saldrían a la luz.`
-`Esa situación sería seguramente un herida fatal para Krauss.`
-`Ellos habían descubierto su punto débil y, bajo el velo del compromiso, estaban amenazando a su hermano y sacándole una gran suma de dinero.`
-`Sin embargo, ellos habían dejado pasar una cosa.`
-`{n}Los tres habían olvidado que su hermano mayor, a quien no podían derrotar a menos que estuvieran unidos, era muy astuto y tenía un cerebro muy ágil.`
-`Krauss, dándose cuenta que Eva, segura de su victoria, no podía ocultar su sonrisa, relajadamente dejó salir una regodeona risa mientras hablaba.`
-`"Jajaja.`
-` ¿No es una gran historia?`
-` Yo también tuve un profundo dolor en mi pecho por el distanciamiento con ustedes.`
-` Si aceptando esas condiciones, la relación entre los hermanos vuelve nuevamente a ser amistosa, estaría encantado."`
-`"Me uniré a este trato con placer.`
-` Sé feliz, Rosa.`
-` El trato está concluido."`
+` ¡No me mojaré!"`
+`"*risita*, esa obediencia es ta~n linda.`
+` Battler‐kun, por favor, vigila a Maria‐chan, ¿entendido?"`
+`"¡Muy bien, déjalo en mis manos!"`
+`"Oh, ¿no es igual de linda tu obediencia a Kyrie‐san?`
+` ¿Qué te parece si me haces caso a mí también por una vez?"`
+`"¡Je!`
+` ¡De eso nada!`
+` ¡Ahora, vamos!"`
+`Los jóvenes se apresuraron a salir de la sala.`
+`Fueron reemplazados por Genji, que trajó el carro del servicio y preparó un poco de té negro.`
+`La sala se llenó de un sublime aroma que entretenía a todo el mundo mientras esperaban para calmar su sed...`
+`"Jajajajaja...`
+` Parece que la familia de Rudolf se lleva bastante bien.`
+` Eso es genial."`
+`"Déjalo. La familia de Aniki nos supera."`
+`"Cierto.`
+` Jessica‐chan se ha convertido en una joven bastante linda, ¿verdad?`
+` Eso es fruto de tu educación, ¿verdad, Natsuhi‐san?"`
+`"... Gracias."`
+`Respondió Natsuhi con frialdad.`
+`Y con ello se acabó la conversación, y el silencio invadió la sala.`
+`Posiblemente por no poder soportarlo más, Hideyoshi rompió el silencio con un gesto exagerado.`
+`"La verdad es que crecen realmente rápido.`
+` Siempre he pensado en ellos como niños, pero han crecido y crecido sin parar ante mis ojos, y ahora ya son adultos.`
+` ¡Battler‐kun, por ejemplo, es irreconocible!"`
+`"Su cuerpo ha crecido mucho, pero sigue siendo un crío.`
+` Bueno, lo mismo se puede decir de mi marido."`
+`"Me pregunto dónde está la línea que divide adultos de niños.`
+` No me siento como si hubiera crecido."`
+`"Hmph, lamentable.`
+` No es algo que la madre de una niña debería decir."`
+`"Cierto.`
+` Ya no somos niños.`
+` Somos adultos.`
+` ¿Qué les parece si dejamos esta charla tan sentimental y comenzamos a tratar temas algo más intelectuales?"`
+`Con la sarcástica sonrisa de Eva, todo se volvió repentinamente tenso.`
+`Como si el aroma del té que Genji había estado preparado con tanto cuidado hubiese huido por la ventana.`
+`"Llevamos tiempo queriendo tener una discusión algo más intelectual, ¿me equivoco?`
+` Tu sarcasmo llega en mal momento.`
+` Como siempre."`
+`"‘Como siempre’, ¿verdad?`
+` Vaya, vaya.`
+` Ojalá pudiera empaquetar estas palabras y enviarla a esta misma habitación varias décadas atrás.`
+` ¿Verdad, Rosa?"`
 `"..."`
-`La expresión de Rosa se oscureció.`
-` Cuando su hermano comenzaba a hablar así, la conversación nunca cambiaba para bien.`
-`Eva también era lo suficientemente sensible para darse cuenta de eso.`
-`{n}Por ello, a pesar que Krauss aceptó el trato obedientemente, ella era incapaz de alejar sus sentimientos de inseguridad.`
-`"Oh, qué obediente.`
-` Eso no es como tú, Nii‐san."`
-`"Eso es duro.`
-` ¿Piensas que tengo un motivo oculto?`
-` Por supuesto que no hay ninguno.`
-` Al igual que en sus casos."`
-`{i:Al igual que en sus casos}.`
-`{n}Se sintió como si solo esa parte estuviese enfatizada.`
-`El color de la cara de Rudolf se oscureció.`
-`{i:"Tengo un plan similar al de ustedes"}.`
-`{n}Era así como sonaba para él.`
-`Por lo que sabía la urgencia de la situación.`
-` Tratando de llevar esta discusión casi terminada a una conclusión, se apresuró a terminarla.`
-`"Entonces estamos bien...`
-` Así que, Aniki.`
-` ¿Te importaría firmar aquí?`
-` Éste es un contrato escrito que contiene la discusión que hemos tenido.`
-` Hay una para cada persona.`
-` Todos firmarán los mismos contenidos."`
-`Rudolf tomó cuatro contratos escritos del bolsillo de su chaqueta que tenía los detalles de su trato escrito en él.`
-`"La condición que Krauss nii‐san propuso será, por supuesto, añadida desde ahora.`
-` No te preocupes."`
-`"Aniki, ¿usarás una pluma?"`
-`Rudolf tomó una pluma fuente del bolsillo de su chaqueta y se la ofreció a Krauss.`
-`Krauss hizo como si lo aceptara, pero entonces, con una corta risa, retiró su mano sin tomarla y habló.`
-`"... En realidad,`
-` para asegurarme que este acuerdo es definitivamente efectivo, me gustaría proponer una única corrección."`
-`Cuando Krauss dijo esa oración...`
-`{n}Todos los hermanos sintieron como si algo desagradable estuviera recorriendo sus espaldas al mismo tiempo.`
-`"E‐eso no se hará.`
-` Ya lo hemos decidido, ¿no?`
-` Fírmalo sin decir nada."`
-`"Eva, ¿por qué eres tan impaciente?`
-` Claro que firmaré.`
-` Prometo que tu parte será de 7,5 mil millones de yenes.`
-` También prometo que, cuando la herencia de Padre sea distribuida, lo voy a liquidar limpia y pulcramente."`
-`"...Sin embargo, por otra parte, hay un punto con el cual no puedo comprometerme sin importar qué."`
-`"... ¿De qué estás hablando?`
-` ¿Qué punto no te gusta?"`
-`"La parte de anticipadamente pagar diez por ciento de cada porción, 750 millones de yenes.`
-` Como se pudieron fijar, mi estado político y financiero no es próspero.`
-` Mientras que aseguro que definitivamente reuniré futuras inversiones,`
-` en este momento no tengo más opción que admitir que soy bastante pobre."`
-`"En resumen, no tengo nada de dinero que pueda manejar en este momento.`
-` Soy incompetente, y mis habilidades para los negocios y opiniones son torpes.`
-` Ya que soy tan débil como todos ustedes han dicho, no tengo el poder de manejar 750 millones en solo la mitad de un año."`
-`"E‐eso no puede ser verdad.`
-` ¿Estás tratando de engañarnos con un truco tan bajo?"`
-`"En el momento de la división de la herencia, liquidaré todo a la vez.`
-` Remuevan la condición que debo rápidamente pagarles diez por ciento.`
-` Ésa es la única condición bajo la que firmaré."`
-`"Krauss nii‐san, no importa qué, ese diez por ciento no es más que un número para medir tu sincerida', ¿no?`
-` Estrictamente hablando, no deberíamos estar haciendo un acuerdo en primer lugar.`
-` Te estamos haciendo un favor al ofrecer que nosotros dejemos las cosas de lado por solo diez por ciento en dinero de buena fe."`
-`"Después de tener eso explicado, rechazarlo provocaría que nuestra relación de confianza mutua cayera al suelo, ¿no?"`
-`Hideyoshi tenía una expresión humilde en su cara y se frotaba las manos,`
-` pero sus ojos no estaban calmados en absoluto.`
-`Krauss ya había visto a través de la sombra en el abismo de esos ojos.`
-`"... Hmm.`
-` ¿Por qué están tan apurados?`
-` ¿O posiblemente están asustados de algo?`
-` Rosa, ¿no me lo dirás al menos a mí?`
-` En secreto, sin decirle al resto de los hermanos."`
-`"... No, no es como si yo..."`
-`"Para, Aniki.`
-` Todo lo que te estamos preguntando es si vas a firmar o no.`
-` Solo olvídate de hacer cualquier trato extraño o algo sospechoso."`
-`"¿Jo?`
-` Así que no poseo margen de negociación.`
-` ¿Afirman que mi posición es tan débil que ni siquiera estamos en una correlación aún?"`
-`Comenzaron a trepar escalofríos por la espalda de Rudolf...`
-`Él comenzó a sentirse absorbido por el peso de la insuperable muralla y la prolongada sombra de su hermano,`
-` los cuales nunca había podido superar desde que eran pequeños...`
-`"¿No debería hacerse este trato en una relación justa?`
-` Para mí, esto restaurará la confianza perdida hace mucho tiempo de mi hermano y hermanas menores y el profundo amor entre nosotros.`
-` Hay un malestar en mi corazón por resolver esto rápidamente."`
-`"Sería muy feliz si esto pudiera ser resuelto hoy.`
-` Pero ustedes también estarían muy felices si este trato fuera resuelto rápidamente, ¿no?..."`
-`Krauss miró a cada uno de los hermanos.`
-`{n}Ellos evitaron su mirada con un instinto casi animal.`
-`Solo Hideyoshi era lento evadiéndolo.`
-`{n}Así que fue capturado por la mirada de Krauss.`
-`"Hideyoshi nii‐san.`
-` Escuché que a tu compañía le ha estado yendo extremadamente bien recientemente, ¿no es así?`
-` Con un ritmo impresionante se ha tomado gran valor, y su rendimiento y el precio de sus acciones se han disparado.`
-` Estoy realmente celoso."`
-`"L‐la situación de mi marido no tiene nada que ver con esto."`
-`"Sin embargo, es lamentable que hayas descuidado tus accionistas.`
-` También es horrible que fueras incapaz de solidificar tu base cuando tu compañía se volvió una sociedad cotizada.`
-` Antes de que te dieras cuenta, algunos colegas de mala muerte habían comprado una gran cantidad de acciones de tu compañía, ¿no?"`
-`"¿C‐`
-`... cómo podrías saber algo como eso?"`
-`"De la misma forma que tú.`
-` Si ustedes pueden reunir evidencias probando que nadie me haría un préstamo, entonces puedo reunir evidencia en tí.`
-` Jajaja, ¿es realmente tan extraño eso?"`
-`Krauss esbozó una gran sonrisa.`
-`{n}En contraste, la cara de Hideyoshi obviamente se volvía pálida...`
-`La empresa de Hideyoshi era una compañía administrativa de comida rápida que él había iniciado de la nada.`
-`A través de los esfuerzos administrativos de Hideyoshi, el rendimiento del negocio repetidamente se levantó y multiplicó, y recientemente una petición para volverla una sociedad cotizada en la bolsa tuvo éxito.`
-`La mayor ventaja de estar en un sistema de accionistas era que, vendiendo los certificados de acciones, un gran monto de financiamiento podía ser obtenido.`
-`Ese monto era mucho mayor que las ganancias actuales del negocio.`
-`{n}Esto lo hace una manera extremadamente efectiva de juntar fondos masivos necesarios para hacer crecer a la compañía aún más.`
-`Sin embargo, a cambio de financiar la compañía, los accionistas tienen ciertos derechos.`
-`Eso significaba que, para darle a la compañía que habían financiado aun más ganancias, tenían el derecho de observarla y controlarla.`
-`Ese derecho era garantizado a todos los accionistas, y podían a veces usarlo para despedir a la administración ineficaz.`
-`Ese era el "derecho" para prevenir que el dinero que habían gastando financiando a la compañía fuera a la basura observando la administración de la empresa.`
-`Sin embargo, si usaban ese derecho a la fuerza, podían expulsar al administrador actual y tomar la compañía.`
-`Ya que los principales de todos los accionistas tienen el poder de despedir al administrador y nominar uno nuevo.`
-`Ese poder está determinado con base en la decisión mayoritaria de los accionistas.`
-`{n}Y las personas que poseían más acciones podían reunir más votos.`
-`En otras palabras, si una persona o grupo tiene la mayoría de las acciones, pueden libremente expulsar a la administración antigua y hacer presidente a cualquiera que ellos quieran.`
-`Si ellos quisieran, también es posible para ellos volverse presidentes.`
-`En muchas compañías, sus acciones son compradas por personas maliciosas, y para evitar que su posición sea amenazada,`
-` hacen que sus propios empleados o personas cercanas a ellos compren un montón de certificados de acciones. Para prevenir acciones hostiles tomadas por la mayoría, tratan de tomar algunas medidas preventivas.`
-`Sin embargo, ya que la compañía de Hideyoshi se había vuelto solo recientemente cotizada, no había tenido el tiempo para fortalecer esas medidas defensivas.`
-`No, quizás Hideyoshi estaba tan inmerso en la administración de su compañía que no pudo darse cuenta de los peligros de ser cotizada.`
-`Es difícil decir si debía ser visto como un bondadoso y hábil gerente en administración, o un estúpido gerente que tenía sus pies atados...`
-`Había personas afuera que no lo dejarían escapar con esa ingenuidad ileso.`
-`Ellos comenzaron a comprar acciones de la compañía de Hideyoshi repetidamente y repentinamente ganaron tal fuerza que no podían ser ignorados.`
-`Entonces enviaron documentos anónimos a los accionistas y comenzaron a conquistar la mayoría.`
-`El documento decía: "La actual administración continúa haciendo inútiles inversiones y está ignorando las necesidades de los accionistas.`
-` Forcemos a la actual administración a retirarse, reducir el actual desperdicio de inversiones, y dejar a esta compañía renacer como una que le regresa más a los accionistas."`
-`Es bastante difícil hacer conocido el actual estado de la administración de la compañía.`
-`El éxito creado por la poca cantidad de sueño de Hideyoshi y su constante preocupación por su compañía fue cruelmente retorcido, y él perdió la confianza de sus accionistas.`
-`Los esfuerzos de ellos casi habían reunido la mayoría de las acciones en la compañía.`
-`Entonces, incluso Hideyoshi lo reconoció y comenzó a recuperar las acciones, pero los accionistas, quienes se dieron cuenta que la compañía estaba realizando una maniobra de adquisición,`
-` pidieron un precio ridículo por las partes que él intentaba recuperar.`
-`Ellos torturaron continuamente a Hideyoshi, quien no tenía una oportunidad en la negociación del precio.`
-`Una de las certezas del capitalismo es que el valor aumentará cuando las dos partes compiten por una misma cosa.`
-`Y una de las certezas de la democracia es que la mayoría controla todo.`
-`Así que al final, quien quiera que se las ingenie para comprar más acciones gana.`
-`Así que quien posea más dinero gana.`
-`Si Hideyoshi pudiera obtener una gran suma de dinero en este momento crítico, podría ser capaz evadir el perder todo lo que había construido...`
-`{a:c:`
-`¡POR LO TANTO,`
-` MÁS QUE CUALQUIER COSA,{n}`
-`ÉL QUERÍA UN MONTÓN DE DINERO AHORA MISMO!}`
-`Él no podía esperar por la división de la herencia de Kinzo, la cual no sabía cuando ocurriría.`
-`"Y tú, Rudolf, has estado en un montón de problemas últimamente, ¿no?`
-` Dicen que el extranjero es tenebroso, pero parece que realmente es cierto.`
-` Los juicios americanos son resueltos muy emocionalmente.`
-` Ellos no darán una sentencia generosa a un extranjero.`
-` ¿No fuiste advertido por tu abogado que hacer un arreglo con la otra parte sería más económico al final?"`
-`"... ¿De qué está hablando?"`
-`"Ah, bueno... es un problema del trabajo.`
-` No es gran cosa.`
-` Será arreglado con dinero."`
-`Kyrie rápidamente reconoció lo que significaba la complicada expresión de Rudolf.`
-`Su marido había sido atrapado en un tipo de problema sin que ella supiera, y estaba sufriendo en soledad.`
-`"Es correcto.`
-` En este mundo, cualquier cosa puede ser arreglada con dinero.`
-` Después de todo, ¡puede incluso comprar los lazos rotos entre los hermanos!`
-` América es muy exigente sobre las violaciones a los derechos.`
-` Pero con dinero, todo puede ser arreglado.`
-` Larga vida al capitalismo."`
-`"Aunque se rumora que el arreglo de dinero puede alcanzar varios millones de dólares, ¿no?"`
-`Rudolf había estado construyendo una gran riqueza con un cierto tipo de mercado de nicho.`
-`Sin embargo, un nicho es un nicho.`
-` Definitivamente no es un trabajo radiante.`
-`Una gigante corporación americana estaba tratando de acusar a Rudolf de violar sus derechos.`
-`Por varias razones, se pensó que la victoria del juicio era muy poco probable, y Rudolf se fue por la rendición.`
-`...Pero incluso de esa forma tenía que ser resuelto con dinero.`
-`{n}Si solo pudiera pagar ese dinero, a pesar de que sería doloroso, él aún podría recuperarse.`
-`Pero si él no pagaba, perdería todo.`
-`{a:c:`
-`¡POR LO TANTO,`
-` MÁS QUE CUALQUIER COSA,{n}`
-`ÉL QUERÍA UN MONTÓN DE DINERO AHORA MISMO!}`
-`"... Rosa, tú eres una buena y noble hermana pequeña.`
-` Ni siquiera te acercarías a un peligroso juego de dinero.`
-` Sin embargo, tu naturaleza compasiva fue tu ruina, ¿no?`
-` No creo que alguien aceptaría convertirse en un aval tan a la ligera."`
-`"Nn...`
-` Umm...`
-` ¡¡E‐eso no tiene nada que ver contigo, Krauss nii‐san!!"`
-`Rosa atípicamente dejo salir sus emociones y gritó.`
-`{n}...Porque no se suponía de que él sabría eso.`
-`{n}Mientras Krauss miraba, él dejo salir una apagada risa...`
-`Sin excepción.`
-` Cada uno de ellos,`
-`{a:c:`
-` ¡MÁS QUE CUALQUIER COSA,{n}`
-`QUERÍAN UN MONTÓN DE DINERO AHORA MISMO!}`
-`En otras palabras, la situación se había invertido.`
-`Porque solo Krauss, a quien habían estado amenazando, no tenía una necesidad urgente por una gran cantidad de dinero.`
-`Comparado a eso, los tres que estaban amenazándolo querían dinero rápidamente, independientemente del costo.`
-`Así que mientras más Krauss pospusiera el trato, más ventaja tendría.`
-`Krauss era bastante astuto.`
-`{n}Él conocía sus talones de Aquiles desde el comienzo.`
-`{n}Aun así, no había estado seguro.`
-`Por ello, él había ocultado eso hasta el final, y, por medio de la analización detenida y completa de sus actitudes, él había contraatacado.`
-`"Si pudiera, me encantaría juntar algo de dinero para mis lindos hermanos en sus tiempos de necesidad.`
-` Pero desafortunadamente, no tengo nada a la mano."`
-`"Si tienen algún patrocinador en mente que pueda prestarles 750 millones, sugiero que traten con él primero."`
-`Las palabras eufóricas de Krauss eran horriblemente terminantes.`
-`{n}Los otros hermanos no podían hacer nada más que escuchar, rechinando los dientes.`
-`Si pudieran pensar en un patrocinador así de conveniente, no habrían mantenido esta farsa.`
-` Habían entrado a esta gran batalla específicamente porque habían agotado todas las otras opciones.`
-`"Si aún pueden confiar en su hermano mayor,`
-` pueden usar mi influencia para encontrar un patrocinador.`
-` Oh esperen, ya habían dicho de que no tengo ninguna influencia.`
-` Por tanto, no puedo hacer nada, ¿o sí?`
-` ¡Jeejejejejejeje!"`
-`La risa lenta y deleitosa de Krauss comenzó a llenar el salón.`
-`Los hermanos menores, quienes habían, hasta ahora, estado llevando al hermano mayor a una esquina, no podían hacer nada más que hacer muecas y rechinar sus dientes...`
-`"... E‐Eva..."`
-`"No me hagas reír...`
-` ¡Como si te fuera a pedir prestado!`
-` No me hagas reír...`
-`¡No me hagas reír!"`
-`"... Si...`
-` si confiáramos en ti, ¿cómo podrías ayudarnos?"`
-`"Se los dije, ¿no?`
-` Todo lo que puedo hacer es encontrar patrocinadores para ustedes.`
-` Por supuesto, negociaré por la mayor tasa de interés posible.`
-` Jeejejeje, ¡¡gajajajajajajajaja!!"`
-`"Maldito...`
-` aprovechándote de nosotros..."`
-`"... Cariño.`
-` Por favor cálmate."`
-`"Estoy calmado. Estoy extremadamente sereno...`
-` ¡Bastardo!"`
-`Kyrie tomó la mano de su marido.`
-`Pero esa acción lo hizo sentir aun más miserable, así que Rudolf la soltó.`
-`Krauss rió como si eso lo hiciera extremadamente feliz.`
-`"En tiempos como estos, de seguro sería agradable encontrar el oro oculto de Padre.`
-` Si lo hiciera, podría dividirlo en porciones de 2,5 mil millones de yenes justo ahora.`
-` Qué triste, qué triste. ¡Tan triste!`
-` ¡Qué tan extremadamente, totalmente, realmente y desesperanzadoramente triste!"`
-`"Esta noche, tomemos juntos como hermanos, y descubramos la ubicación del oro oculto de Padre,`
-` y resolvamos juntos el acertijo del epitafio de {f:5:Beatrice}, ¿por qué no?"`
-`"Si combinamos los cuatro amigables hermanos, de seguro no hay enigma que no pueda ser resuelto.`
-` ¡¡Jajjajajajajajajajajajajajajajajajajajajajajaja!!"`
-`"... Hmm.`
-` Que interesante.`
-` Bien, entonces, ¿cuáles son las condiciones que adjuntaron?"`
-`"... Sí.`
-` Independientemente de si Krauss descubriese o no el oro, él pagaría a Eva‐sama, Rudolf‐sama y Rosa‐sama un total de 7,5 mil millones por sus partes.`
-` Sin embargo, diez por ciento de eso sería pagado antes de marzo."`
-`"Fu, ja‐ja‐ja‐ja‐ja‐ja...`
-` Krauss, qué idiota.`
-` Que él fuese a ser derribado por sus hermanos menores...`
-` Es simplemente divertido."`
-`"¿Pero al parecer su trampa fue ingenua?"`
-`"... Sí.`
-` Krauss‐sama expuso que Eva‐sama y todos los hermanos menores tenían una necesidad urgente de obtener dinero."`
+`Rosa sonrió con cierta duda.`
+`{n}Estuviera o no de acuerdo, claramente se ganaría el desagrado de su hermano o de su hermana.`
+`Un poco de mundana sabiduría que hubo de aprender como hermana pequeña.`
+`"Déjalo, Aneki.`
+` Mientras no estén los mocosos, será mejor centrarse en el tema principal.`
+` Propongo que comencemos nuestro debate intelectual."`
+`Mientras Rudolf miraba el rostro de todos los presentes, algunos soltaron un pequeño suspiro y otros permitieron que la resignación se reflejara en su mirada.`
+`Era la inevitable...`
+` agenda del día.`
+`"El año pasado, su esperanza de vida era de aproximadamente tres meses.`
+` Lo que significa que ya es de menos nueve meses, ¿verdad?`
+` Supongo que eso significa que podría llegar en cualquier momento."`
+`"El líder de familia goza de buena salud.`
+` Sacar un tema tan inapropiado a plena luz del día... me hace dudar de tus verdaderas intenciones, Rudolf‐san."`
+`"Pero Natsuhi‐san...`
+` Si no hablamos sobre esto hasta que pase algo, será demasiado tarde.`
+` Ya que sigue gozando de buena salud, debemos preparar varias cosas mientras el tiempo siga de nuestro lado.`
+` Algo así como etiqueta financiera."`
+`"Parece que todos estamos preocupados por nuestro padre.`
+` Doctor Nanjo,`
+` ¿le importaría contarnos los detalles?`
+` Parece que ellos también lo están esperando."`
+`"... *cof*."`
+`Nanjo, apoyado en la ventana y observando el jardín de rosas, tosió una única vez al darse cuenta de que lo llamaban.`
+`"Doctor Nanjo.`
+` ¿Cómo está Padre?"`
+`"Antes que nada...`
+` Ya que mi estimación del año pasado de que le quedaban tres meses de vida ha resultado ser equivocada, permítanme revisar mis palabras."`
+`"No hace falta que se explique.`
+` La estimación de vida es solo una estimación, no una promesa, ¿verdad?"`
+`"Correcto.`
+` Por ello, aunque acepto las reiteradas preguntas de todo el mundo, no puedo decir con seguridad cuándo va a fallecer.`
+` La vida de un humano tiene dos grandes pilares: cuerpo y mente.`
+` La situación es peligrosa si el cuerpo es débil, pero si la mente es lo suficientemente fuerte, se puede soportar."`
+`"Así que, está diciendo que aunque su cuerpo está débil, su mente aún está firme y energética."`
+`"Kyrie, disculpa, pero por favor permanece callada un rato."`
+`"... Lo siento."`
+`"Correcto.`
+` El cuerpo de Kinzo‐san está siendo destrozado por el demonio de la mala salud.`
+` Y además, seguir teniendo la manía de tomar un licor tan fuerte es muy, muy..."`
+`"Así que el alcohol es la razón por la que su salud está al filo de la navaja.`
+` ¿Su larga vida ha sido culpa del alcohol también?`
+` Parece típico de papá, el bebedor empedernido."`
+`"Bien, doctor, sé que no puede hacer más que una predicción...`
+` ¿Pero cree que tendría posibilidades de seguir vivo este mismo día el año que viene?"`
+`"Ésa es una pregunta bastante maleducada hacia el líder de la familia."`
+`Natsuhi saltó ante las palabras de Eva, incapaz de ocultar su expresión de asombro.`
+`Como respuesta, Eva le lanzó una mirada desafiante, pero Hideyoshi, dándose cuenta de lo que ocurría, trató de tranquilizar las cosas con una sonrisa amarga.`
+`"¡Ah, Natsuhi‐san, discúlpala!`
+` Eva, intenta escoger tus palabras con más cuidado, ¿está bien?"`
+`"Lo siento.`
+` Simplemente estaba muy preocupada por la condición de Padre.`
+` *risita*."`
+`"¿En serio?`
+` Quién lo hubiera dicho."`
+`"Doctor Nanjo, díganos.`
+` Por el bien del bello amor filial de una hija preocupada por la vida de su padre."`
+`Krauss rió sarcásticamente y Eva, con una dulce sonrisa, rió de forma idéntica.`
+`"Pregunta si seguirá teniendo una salud decente el año que viene...`
+` Pero como médico, no es algo que me resulte fácil decir.`
+` Ya que, aunque pienso que esta pequeña tregua en su condición podría continuar un cierto tiempo,`
+` si sufre alguna clase de ataque, probablemente no habrá nada que podamos hacer."`
+`"De cualquier forma, Rokkenjima es una isla muy solitaria.`
+` No es como si una ambulancia pudiera entrar a salvarlo.`
+` Normalmente me gustaría tenerlo hospitalizado en tierra firme, pero..."`
+`"Padre declaró que no quiere que su noble investigación sea interrumpida.`
+` Parece que nos guarda rencor por cómo le intentamos obligar a salir el año pasado.`
+` Aparentemente, sospecha que será encerrado en algún hospital si sale.`
+` Así están las cosas."`
+`"¿Le ha estado examinando el doctor Nanjo?"`
+`"Padre confía en el doctor Nanjo.`
+` Por lo visto, puede ser examinado cuando está de buen humor."`
+`"Puedo examinar su condición, pero si intento recomendarle algo de medicamento u hospitalización, se niega a escuchar.`
+` En realidad solo he podido observarle."`
+`"Es verdad que hay gente que odia a los médicos...`
+` De todas formas, ¡qué molestia!"`
+`Nanjo suspiró profundamente.`
+`{n}El objetivo del examen era determinar qué tipo de tratamiento médico era adecuado.`
+`Recibir el examen pero ignorar el consejo recibido le quita todo el sentido...`
+`"En resumen,`
+` su esperanza de vida sigue siendo de tres meses.`
+` No hay forma de saber cuánto tiempo seguirá viviendo al borde de la muerte."`
+`"Rudolf‐san.`
+` ¿Te importaría cuidar un poco tus palabras?"`
+`"Ah, lo siento.`
+` Siempre hablo de esta forma.`
+` Dame un respiro."`
+`"Comprendo la opinión del doctor.`
+` ¿Qué opinas, Krauss nii‐san?"`
 `"Hmm.`
-` ¿Puedes realmente llamar algo de ese nivel exponer?`
-` Qué incompleto e incompetente.`
-` ¿Qué están haciendo ahora?"`
-`"Esa conversación ha sido interrumpida por ahora.`
-` En este momento, el epitafio de {f:5:Beatrice}‐sama está siendo discutido."`
-`"Así que, ¿están tratando de resolver el acertijo y encontrar dónde está oculto mi oro?"`
-`"... Sí."`
-`Kinzo se quitó sus lentes y resopló.`
-`"¿Será completado primero el milagro,`
-` o expondrán esos tontos el oro primero?`
-` Qué espectáculo."`
-`"Si esos idiotas resolvieran mi acertijo, en ese momento sería completamente derrotado.`
-` Pueden estrujar mi cuerpo hasta el último fragmento de hueso.`
-` La gran magia puede hospedar un milagro proveniente de la avaricia de los idiotas."`
-`"... ¡¡Y aun así!!`
-` Si la realización del milagro llega primero...`
-` ¡Si llega primero!`
-` ¡¡{f:5:Beatrice} será revivida nuevamente!!`
-` ¡Esa sonrisa que he estado persiguiendo la mitad de mi vida será restaurada!"`
-`"¡¡Oooooohhh, {f:5:Beatrice}!!`
-` ¡La sagrada noche cuando el milagro sea apostado llegará, y el juego de los demonios comenzará!`
-` ¡¡Definitivamente ganaré, y definitivamente permaneceré vivo!!"`
-`"¡Daré las vidas de los demás!`
-` ¡No necesito riqueza u honor, bienes u oro o cualquier otra cosa!`
-` ¡Solo quiero ver tu sonrisa una vez más!!`
-` ¡¡*cof*cof*cof*!!"`
-`Kinzo se ahogó, aparentemente con gran dolor.`
-`Kanon se acercó y trató palmear la espalda de su amo, pero Kinzo señaló que no tenía que hacerlo.`
-`"¿Sabes por qué me tomé la molestia de exponer la localización del oro oculto para que cualquiera lo pudiera ver?"`
-`"... No."`
-`"Es porque el poder mágico es decidido por el riesgo.`
-` Si el número de personas que tratan de descubrir el oro de {f:5:Beatrice} es alto,`
-` y mientras más grande sea el peligro de que eso ocurra también, entonces asumiendo que la apuesta es exitosa a pesar de las probabilidades, el poder mágico traerá un gran milagro."`
-`"En otras palabras, la magia es un juego.`
-` No es verdad que la persona más superior será la ganadora.`
-` El ganador es superior porque ha obtenido magia.`
-` ¿Lo entiendes?`
-` El milagro de la vida solo puede ser dado después de ganar contra las divinas probabilidades de miles de cientos de millones a una...`
-` ¿Es esto demasiado difícil para que lo entiendas?"`
-`"... Mis disculpas."`
-`"No te preocupes.`
-` Todo se resume en esto.`
-` Al que resuelva el misterio del epitafio de {f:5:Beatrice} le daré todo lo que he construido.`
-` Riqueza, honor, oro y la herencia de la familia Ushiromiya. ¡Todo lo que he establecido!"`
-`"Ya que resolver el acertijo es la única condición, no está limitado a mis hijos.`
-` Por ejemplo, si tu tuvieras éxito resolviéndolo, eso te calificaría para ganar todo."`
-`"... Sí.`
-` Sin embargo...`
-` No podría entender un acertijo tan difícil."`
-`"Por supuesto.`
-` Lo hice difícil.`
-` Pero también debes desafiarlo.`
-` Ésa será la semilla con la cual el milagro de la magia será convocado.`
-` Si todos lo desafían, y todos fallan, será así."`
-`"¡Sin embargo, si los milagros son reunidos y el poder mágico es creado, entonces pasará!`
-` {f:5:Beatrice} revivirá.`
-` Por ello tú también debes desafiarlo.`
-` Todos deben hacerlo.`
-` ¡¡Y haciendo eso, habrán de darme poder para mi magia!!`
-` ¡¿Lo entiendes?!"`
-`"... Sí.`
-` Lo intentaré."`
-`Por un largo rato, Kinzo repetidamente se murmuró a sí mismo, tomándose la cabeza en su agitación.`
-`Kanon se quedó donde estaba, alerta y sin moverse, hasta que recibiera la siguiente orden de su amo.`
-`Kinzo finalmente se dio cuenta de eso.`
-`"Está todo bien, déjame solo.`
-` Hay una bolsa de dulces en el gabinete de licores.`
-` Puedes tomarlos como recompensa."`
-`"... No los necesito.`
-` Porque soy...`
-` un mueble."`
-`"... Hmm.`
-` ¿Así que los muebles no comen dulces?`
-` Tiene sentido.`
-` En ese caso, déjame solo."`
-`"Sí...`
-` Con su permiso."`
-`Kanon hizo una reverencia y dejó el estudio.`
-`{n}Mientras la puerta se cerró, un pesado sonido de cerradura resonó.`
-`Pero ése no era el sonido de Kanon poniendo cerrojo a la puerta.`
-`{n}Era el cerrojo automático de la puerta.`
-`Nadie podía entrar sin el permiso de Kinzo, y una vez que se iban, no podían entrar nuevamente.`
-`Era un mecanismo que Kinzo, incapaz de confiar en sus parientes de sangre, había creado para encerrarse en su propio estudio y aislarse del mundo exterior.`
-`Él ya era incapaz de confiar en alguien exceptuando, no aquellos hijos que compartían sus sangre, sino esos sirvientes que se llamaban a sí mismos muebles...`
-`"... Doctor Nanjo, ¿hay algo que le preocupe?"`
-`"Ah, Genji‐san.`
-` Oh, es solo que ya no hay lugar para mí."`
-`Con una risa amarga, Nanjo giró su rostro hacia la puerta del salón.`
-`Parecía que por esa reacción, Genji comprendió qué quería decir Nanjo.`
-`En su mayor parte, Genji también entendía la situación familiar.`
-`Debió haberle querido hacer fruncir el ceño, sabiendo que en este momento en el comedor, el amo al que servía estaba siendo discutido tan irrespetuosamente.`
-`Pero eso hubiera sido bastante difícil de adivinar de su expresión indiferente.`
-`"... Pero...`
-` no lo comprendo.`
-` Me pregunto por qué Kinzo‐san escribió algo tan llamativo."`
-`Nanjo miró al retrato de {f:5:Beatrice}.`
-`{n}No, él realmente dirigió su mirada debajo del retrato, a la placa con el epitafio.`
-`"... No supongo que pueda entender los pensamiento del amo.`
-` Sin embargo, me doy cuenta que esos pensamientos son bastante profundos."`
-`"Desde hace mucho tiempo, cuando Kinzo‐san jugaba ajedrez, solía preparar su movimiento de acuerdo a un juicio difícil de comprender.`
-` Sí, a veces incluso hacía movimientos que yo no podía entender.`
-` Para una persona normal como yo, era imposible ver qué es lo que planeaba..."`
-`"Personalmente sospecho que debe ser algún tipo de testamento del amo.`
-` Probablemente pretende confiar sus bienes y el liderazgo a quien consiga comprenderlo."`
-`"Entonces quizás él esperaba que el peligro de que un extraño como yo lo resolviera...`
-` forzara a los cuatro hermanos para trabajar juntos y resolver el acertijo.`
-` Podría ser algo como eso.`
-` Puede que Kinzo‐san menospreciara a sus hijos, pero quizás también esperaba que los hermanos repararan su relación."`
+` Para ser honesto, discrepo con el doctor Nanjo.`
+` Me cuesta mucho pensar que nuestro padre es una persona enferma a la que le quedan solo tres meses de vida.`
+` Su grito es tan enérgico como siempre, y todavía siento escalofríos al pensar en sus puñetazos lloviendo sobre mí.`
+` Obligar al hermano mayor a encargarse él solo del cuidado de su padre no es justo."`
+`"Jaajaja.`
+` En nuestra próxima vida, nace después de mí."`
+`"Bien, volvamos a nuestra discusión.`
+` Por lo que veo ante la imparcial opinión del médico, podría fallecer en cualquier momento.`
+` Lo siento, Aniki, pero prefiero confiar en la opinión de un especialista.`
+` Por tanto, creo que la discusión sobre la fortuna de papá ya no es nada prematura."`
+`"Los fondos personales de nuestro padre deben de llegar a varias decenas de miles de millones de yenes, ¿verdad?`
+` Aunque bueno, no es como si fuera todo dinero en efectivo.`
+` No es tan fácil como cortar una tarta de cumpleaños."`
+`"... Una metáfora muy interesante, Aneki.`
+` Sí, a veces la fresa y el chocolate están colocadas en zonas separadas de la parte superior de la tarta, lo cual dificulta el dividirla en partes iguales.`
+` Teniendo eso en cuenta, supongo que lo mejor es discutir por dónde introducir el cuchillo, ¿verdad?"`
+`"No les comprendo. Aunque el líder de familia sigue con vida, están tratando esta cuestión en voz alta, como si ya esuviera muerto."`
+`"Vamos, ¿no ves que es un tema de gran importancia?`
+` Después de todo, tras su muerte, la herencia de su fortuna debe realizarse inmediatamente, ¿verdad?`
+` Y además, la riqueza de la familia Ushiromiya es enorme.`
+` ¿Acaso no comprendes que es necesario examinar el tema en profundidad antes de que ocurra?`
+` Y es que hay una enorme diferencia entre las riquezas de esta familia y las de la tuya."`
+`"Qué maleducada...`
+` Mi familia no tiene nada que ver con esto."`
+`Con la respuesta indignada en voz baja de Natsuhi, la atmósfera se volvió aun más hostil.`
+`"Déjalo, Eva.`
+` ¡Discúlpanos, Natsuhi‐san!`
+` Disculpa su grosería."`
+`Hideyoshi trató de suavizar las cosas mirándolas con una sonrisa forzada, pero no consiguió más que aumentar la tensión entre Natsuhi y Eva...`
+`"... Si me quedo más tiempo, sería una carga.`
+` Por favor, discúlpenme."`
+`Nanjo se levantó de su asiento y salió del salón.`
+`Para un extraño, tal vez fuera un simple acto de cortesía, pero varias miradas de envidia ante el hecho de que pudiese escapar siguieron sus pasos.`
+`Después de que el doctor se hubiera ido y ya no se oyeran sus pasos en la distancia, Krauss cruzó las piernas.`
+`"Por lo que veo, lo que quieren decir es algo así...`
+` A nuestro padre le queda poco tiempo.`
+` Quieren empezar a hablar rápidamente de la distribución de la herencia.`
+` ¿Por qué tanta prisa?"`
+`"Tal y como dicen, repartir la riqueza de la familia Ushiromiya no es algo fácil.`
+` Por tanto, ¿no deberíamos calcularlo cuidadosa y deliberadamente?`
+` Parecen algo impacientes por repartir la tarta esta misma noche.`
+` ¿Me equivoco, Rosa?`
+` ¿Estás impaciente por algo?"`
+`"... No es impaciencia.`
+` Pero es vital que los hermanos hagamos un acuerdo.`
+` No importa cuándo,`
+` pero si se acerca el día del empeoramiento de la condición de Padre,`
+` discutir el asunto de antemano no es lo que yo calificaría como impaciencia."`
+`Rosa lanzó una mirada a Eva y a Rudolf.`
+`{n}Al ser la hermana menor de la familia, no le resultaba agradable ser interrogada por el hermano mayor.`
+`"¿Oh?`
+` ¿Es esa tu verdadera opinión?`
+` No esperaba que la más honesta y pura de corazón de los hermanos dijera algo así.`
+` ¿Acaso esos dos te pidieron que lo dijeras?"`
 `"..."`
-`Si, como Nanjo decía, este epitafio había sido escrito para reparar la relación entre los hermanos, sería extremadamente bueno.`
-`Sin embargo, tanto Nanjo como Genji se dieron cuenta que al menos eso era definitivamente imposible.`
-`Como aquellos que portaban la más larga relación con Kinzo, más confiables que sus propios parientes de sangre,`
-` incluso ellos no podían suponer su verdadero motivo...`
-`"El amo siempre dice que el derecho de desafiar al acertijo era dado a todos, sean miembros de la familia o no.`
-` ¿Y usted, Doctor Nanjo?"`
-`"No, no... es un poco difícil de entender para un anciano senil."`
-`"En realidad, escribí este epitafio en mi cuaderno alguna vez.`
-` Noche tras noche, trataba de resolverlo antes de ir a dormir, pero...`
-` Jajaja, es realmente difícil.`
-` Creo que servirá para entretenerme hasta que vengan a buscarme.`
-` ¿Y tú, Genji‐san?"`
-`"... No soy nada más que un mueble que sirve al amo.`
-` Oro y bienes son inútiles para mí."`
-`"Vaya, vaya, eres una persona humilde.`
-` Probablemente es por eso que Kinzo‐san confía tanto en ti."`
-`"Si es así, me siento honrado."`
-`Mientras Nanjo reía ligeramente como respuesta, nuevamente miró al epitafio.`
-`"Contempla el río de ayus atraviesa mi añorado pueblo natal.`
-` Tú, que buscas la Tierra Dorada, sigue la corriente del río cuesta abajo en busca de la llave..."`
-`Lo que está escrito en el epitafio llamado "Mi Amada Bruja {f:5:Beatrice}" es lo siguiente:`
-`{e:070:Contempla el río de ayus que atraviesa mi añorado pueblo natal.`
-`{n}Tú, que buscas la Tierra Dorada, sigue la corriente del río cuesta abajo en busca de la llave.`
-`{n}{n}A medida que avances río abajo, verás una aldea.`
-`{n}En esta aldea, dos te dirán que explores la costa.`
-`{n}Ahí descansa la llave a la Tierra Dorada.`
-`{n}{n}Quien tenga en sus manos la llave habrá de continuar su viaje a la Tierra Dorada de acuerdo a las siguientes reglas.}`
-`{e:070:En el primer crepúsculo, ofrece a los seis elegidos por la llave como sacrificios.`
-`{n}En el segundo crepúsculo, quienes queden se separarán de los dos que están unidos.`
-`{n}En el tercer crepúsculo, quienes queden alabarán mi honorable nombre.`
-`{n}En el cuarto crepúsculo, atraviesa la cabeza y mata.`
-`{n}En el quinto crepúsculo, atraviesa el pecho y mata.`
-`{n}En el sexto crepúsculo, atraviesa el estómago y mata.`
-`{n}En el séptimo crepúsculo, atraviesa la rodilla y mata.`
-`{n}En el octavo crepúsculo, atraviesa la pierna y mata.`
-`{n}En el noveno crepúsculo, la bruja revivirá y nadie podrá quedar con vida.`
-`{n}En el décimo crepúsculo, al final de la travesía, habrás llegado a la Tierra Dorada.}`
-`{e:070:La bruja elogiará a los sabios y habrá de otorgarles cuatro tesoros.`
-`{n}{n}Uno, todo el oro de la Tierra Dorada.`
-`{n}Uno, la resurrección del alma de todos los muertos.`
-`{n}Uno, la resurrección del amor perdido.`
-`{n}Uno, hacer que la bruja duerma por toda la eternidad.`
-`{n}{n}Duerme en paz, mi amada bruja {f:5:Beatrice}.}`
+`"Déjalo, Aniki.`
+` Rosa también es hermana nuestra.`
+` Tiene derecho a una porción de la herencia de papá.`
+` Es natural que esté interesada, ¿verdad?`
+` Después de todo, nuestro padre morirá. Ya no es algo que podamos considerar como parte de un futuro lejano."`
+`"Sin embargo, Aniki, tú estás demasiado relajado.`
+` Parece que te encantaría desviar el tema de discusión a cualquier cosa que no sea la herencia."`
+`"... ¿Qué quieres decir?`
+` ¿Intentas acusar a mi marido de algo?"`
+`"C‐cálmate, Natsuhi‐san.`
+` Escucha lo que tenemos que decir..."`
+`"Nii‐san, tengo entendido que estamos en buenos tiempos.`
+` Sí, por una parte, la subida del valor del yen del año pasado ha dado paso a una gran prosperidad.`
+` Por lo visto, ya no es sueño que el dólar llegue a valer 100 yenes."`
+`"Y el gobierno asegura que establecerá la ley de mantenimiento de recursos sanitarios el año que viene.`
+` Gran cantidad de empresas de desarrollo de recursos de todo Japón se esfuerzan en obtener una gran cantidad de fondos de guerra."`
+`"Estás muy bien informada.`
+` Pronto, veremos en Japón un auge imprecedente.`
+` Igual que cuando Padre revivió la riqueza de la familia. Algo parecido a las demandas de la Guerra de Corea."`
+`"La gente de Japón está en frenesí, intentando conseguir un impresionante auge económico y convertirnos en la gente más próspera del mundo, glorificando la primavera de nuestra sociedad.`
+` Las inversiones privadas han aumentado, y las instituciones que pueden obtener beneficio de ello pueden obtener dinero con gran facilidad en esta era."`
+`"Las necesidades de la gente no son tres clases de aplicaciones eléctricas.`
+` Sitios para esquiar, para jugar golf, piscinas públicas.`
+` ¡Hoteles con balnearios y parques temáticos!"`
+`"¿Han ido a Delsneyland, que abrió sus puertas hace unos años?`
+` ¡Es un parque temático excelente!`
+` En ese lugar, hasta un adulto puede ser un niño y divertirse con su familia."`
+`"Esa vieja era en la que solo pensabas en ti mismo y no en tu familia ha terminado.`
+` Como la gente más próspera del mundo, al fin podemos aceptarlo."`
+`"Krauss nii‐san, tu prospectiva parece salido de otro mundo.`
+` Cuando me enteré de ello años atrás, pensé que era ridículo.`
+` Pero todo cambió con lo del acuerdo de los países del G5."`
+`"El precio del yen aumentó y aumentó, y creo que el precio del terreno pronto estará por las nubes.`
+` El día en que Japón se convierta en el centro económico del mundo no está lejos...`
+` Tienes una visión bastante amplia.`
+` No cabe duda sobre eso."`
+`"Opino lo mismo que Hideyoshi nii‐san.`
+` Aniki, puedes predecir lo que ocurrirá en la próxima década.`
+` Ese sexto sentido seguramente lo heredaste de papá.`
+` Es impresionante."`
+`"Sin embargo, a diferencia de papá, han habido casos en el que el {i:momento} de tu predicción han sido erróneos, ¿no es así?"`
+`"Nii‐san, creyendo que sin duda Japón se enfrentará a un boom económico, has planificado complejos turísticos en todo el mundo. Y casi todos ellos siguen fracasando.`
+` Estoy segura de que la era que has previsto llegará, pero creo que no cuando tú esperabas."`
+`"Te diste demasiada prisa.`
+` Y después intentaste vender todo lo que tenías para solucionarlo, lo cual no hizo más que agravar la herida.`
+` Si tu olfato fuera realmente tan confiable como para predecir la llegada de semejante auge, no tendrías que vender tu propiedad.`
+` ¿Acaso no confías en tus propias capacidades?"`
+`"¡Qué grosería!`
+` ¿Intentas insultar a mi marido?"`
+`Aparecieron arrugas en la frente de Natsuhi al levantarse ésta del sofá.`
+`Eva le hizo casi omiso y miró a Krauss con tranquilidad.`
+`Krauss tampoco le prestó mucha atención y le pidió que se sentara.`
+`"Déjalo, Natsuhi.`
+` Mi hermana pequeña siempre habla así.`
+` Cálmate un poco...`
+` O tu dolor de cabeza empeorará."`
+`"También aquí tenemos pruebas de tu falta de talento.`
+` Después de todo, Nii‐san, ¿acaso no estabas muy emocionado ante la idea de convertir esta isla en un complejo turístico?`
+` La construcción de un gran hotel con balneario, manteniendo el jardín bello.`
+` Solo soy una aficionada y no pretendo comprenderlo, pero debes de haber gastado una enorme cantidad de dinero, ¿verdad?"`
+`"¿¡Qué intentas decir?!`
+` ¡Los negocios de mi marido no tienen nada que ver contigo!"`
+`"Eso no es cierto, Natsuhi‐san.`
+` Rokkenjima no es de Aniki.`
+` Es de papá.`
+` Y por supuesto, el hotel que fue construido es de Aniki, ¿verdad?`
+` Puedes cobrarnos por el alojamiento esta noche, si quieres.`
+` ¿Verdad, Rosa?"`
+`"Bueno, hmm...`
+` Si lo que tengo a mano es suficiente..."`
+`"Si puedo convertirla en un complejo turístico, el valor económico de esta isla aumentará.`
+` Es cierto que los gastos se han acumulado, pero creo que lo recobraremos con intereses en el futuro.`
+` Cuando esto suceda, también a ustedes les beneficiaría."`
+`"Lo comprendo.`
+` Si aumenta el valor de esta isla, aumentarán nuestras porciones a la hora de distribuir la herencia.`
+` Por supuesto, no pido que dividas la isla y la mansión en cuatro partes iguales.`
+` Pero eso será solo si el asunto se puede resolver por el cálculo de su valor financiero."`
+`"Si tanto comprendes, ¿por qué estás tan disgustada?"`
+`"No estamos disgustados, sino intranquilos.`
+` En primer lugar, Aniki,`
+` ¿cuándo pretendes abrir ese hotel?`
+` Si esto sigue así, lo único que conseguirás de todo esto son nuestras mugrientas huellas dactilares, ¿verdad?"`
+`"Así es.`
+` Es una herramienta importante para tu negocio, ¿verdad?`
+` No puedes mantenerlo cerrado hasta la inauguración, ¿verdad?`
+` Si no ventilas el edificio, se pondrá mal."`
+`"Pensando en ello, es curioso que construyas una casa de invitados para gente que viene una vez al año.`
+` ¿Verdad, Rosa?"`
+`"...Así es.`
+` Si es tan maravilloso, estoy segura de que se volverá bastante famoso cuando lo abras."`
+`"Oh...`
+` Ese hotel que mencionaron antes es la casa de invitados, ¿me equivoco?..."`
+`"Es espléndida.`
+` Como bien ha dicho Rosa, si lo abren, será muy popular."`
+`El alojamiento al que les habían llevado no se había construido con el propósito de ser una casa de invitados.`
+`...Sino como un hotel de vacaciones.`
+`{n}Pero, aunque había sido construido dos años atrás, no había ninguna posibilidad de que fuera abierto...`
+`"Como siempre pasa en todos tus negocios, Nii‐san.`
+` Tu atención y planificación son fabulosas.`
+` Pero nunca eres capaz de mantenerlo, y acabas por no obtener ningún beneficio."`
+`"Fue brillante por parte de Aniki pensar que el terreno de esta isla se usara solo como lugar para vivir era un derroche.`
+` Convertirla en un complejo turístico con cosas como deportes marítimos, pesca, o lunas de miel para atraer a los clientes era una idea genial."`
+`"Si el hijo mayor fuera yo, seguramente no se me ocurriría qué clase de beneficios podrían salir de esta isla."`
+`"Pero ya han pasado dos años desde que acabaste la construcción, ¿verdad?`
+` Tras dos años, ¿todavía no has podido abrirlo?`
+` ¿Dónde está la compañía de gestiones a la que se lo diste?"`
+`"¡Qué impertinente!`
+` ¡No es culpa de mi marido!`
+` Tan solo ha habido algunos problemas con la empresa que contrató. ¡Se mire como se mire, nosotros somos las víctimas!"`
+`"Sin embargo...`
+` Sobre la compañía que contrató Krauss nii‐san...`
+`la verdad es que no he oído buenos rumores sobre ella, ¿saben?"`
+`"Escúpelo de una vez.`
+` ¿Acaso crees que los rumores sobre impago, malversación y proyectos desintegrados a medio camino no llegarían a nuestros oídos?`
+` He estado recogiendo pruebas."`
+`"No sé qué clase de pruebas has encontrado, ¡pero no tienen ninguna base lógica!`
+` Como nuevos miembros del mundo de los negocios, es necesario trabajar con muchas clases de personas.`
+` También es importante discutir qué tan de confianza es el otro grupo.`
+` ¡No estamos más que tomándonos nuestro tiempo para conseguir lo mismo!"`
+`"Acepto que fui un imprudente al terminar el hotel tan pronto.`
+` Pero no pagamos gastos de mantenimiento.`
+` Es una estrategia lenta, pero dará sus resultados."`
+`"Mentiroso.`
+` Apuesto a que quieres venderlo pero no puedes.`
+` No hay razón para que cualquiera pueda comprar ese extravagante hotel en una isla aislada sin ningún tipo de rutas turísticas establecidas.`
+` ¿Y qué pasó con la financiación que recolectaste para este proyecto?"`
+`"Aunque no inviertas en gastos de mantenimiento, el dinero que te prestaron y no puedes pagar no deja de aumentar.`
+` Lo siento, Krauss nii‐san.`
+` He investigado un poco el plan de desarrollo de esta isla.`
+` Sinceramente, tampoco he oído nada bueno."`
+`"Hideyoshi‐san.`
+` Es cierto que observar mi actual situación financiera podría llevarte a pensar eso.`
+` Sin embargo, es una inversión previa.`
+` No tengo más remedio que admitir que mi predicción era errónea, lo cual ha causado varios incordios."`
+`"Sin embargo, la hora se acerca.`
+` Pronto recuperaré todo lo que había perdido.`
+` De hecho, pronto recuperaré todas mis inversiones.`
+` Es como arrojar una pequeña patata frita que después se convierte en un salmón y sigue creciendo."`
+`"Eso lo comprendo.`
+` No cabe duda de que pronto el mundo de los negocios sufrirá un enorme auge...`
+` Aunque no sé si será suficiente para ti..."`
+`"Sin embargo, Krauss nii‐san.`
+` Tras todos tus fracasos del pasado, ¿quién te daría fondos a estas alturas?`
+` Tendría que ser una enorme cantidad de fondos.`
+` Lo suficiente como para cubrir tu deuda masiva, ¿verdad?"`
+`"¿Qué intentas decir, Hideyoshi‐san?"`
+`"¡Aah, por favor, Natsuhi‐san, no te enfades!`
+` También eso lo hemos investigado.`
+` Hemos investigado para ver si alguien estaría dispuesto a prestar a Krauss nii‐san, que tanto está perdiendo, una cantidad enorme de dinero suficiente para apoyarle."`
+`"¿Y qué hemos encontrado?`
+` Nada.`
+` No hay nadie.`
+` Girar las cosas en un momento de vacas flacas es la regla de oro de la ruleta del dinero.`
+` En este mundo, Aniki es conocido por su momento de debilidad."`
+`"No cabe duda de que esta era pronto dará la bienvenida a un gran auge económico,`
+` pero cuando preguntamos quién le encontraría digno de financiación,`
+` no había nadie."`
+`"¿Y entonces?`
+` ¿De dónde sacaste ese dinero?`
+` Ésa es la pregunta del millón."`
+`"... Jo.`
+` Qué historia tan interesante.`
+` ¿Y?"`
+`"¡C‐cariño!`
+` ¿¡Cuánto tiempo pretendes seguir tamañas insolencias?!"`
+`"Siéntate, Natsuhi‐san.`
+` Permítanme ser directo.`
+` Aniki, has estado extrayendo dinero de los fondos privados de papá para usarlo en sus propios negocios.`
+` Estamos casi totalmente seguros de ello.`
+` Si hemos cometido algún error, por favor, no duden en explicárnoslo."`
+`"Rudolf, esto no es "extraer dinero".`
+` Es malversación, ¿verdad?`
+` Un gran crimen que podría llevarte a juicio."`
+`"¡¡E‐esto ya es demasiado!!`
+` ¡¿Cómo puedes acusar de forma tan imprudente al heredero de la familia Ushiromiya?!"`
+`"No es imprudente. De hecho, hemos acertado, ¿verdad?`
+` No me cabe duda de que querría tener éxito en sus negocios y recuperar lo perdido, ¡pero la deuda no deja de crecer!`
+` Intenta cubrir su fracaso creando uno incluso mayor.`
+` ¡Si tiene dinero tan cerca de él, es normal que lo use!"`
+`"Déjame decirlo con franqueza, Nii‐san: esto es una malversación.`
+` Estás traicionando a nuestro padre.`
+` Sabes que podemos dejar que un juez se encargue de esto, ¿verdad?`
+` ¿Crees que una persona así tiene derecho a ser el sucesor de la familia Ushiromiya?"`
+`"C‐cómo te atreves a decir algo así... ¡¡N‐no se pueden pasar por alto tus acusaciones de que está traicionando al líder de la familia!!`
+` ¡¡No tienes derecho a sentarte en el umbral de la gloriosa familia Ushiromiya!!`
+` ¡¡Fuera de aquí ahora mismo!!`
+` ¡¿Me escuchas?!`
+` ¡¡Vete!!"`
+`Natsuhi, en el punto álgido de su ira, gritó con ira a Eva.`
+`Y entonces señaló a Eva y al pasillo, implicando que debía irse.`
+`Eva sacó un abanico plegable y comenzó a abanicarse, mirando maliciosamente a Natsuhi, como retándola a repetir lo que acababa de decir.`
+`Pero seguía sonriendo, su boca curvada en forma de luna creciente.`
+`En tan desagradable silencio, Rosa tragó saliva.`
+`"Oye, Natsuhi nee‐san...`
+` ¿Con quién crees que estás hablando?"`
+`"¡¡Con la tremendamente maleducada hermana de mi marido!!`
+` ¡¡Como la persona encargada de la cocina de la familia, no puedo dejar pasar por alto semejantes ofensas!!"`
+`"¿Encargada de la cocinaaa?`
+` ¡¡Jujuju,`
+` jajajaja,`
+` ajajajajaja!!"`
+`"¡Cállate,`
+` intento lamentable de esposa!"`
+`Eva dobló el abanico con un chasquido y se alzó poderosamente.`
+`Bastante agresiva si lo comparamos con su anterior elegancia y su comportamiento juguetón.`
+`"Idiota. ¡¡Eres {i:tú} quien debería irse!!`
+` ¡Me dices a mí, Eva de la familia Ushiromiya...`
+` Yo, Eva, la tercera en la jerarquía de la familia Ushiromiya, que tiene el derecho a permanecer a la izquierda del líder de la familia, ¿que me {i:vaya}?!"`
+`"¡¡Entiende tu posición!!`
+` ¡¡Y después observa en un espejo tu lamentable figura!!`
+` ¿Acaso ves el ala en tus ropajes?`
+` ¿Dónde se te permite llevar el Águila de un Ala?"`
+`"¡¡No eres más que un útero alquilado para dar a luz al siguiente sucesor de la familia Ushiromiya!!`
+` ¡¡Comprende tu posición, despreciable sirviente!!"`
+`Una desagradable mueca apareció en la cara de Eva mientras sus palabras penetraban en el corazón de Natsuhi, como si unas garras lo estuvieran perforando y retorciéndolo.`
+`"¡¡¡...!!!"`
+`Había cien formas en las que Natsuhi quería responderle.`
+`{n}Pero su ira y dolor aplastaron su garganta, y ninguna de ellas llegó a su boca.`
+`La ira, sin ninguna otra forma de expresarse, se convirtió en una única lágrima caliente que se deslizó lentamente hacia abajo...`
+`"¿Quéee?`
+` Si tienes algo que decir, dilo.`
+` Vamos."`
+`Eva le lanzó una mirada provocativa.`
+`Pero el puño de Natsuhi tembló, todo su cuerpo tembló, pues sabía que no podía hacer nada...`
+`Krauss rompió ese tenso ambiente que olía a pólvora.`
+`"Natsuhi.`
+` Deja tu asiento.`
+` Necesitas refrescarte."`
+`"¡¡Qu—!!"`
+`Natsuhi, comprendiendo que su marido no intentaría ayudarla, se lanzó al ataque.`
+`"C‐... cariño, ¿¡no entiendes lo que están diciendo sobre ti?!`
+` ¡¡Están asegurando sin pruebas que has traicionado a tu propio padre!!"`
+`"Están ignorando el hecho de que siempre hemos estado protegiendo la gloria de la familia Ushiromiya,`
+` y para recibir aquella gloria de tu padre, no hemos dudado en hacer ningún sacrificio. ¡¡¡Están pisoteando todo lo que tanto nos ha costado contruir!!!"`
+`"¡¿Por qué no les contestas?!`
+` ¡¡Si no responderás, tendré que hacerlo yo, pero durante un tiempo has estado dependiendo totalmente de mí!!`
+` ¡¿Me estás diciendo que me vaya y tranquilice?!`
+` ¡¡{i:Sieeempre} soy yo!!"`
+`"¡¡Aunque siempre he tratado con seriedad todos los asuntos de la familia, tú...!!`
+` ¡¡¡UuuUUUuuu, uuuuuuuuuhuhughh!!!"`
+`Natsuhi no podía ocultar sus lágrimas.`
+`{n}Y en ese estado huyó de la habitación.`
+`Esto dejó una atmósfera algo incómoda en el salón...`
+`Cuando el sonido de los pasos se alejó y volvió el silencio, Krauss se encogió de hombros.`
+`"... Permítanme disculparme de parte de mi esposa.`
+` Nunca se le ha dado muy bien controlar sus emociones.`
+` También a mí me resulta difícil."`
+`"Si así es como suele comportarse, debe preocupar bastante a nuestro querido Nii‐san, ¿eh?`
+` ¡*risita*risita*!"`
+`"¡¡¡Uuuuu...`
+` UuuuuUUUuuUUughhu!!!"`
+`"... Se‐... señora..."`
+`"¡No es nada!`
+` ¡¡Solo déjame!!"`
+`Natsuhi corrió hacia su habitación y se dobló en la cama lamentándose.`
+`Esos desgarradores sollozos llegaron a los oídos de Kumasawa en el corredor.`
+`Pobre señora Natsuhi...`
+`Hay una profunda enemistad entre ella y Eva‐sama.`
+`Explicar su relación sería muy cansador para una mujer como yo...`
+`La familia Ushiromiya le da una enorme importancia a su sangre, pero si alguien de fuera de la familia se casa con alguien de ésta, normalmente serían excluidos de la jerarquía familiar.`
+`Por lo tanto, en circunstancias normales, Eva‐sama habría sido removida al momento de casarse con Hideyoshi‐sama.`
+`Sin embargo...`
+` esto no fue culpa de nadie.`
+`La señora definitivamente no tuvo la culpa.`
+`No hay otra forma de decirlo más que un capricho de Dios.`
+`Krauss‐sama y Natsuhi‐sama no fueron bendecidos con hijos por mucho tiempo.`
+`Sea como sea, ésta era la familia Ushiromiya, dominada por hombres.`
+`Una esposa era no más que una herramienta para traer un heredero al mundo.`
+`Si dicha esposa no podía cumplir su única tarea, no sería tratada como un humano.`
+`Recordar cuánto torturaba el amo a la señora durante esos tiempos es doloroso...`
+`En esos tiempos se comenzó a hablar acerca del casamiento de Eva‐sama y Hideyoshi‐sama.`
+`Eva‐sama era astuta.`
+`Aprovechándose de la dificultad de la señora para embarazarse, consiguió la preferencia del amo.`
+`Lo convenció de permitirle casarse y dar a luz a un sucesor ella misma, asegurándose así de evitar transferir su nombre fuera del registro Ushiromiya.`
+`Había una amplia diferencia en la jerarquía Ushiromiya entre la señora, quien se había casado a la familia y a quien se le trataba como forastera, y Eva‐sama, quien tenía lazos sanguíneos con la familia y cuyo esposo tomó el apellido Ushiromiya.`
+`Y más allá de eso, Eva‐sama fue la primera en dar a luz a un niño...`
+`En cuanto a qué tan inferior era la posición de la señora a comparación de la de Eva‐sama, supongo que ya lo vieron por sus cuentas...`
+`Estoy segura que a la señora le atormenta el pensamiento de que si se hubiese embarazado antes, el Amo no habría aceptado la petición de Eva‐sama de mantener su apellido tras su casamiento, y a Eva‐sama no se le habría tolerado el actuar tan arrogantemente como acababa de hacer.`
+`Sin embargo... eso no fue culpa de la señora.`
+`Toda la culpa recae en los caprichos de Dios y la cigüeña que tardó en llevarles a Jessica‐san.`
+`Aun así, la señora no se permite a sí misma ver las cosas de esta manera...`
+`Probablemente no puede evitar llorar amargamente por no haber podido cumplir los deberes esperados de una esposa.`
+`Ahh, qué triste...`
+`No puedo hacer más que velar por ella desde las sombras.`
