@@ -2,16 +2,16 @@
 `Al parecer habíamos llegado a puerto.`
 `{n}El conductor del bote salió y saltó al muelle mientras sostenía la cuerda de anclaje.`
 `Ahí se encontraba un hombre robusto en un smoking saludándonos con un rostro entusiasta y sonriente.`
-`...No conocía su cara, pero a juzgar por su ropa, supuse que él era un criado de la casa principal de la familia Ushiromiya.`
+`No conocía su cara, pero a juzgar por su ropa, supuse que él era un criado de la casa principal de la familia Ushiromiya.`
 `"Bienvenida a su hogar, señorita.`
 ` Se estaba tardando bastante, y comencé a preocuparme."`
 `"¡Oh, gracias por preocuparte!`
 ` Este inútil se había asustado en el bote.`
 ` Así que por él tuvimos que disminuir la velocidad.`
 ` ¡Fue bastante molesto!"`
-`"C‐cállate... algún día, cuando te pase a ti, recordarás esto... ugghh."`
+`"C‐cállate... Algún día, cuando te pase a ti, recordarás esto... Ugghh."`
 `A este paso, se correría la voz a toda la familia y sería el gran tema de conversación en la cena de esta noche.`
-`Incluso en circunstancias normales yo estaría en boca de todos porque han pasado seis años... ¡pero ahora les he dado un tema de conversación aún más jugoso!...`
+`Incluso en circunstancias normales yo estaría en boca de todos porque han pasado seis años... ¡pero ahora les he dado un tema de conversación aún más jugoso!`
 `Maldición, ¡¿por qué el líder de la familia Ushiromiya tiene que vivir en esta isla tan aislada?!`
 `Mientras tanto, el bote terminó de echar amarres.`
 `{n}Un pequeño tablón fue colocado para bajarse del bote.`
@@ -27,9 +27,9 @@
 `"En efecto.`
 ` Por favor, permítanme presentarme por primera vez.`
 ` Es un honor conocerle al fin, Battler‐sama."`
-`"...Estoy bastante confiado de mi estatura, pero tú eres enorme.`
-` ...Definitivamente esta es la primera vez que nos conocemos.`
-` ¡Si alguna vez me hubiera encontrado a un tipo tan grande, definitivamente no lo olvidaría!..."`
+`"Estoy bastante confiado de mi estatura, pero tú eres enorme.`
+` Definitivamente esta es la primera vez que nos conocemos.`
+` ¡Si alguna vez me hubiera encontrado a un tipo tan grande, definitivamente no lo olvidaría!"`
 `"Encantado.`
 ` Soy Battler."`
 `"Estaba deseando conocerle, señor.`
@@ -53,7 +53,7 @@
 `Probablemente iba de regreso a su puerto de origen en Niijima.`
 `El capitán agitó su mano en señal de despedida.`
 `{n}Maria saludó con su mano en respuesta.`
-`"...Hmmm, ahora que lo pienso, creo que por eso sentía que había algo fuera de lugar desde hace un rato.`
+`"Hmmm, ahora que lo pienso, creo que por eso sentía que había algo fuera de lugar desde hace un rato.`
 ` No escucho los graznidos de las gaviotas."`
 `"¿Gaviotas?`
 ` ¿Las aves?"`
@@ -64,17 +64,17 @@
 `Ya que esas gaviotas no vinieron a recibirnos, me sentí un poco solo.`
 `"¿Qué pasa, Battler‐kun?"`
 `"Oh, tía Rosa.`
-` ...Nah, no es nada, solo decía que sin el sonido de las gaviotas este lugar se siente un poco solitario."`
+` Nah, no es nada, solo decía que sin el sonido de las gaviotas este lugar se siente un poco solitario."`
 `"Ahora que lo dices, es verdad.`
 ` A pesar de que siempre se ven tan llenas de vida, hoy parece que no hay ninguna cerca."`
-`"...¿Uu?`
+`"... ¿Uu?`
 ` ¿Por qué no hay gaviotas?"`
 `"Hmmm, ¿quizás las gaviotas también tengan una reunión en alguna parte?`
 ` Maria, ¿querías ver a las gaviotas?"`
 `"Uu, quería."`
 `"Aún así, es algo extraño que no haya ni una por aquí`
 ` ¡Quizás Jessica las convirtió a tooodas en yakitori y se las comió!"`
-`"...¡¿Uu?!"`
+`"¡¿Uu?!"`
 `"¡Demonios, no digas cosas tan raras!`
 ` ¡¡Harás que Maria se confunda!!"`
 `"¡Uu‐uu‐uu!`
@@ -97,7 +97,7 @@
 ` Las aves silvestres pueden sentir los cambios en el clima y la presión atmosférica.`
 ` Parece que el clima empeorará por la noche.`
 ` Es posible que hayan tenido que regresar a sus nidos deprisa."`
-`"...Uu.`
+`"Uu.`
 ` ¿No yakitori?`
 ` ¿Jessica onee‐chan no las hizo yakitori?"`
 `"¡¡No, no!!`
@@ -106,23 +106,23 @@
 `"Battler‐kun.`
 ` Maria‐chan es una niña muy ingenua, así que se toma en serio incluso las bromas.`
 ` Deberías escoger tus bromas con más cuidado."`
-`...George‐aniki me regañó de forma discreta.`
-`...Aunque lo superara en estatura, desde luego que Aniki era Aniki.`
+`George‐aniki me regañó de forma discreta.`
+`Aunque lo superara en estatura, desde luego que Aniki era Aniki.`
 ` No había más opción que pedir perdón obedientemente.`
 `"B‐bueno,`
 ` mala mía, mala mía...`
 ` Maria, fue una broma.`
 ` Lo que pasa es que hoy las gaviotas están todas tranquilas en sus nidos."`
-`"...¿Battler mintió?`
+`"... ¿Battler mintió?`
 ` ¿George onii‐chan verdad?"`
 `A pesar de estar divirtiéndose tanto, ¿en realidad fue engañada?...`
-`{n}Sus ojos puros parecieron culparme.`
-`{n}...Tal vez me excedí un poco con ella después de todo.`
+`{n}Sus ojos puros parecieron culparme...`
+`{n}Tal vez me excedí un poco con ella después de todo.`
 `"Síiii, es cierto, es cierto.`
 ` Lo que dijo George‐aniki es verdad.`
 ` El clima de hoy es malo así que probablemente se fueron a casa por hoy.`
 ` Esto no significa que ya no estén, ¿verdad?`
-` ¿No, tía?!"`
+` ¡¿No, tía?!"`
 `"Es cierto.`
 ` Mañana, cuando el clima mejore, estoy segura de que volverán y escucharemos sus graznidos de "myaa myaa"."`
 `"Uu.`
@@ -132,8 +132,8 @@
 ` ¡Uu‐uu!"`
 `Maria estaba de mejor humor, y esperaba con ansias el día de mañana, cuando las gaviotas volverían a llenar los cielos.`
 `De todos modos, George‐aniki realmente era asombroso en el cuidado de niños.`
-`...Creo recordar a Aniki cuidándome hace seis años cuando yo era un mocoso.`
-`...Aniki, probablemente esa sea tu virtud.`
+`Creo recordar a Aniki cuidándome hace seis años cuando yo era un mocoso.`
+`Aniki, probablemente esa sea tu virtud.`
 `"George‐kun es asombroso en el cuidado de niños.`
 ` ¿No has pensado en trabajar de eso?"`
 `"Sí, George nii‐san, parece que eso es para lo que fuiste hecho.`
@@ -163,16 +163,16 @@
 `{n}Su transcurso era un poco cuesta arriba.`
 `Creo que el camino se hizo de esta manera para que no se sintiera tanto la inclinación,`
 ` pero personalmente, estaría más agradecido si hubiesen tenido el valor para poner algunos escalones en línea recta.`
-`...No hay duda de que hicieron el sendero torcido a propósito, para poner aires de distancia e importancia...`
+`No hay duda de que hicieron el sendero torcido a propósito, para poner aires de distancia e importancia`
 `En poco tiempo, vimos unos escalones de piedra con estilo de jardín.`
-`...Aaah, de aquí en adelante, tengo algunos recuerdos.`
+`Aaah, de aquí en adelante, tengo algunos recuerdos.`
 `{n}Se sube por éstos, y...`
 `En la cima de esos escalones, vimos una hermosa casa de huéspedes.`
 `Por supuesto, su fachada era hermosa, pero más que eso,`
-` ...no pudimos atravesar sus puertas sin que antes nos robara el corazón el esplendor de ese hermoso jardín de rosas que se esparcía frente a ella.`
+` no pudimos atravesar sus puertas sin que antes nos robara el corazón el esplendor de ese hermoso jardín de rosas que se esparcía frente a ella.`
 `"¡Aaah~!`
-` Este año también, como siempre, es una belleza...`
-` Es un verdadero deleite para los ojos..."`
+` Este año también, como siempre, es una belleza.`
+` Es un verdadero deleite para los ojos."`
 `Después de subir los escalones de piedra, las personas bienvenidas por el jardín de rosas dieron voz a sus opiniones una por una.`
 `"¿Es mi imaginación, o están las flores menos vívidas este año?`
 ` Debe ser porque el verano no fue lo suficiente cálido."`
@@ -180,7 +180,7 @@
 ` Cuando uno lo compara con la eclosión del año pasado, es una pena que este año sea un poco inferior."`
 `Aun así, era un jardín de rosas encantador.`
 `{n}Recordé que, seis años atrás, enormes cantidades de rosas me recibían cada año.`
-`...Este jardín de rosas era lo primero que recibía a las personas que llegaban a Rokkenjima.`
+`Este jardín de rosas era lo primero que recibía a las personas que llegaban a Rokkenjima.`
 ` Incluso nuestros padres, que venían cada año, no pudieron acallar su asombro.`
 `Y además, se veía como una versión "mejorada" del jardín de hace seis años que estaba en mis recuerdos.`
 `"Siempre que lo ves es sorprendente.`
@@ -193,33 +193,33 @@
 ` Es la primera vez que escucho algo así, ¿de qué demonios estás hablando?"`
 `"Es cierto.`
 ` Aunque en este caso, la rosa va tras los insectos como una repugnante planta carnívora."`
-`"...Oh, a eso se refieren.`
+`"... Oh, a eso se refieren.`
 ` Vamos, Rosa, ¿no podrías dejarlo por hoy?`
 ` He dejado ese tipo de cosas atrás por completo."`
 `"Quién sabe.`
-` ¡Después de todo, eres un mujeriego a nivel genético!..."`
+` ¡Después de todo, eres un mujeriego a nivel genético!"`
 `"Está bien, Rosa‐san.`
 ` Si la rosa me da demasiados problemas, siempre puedo cortarla de raíz."`
 `"Jo‐jo‐jo‐jo, qué charla tan escalofriante es ésta."`
 `"Los hombres populares siempre se ven forzados a vivir con riesgo.`
 ` ¡A mí también me gustaría nacer apuesto en mi próxima vida~!"`
 `"Hideyoshi nii‐san, como ya te he dicho, no es que sea popular con las damas.`
-` ...Y tú, Kyrie...detente, me estás asustando.`
+` Y tú, Kyrie... Detente, me estás asustando.`
 ` Haces que mi rosa se marchite."`
 `"Oye, Maria‐chan, mira por aquí.`
 ` Estas rosas son particularmente magníficas."`
-`"...Rosas magníficas.`
-` ...¡Uu!"`
+`"Rosas magníficas...`
+` ¡Uu!"`
 `"Hmmm~~, huelen muy bien.`
 ` Miren, van perfecto con mi elegan~cia."`
 `"¡Oye, detente!`
 ` ¡Maria va a imitarte y lastimarse con las espinas!"`
 `Ella me gritó mientras yo me inclinaba para oler la esencia de las rosas con un gesto exagerado.`
-`...Pensé que estaba exagerando, pero cuando me di la vuelta, Maria estaba imitando cada cosa que hacía, provocando que George‐aniki sonriera de oreja a oreja.`
+`Pensé que estaba exagerando, pero cuando me di la vuelta, Maria estaba imitando cada cosa que hacía, provocando que George‐aniki sonriera de oreja a oreja.`
 `"Espera, Maria‐chan, ten cuidado.`
 ` Las espinas de las rosas pueden lastimarte."`
-`"...¿Uu?`
-` ...George onii‐chan.`
+`"... ¿Uu?...`
+` George onii‐chan.`
 ` Esta rosa es extraña.`
 ` Uu."`
 `"¿Extraña?`
@@ -230,16 +230,16 @@
 `No es que hubiese una razón específica.`
 `{n}Mientras que algunas rosas brotan, algunas ya están marchitándose.`
 `No es nada más que eso, pero Maria parecía estar muy preocupada por la única rosa poco saludable del grupo.`
-`...Probablemente pensaba que se sentía sola.`
-`"¿Te sientes mal por esta rosa porque es la única que no está sana?..."`
-`"...Uu.`
+`Probablemente pensaba que se sentía sola.`
+`"¿Te sientes mal por esta rosa porque es la única que no está sana?"`
+`"Uu.`
 ` Las demás están saludables, pero ésta está triste."`
 `"Bueno, eso es porque todas florecen y luego se marchitan.`
 ` Apuesto que la razón por la que ésta se está marchitando es porque floreció antes que todas las otras rosas."`
 `"Sí, es cierto.`
 ` Creo que floreció hasta más no poder, cumplió su deber y se fue a descansar.`
 ` No deberías preocuparte tanto por eso."`
-`"...Uu."`
+`"Uu..."`
 `Parecía que la sensibilidad pura de Maria le hacía sentir una especie de dolor emocional por la rosa que se marchitaba en soledad.`
 `Aunque ella entendía la lógica en eso, su tristeza parecía ser indeleble.`
 `"Entonces, Maria‐chan,`
@@ -252,13 +252,13 @@
 `"Usémoslo de señal.`
 ` Después, puedes venir y darle un poco de agua.`
 ` Estoy seguro de que la rosa estará muy feliz."`
-`"...¡Uu!`
+`"¡Uu!`
 ` ¡Venir y darle agua!"`
 `"Opino que deberías darle un nombre a la rosa.`
 ` Estoy seguro que eso la haría feliz, y podrías conocerla mejor."`
-`"¿Nombre?...`
+`"¿Nombre?`
 ` Nombre...`
-` ...Uu...uu..."`
+` Uu... uu..."`
 `A pesar de no quitar su cara hosca, Maria se puso a considerarlo con los brazos cruzados en concentración.`
 `Al menos parece que fue sacada completamente de su pena.`
 ` Bien hecho, Aniki.`
@@ -284,87 +284,87 @@
 `Como no éramos un grupo de turistas, no era como si tuviésemos que seguir algún horario de viaje.`
 `Además, como nuestros padres estaban visitando su antiguo hogar, llenos de nostalgia, no se iban a dejar apresurar por nadie ni por nada.`
 `Comprendiendo la situación, Gohda‐san siguió esperando, sonriendo ampliamente, hasta que nuestros padres se cansaron del jardín de rosas y le dijeron que nos guiara hacia nuestras habitaciones...`
-`"¡¿Oh?!...`
+`"¡¿Oh?!`
 ` ¡Heeey!`
 ` ¡Pero si es Kanon‐kun!`
 ` Ha pasado tanto tiempo, ¡¿cómo te va?!"`
 `El tío Hideyoshi gritó repentinamente.`
 `En la dirección que agitaba sus manos,`
-` ...había un chico esbelto.`
+` había un chico esbelto.`
 `Verle justo después de haber visto a un hombre grande como Gohda quizá enfatizaba su pequeña estatura.`
 `El chico estaba transportando herramientas de jardín apiladas y cosas similares en una carretilla.`
 `Cuando se dio cuenta que le estaban llamando para que se detuviera, puso abajo la carretilla, se quitó el sombrero e inclinó la cabeza.`
 `"...`
-` ...Buenas tardes."`
-`...Me imaginé que probablemente era más joven que yo.`
+` Buenas tardes."`
+`Me imaginé que probablemente era más joven que yo.`
 `{n}Por la atmósfera que lo rodeaba me di cuenta de que también era un sirviente.`
 `Respondió al saludo del tío Hideyoshi, pero parecía bastante poco sociable.`
 `Era un saludo que carecía de sentimiento.`
 `Cuando Gohda‐san se dio cuenta de que nuestro interés se había desplazado hacia ese chico, se fue a su lado y nos lo presentó.`
 `"Battler‐sama, lo presentaré.`
 ` Él es uno de los criados que sirve a la casa principal de la familia Ushiromiya.`
-` ...Kanon‐san, dale la bienvenida a nuestro invitado."`
-`"...Estoy encantado de conocerlo.`
+` Kanon‐san, dale la bienvenida a nuestro invitado."`
+`"... Estoy encantado de conocerlo.`
 ` Soy el sirviente...`
-`Kanon ({p:0:嘉音})."`
+` Kanon ({p:0:嘉音})."`
 `Sep, mi primera impresión no fue errónea, él daba la sensación de que era poco sociable, y un poco malo para conversar.`
 `Comparado con Gohda‐san, que estaba extremadamente pulido como sirviente,`
 ` sin importar lo que hiciera, él daba una sensación de inexperiencia típica de su edad.`
 `Cuando Gohda‐san le incitó con un susurro a que diera una introducción un poco más larga, el chico llamado Kanon solo bajó la mirada.`
 `"Kanon‐san.`
-` ¿Podrías darles una bienvenida un poco mejor?..."`
-`"...No.`
-` ...Porque nosotros...`
-` ...somos muebles."`
+` ¿Podrías darles una bienvenida un poco mejor?"`
+`"... No.`
+` Porque nosotros...`
+` somos muebles."`
 `No parecía que se negara a saludarnos por desprecio,`
 ` sino que daba la impresión de que no tenía otra opción más que permanecer en silencio, sin saber qué añadir a su saludo.`
 `"Ah, uh, Kanon‐kun es tímido, es del tipo que no habla mucho.`
 ` ¡Puede que no sea tan sociable, pero en el fondo es una muy buena persona!`
-` ¡No se hagan una mala impresión!..."`
+` ¡No se hagan una mala impresión!"`
 `"Has estado trabajando por tres años aquí, ¿no?`
 ` Entonces, has estado aquí un año más que Gohda‐san, ¿cierto, Kanon‐kun?"`
 `A pesar de que no había dado una impresión extremadamente mala, Jessica se apresuró a defenderlo.`
-`...Ya veo, aparentemente el ser poco sociable va en su contra todo el tiempo.`
+`Ya veo, aparentemente el ser poco sociable va en su contra todo el tiempo.`
 `"Bueno, entonces, encantado de conocerte.`
 ` ¡Soy Battler!`
 ` Tengo 18, ¿qué edad tienes?"`
 `"..."`
 `Un silencio, como si evaluara si era una pregunta que debía responderse o no.`
-`{n}...Pero de nuevo, Jessica se adelantó.`
-`"¡Um, uhh...!`
+`{n}Pero de nuevo, Jessica se adelantó.`
+`"¡Um, ehh...!`
 ` Si recuerdo correctamente, él es dos años menor que nosotros así que... 16, ¿verdad?"`
-`"...Sí, ...eso es correcto."`
+`"... Sí... eso es correcto."`
 `Parecía que si hubiese tenido elección, él habría preferido no decirnos su edad.`
 `El que no quisiera que sepamos su edad podría deberse a que pensaba que sería menospreciado por ser más joven.`
-`...Recuerdo que cuando tenía su edad, odiaba que los adultos me preguntaran mi edad.`
-`...Ya veo, 16, ¿eh?`
+`Recuerdo que cuando tenía su edad, odiaba que los adultos me preguntaran mi edad.`
+`Ya veo, 16, ¿eh?`
 `{n}Esa debe ser una edad delicada.`
-`{n}...En ese caso, pregunté algo que no debía.`
+`{n}En ese caso, pregunté algo que no debía.`
 `"Je je~, ¡me alegra que estés cerca de nuestra edad!`
 ` ¡Solo tranquilízate y llámame Battler!`
 ` ¡Y yo te llamaré Kanon!"`
-`"...Muchas gracias.`
-` Pero solamente el sentimiento es suficiente, ...Battler‐sama."`
+`"... Muchas gracias.`
+` Pero solamente el sentimiento es suficiente... Battler‐sama."`
 `Jessica se veía bastante nerviosa por alguna razón.`
 `{n}Parecía pensar que mi impresión de Kanon empeoraría gracias a su rechazo.`
 `Bueno, esa chica probablemente no podía entender lo irritable que era el corazón masculino en esa edad.`
 `Como su mayor, aunque fuera por dos años, quien lo dirigiría a través de la adolescencia, me encargaré de entender eso.`
 `"Kanon‐san, ¿acaso no podrías ser un poco más cortés?`
 ` Una cara sonriente también es el deber de un sirviente."`
-`"...Pido disculpas.`
-` ...Haré un esfuerzo."`
+`"... Pido disculpas...`
+` Haré un esfuerzo."`
 `"Jo‐jo‐jo...`
 ` Gohda‐san, Kanon‐kun hace lo mejor que puede, ¿no?"`
 `Parecía que ya le habían llamado bastante la atención por su falta de cortesía.`
 `{n}Y aparentemente no había mejorado nada.`
 `Gohda‐san mantuvo su sonrisa de profesión, pero dejó escapar un pequeño suspiro de resignación.`
-`"...Bueno, aún tengo trabajo que hacer.`
-` ...Si me disculpan."`
+`"... Bueno, aún tengo trabajo que hacer...`
+` Si me disculpan."`
 `Parecía que el mismo Kanon estaba incómodo de quedarse aquí en silencio por más tiempo.`
 `Después de otra reverencia superficial, se dio vuelta y comenzó a empujar la carretilla de nuevo.`
 `De pronto, en ese momento, la carretilla se tambaleó y cayó, esparciendo la carga.`
 `Supongo que la carretilla con su rueda única se atoró con una pequeña piedra y perdió el balance.`
-`"¿Qué estás haciendo?... ¡Vamos, vamos, límpialo!..."`
+`"¿Qué estás haciendo? ¡Vamos, vamos, límpialo!"`
 `Gohda‐san se lo dijo en voz baja, como diciéndole que mostrar una actitud torpe frente a los invitados era una vergüenza para los sirvientes.`
 `Kanon‐kun, quien probablemente había entendido bastante bien sin que se lo dijeran, volvió a cargar la carretilla con los objetos caídos en silencio.`
 `Parecía estar bien con las herramientas de jardín ligeras, como palas y demás, pero parecía tener problemas al alzar algunos sacos de fertilizante.`
@@ -374,7 +374,7 @@
 ` Por favor, déjenoslo a nosotros."`
 `Gohda‐san tomó la pala que Jessica había levantado con una postura elegante.`
 `En su espalda estaba la figura de Kanon‐kun teniendo problemas con los sacos de fertilizante.`
-`"...Uu.`
+`"Uu.`
 ` ¿Ensuciarás tus prendas?"`
 `"No te preocupes, la ropa que estoy llevando no es tan elegante."`
 `"Además, odio a los sujetos que hacen que la camarera levante el tenedor que dejaron caer en un restaurante."`
@@ -382,8 +382,8 @@
 `{n}Claro, no eran ligeras, pero para mí eran pan comido.`
 `Kanon‐kun dirigió sus ojos sorprendidos hacia mí.`
 `{n}Era la cara de alguien que nunca habría pensado recibir ayuda de un invitado.`
-`"...B‐Battler‐sama...`
-` Eso es suficiente... yo me ocuparé de todo, así que..."`
+`"B‐Battler‐sama...`
+` Eso es suficiente... Yo me ocuparé de todo, así que..."`
 `"¡No te preocupes!`
 ` ¡Puede que no lo parezca, pero tengo lo que se necesita!`
 ` ¡Jeje!"`
@@ -401,14 +401,14 @@
 `"¡¡Caeeeeer caeeeeer!!`
 ` ¡¡Uu‐uu‐uu!!!"`
 `Mientras hacían eso, apilamos todas las cosas en la carretilla de nuevo.`
-`"...Por haberles hecho ver algo tan indigno, ruego su perdón."`
+`"... Por haberles hecho ver algo tan indigno, ruego su perdón."`
 `"Muy bien, ya es suficiente.`
 ` Por favor, continúa."`
-`Permitir que algo tan vergonzoso fuera visto por los invitados a quienes se suponía había que darles la bienvenida...debe haber sido espantosamente vergonzoso como sirviente.`
+`Permitir que algo tan vergonzoso fuera visto por los invitados a quienes se suponía había que darles la bienvenida... debe haber sido espantosamente vergonzoso como sirviente.`
 `Presionado por Gohda a que se diera prisa y se fuera, Kanon‐kun se marchó.`
 `"Eres demasiado duro con él, Gohda‐san.`
 ` ¿No hubiera sido mejor si le hubieras ayudado, en lugar de molestarlo?"`
-`"...No lo había pensado.`
+`"No lo había pensado.`
 ` Le imploro profundamente su perdón."`
 `Sin siquiera una arruga en su sonrisa, Gohda‐san se disculpó elegantemente.`
 `"Kanon‐kun también tiene un montón de cosas que se le dan bien.`
@@ -439,9 +439,9 @@
 `{n}El grande y fuerte Battler había recogido los sacos frente a él como si fueran plumas, los sacos que él mismo no podía levantar.`
 `Era extremadamente difícil para un observador externo adivinar qué emociones había agitado ese favor en Kanon.`
 `Pero, lo más que se podía decir viéndolo con su cabeza baja, era que había algo que no podía dejar pasar.`
-`...De sus labios escaparon palabras murmuradas.`
+`De sus labios escaparon palabras murmuradas.`
 `{n}Pero éstas eran tan suaves que no alcanzaron ni sus propios oídos.`
-`"...Incluso yo...`
+`"... Incluso yo...`
 ` ..."`
 `Kanon bajó la cabeza, mordiendo ligeramente su labio inferior...`
 `"Recuerdo el jardín de rosas, pero...`
@@ -457,7 +457,7 @@
 `"¡Uu!`
 ` ¡Maria también quiere una!`
 ` ¡Quiere!"`
-`...Supongo que se podría decir que también mi casa era de clase alta, pero pensé que era totalmente ordinaria en comparación a la mansión principal.`
+`Supongo que se podría decir que también mi casa era de clase alta, pero pensé que era totalmente ordinaria en comparación a la mansión principal.`
 `La muestra de riqueza era impresionante, tanto como el hecho de que hubieran construido esta genial casa de invitados para gente que viene como una vez al año.`
 `"Eva‐sama, Hideyoshi‐sama.`
 ` Por favor, utilicen esta habitación.`
@@ -466,7 +466,7 @@
 ` El estilo occidental es realmente maravilloso."`
 `"Lo puedo tolerar por unos cuantos días, ¡pero si es por más tiempo es necesario el estilo japonés!`
 ` Los japoneses simplemente se relajan mejor en los tatamis."`
-`"...Jaja, han estado discutiendo si hacemos nuestra nueva casa de estilo japonés u occidental.`
+`"Jaja, han estado discutiendo si hacemos nuestra nueva casa de estilo japonés u occidental.`
 ` Mamá todavía le guarda rencor a Papá por haber empezado la construcción en estilo japonés, y pasan todo el tiempo discutiendo sobre eso."`
 `"En verdad estoy celosa, George nii‐san.  Tus padres se llevan muy bien, ¿verdad?`
 ` Los míos son tan fríos.`
@@ -486,41 +486,41 @@
 ` Me está dando dolor de estómago y no estoy de humor para esto.`
 ` Esta vez eres el invitado de honor.`
 ` Pórtate lo mejor que puedas con Papá, Aniki y los demás."`
-`"...Por lo menos presta atención a lo que dices en presencia de Papá, ¿entendido?`
+`"Por lo menos presta atención a lo que dices en presencia de papá, ¿entendido?`
 ` Porque él no se lleva mucho con las bromas.`
-` ...Jessica‐chan, ¿cómo ha estado el humor del líder de la familia últimamente?"`
-`"...Hmm...`
+` Jessica‐chan, ¿cómo ha estado el humor del líder de la familia últimamente?"`
+`"Hmm...`
 `igual que el año pasado, supongo.`
-` ...Considerando que dicen que le quedan tres meses de vida, está tan obstinado,`
+` Considerando que dicen que le quedan tres meses de vida, está tan obstinado,`
 ` gruñón,`
 ` e irritable como siempre."`
 `"Lo que quiere decir que este año continúa con su mal humor de siempre.`
-` ...Y como siempre, ¿la única persona capaz de cuidar de él es Genji‐san?"`
-`"Parece que el Amo solo confía en Genji‐san.`
+` Y como siempre, ¿la única persona capaz de cuidar de él es Genji‐san?"`
+`"Parece que el amo solo confía en Genji‐san.`
 ` Últimamente nosotros, la gente sin importancia, no podemos siquiera verle..."`
 `"Se ha vuelto a encerrar en su estudio, probablemente sin hacer nada más que esa extraña magia negra que practica.`
 ` El maldito hobby que tenga es asunto suyo, pero cuando empieza a poner la casa patas arriba, me pone los nervios de punta.`
-` ...Desearía que nunca volviera a salir de ese estudio.`
+` Desearía que nunca volviera a salir de ese estudio.`
 ` ¡Jejeje!"`
 `"No deberías hablar así de los mayores.`
 ` Todos estamos en deuda con él, ya que él sacó a flote a la familia Ushiromiya, y un poco de gratitud no duele."`
-`"Hm...bueno...`
-` ...Lo siento."`
+`"Hm... bueno...`
+` Lo siento."`
 `Después de ser regañada por George‐aniki, Jessica no tuvo más opción que retractarse de sus precipitados comentarios.`
 `La familia Ushiromiya era increíblemente rica, pero eso, por supuesto, significaba que todos sus miembros eran personas extrañas que se aislaban por completo del mundo.`
-`El Líder de la Familia, ocupando el lugar más alto—en otras palabras, nuestro Abuelo—parecía ser una persona particularmente extraña y terrorífica, incluso para nuestra familia.`
+`El líder de la familia, ocupando el lugar más alto —en otras palabras, nuestro abuelo— parecía ser una persona particularmente extraña y terrorífica, incluso para nuestra familia.`
 `Papá había dicho hace poco que tenía dolor de estómago, pero creo que es así como todos los adultos que habían venido aquí se sentían realmente.`
 `No es de extrañar que tuvieran envidia de nosotros, los nietos, que solo estábamos jugando y riendo sin preocuparnos.`
 `Por las historias que Papá me había contado, el Líder de la Familia era un hombre violento que golpeaba a sus hijos con sus propios puños e incluso golpeaba sin piedad a sus hijas con una espada de madera.`
 `Si era un tipo tan duro y estricto con sus hijos, ¿por qué no hizo lo mismo con sus nombres?`
 `Por culpa de eso, es una tortura incluso para nosotros, los nietos.`
-`...Bueno, no estoy desconcertado en lo absoluto por su terrorífica imagen.`
+`Bueno, no estoy desconcertado en lo absoluto por su terrorífica imagen.`
 `No tengo muchos recuerdos de haberle visto, pero recuerdo al Abuelo, con su rostro siempre lleno de amenazadoras nubes de tormenta, siempre haciendo retroceder a los que le rodeaban con una mirada severa.`
 `I Recuerdo que el ambiente de la habitación se ponía tan tenso cada vez que se acercaba, que no podías ni respirar.`
 `Lo que mi padre dijo hace un momento de que yo era el invitado de honor ahora llevaba un poco más de peso.`
-`"...Hace seis años estaba en el colegio, pero, como cabría esperar, ahora estoy en el instituto.`
-` Si doy guerra, las cosas podrían ponerse serias.`
-` ...Oooh, qué miedo."`
+`"Hace seis años estaba en el colegio, pero, como cabría esperar, ahora estoy en el instituto.`
+` Si doy guerra, las cosas podrían ponerse serias...`
+` Oooh, qué miedo."`
 `"Realmente tiene un aspecto atemorizante, pero no es terrorífico del todo.`
 ` Sin duda, nunca actúa injustamente.`
 ` Simplemente no es agradable al hablar, eso es todo."`
@@ -532,21 +532,21 @@
 `"Bueno, eres la heredera de la familia Ushiromiya, Jessica‐chan.`
 ` El Abuelo te está dando un trato especial.`
 ` Tienes que darte cuenta de que lo estricto que es muestra qué tanto está esperando de ti."`
-`"Oh, vamos.`
-` ...En serio, por mí, podría simplemente pasarte la sucesión a ti, George nii‐san.`
+`"Oh, vamos...`
+` En serio, por mí, podría simplemente pasarte la sucesión a ti, George nii‐san.`
 ` Es una carga un poco pesada para que yo la lleve."`
 `Creo que ya lo había dicho antes, pero Jessica era la hija del que heredaría la casa principal.`
 `{n}Como primos en una rama de la familia, la presión que recibíamos era probablemente diferente.`
-`"...¿Uu?`
+`"¿Uu?`
 ` ¿Jessica onee‐chan, pesada?`
 ` ¿Si Maria la sujeta, se hará más ligera?"`
-`"¡Hm?`
-` Ajajajaja, thanks.`
+`"¿Hm?`
+` Ajajajaja, gracias.`
 ` Está bien, no va a afectarte a ti, Maria."`
-`"...Voy a cargar con esa cruz hasta mi tumba.`
-` ...No te preocupes."`
+`"Voy a cargar con esa cruz hasta mi tumba...`
+` No te preocupes."`
 `Ella estaba agradecida con la inocente amabilidad de Maria, pero parecía que la ansiedad por el futuro que no podía borrar seguía presente en su rostro.`
-`...¿Acaso no éramos iguales?`
+`¿Acaso no éramos iguales?`
 ` Ningún estudiante que tuviera cerca un examen podría esconder su ansiedad por el futuro.`
 `"Maria, ven aquí.`
 ` Tú y Mamá estarán en ésta habitación."`
@@ -570,7 +570,7 @@
 `"Oigan mocosos, ¿qué harán?`
 ` ¿Ustedes, los primos, solo van a quedarse aquí y hablar?"`
 `Por lo visto, se dirigían a la mansión para anunciar su llegada.`
-`...Lo normal es que tuviéramos que seguirles y saludar a todos juntos,`
+`Lo normal es que tuviéramos que seguirles y saludar a todos juntos,`
 ` pero si así hubiera sido, Papá se habría limitado a decir "¡Ustedes, vengan!" y punto.`
 `Eso quiere decir que no habría problema si no vamos con ellos, ¿así que qué deberíamos hacer?`
 `"Como sea, pronto llegaremos a las horas más tardías del mediodía.`
@@ -580,7 +580,7 @@
 ` ¡Maria también irá!"`
 `"Maria, cuida de la casa mientras no esté Mamá, ¿está bien?`
 ` Compórtate y espera aquí."`
-`"...Uu."`
+`"... Uu."`
 `Ya que Maria debía quedarse a cuidar el lugar, no podríamos dejarla sola.`
 `Dándose cuenta de esto, George‐aniki dio una respuesta clara por parte de todos.`
 `"Bien, aceptaremos la oferta y cuidaremos el lugar.`
@@ -592,10 +592,10 @@
 `"Kumasawa‐san, ¡creo que yo también me quedo!`
 ` ¡Dejaremos que los adultos se encarguen del resto y los jóvenes romperemos filas, jejeje!"`
 `"Eso es bueno, jo‐jo‐jo.`
-` Se lo diré a la Señora..."`
+` Se lo diré a la señora..."`
 `"Bien, entonces, les guiaré a la mansión.`
 ` Por favor, por aquí."`
-`"...Dejando a un lado a los otros niños, George ya es un adulto. ¿No sería mejor que nos acompañara?"`
+`"Dejando a un lado a los otros niños, George ya es un adulto. ¿No sería mejor que nos acompañara?"`
 `"Si le obligamo' a venir, solo él se sentirá fuera de lugar.`
 ` Es importante que interactúe con sus primos.`
 ` ¡Muy bien, nos vemos!"`
@@ -610,15 +610,15 @@
 `"¡Uu!`
 ` ¡Pregúntale también a Maria!`
 ` ¡Pregúntale también a Mariaa!"`
-`"...¿Hm~?`
+`"¿Hm~?`
 ` Hmjujujuju.`
 ` ¿Me pregunto qué podría ser eso que George nii‐san le pregunta a Kumasawa pero no a mí~?`
 ` ¡Ah, no tengo ni idea~!"`
-`"¡No, es un malentendido!...`
+`"¡No, es un malentendido!`
 ` ¡No estoy seguro de qué es lo que Jessica‐chan está malentendiendo pero...!"`
 `Aniki se estaba enredando bastante.`
 `Era casi como si se sintiera culpable y fuera una marioneta en manos de Jessica.`
-`...En cualquier caso, ¡algo que solo Jessica sepa y yo no sepa no es nada divertido!`
+`¡En cualquier caso, algo que solo Jessica sepa y yo no sepa no es nada divertido!`
 `"Bueno, Maria, no es justo que solo tú y yo no nos enteremos de nada, ¿verda~d?`
 ` ¡¿No quieres también saber de qué hablan~?!"`
 `"¡Uu!`
@@ -634,7 +634,7 @@
 ` ¡Maria por la derecha, Battler por la izquierda!`
 ` ¡Uu!"`
 `"¡¡Esperen un momento!!`
-` ¡¡Esperen ustedes dos!!...`
+` ¡¡Esperen ustedes dos!!`
 ` ¡¡Ajajaja, paren,`
 ` ajajajajajaja!!"`
 `Maria y yo jugamos persiguiendo a George‐aniki, quien escapaba rodando por la cama.`
@@ -645,10 +645,10 @@
 ` Bueno, tengo una idea.`
 ` No has venido aquí en un año.`
 ` En ese tiempo, algunos criados se retiraron y otros nuevos llegaron... y querías saludar, ¿verdad?"`
-`"...¿Uu?`
+`"¿Uu?`
 ` ¡Saludar, Maria también saludará!"`
-`"Qué demonios, no debes sentirte culpable por eso, Aniki.`
-` ...¿Hmm~~m?`
+`"Qué demonios, no debes sentirte culpable por eso, Aniki...`
+` ¿Hmm~~m?`
 ` No es eso entonces, ¿no?`
 ` ¡Maria, que no te engañe! ¿¡Qué escondes, Aniki!?`
 ` ¡¡Más tortura!!`
@@ -663,26 +663,26 @@
 ` Entonces, que querías que Shannon te saludara, y no el entrometido de Gohda, ¿verdad?`
 ` ¡Jejeje!"`
 `"¿Shannon?`
-` ...Shannon.`
-` ...Aaaaaaaaahh...`
+` Shannon...`
+` Aaaaaaaaahh...`
 ` ¡Ya recuerdo, esa chica!`
 ` ¿Sigue siendo una criada?`
 ` ¡¿Qué tal le va?!"`
 `"Por cierto, Natsuhi nee‐san.`
 ` ¿Cómo va tu dolor de cabeza?`
 ` Parecía muy desagradable en su día."`
-`"...Gracias. Últimamente he estado bien.`
+`"... Gracias. Últimamente he estado bien.`
 ` Agradezco tu preocupación."`
 `"Ah, cierto. Toma.`
 ` Un regalo para ti, Natsuhi nee‐san."`
-`"...Muchas gracias.`
+`"Muchas gracias.`
 ` No dejo de recibir regalos tuyos.`
-` ...¿Es té negro?"`
+` ¿Es té negro?"`
 `"Es té de hierbas con menta y bálsamo de limón.`
 ` Es una mezcla de una tienda muy conocida y se supone que es bueno para dolores de cabeza.`
 ` Supuse que podría serte de ayuda."`
 `Rosa era siempre muy concienzuda.`
-`...Probablemente al ser la más joven de los cuatro hermanos y mucho más joven que los otros tres,`
+`Probablemente al ser la más joven de los cuatro hermanos y mucho más joven que los otros tres,`
 ` consiguió crecer sin albergar la venenosidad de sus hermanos.`
 `Su consideración suavizó momentáneamente la expresión de Natsuhi,`
 ` pero no lo suficiente como para bajar la guardia, que había sido construida por años en torno a su interminable ansiedad...`
@@ -694,7 +694,7 @@
 ` Aparte, Natsuhi nee‐san, eres tres años más joven que yo.`
 ` ¿No puedes simplemente superarlo?"`
 `"...`
-` ...Mis disculpas.`
+` Mis disculpas.`
 ` Nací con esta tendencia a tener dolores de cabeza."`
 `Hay ocasiones en las que Eva no consigue escoger bien sus palabras, pero aunque lo escondiera sonriendo, sus comentarios hacia Natsuhi contenían obvios fragmentos de malicia.`
 `Por supuesto, eso no se le escapó a Natsuhi.`
@@ -714,7 +714,7 @@
 ` ¡Si no puedes hacer eso, no eres útil para la sociedad!`
 ` No hablo de matemáticas o escritura.`
 ` ¡Es aprender cómo aprender más!"`
-`"...Espléndido.`
+`"Espléndido.`
 ` Ojalá nuestra Jessica pudiera entender eso.`
 ` Ahora mismo, no tiene ni idea, pero como heredera de la familia Ushiromiya—"`
 `"¿Realmente tienes que obligarla a convertirse en la sucesora?`
@@ -727,7 +727,7 @@
 ` Natsuhi nee‐san, no me malinterpretes."`
 `"..."`
 `Aunque la luz que brillaba a través de la ventana era bastante cálida a pesar del clima nublado, había una atmósfera desagradable en el salón,`
-` ...que seguramente provocó dolores de cabeza no solo a Natsuhi.`
+` que seguramente provocó dolores de cabeza no solo a Natsuhi.`
 `Como para romper con esa atmósfera, Kyrie animadamente hizo una sugerencia a todos los presentes.`
 `"Este té negro tiene un aroma impresionante.`
 ` Bebámoslo de una vez.`
@@ -736,75 +736,75 @@
 ` Realmente valió la pena comprarlo."`
 `Kyrie y Rosa se levantaron de sus asientos e hicieron amago de ir a preparar el té negro.`
 `{n}pero Natsuhi las interrumpió.`
-`"...Gracias a ambas.`
+`"Gracias a ambas.`
 ` Dejémoslo para luego.`
 ` Uno de los nuestros no tardará en traer algo de té, así que relájense."`
 `"Déjenlo para después, ustedes dos.`
 ` Disfrutemos de nuestra "bebida de bienvenida" al menos."`
 `Rudolf les hizo una sutil señal con los ojos para indicarles debían volver a sentarse.`
-`{n}...Kyrie y Rosa lo entendieron al instante y obedientemente regresaron a sus asientos.`
+`{n}Kyrie y Rosa lo entendieron al instante y obedientemente regresaron a sus asientos.`
 `Ya se había dado la bienvenida a los invitados, así que era hora de prepararles algo de té.`
-`...Dicho té llegaba tarde, y ver a los invitados hablar sobre hacer algo de té ellos mismos era una vergüenza para el anfitrión.`
+`Dicho té llegaba tarde, y ver a los invitados hablar sobre hacer algo de té ellos mismos era una vergüenza para el anfitrión.`
 `Natsuhi se mordió el labio inferior, frustrada por la ineptitud de los criados que demoraban tanto en traer el té.`
-`...Al ver su cara, Eva comenzó a reír frívolamente sin dudarlo.`
-`...Por supuesto, Shannon no tenía ninguna manera de saber lo que estaba ocurriendo en el salón.`
+`Al ver su cara, Eva comenzó a reír frívolamente sin dudarlo.`
+`Por supuesto, Shannon no tenía ninguna manera de saber lo que estaba ocurriendo en el salón.`
 `Mientras ella llegaba empujando un carrito en el que había tazas para el té,`
 ` Natsuhi la miró con una expresión de dolor sin motivo aparente, y Shannon no pudo evitar retroceder sin saber qué había hecho mal.`
-`"...D‐disculpen.`
+`"... D‐disculpen.`
 ` Prepararé el té ahora mismo."`
 `"¡Oh, Shannon‐chan, ha pasado tanto tiempo!`
 ` ¡No has dejado de hacerte más y más guapa!"`
-`"...Oh,`
-` ...um,`
-` ...gracias—"`
+`"... Oh...`
+` um...`
+` gracias—"`
 `"Deja las conversaciones para cuando acabes de poner la mesa.`
 ` TheEl té se enfriará."`
-`"...Mi, ...mis disculpas, Señora."`
+`"... Mi‐... mis disculpas, Señora."`
 `Se disculpó como un animal pequeño y asustado, y, golpeándose contra el carrito, hizo un estridente alboroto al tirar varias cucharillas para el té.`
 `Su torpeza hizo que la expresión de Natsuhi fuera aún más severa, lo cual a su vez hizo que Shannon temblara todavía más.`
 `"No te preocupes, Natsuhi nee‐san.`
 ` Es tan solo un saludo, no tiene mayor importancia.`
 ` Nos han hecho esperar por tanto tiempo que el té ya debe de estar frío.`
 ` Jejeje."`
-`"No, ...no pasa nada...`
+`"No... no pasa nada...`
 ` Aún no está frio..."`
-`"...Shannon, termina de poner la mesa, rápido."`
-`"Lo‐lo siento, Señora..."`
+`"Shannon, termina de poner la mesa, rápido."`
+`"Lo‐lo siento, señora..."`
 `Era obvio que Natsuhi se estaba irritando.`
-`...La ineptitud que había retrasado el té, la torpeza de la criada, todo apuntaba a la incompetencia de Natsuhi para dirigir la casa, lo cual influía negativamente en su prestigio.`
+`La ineptitud que había retrasado el té, la torpeza de la criada, todo apuntaba a la incompetencia de Natsuhi para dirigir la casa, lo cual influía negativamente en su prestigio.`
 `Como la persona encargada de la cocina en la casa de la familia Ushiromiya, permitir que esa torpeza fuera expuesta ante todos en aquel día significaba nada más que una humillación absoluta.`
 `"Relájate, Natsuhi nee‐san.`
 ` ¿No crees que es un poco duro acosar a Shannon‐chan a pesar de que lo hace lo mejor que puede?"`
-`"¡Yo no estoy acosando a nadie!..."`
+`"¡Yo no estoy acosando a nadie!"`
 `"Qué bien huele.`
 ` ¿Podría preguntarte qué clase de té es?"`
-`"...Umm...`
-` ...Lo, ...lo siento muchísimo...`
+`"... Umm...`
+` Lo... lo siento muchísimo...`
 ` Lo consultaré para usted más tarde..."`
 `Kyrie quería despejar el tenso ambiente siendo amable con Shannon.`
-`...Sin embargo, en vez de eso, Shannon había mostrado una respuesta vergonzosa, ensombreciendo la expresión de Natsuhi y el ambiente de la sala.`
+`Sin embargo, en vez de eso, Shannon había mostrado una respuesta vergonzosa, ensombreciendo la expresión de Natsuhi y el ambiente de la sala.`
 `Llegados a este punto, Eva estaba riéndose con sorna.`
 `"¿Qué quieres decir?`
 ` ¿Shannon‐chan, no sabes siquiera lo que nos estás sirviendo?`
 ` Verás, no debes servir algo tan sospechoso a los invitados.`
 ` Al menos necesitaremos unas cucharas de plata antes de poder bebernos esto."`
-`"...Lo, ...lo siento...`
+`"Lo... lo siento...`
 ` Iré a conseguir una inmediatamente..."`
 `"Shannon‐chan.`
 ` ¿Sabes para qué se usan las cucharas de plata?`
 ` ¿O por qué deben ser de ese metal?`
 ` ¿Sabes por qué?"`
-`"...No...`
-` ...umm..."`
+`"... No...`
+` Umm..."`
 `Eva miraba juguetonamente a Shannon, que estaba poniendo la mesa, mientras que una maliciosa sonrisa se dibujaba en su rostro.`
-`...La expresión de Eva mirando a Shannon era encantadora desde un punto de vista algo pícaro.`
+`La expresión de Eva mirando a Shannon era encantadora desde un punto de vista algo pícaro.`
 `Sin embargo, las palabras que salían de sus labios cortaban como navajas.`
 `Shannon intentaba con todas sus fuerzas evitar la mirada de Eva, la cual continuaba observándola.`
 `Dándose cuenta de que Shannon estaba siendo realmente presionada para que diera una respuesta, de inmediato Rosa dio una oportuna ayuda.`
 `"Se dice que si la plata toca alguna clase de veneno, ésta se pone opaca.`
-` ...*risita*, Supongo que has aprendido algo nuevo, Shannon‐chan"`
+` *risita*, Supongo que has aprendido algo nuevo, Shannon‐chan"`
 `El té era tratado como si tuviera que ser comprobado por veneno antes de ser bebido.`
-`En ojos de Natsuhi, esto era un insulto tanto para el té...como para ella por servirlo.`
+`En ojos de Natsuhi, esto era un insulto tanto para el té, como para ella por servirlo.`
 `Rudolf, riendo frívolamente, dio unas palmaditas a Eva en el hombro.`
 `"Jaja, Aneki no necesita cubiertos de plata.`
 ` Con solo un lengüetazo de su venenosa lengua, incluso una bandeja de plata se pondría negra."`
@@ -818,16 +818,16 @@
 `Todo el mundo siguió el ejemplo establecido por la carcajada de Hideyoshi y rieron, aunque con amargura.`
 `Solo Natsuhi no se unió a las risas, pero aun así, por el momento, la conversación dentro de la sala podría ser confundida con una animada y amistosa charla.`
 `Kyrie pidió disculpas a Shannon en voz baja por no poderle ayudar cuando finalmente terminó de poner la mesa de té e intentó marcharse.`
-`...Shannon hizo una pequeña reverencia y se retiró de manera precipitada...`
+`Shannon hizo una pequeña reverencia y se retiró de manera precipitada...`
 `Shannon dirigió sus ojos hacia abajo, empujando el carrito por el pasillo...`
 `Su aspecto lamentable hizo evidente que había soportado el peso de algún abuso.`
-`"...No estés triste.`
+`"No estés triste.`
 ` No hiciste nada malo, Nee‐san."`
-`"...Estabas observando."`
+`"... Estabas observando."`
 `"Es mi deber."`
 `"..."`
-`"La Señora y Eva‐sama pueden irse al infierno.`
-` ...Pero el peor cobarde es ese tipo."`
+`"La Señora y Eva‐sama pueden irse al infierno...`
+` Pero el peor cobarde es ese tipo."`
 `Kanon miró con odio en la dirección opuesta de la sala.`
 `Los preparativos para el té se habían retrasado por un problema insignificante en la cocina.`
 `Esos problemas no eran culpa de Shannon.`
@@ -835,57 +835,57 @@
 `En primer lugar, no había forma de que un fanfarrón como Gohda cediera un trabajo tan vistoso como acarrear el té para los invitados.`
 `Había terminado perdiendo tiempo preparando el té por segunda ocasión.`
 `Así que, sabiendo que no podría terminarlo a tiempo, dejó la tarea de preparar la mesa a Shannon, que casualmente pasaba por ahí.`
-`...Tal como se le podría llamar a eso astucia, era innegablemente una acción cobarde.`
-`"...Está bien, gracias Kanon‐kun.`
-` ...En realidad no me molesta..."`
+`Tal como se le podría llamar a eso astucia, era innegablemente un acto cobarde.`
+`"Está bien, gracias Kanon‐kun...`
+` En realidad no me molesta..."`
 `"..."`
 `El silencio de Kanon mostró claramente que las palabras de Shannon no salían de su corazón.`
-`"...Gracias.`
+`"... Gracias.`
 ` Incluso si solo tú lo comprendes, me siento mejor."`
-`"...Nee‐san, guardas demasiadas cosas en tu corazón.`
-` ...De vez en cuando, sé más amable contigo misma."`
-`"Sí.`
-` ...Gracias."`
+`"Nee‐san, guardas demasiadas cosas en tu corazón.`
+` De vez en cuando, sé más amable contigo misma."`
+`"Sí...`
+` Gracias."`
 `En ese momento, ambos sintieron la presencia de alguien y se dieron la vuelta.`
 `Allí había un hombre de edad avanzada.`
 `{n}Era Genji, el jefe de los criados.`
-`"...¿Qué hacen aquí?`
-` ...Shannon, date prisa y vuelve a la cocina."`
+`"¿Qué hacen aquí?`
+` Shannon, date prisa y vuelve a la cocina."`
 `"S‐sí.`
-` ...Si me disculpan..."`
+` Si me disculpan..."`
 `"..."`
 `Shannon obedeció humildemente y sin demorarse comenzó a empujar el carrito para marcharse.`
 `Sin embargo, Kanon le reclamó en silencio a Genji, portando algo en sus ojos que no podía expresar en palabras.`
-`"...¿Qué es lo que pasa?`
-` ¿Ha ocurrido algo?..."`
-`"...Sha‐`
-`...Shannon no hizo nada malo,`
+`"... ¿Qué es lo que pasa?`
+` ¿Ha ocurrido algo?"`
+`"Sha‐`
+`Shannon no hizo nada malo,`
 ` pero ellos—"`
 `"Basta, Kanon‐kun..."`
-`"...Si me disculpan.`
+`"Si me disculpan.`
 ` Volveré a trabajar de inmediato.`
-` Kanon‐kun, tú también, vuelve a tu puesto.`
-` ...Por favor."`
-`"...Si tú lo dices, Nee‐san."`
+` Kanon‐kun, tú también, vuelve a tu puesto...`
+` Por favor."`
+`"... Si tú lo dices, Nee‐san."`
 `"...`
-` ...Si eso es todo, entonces vayan."`
-`"...Sí.`
-` ...Con su permiso."`
-`Desde las sombras en el pasillo, una anciana usando un delantal los vigilaba.  Era Kumasawa...`
-`...Me siento tan afligida por ellos, Shannon‐san, Kanon‐san...`
+` Si eso es todo, entonces vayan."`
+`"Sí.`
+` Con su permiso."`
+`Desde las sombras en el pasillo, una anciana usando un delantal los vigilaba.  Era Kumasawa.`
+`Me siento tan afligida por ellos, Shannon‐san, Kanon‐san...`
 `No hay ninguna razón para que esos dos sean molestados.`
-` ...Pero, no se puede negar que no son del agrado de Gohda‐san...`
+` Pero, no se puede negar que no son del agrado de Gohda‐san...`
 `Antes de que Gohda‐san trabajara para la casa principal de la familia Ushiromiya, escuché que trabajaba para un fabuloso hotel en algún lugar.`
 `Pienso que la forma de trabajar que aprendió ahí puede apreciarse.`
-`Es solo que...Gohda‐san es el criado más nuevo aquí.`
-`...Debe de tener un montón de orgullo acumulado de sus cargos anteriores.`
+`Es solo que... Gohda‐san es el criado más nuevo aquí.`
+`Debe de tener un montón de orgullo acumulado de sus cargos anteriores.`
 `Debido a que Shannon‐san y Kanon‐kun son sus superiores aquí en la mansión, y sin embargo, no tienen experiencia y han pasado por mucho menos en la vida que él, los molesta en cada oportunidad que tiene...`
-`Y además, ...aunque es terrible, también son odiados por la señora Natsuhi...`
-`Por supuesto, en términos de experiencia, la Señora ha estado en la familia mucho más tiempo.`
-`Aún así...no puedo evitar también simpatizar con ella.`
-`...Realmente, el Amo es una persona realmente cruel...`
-`Probablemente no se dio cuenta que sus propios caprichos insignificantes le causaron un complejo de inferioridad a su esposa...`
-`...Por supuesto, los pensamiento internos de la Señora reconocen plenamente que no hay razón para tratar a esos dos de forma tan severa...`
-`...Sin embargo, el corazón tiene razones que la razón no conoce...`
+`Y además... aunque es terrible, también son odiados por la señora Natsuhi...`
+`Por supuesto, en términos de experiencia, la señora ha estado en la familia mucho más tiempo.`
+`Aún así... no puedo evitar también simpatizar con ella.`
+`Realmente, el amo es una persona realmente cruel...`
+`Probablemente no se dio cuenta que sus propios caprichos insignificantes le causaron un complejo de inferioridad a su esposa.`
+`Por supuesto, los pensamiento internos de la Señora reconocen plenamente que no hay razón para tratar a esos dos de forma tan severa...`
+`Sin embargo, el corazón tiene razones que la razón no conoce.`
 `Aah, siento tanta lástima por ellos...`
 `No puedo hacer otra cosa más que velar por ellos desde las sombras...`
