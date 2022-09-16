@@ -1,17 +1,17 @@
-`"...Debimos de haber tomado el bote...`
-` ...el bote..."`
+`"Debimos de haber tomado el bote...`
+` el bote..."`
 `"¡Caeeeeeer!`
 ` ¡Caeeeeeer!`
 ` ¡¡Uu‐uu‐uu‐uu!!"`
 `"¡Maria, es suficiente!"`
-`"...Pero qué sorpresa.`
+`"Pero qué sorpresa...`
 ` Y yo pensaba que no había nada que pudiera asustar a Battler‐kun."`
 `"Por alguna razón este tipo no puede soportar los vehículos.`
 ` Siempre está gritando que va a caerse o hundirse y cosas así.`
 ` Qué desgracia eres como hombre."`
-`"...Ah, cállate.`
+`"Ah, cállate.`
 ` Esa cosa en verdad que se sacudía demasiado...`
-` Solo me estresé un poco, ya que era mi primera vez en un avión pequeño como ese..."`
+` Solo me estresé un poco, ya que era mi primera vez en un avión pequeño como ese."`
 `"¿Llamas a eso "estresarse un poco"?`
 ` Jejeje, me parece que sería muy entretenido tomar unas vacaciones en el extranjero contigo, Battler‐kun.`
 ` ¿Te gustaría ir a Egipto con tu tía?`
@@ -23,7 +23,7 @@
 ` ¡Ajajajaja!"`
 `"Wajajaja, bien, bien, todos tienen sus puntos fuertes y débiles.`
 ` Es malo reírse de ellos.`
-` ¡Wajajaja!..."`
+` ¡Wajajaja!"`
 `"P‐papá, tú también estás riendo.`
 ` Oye, Maria‐chan, ya para de reírte."`
 `"¿Parar de reírme ya?`
@@ -42,13 +42,13 @@
 `"¡Ah, Jessica‐chan, ha pasado un año desde que te vi por última vez!`
 ` Creciste de nuevo, ¿no es así?"`
 `"Kyajaja, todos los años dices lo mismo, ¡es vergonzoso!"`
-`"...O‐oye, Aniki, debes estar bromeando.`
+`"O‐oye, Aniki, debes estar bromeando.`
 ` ¡¿De verdad es Jessica?!"`
 `"Espera un segundo, George nii‐san...`
 ` Este tipo grande...`
-`¡¿es Battler?!"`
+` ¡¿es Battler?!"`
 `Nos miramos el uno al otro de la cabeza a los pies.`
-`...Definitivamente no se veía así en mis recuerdos, pero sí que recuerdo {c:86EF9C:su loca manera de hablar}.`
+`Definitivamente no se veía así en mis recuerdos, pero sí que recuerdo {c:86EF9C:su loca manera de hablar}.`
 `"¡Buenas, Jessica!`
 ` ¡¿Y qué es esto?!`
 ` ¡Estás bromeando, pareces una mujer ahora!`
@@ -63,7 +63,7 @@
 `"¡¡Me haces enojar!!`
 ` ¡Te venceré en tu propio juego!"`
 `Esta obstinada chica es Ushiromiya {p:0:朱志香}.`
-`...Nació bajo la misma estrella de mala suerte que yo, y tiene un nombre igual de extraño que el mío.`
+`Nació bajo la misma estrella de mala suerte que yo, y tiene un nombre igual de extraño que el mío.`
 ` De todas maneras, {p:0:朱志香} se pronuncia "Jessica".`
 `Es la hija del hermano mayor de Papá.`
 `Ese hermano mayor de hecho es el hijo mayor de la familia Ushiromiya, así que por ahora, eso significa que Jessica es la heredera directa de la familia Ushiromiya.`
@@ -72,8 +72,8 @@
 `Jessica creció más rápido, así que siempre estuvo un paso adelante en cuestiones de tamaño y fuerza física.`
 `Entonces, cuando reñíamos en una competencia de fuerza, generalmente ganaba Jessica.`
 `Por eso, aunque entiendo claramente que estoy más grande ahora, siento que todavía no puedo vencer a Jessica con mi fuerza.`
-`"¡Hnng! ¡¡Ghhh...!!"`
-`"¡...Woh...ah...!`
+`"¡Hnng! ¡¡Ghhh!!"`
+`"... ¡Woh... ah...!`
 ` Qué demon... ¡¿por qué vas... tan en serio?!...`
 ` Owowow..."`
 `"¡Oye, oye, oye, esto no es nada!`
@@ -89,13 +89,13 @@
 `"¡Detente, idiota! ¡Nooo, niña pervertida!, ¡¡nadie querrá casarse conmigo, no me toques en lugares extra~ños!!"`
 `"¡¡N‐no digas cosas que la gente malinterpretará!!"`
 `Sinceramente, estaba tan sorprendido de lo femenina que se había vuelto Jessica que tuve que payasear para ocultarlo.`
-`...Es cierto, considerando la mocosa mandona que era hace seis años, cualquiera estaría sorprendido.`
+`Es cierto, considerando la mocosa mandona que era hace seis años, cualquiera estaría sorprendido.`
 `Y supongo que ella está igual de sorprendida.`
 `{n}De seguro no pensó que iba a perder ante mí en fuerza.`
 `Tras perder tan fácilmente, debe estar impresionada por cuánto crecí en estos seis años.`
-`...Seis años.`
+`... Seis años.`
 ` Una vez más, me doy cuenta del vacío que representa todo ese tiempo.`
-`"Mierda...derrota absoluta.`
+`"Mierda, derrota absoluta.`
 ` Parece que ya no soy rival para ti."`
 `"Eso no es cierto.`
 ` Incluso Battler‐kun tiene debilidades.`
@@ -117,10 +117,10 @@
 ` Muy pronto."`
 `En ese momento, no entendí lo que quería decir Aniki con esa gran sonrisa...`
 `"¡Vaya, vaya... oooh!`
-` Battler‐san, ¡cuánto has crecido!..."`
+` Battler‐san, ¡cuánto has crecido!"`
 `¿Quién es ahora?`
 ` Es una anciana con un delantal.`
-`{n}...O‐oh sí, me trae recuerdos... ¡Ya la recuerdo!`
+`{n}O‐oh sí, me trae recuerdos... ¡Ya la recuerdo!`
 `"Te acuerdas de ella, ¿cierto?`
 ` Mira, es una de las criadas, Kumasawa‐san."`
 `"¡Cómo podría olvidar a Kumasawa baa‐chan!`
@@ -129,7 +129,7 @@
 `"¡Jo‐jo‐jo!`
 ` ¡Últimamente, mi piel se ha vuelto muy suave y sedosa!`
 ` Y mira, ¿no ha crecido mi pecho también?`
-` ...¿Quieres masajearlo?"`
+` ¿Quieres masajearlo?"`
 `"¡M‐muy graciosa!`
 ` ¡Mis masajes de senos son estrictamente limitados para los pechos que reboten!"`
 `"Incluso los míos en mi juventud rebotaban, ¿sabes~?`
@@ -150,13 +150,13 @@
 `"Jo‐jo‐jo, Eva‐sama, está tan severa como siempre.`
 ` Me encontré con que tenía unas compras urgentes que hacer, y mientras estaba en eso, pensé que vendría a darles la bienvenida.`
 ` Aunque, da una mala impresión que el que espere para saludarlos sea una anciana decrépita.`
-` ¡Jo‐jo‐jo!..."`
+` ¡Jo‐jo‐jo!"`
 `Tía Eva había sido sarcástica, pero toda la experiencia de Kumasawa baa‐chan no era asunto de burla.`
 ` Era más que capaz de dejar ese comentario de lado sin problemas.`
 `Bueno, no debería decirlo, pero la vieja Kumasawa baa‐chan ya ha pasado de su momento óptimo como sirviente.`
 `Puede que actúe como si estuviera sana, pero entre su dolor de cabeza y su lumbago, su cuerpo se está cayendo a pedazos.`
 ` La verdad, el mismísimo hecho de que aún esté trabajando ya es impresionante.`
-`...¿Qué edad era que tenía?`
+`¿Qué edad era que tenía?`
 `{n}Debe tener 80 como mínimo.`
 `{n}Es increíble que todavía pueda actuar con tanta carisma.`
 `"Parece que cada vez estás con más vida.`
@@ -166,7 +166,7 @@
 ` Por favor, pruébalo más tarde."`
 `Tía Rosa sacó una bolsa de regalo de su maleta.`
 `Pensar que recordó la promesa que aparentemente hizo el año pasado, y lealmente lo compró.`
-` ...Este tipo de consideración es justo como mi tía Rosa.`
+` Este tipo de consideración es justo como mi tía Rosa.`
 `Ella no es el tipo de persona que olvidaría o rompería una promesa.`
 `Se haya o no se haya acordado Kumasawa baa‐chan de la promesa, parecía estar muy conmovida por el hecho de que alguien le llevara un regalo a una simple sirviente como ella.`
 `Esta mujer es Kumasawa Chiyo‐san ({p:0:熊沢 チヨ}).`
@@ -174,18 +174,18 @@
 `{n}Como podría esperarse de alguien de su edad, no es tan buena en las labores manuales, pero desde trabajo en la cocina hasta limpieza y lavado, ella es una especie de súper sirviente que puede manejar cualquier cosa.`
 `Así que su único defecto sería su tendencia a ser floja.`
 `He escuchado que intenta alejarse del trabajo duro o problemático al actuar con sus enfermedades crónicas.`
-`...En el caso de Kumasawa baa‐chan, más bien deberíamos llamarle a eso astucia.`
-`...Aunque probablemente no agrade mucho a quienes le pagan el salario.`
+`En el caso de Kumasawa baa‐chan, más bien deberíamos llamarle a eso astucia.`
+`Aunque probablemente no agrade mucho a quienes le pagan el salario.`
 `Ah bueno, incluso siendo tan flexible en el trabajo, jamás podría desagradarme.`
 `Supongo que es por su alegría y la sonrisa que siempre lleva.`
-`"¡Haaa, verte tan llena de vida es siempre lo mejor!`
+`"¡Aaah, verte tan llena de vida es siempre lo mejor!`
 ` ¿Y cómo 'tá tu espalda?"`
 `"Incluso con la medicina, no está mejorando nada.`
 ` Según el doctor, nada se puede hacer al respecto.`
 ` ¡Es lo que llaman una enfermedad incurable, jo‐jo‐jo!"`
 `"De cualquier manera, Jessica‐chan se ha puesto más linda.`
 ` Qué bueno que se parezca a Natsuhi nee‐san."`
-`"¿E‐en serio?...`
+`"¿E‐en serio?`
 ` Personalmente, no veo el parecido...`
 ` Sabes, no quiero parecerme a mis padres.`
 ` Porque les tengo cero respeto."`
@@ -220,7 +220,7 @@
 ` Estoy acostumbrado a ser sacudido por las olas.`
 ` Con ese pedazo de chatarra de bote pesquero, me da más miedo que se rompa el barco y se hunda que sus balanceos."`
 `"Ah, es cierto, Battler‐kun, olvidé decirte.`
-` ...Ese bote pesquero estaba completamente decrépito, por lo que lo dejaron de usar hace años.`
+` Ese bote pesquero estaba completamente decrépito, por lo que lo dejaron de usar hace años.`
 ` Ahora nos iremos a la isla en otro bote."`
 `"Ohhh, cierto.`
 ` ¡Es la primera vez de Battler en el nuevo bote!`
@@ -231,7 +231,7 @@
 ` Eso significa menos tiempo de viaje, ¿cierto?`
 ` ¡Suena genial!`
 ` De todos modos, aun si es solo un poco mejor que el avión, mientras que estemos menos tiempo expuestos al peligro de hundirnos, ¡es en verdad simplemente grandioso~!."`
-`"...Uu.`
+`"... Uu.`
 ` ¿Battler se va a caeeeeer caeeeer de nuevo?"`
 `"Eso es solo en aviones.`
 ` ¡Todo está bien ahora!"`
@@ -244,22 +244,22 @@
 ` Dice que en esos tiempos, incluso si era solo un bote pesquero, su oponente podía ir por sobre los 30 nudos."`
 `"Para saciar su sed por un encuentro de revancha, creó un genial bote modificado de súper alta velocidad.`
 ` Estoy segura de que lo amarás, Battler."`
-`...¿B‐bote modificado de súper alta velocidad?...`
-`...Al principio pensé que sería mucho mejor que ese pedazo de basura de bote pesquero que se podría hundir en cualquier momento...`
+`¿B‐bote modificado de súper alta velocidad?...`
+`Al principio pensé que sería mucho mejor que ese pedazo de basura de bote pesquero que se podría hundir en cualquier momento...`
 `pero por alguna razón, tengo un mal presentimiento sobre esto...`
-` ...Nah, no debe ser nada.`
+` Nah, no debe ser nada.`
 `"Oye, Battler, quizás simplemente deberías nadar a la isla, ¿eh?"`
 `"Battler‐kun, no deberías inclinarte demasiado sobre la barandilla.`
 ` Podrías caerte."`
 `"¡¡Uu‐uu!!`
 ` ¡¡Caeeeer, caeeeer!!"`
-`"¡Deeeemoooonios...así que por esto es que todos estaban sonriendo antes!"`
+`"¡Deeeemoooonios... así que por esto es que todos estaban sonriendo antes!"`
 `Así que éste es el bote de súper alta velocidad que el capitán comenzó a modificar como su hobby personal... Ah sí, simplemente no puede ser comparado con el otro pedazo de basura de bote.`
 `"¡¡Whooooooooa, se sacude se sacude se sacude!!`
 ` ¡¡Me voy a caeeeer, me voy a caeeeer, me voy a caeeeeer!!"`
 `"¡¡Uu‐uu‐uu!!`
 ` ¡¡Caer caer caeeeer!!"`
-`"¡Si me caigo terminaré en el océano y me ahogaré!... ¡¿Dónde está el paracaídas?!...no, esperen, ¡¿dónde está la noya?!`
+`"¡Si me caigo terminaré en el océano y me ahogaré! ¡¿Dónde está el paracaídas?! No, esperen, ¡¿dónde está la noya?!`
 ` ¡¡Denme un chaleco salvavidaaaaas!!"`
 `"¡Waa‐ja‐ja‐ja‐ja!`
 ` ¡Qué pasa, Battler, qué es esa actitud, waa‐ja‐ja‐ja‐ja!"`
@@ -276,7 +276,7 @@
 `"¡¡Sacudir, caeeeer!!`
 ` ¡¡Uu‐uu‐uu!!"`
 `"¡Maria, he dicho que te comportes!`
-` ...Pero Battler‐kun, en verdad no puedes lidiar con eso...`
+` Pero Battler‐kun, en verdad no puedes lidiar con eso...`
 ` Iré a decirle al capitán que baje la velocidad para ti."`
 `"¡Whooooa, tía Rosa, graciaaaaaaaas!`
 ` ¡¡Confirmo que un lento y seguro viaje es lo que corresponde, incluso en el maaaaaaaar!!"`
@@ -295,13 +295,13 @@
 ` ¡¿Quiere que esté asustado?!`
 ` ¡¡Si ese es su objetivo, qué mal, no me asustaréeeeeee!!`
 ` ¡¡¡Pero detéeenganloooooo, me voy a caeeeeeeer!!!"`
-`...Así que al final, después de verme como un idiota,`
-` mi tía Rosa habló con el capitán, y él bajó la velocidad a una más tolerable para mí...`
-`"...Aah...`
+`Así que al final, después de verme como un idiota,`
+` mi tía Rosa habló con el capitán, y él bajó la velocidad a una más tolerable para mí.`
+`"... Aah...`
 ` Esta velocidad es un poco mejor...`
-` ...Antes, ni siquiera me sentía vivo..."`
+` Antes, ni siquiera me sentía vivo..."`
 `Esta velocidad, la cuál podía tolerar, aparentemente era extremandamente lenta.`
-`...Pero lo de hace un rato era simplemente una locura...`
+`Pero lo de hace un rato era simplemente una locura...`
 `¡Todo el bote estaba sacudiéndose!`
 `{n}¡Deslizándose y saltando en la superficie del océano!`
 `{n}En vez de un bote, sentí que estaba montando a un pez volador...`
@@ -309,7 +309,7 @@
 `"Perdí hace un rato en la competencia de fuerza, pero me da orgullo saber que no estoy peor en lo que en verdad importa.`
 ` Pero en serio, ¡jajajajaja!"`
 `"Demonios... sigue riéndote.`
-` Alguno de estos días, encontraré tu debilidad y me vengaré...y entonces aplastaré tus senos..."`
+` Alguno de estos días, encontraré tu debilidad y me vengaré... y entonces aplastaré tus senos..."`
 `"¡Ajajaja, bueno, veremos si la encuentras!`
 ` ¡Waa‐ja‐ja‐ja!"`
 `"Uu.`
@@ -317,7 +317,7 @@
 `"Sí, Battler, todo débil...`
 ` Quiero morir en tierra firme, no en el océano o en el cielo..."`
 `Maria estaba dándome palmadas en la espalda, así que yo se las di en la cabeza a cambio.`
-`...Su expresión estaba era vacía como era normal, pero me di cuenta que quería consolarme.`
+`Su expresión estaba era vacía como era normal, pero me di cuenta que quería consolarme.`
 `"Battler‐kun, el capitán está dando bebidas para disculparse por esto.`
 ` Ten una bebida y descansa un rato, ¿no quieres?`
 ` Para calmarte."`
@@ -325,7 +325,7 @@
 `Juzgando por la enorme sonrisa de Kumasawa‐san, nuestros padres dentro del bote debían estar burlándose de mi momento de terror puro.`
 `Demonios, estoy tan avergonzado que no quiero ver a ninguno al rostro...`
 `Sentía que si no cambiaba el tema de alguna forma, sería el blanco de las bromas de todos durante el viaje entero, así que pensé en un tema de conversación inofensivo.`
-`"...Oye, Jessica.`
+`"Oye, Jessica.`
 ` ¿Cómo están el tío Krauss y la tía Natsuhi?"`
 `"¿Mi viejo y mi madre?`
 ` Por desgracia, están bien.`
@@ -334,18 +334,18 @@
 `"Jajaja, oh no.`
 ` Cuando me distraía durante los exámenes, siempre me estaban diciendo "exámenes, exámenes".`
 ` Me parecía irritante, pero ahora estoy agradecido."`
-`"Ja, lo sabía, George‐aniki también puede ser humano...`
+`"Ja, lo sabía, George‐aniki también puede ser humano.`
 ` En cuanto a mí, tengo que encargarme de todo yo mismo.`
 ` ¡Nadie me dice qué hacer!`
 ` Bueno, tampoco es como si fuera a obedecer si lo hicieran, ¡jijiji!"`
 `"Battler‐san, ¿todavía no puedes regresar a la casa de tus padres?"`
-`"...Bueno, regreso de vez en cuando.`
+`"... Bueno, regreso de vez en cuando.`
 ` Todavía tengo muchas cosas y ropa en la casa anterior."`
-`"...¿Uu?`
+`"¿Uu?`
 ` ¿Battler tiene dos casas?"`
-`"Eh,`
-` ...hmmm.`
-` ...Algo así."`
+`"Eh...`
+` Hmmm...`
+` Algo así."`
 `"¿Por qué?`
 ` ¿Por qué dos casas?`
 ` ¿Uu?`
@@ -353,28 +353,28 @@
 `Solamente Maria, quien en verdad no podía entender la situación, dijo sus dudas ingenuas en voz alta.`
 `Sin embargo, los otros solo me dieron miradas nerviosas sin responder a pesar de saber la respuesta.`
 `"¡Maria!`
-` ¡Mira, ya se puede ver la costa!...`
+` ¡Mira, ya se puede ver la costa!`
 ` ¡Mira, allá está!`
 ` ¡¿La ves?!"`
 `"¡Uu!`
 ` ¡La veo, la veo!"`
 `Aparentemente, Jessica intentaba ser amable al cambiar de tema.`
-`...Ah, bueno.`
+`Ah, bueno...`
 ` Preferiría no hablar de ello si pudiera, pero es incómodo que lo traten como un extraño tabú.`
-`...Pero en verdad ya no me importa mucho.`
+`Pero en verdad ya no me importa mucho.`
 `Soy un miembro de la familia Ushiromiya,`
 ` pero la verdad es que estos seis años he estado viviendo con mis abuelos del lado de mi difunta madre, y he estado usando su apellido.`
 `Cuando esos abuelos fallecieron uno tras otro, básicamente no me quedó más opción que regresar a vivir con el viejo bastardo.`
 `No me malinterpreten. No me escapé de mi casa ni nada por el estilo.`
 `{n}El único culpable es mi papá.`
-`...No culpo a Kyrie‐san.`
+`... No culpo a Kyrie‐san.`
 `{n}Ya es mucho con que sostenga las riendas del viejo bastardo y que lo pueda manejar bien.`
-`...Pero la traición del viejo bastardo hacia mi Mamá...`
-` ...Bueno, desafortunadamente, todavía no lo supero del todo.`
+`Pero la traición del viejo bastardo hacia mi Mamá...`
+` Bueno, desafortunadamente, todavía no lo supero del todo.`
 `"*ejem*.`
 ` Llegaremos pronto."`
 `George‐aniki estaba intentando distraer la conversación aclarándose la garganta.`
-`"...Por favor disculpen mi indiscreción.`
+`"... Por favor disculpen mi indiscreción.`
 ` Parece que esta vieja ya ha dicho demasiado.`
 ` Si lastimé tus sentimientos—"`
 `"¡Jeje!`
@@ -387,7 +387,7 @@
 ` ¡Battler, vi la isla, vi la isla!`
 ` ¡Ahí ahí ahí!`
 ` ¡Uu‐uu‐uu!"`
-`"Dónde...oh, ya la veo.`
+`"¿Dónde...? oh, ya la veo.`
 ` Aun después de seis años, la isla no ha cambiado en absoluto."`
 `La pequeña silueta de la isla frente a nosotros se había acercado bastante.`
 `El nombre de esta isla es Rokkenjima.`
@@ -405,18 +405,18 @@
 `{n}La mayor parte de la isla sigue siendo bosque incultivado.`
 `Qué desperdicio, lo podrían convertir en un lindo campo de golf.`
 `{n}Pero cuando uno considera que la costa es en su enteridad una playa privada, comienza a sonar muy lujoso.`
-`Puede que ya se hayan dado cuenta, pero para decirlo de forma simple,`
-` ...bueno, la familia Ushiromiya es muy acaudalada.`
+`Puede que ya se hayan dado cuenta, pero para decirlo de forma simple...`
+` Bueno, la familia Ushiromiya es muy acaudalada.`
 `Aparentemente la casa principal posee una vasta fortuna,`
 ` y Papá y el resto de la rama principal han juntando una cantidad considerable de fondos al triunfar en sus respectivos negocios.`
-`Yo había estado llevando una vida corriente durante los seis años que estuve con mis abuelos, así que me había olvidado por completo,`
-` ...pero la casa del viejo bastardo sí que es elegante, y todo aspecto suyo está planeado para coincidir con los gustos excéntricos de la gente demasiado rica.`
+`Yo había estado llevando una vida corriente durante los seis años que estuve con mis abuelos, así que me había olvidado por completo...`
+` Pero la casa del viejo bastardo sí que es elegante, y todo aspecto suyo está planeado para coincidir con los gustos excéntricos de la gente demasiado rica.`
 `Pensándolo bien, supongo que eso significa que George‐aniki, Jessica, Maria y yo somos ricos caballeros y damas de la alta sociedad.`
 `Por supuesto que ninguno de nosotros se siente de esa forma.`
 `No me veo siendo rico, y George‐aniki, quien toma muy en serio la autodisciplina, no se permite ponerse muy cómodo.`
 `Jessica siempre está quejándose de que preferiría mudarse a la ciudad en vez de ser rica,`
 ` y Maria todavía es una niña a la que no le interesa el dinero.`
-`...¿Nos hace esa actitud un poco menos esnobs?`
+`¿Nos hace esa actitud un poco menos esnobs?`
 `{n}Desde la perspectiva de la gente que vive en pobreza y que no puede pagar las cuentas, hemos sido muy bendecidos.`
 `No es el momento de explicar más, así que no lo haré.`
 `Bueno, es lo mismo que no poder escoger quiénes son tus padres.`
@@ -424,8 +424,8 @@
 `{n}Y en verdad no pienso que sea algo envidiable.`
 `Cansa mucho que la gente tenga prejuicios contra ti por ser rico y se rehusen a juzgarte por tus méritos...`
 `Mientras estaba sumergido en estos sentimentalismos, Maria comenzó a gritar al tiempo que se apoyaba en la barandilla.`
-`"...Uu.`
-` ...No está."`
+`"... Uu.`
+` No está."`
 `"¿Qué ocurre, Maria?`
 ` ¿Se te cayó algo?"`
 `"¡Uu‐uu!`
@@ -437,21 +437,21 @@
 ` ¿Qué no está?`
 ` Lo buscaré también si quieres.`
 ` ¿Qué es?`
-` ...¿?"`
+` ¿...?"`
 `Si algo se le hubiera caído estaría mirando al suelo, pero Maria apuntaba sobre el océano.`
 `Uno supondría que había visto algo allá, pero solo decía que {i:no estaba}.`
-` ...Muy extraño.`
+` Muy extraño...`
 `Sin embargo, ya que mis últimos recuerdos de este lugar son de hace seis años, pude notarlo antes que Aniki, quien viene aquí cada año.`
-`"...¿Eh?...`
-` ...Si mal no recuerdo, ¿no había algo como un {c:86EF9C:torii} sobre un pequeño peñasco por allá?`
-` ...Es cierto, definitivamente estaba allí.`
+`"... ¿Eh?`
+` Si mal no recuerdo, ¿no había algo como un {c:86EF9C:torii} sobre un pequeño peñasco por allá?`
+` Es cierto, definitivamente estaba allí.`
 ` Lo recuerdo bien, ya que al acercarnos a la isla, era lo primero en darnos la bienvenida, como un punto de referencia."`
 `"Wow, eres genial, Battler.`
 ` Aunque hayan pasado seis años, lo recordaste."`
-`"¡Estaba aquí, ¿verdad?!...`
+`"¡Estaba aquí, ¿verdad?!`
 ` También lo recuerdo.`
 ` El templo del dios tutelar y el esa cosa parecida a un torii que habían sido construidos solos en ese peñasco.`
-` ...Y ahora que lo dicen, es cierto, no están.`
+` Y ahora que lo dicen, es cierto, no están.`
 ` Definitivamente estaban ahí el año pasado, creo yo."`
 `"No está.`
 ` No está.`
@@ -462,21 +462,21 @@
 ` Aparentemente desapareció durante el verano.`
 ` Según dicen—"`
 `"Un enorme rayo cayó una tarde y destruyó el templo...`
-` ...Los pescadores dicen que el hecho de que un rayo caiga sobre nuestro honorable Dios tutelar sería una señal certera de mala suerte.`
-` ...Que se esfumen los rayos, que se esfumen los rayos..."`
+` Los pescadores dicen que el hecho de que un rayo caiga sobre nuestro honorable Dios tutelar sería una señal certera de mala suerte...`
+` Que se esfumen los rayos, que se esfumen los rayos..."`
 `Kumasawa‐san sonrió con diablura como molestándonos, frotando ambas manos.`
 `Pero Maria parecía estar creyéndoselo,`
 ` y distorsionando su rostro con seriedad, miró fijamente sobre el océano hacia donde estaba el peñasco que alojaba al Dios tutelar en su templo.`
-`"...Una señal...de mala suerte.`
-` ...Uu."`
+`"... Una señal... de mala suerte...`
+` Uu."`
 `"Suficiente, Kumasawa‐san.`
 ` Maria no es lo suficientemente mayor para entender este tipo de broma."`
 `"Está bien, Maria‐chan.`
 ` Solo es una coindicencia.`
 ` Nada malo va a suceder."`
 `George‐aniki puso una mano sobre el hombro de Maria para calmarla, pero su expresión atenta no cedió.`
-`"...Mala suerte.`
-` ...Mala suerte."`
+`"... Mala suerte...`
+` Mala suerte..."`
 `Maria repetía eso una y otra vez.`
 `{n}Aparentemente, repetir una sola expresión una y otra vez es un hábito que Maria ha tenido por un largo tiempo.`
 `Sin embargo, ya que lo que decía era literalmente "mala suerte", era un poco aterrador.`
@@ -484,58 +484,58 @@
 ` Si lo dices una y otra vez como lo estás haciendo, la mala suerte en verdad vendrá, ¿sabes?"`
 `Toqué el hombro de Maria.`
 `Y luego, Maria volteó su cabeza velozmente, miró mi rostro, y habló sin parpadear.`
-`"Uu.`
-` ...Mala suerte...viene en camino."`
+`"Uu...`
+` Mala suerte... viene en camino."`
 `"¿Eeh?`
 ` ¿Y de dónde es que viene?"`
 `Respondí despreocupadamente en un intento por romper la tensión en el aire.`
-`...Y entonces, Maria lanzó su dedo hacia arriba con su brazo en alto, ...y apuntó a los cielos.`
+`Y entonces, Maria lanzó su dedo hacia arriba con su brazo en alto... y apuntó a los cielos.`
 `Al mirar hacia arriba, vi que el cielo seguía nublado, pero se había vuelto considerablemente más pesado que en la mañana.`
 `Ya veo, decían que se acercaba un tifón.`
-`...Habíamos planeado pasar una noche en la isla, pero si esta tormenta no pasa rápido, no podré llegar a la escuela el lunes.`
+`Habíamos planeado pasar una noche en la isla, pero si esta tormenta no pasa rápido, no podré llegar a la escuela el lunes.`
 `{n}Bueno, supongo que es una excusa perfecta para ausentarme.`
-`"...Uu..."`
-`...Parece que ella sintió algún tipo de mala suerte en este cielo nublado.`
+`"... Uu..."`
+`Parece que ella sintió algún tipo de mala suerte en este cielo nublado.`
 `{n}Ha estado murmurando eso sin parar por un rato.`
 `Las niñas de la edad de Maria suelen ser muy sensibles.`
 `{n}Tiene la edad en que muchas niñas se comienzan a emocionar con los sextos sentidos y por si tienen habilidades psíquicas y cosas así.`
-`...Hasta donde sabemos, esto podría deber a su sensibilidad infantil natural.`
+`Hasta donde sabemos, esto podría deber a su sensibilidad infantil natural.`
 `"Está bien, Maria‐chan.`
 ` Puede que el clima empeore esta noche, pero mañana se despejará y se volverá un lindo cielo azul."`
 `"Uu.`
 ` Lindo cielo azul...`
-` ...Uu..."`
+` Uu..."`
 `"Así es, para mañana habrá un lindo cielo azul.`
 ` No hay lluvia que no se acabe, ni nubes que no se despejen."`
 `"Uu...`
-` ...Lluvia que no acabe.`
-` ...Nubes que no se despejen.`
-` ...Uu..."`
+` Lluvia que no acabe...`
+` Nubes que no se despejen...`
+` Uu..."`
 `"Sé que viene el tifón, ¡pero pronto se irá!`
 ` Todo está bien, Maria."`
-`"...Uu.`
-` ...¡¡Uu!!`
+`"... Uu...`
+` ¡¡Uu!!`
 ` ¡¡Uu‐uu‐uu!!`
 ` ¡¡Uu‐uu‐uu!!"`
 `Maria comenzó a gritar "uu‐uu".`
-`{n}...Parecía como si estuviera haciendo un berrinche porque nadie podía entender lo que quería decirnos.`
+`{n}Parecía como si estuviera haciendo un berrinche porque nadie podía entender lo que quería decirnos.`
 `¿Qué diablos intenta advertirnos Maria tan desesperadamente?`
 `Al no poder entenderla, no pudimos evitar sentir una vaga sensación de mala suerte...`
-`...He escuchado que todos pueden sentir lo sobrenatural, pero esa habilidad se debilita con los años.`
+`He escuchado que todos pueden sentir lo sobrenatural, pero esa habilidad se debilita con los años.`
 `Eso podría significar que Maria, la más joven entre nosotros, todavía poseía algún tipo de percepción que el resto de nosotros habíamos perdido.`
-`...Me pregunto si esa percepción le estaba mandando una advertencia.`
+`Me pregunto si esa percepción le estaba mandando una advertencia.`
 `Entonces, Kumasawa‐san tranquilamente abrió su boca.`
-`"...Se dice que...`
-`Rokkenjima, hace mucho tiempo—"`
+`"... Se dice que...`
+` Rokkenjima, hace mucho tiempo—"`
 `"Kumasawa‐san.`
 ` No hablemos de eso ahora."`
 `Justo cuando Kumasawa‐san intentó comenzar una historia, Jessica la interrumpió abruptamente.`
 `Para ser Jessica, fue una reacción muy brusca.`
 `Quería hacerla continuar simplemente por curiosidad,`
 ` pero a juzgar por la mirada de Jessica, probablemente sería algo que agitaría incluso más la ansiedad de Maria.`
-`...Si insistiera, estoy seguro de que sería una historia que no nos dejaría el corazón alegre y feliz.`
-`"...Jo‐jo‐jo, me disculpo por eso...`
-` ...El viento aquí es muy duro como para una anciana, así que si me disculpan..."`
+`Si insistiera, estoy seguro de que sería una historia que no nos dejaría el corazón alegre y feliz.`
+`"Jo‐jo‐jo, me disculpo por eso...`
+` El viento aquí es muy duro como para una anciana, así que si me disculpan..."`
 `Los chismosos no tienen razón para quedarse en un lugar una vez que les han dicho que no hablen.`
 `Cuando Kumasawa‐san por fin se dio cuenta de que había ido muy lejos, volvió dentro del bote.`
 `Cuando se fue, llegó el tío Hideyoshi a reemplazarla.`
@@ -547,10 +547,10 @@
 ` Tomó una eternidad a la velocidad en que fuimos hoy, ¿eh?`
 ` ¡Todos saben de quién es la culpa!`
 ` ¡Wajajajajaja!"`
-`"Aww, tío Hideyoshi, déjame en paz de una vez~...¡jajaja~!"`
+`"Aww, tío Hideyoshi, déjame en paz de una vez~... ¡Jajaja~!"`
 `"Ajaja, por favor, dile más.`
 ` ¡Seamos sinceros, por culpa de Battler, está tomando una eternidad~!"`
-`"...Uu."`
+`"Uu..."`
 `Maria probablemente pensaba que nadie la escucharía.`
 `Agachó su cabeza con una cara de molesta.`
 `Al hacerlo, George‐aniki se agachó para mirarla a los ojos, y le habló gentilmente.`
@@ -559,38 +559,38 @@
 ` Porque estamos todos juntos.`
 ` Si estamos juntos no hay nada que temer.`
 ` Vamos, dilo."`
-`"...Uu.`
-` ...Si estamos juntos... no hay nada que temer..."`
+`"... Uu...`
+` Si estamos juntos... no hay nada que temer..."`
 `"Sí.`
 ` Si estamos juntos, no hay nada que temer."`
-`"...Uu."`
+`"Uu..."`
 `"Eso es cierto, exactamente como dijo George‐aniki.`
 ` Si estamos todos juntos, no hay absolutamente nada que temer.`
 ` ¿Cierto, Jessica?"`
 `"Sí, sin duda alguna.`
 ` George nii‐san siempre dice la verdad, Maria."`
-`"...Uu.`
+`"Uu...`
 ` George onii‐chan siempre dice la verdad."`
 `"Sí.`
 ` Yo no miento.`
 ` Así que confía en mí.`
 ` No hay nada que temer si estamos todos juntos."`
-`"Uu.`
-` ...George onii‐chan no miente.`
+`"Uu...`
+` George onii‐chan no miente.`
 ` Confío en ti.`
-` Si estamos todos juntos, no hay nada que temer.`
-` ...Uu, ¡nada que temer!"`
+` Si estamos todos juntos, no hay nada que temer...`
+` Uu, ¡nada que temer!"`
 `Maria saltó a los brazos de George‐aniki y lo abrazó con fuerza.`
 `Después de que Aniki le dio palmadas en la cabeza, se alejó de nuevo.`
 `Su expresión facial había cambiado completamente, volviendo a la normalidad.`
 `{n}Volvió a ser la Maria de antes.`
 `"Uu.`
-` Ya no hay nada que temer, porque estamos juntos.`
-` ...Uu‐uu."`
-`"Sí, así es.`
-` ...Te ves mucho mejor ahora.`
+` Ya no hay nada que temer, porque estamos juntos...`
+` Uu‐uu."`
+`"Sí, así es...`
+` Te ves mucho mejor ahora.`
 ` ¡Eres fuerte, eso es genial!"`
-`"...¡Uu!`
+`"¡Uu!`
 ` ¡{c:86EF9C:Maria}, genial!"`
 `"¿Oye, qué ocurre aquí?`
 ` Maria‐chan no tuvo mareos, ¿o sí?`
