@@ -13,7 +13,7 @@ jobs:
     - name: Build .file
       run: |
         mkdir out
-        mddir out/developer-script-es
+        mkdir out/developer-script-es
         php update-manager/update-manager.php dscript out/dev-script/es.txt . es
         php update-manager/update-manager.php script out/es.txt "out/es.file" 8
         cd out
