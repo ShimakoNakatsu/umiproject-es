@@ -15,7 +15,7 @@
 `"Esa ropa te queda muy bien.`
 ` En serio."`
 `Shannon presionó su pecho con ambas manos, avergonzada.`
-`{n} Aparentemente sintió que se burlaban de ella por llevar ropa que no suele utilizar.`
+`{n}Aparentemente sintió que se burlaban de ella por llevar ropa que no suele utilizar.`
 `Aunque la cara de George no lo demostraba, lo cierto es que incluso él se sorprendió de la facilidad con la que aquellas palabras habían salido de su boca,`
 ` y por dentro estaba tan avergonzado como Shannon.`
 `Pero cuando vio lo avergonzada que estaba Shannon,`
@@ -77,7 +77,7 @@
 `"... Umm,`
 ` Yo, no pretendía insinuar eso..."`
 `En el lado de la mesa de Shannon, solo había té y ensalada.`
-`{n}Talvez la mera idea de que ella debería por lo menos tener un plato más, podría ser que estaba pensando con el estómago de un hombre.`
+`{n}Tal vez la mera idea de que ella debería por lo menos tener un plato más, podría ser que estaba pensando con el estómago de un hombre.`
 `"¿Qué hay de usted, George-sama, acaso eso será suficiente?`
 ` Creo que es mejor que los hombres coman un poco más.`
 ` Usted normalmente come más que eso para el almuerzo, ¿no?"`
@@ -128,8 +128,8 @@
 `"Sí, así es.`
 ` Si hubiera estado despejado, habríamos visto un mar muy azul."`
 `"Sí.`
-` Imagino que estás acostumbrada a ver el mar en Rokkenjima, pero el mar aquí seguramente sería de un azul excepcional.`
-` ... Es una verdadera lástima."`
+` Imagino que estás acostumbrada a ver el mar en Rokkenjima, pero el mar aquí seguramente sería de un azul excepcional...`
+` Es una verdadera lástima."`
 `"Aah, pero por muy azul que sea, el mar que veo durante el trabajo bien podría ser gris.`
 ` En cambio, hoy, no estoy trabajando, así que... quiero decir..."`
 `Al parecer, Shannon estaba haciendo todo lo posible para decir una frase embarazosa.`
@@ -139,7 +139,7 @@
 ` Te habría dado la puntuación máxima y una recompensa."`
 `"Uh,`
 ` ah,`
-` Yo, yo, lo siento...`
+` yo, yo, lo siento...`
 ` nnnnnn..."`
 `"¿Quieres oír cuál habría sido la recompensa?"`
 `"Umm,`
@@ -148,12 +148,12 @@
 ` si no le molesta..."`
 `"No.`
 ` No te lo diré.`
-` Ahahahahahaha."`
+` Ajajajajajaja."`
 `"Eso no es justo..."`
 `Cuando estaba en la escuela primaria, siempre era el niño al que molestaban.`
 `{n}Cuando todos se burlaban de mí, me ponía nervioso y me quedaba sin palabras, para deleite de los matones.`
-`Por aquel entonces, me preguntaba el porqué todos se burlaban de mí.`
-`Pero ahora que estoy burlándome de Shannon así, entiendo el porqué.`
+`Por aquel entonces, me preguntaba el por qué todos se burlaban de mí.`
+`Pero ahora que estoy burlándome de Shannon así, lo entiendo.`
 `{n}Esto es tan divertido.`
 `Puedo jugar con sus emociones como quiera,`
 ` y puedo tenerlas todas solo para mí.`
@@ -166,8 +166,8 @@
 ` Quizá las nubes se despejen y podamos ver un mar pintoresco."`
 `"Es una buena idea.`
 ` Me encantaría ir."`
-`"Bien, eso es lo que haremos.`
-` ...Pero antes, ese pastel tuyo si que se ve delicioso.`
+`"Bien, eso es lo que haremos...`
+` Pero antes, ese pastel tuyo si que se ve delicioso.`
 ` Me pregunto si debería conseguir uno igual también."`
 `"No debes...`
 ` Si comes pastel después de haber comido tanto, engordarás.`
@@ -185,7 +185,7 @@
 ` Entonces, supongo que tendré que conformarme con mirarte mientras disfrutas de ese pastel, Shannon."`
 `"Uh,`
 ` er,`
-` .........`
+` ...`
 ` Creo que un pastel entero es demasiado,`
 ` pero quizá si solo es la mitad estaría bien.`
 ` Tome, está muy delicioso."`
@@ -197,7 +197,7 @@
 `Así que le guiñé un ojo, abrí la boca y dije "aah".`
 `"*risita*.`
 ` Esto es lo que quería desde el principio, ¿no es así?`
-` ... Vaya, usted si que es un niño mimado, George-sama."`
+` Vaya, usted si que es un niño mimado, George-sama."`
 `"Okay,`
 ` diga "aah"."`
 `Sin dejar de poner una cara de vergüenza y exasperación, Shannon me ofreció el pastel con un tenedor.`
@@ -228,15 +228,15 @@
 ` Es lo mismo para ti también, ¿verdad?"`
 `"Uh,`
 ` Yo...`
-`... umm..."`
+` Umm..."`
 `"¿Hm?"`
-`"Lo hice...`
+`"Sí que...`
 ` imaginé...`
-` No, umm, err!`
-` En lugar de la imaginación,`
+` No, umm, ¡err!`
+` En lugar de imaginar,`
 ` era más bien como si estuviera fantaseando.`
 ` Siempre eres tan considerado y caballeroso, así que me preguntaba, cómo sería si estuviésemos en una relación,`
-` y yo.., yo solo tenía fantasías de cómo sería..."`
+` y yo... yo solo tenía fantasías de cómo sería..."`
 `"Entonces, nuestra relación ocurrió gracias a que lo deseaste desde el fondo de tu corazón.`
 ` La magia reside en el poder de soñar.`
 ` Así que, estoy seguro de que fue esa magia la que nos unió."`
@@ -255,9 +255,9 @@
 ` Sucedió de verdad"`
 `Me desconcertó esa expresión un poco misteriosa, que a veces ella solía utilizar.`
 `"¿Magia, dices?"`
-`"Sí, magia.`
-` ... Probablemente no me creería aunque se lo dijera, así que no lo haré.`
-` Pero esa magia definitivamente tuvo el poder de conceder el milagro que nos unió a ti y a mí."`
+`"Sí, magia...`
+` Probablemente no me creería aunque se lo dijera, así que no lo haré.`
+` Pero esa magia definitivamente tuvo el poder de conceder el milagro que nos unió a usted y a mí."`
 `"¿Te refieres a un rezo de buena suerte para que tu deseo se haga realidad?"`
 `"Sí, puede ser.`
 ` Tal vez puede que sea algo como eso...`
@@ -292,7 +292,7 @@
 `"¿Sí?`
 ` ¿Qué quiere que haga?"`
 `"Es acerca de la forma en la que me llamas "George‐sama"`
-` No es que me disguste, pero ¿podrías dejar de llamarme así?"`
+` No es que me disguste, pero, ¿podrías dejar de llamarme así?"`
 `"Por supuesto, sé que tienes que mantener las apariencias frente a la familia Ushiromiya, así que no te obligaré a hacerlo durante tu rutina diaria en Rokkenjima.`
 ` Pero, cuando estamos solos, prefiero que no me llames de esa manera.`
 ` Sí, creemos esa regla."`
@@ -303,7 +303,7 @@
 ` ... ¿Qué debería ser?...`
 ` ¿Quieres saber?"`
 `"N‐no, No quiero..."`
-`"Ahahahahahaha.`
+`"Ajajajajajaja.`
 ` En ese caso, tendré que pensar en que debería ser."`
 `"Sí...`
 ` George...`
@@ -320,7 +320,7 @@
 ` La regla debe ser justa.`
 ` Yo también me comprometo, y a partir de ahora, te llamaré Sayo.`
 ` ¿Está bien?`
-` ¿Sayo...?"`
+` ¿Sayo?"`
 `"S‐Sí."`
 `Puse mi brazo alrededor de su hombro y la abracé.`
 `Su delicado cuerpo fue atraído irresistiblemente hacia mí, y saltó a mi pecho como una muñeca.`
@@ -332,7 +332,7 @@
 `Mientras contemplábamos el mar gris y una ligera lluvia comenzaba a caer,`
 ` nos mantuvimos abrazados, escuchando los latidos del otro...`
 `El sonido de las olas se impregnó en mis oídos.`
-` No..., este era el sonido de olas furiosas.`
+` No... este era el sonido de olas furiosas.`
 ` Mi cuerpo, bañado por las salpicaduras terriblemente frías, no me dejaba olvidar.`
 `El recuerdo del día en que mi viejo destino se rompió y se hizo añicos.`
 `En el pasado, el "mañana" había sido literalmente como un espejo para mí.`
@@ -360,11 +360,11 @@
 `Era un espejo de aspecto viejo, sombrío y sucio.`
 `{n}Si se tratara de un espejo ordinario, probablemente te daría una impresión terriblemente mala sobre su valor...`
 `Sin embargo, como el espejo había sido ofrecido a este pequeño santuario, esa cualidad me hizo sentir algún tipo de divinidad de él.`
-`Y me di cuenta ...`
+`Y me di cuenta...`
 `No se trataba de un simple espejo.`
 `{n}Aunque para una incrédula como yo no fuera más que un espejo de viejo aspecto, en realidad era un espejo que tenía un significado importante.`
 `¿Estaría bien romperlo después de haber sido cautivada por tales dulces palabras?`
-`No..., esto no es un espejo.`
+`No... Esto no es un espejo.`
 `{n}Es la ineludible vida que he vivido hasta hoy, es mi destino.`
 `Rómpelo.`
 `Rómpelo, y tomaré una vida reflejada más allá del espejo.`
@@ -410,8 +410,8 @@
 `"Yo...`
 ` cumplí...`
 ` mi promesa...`
-` Ahora...,`
-` es tu turno de cumplir tu promesa conmigo, ¿cierto...?"`
+` Ahora...`
+` es tu turno de cumplir tu promesa conmigo, ¿cierto?"`
 `El trueno rugió una vez más.`
 `Había sido expulsada del Paraíso.`
 `{n}Así que, tendría que luchar por mí misma para vivir.`
@@ -421,5 +421,5 @@
 `{n}Al igual que un frasco, con un agujero en el fondo, no puede llenarse por mucha agua que viertas en el.`
 `"Yo cumplí mi promesa...`
 ` Ahora, es tu turno de cumplir tu promesa...`
-` Por favor, ¡concede mi deseo!`
+` ¡Por favor, concede mi deseo!`
 ` ¡¡{f:5:Beatrice}‐samaaaaaa!!"`
