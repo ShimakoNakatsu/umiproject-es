@@ -14,8 +14,8 @@ jobs:
       run: |
         mkdir out
         mkdir out/developer-script-es
-        php update-manager/update-manager.php dscript out/dev-script/es.txt . es
-        php update-manager/update-manager.php script out/dev-script/es.txt "out/es.file" 8
+        php update-manager/update-manager.php dscript out/developer-script-es/es.txt . es
+        php update-manager/update-manager.php script out/developer-script-es/es.txt "out/es.file" 8
         cd out
         zip -r developer-script.zip developer-script-es
     - name: Create release
