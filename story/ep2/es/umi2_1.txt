@@ -140,10 +140,10 @@
 `"Hahahaha!`
 ` Una buena idea.`
 ` Intenta probarlo esta noche."`
-`"Sí..., lo intentaré."`
+`"Sí... lo intentaré."`
 `"Shannon‐chan, abre esa tetera y echa un vistazo.`
 ` Deberías ser capaz de encontrar algo de bergamota seca mezclada con las hojas de té."`
-`"Ah..., sí.`
+`"Ah... sí.`
 ` Está allí dentro.`
 ` Algo parecido a la cáscara seca de naranja está mezclado dentro."`
 `"Síp.`
@@ -187,7 +187,7 @@
 `"¡¿Hmmmm...?!`
 ` Shannon, no te habrás enamorado de George nii-san, ¿verdad?"`
 `Shannon había refutado las palabras de Jessica de una forma inusual, por lo que Jessica se dio cuenta inmediatamente.`
-`"No, eso no es cierto..., creo..."`
+`"No, eso no es cierto... creo..."`
 `"Ahora que lo pienso, nunca he escuchado ese tipo de chismes sobre George nii-san.`
 ` Espera...`
 ` De hecho, ¿no lo oí decir que las chicas encargadas del hogar eran su tipo?`
@@ -263,8 +263,8 @@
 `Había sido tan fluido que Shannon no lo había notado hasta hoy.`
 `Hoy, Shannon tuvo la oportunidad de admirar ese comportamiento de George.`
 `Casi todos los chicos que Shannon conocía de su edad eran sus compañeros de clase.`
-`Pero todos eran inmaduros..., y ninguno tenía la compostura que poseía George.`
-`Aunque hasta hace unos momentos solo era un invitado...,`
+`Pero todos eran inmaduros... y ninguno tenía la compostura que poseía George.`
+`Aunque hasta hace unos momentos solo era un invitado...`
 ` ahora, ella no podría describirlo solo con eso.`
 `Pero eso era un pensamiento inútil, irrelevante para su trabajo como sirvienta.`
 `{n}Shannon trató de rechazarlo con un pequeño movimiento de cabeza.`
@@ -272,14 +272,14 @@
 ` ¿Qué pasa?"`
 `"¡Ah, no, no es nada...!"`
 `"Umm, ¿debería preparar un poco de té?`
-` Uhh..., prepararé un poco más de ese Earl Grey para usted."`
+` Uhh... prepararé un poco más de ese Earl Grey para usted."`
 `"Ahaha, así que recordaste el nombre de ese té negro.`
 ` Me alegro."`
-`"Um..., umm..."`
+`"Um... umm..."`
 `"Hm?"`
-`"... Umm..., gracias por su ayuda en ese entonces..."`
+`"... Umm... gracias por su ayuda en ese entonces..."`
 `Shannon finalmente pudo expresar su agradecimiento en palabras.`
-`Si lo escribieras en papel, no parecería gran cosa...,`
+`Si lo escribieras en papel, no parecería gran cosa...`
 ` pero Shannon había necesitado un poco de valor para decirlas en voz alta.`
 `Pero George se hizo el tonto.`
 `"¿Qué quieres decir?`
@@ -338,8 +338,8 @@
 ` Y no puedo hablar de una manera que pueda entretener a una chica."`
 `"Yo, yo no creo que eso sea cierto.`
 ` Y... Creo que el encanto de un hombre se decide por cosas que no se pueden medir en el exterior.`
-` E-es por eso que..., umm,`
-` Creo que usted puede ser un..., um, hombre muy encantador, George-sama..."`
+` E-es por eso que... umm,`
+` Creo que usted puede ser un... um, hombre muy encantador, George-sama..."`
 `Shannon estaba inusualmente ampulosa.`
 `{n}Comparada con su forma normal de ser, estaba siendo muy habladora.`
 `George parecía bastante complacido al escuchar la descripción de su propio encanto, pero estaba un poco sorprendido por este gran elogio.`
@@ -381,7 +381,7 @@
 ` Yo no podría hacer que desperdiciase su precioso día libre,`
 ` También estaría entrometiéndome en el momento ideal en el que ella podría estar a solas con alguien por quien realmente siente algo.`
 ` No podría hacer algo tan grosero."`
-`"Yo, yo, yo también..., umm...`
+`"Yo, yo, yo también... umm...`
 ` no tengo a nadie por quien tenga sentimientos o algo, así que, umm,`
 ` ¡preocuparse por mí de esa manera es... sí, es, es innecesario...!"`
 `A Shannon se le había subido toda la sangre a la cabeza, y parecía que ni siquiera ella sabía lo que estaba balbuceando.`
@@ -390,7 +390,7 @@
 `"¿Es eso cierto...?`
 ` No puedo creer que una chica tan guapa como tú esté soltera, Shannon-chan..."`
 `"Yo, yo, yo,`
-` soy una sirvienta, así que..., umm,`
+` soy una sirvienta, así que... umm,`
 ` No tengo ninguna oportunidad de conocer chicos, y, umm..."`
 `"Lo que significa que, en el futuro, si Shannon llega a tener alguna oportunidad de conocer a un chico maravilloso,`
 ` necesita practicar con las relaciones, ¿verdad?`
@@ -424,7 +424,7 @@
 ` ¿Qué podría ser?"`
 `"El mismo tema que todos ustedes acaban de tener.`
 ` ¿Recuerdas ese tema?"`
-`"Oh..., oh, ese tema.`
+`"Oh... oh, ese tema.`
 ` Eso no es realmente algo de lo que tengamos que hablar con el abuelo, ¿verdad?"`
 `"¿De qué están hablando?`
 ` Espera, George-nisan. ¡¿No te irás a casar con alguien?!"`
@@ -434,10 +434,10 @@
 `"Eso no es algo de lo que presumir, ¿verdad?`
 ` En serio..."`
 `Eva sonrió con amargura, pareciendo un poco exasperada.`
-`"¡Ah..., ya sé...!`
+`"¡Ah... ya sé...!`
 ` George nii-san, es uno de esos, ¿verdad? ¡Un matrimonio arreglado!"`
 `"¿Un matrimonio arreglado...?"`
-`"nn..., bueno..., sí.`
+`"nn... bueno... sí.`
 ` Hahahaha..."`
 `Como hombre, George sin duda quería encontrar una pareja por sí mismo y encargarse de ella.`
 `Así que le pareció un poco patética la idea de conocer a su pareja en un matrimonio arreglado organizado por sus padres.`
@@ -456,7 +456,7 @@
 ` *carcajada*!"`
 `"Yo lo amo, sabes.`
 ` Quiero estar siempre con él, y vivir mi vida a su lado."`
-`"Eva-sama..., eso es maravilloso.`
+`"Eva-sama... eso es maravilloso.`
 ` De verdad espléndido..."`
 `"Gracias.`
 ` Pero construimos esos sentimientos mientras éramos marido y mujer, ¿ves?`
@@ -482,7 +482,7 @@
 ` En este momento, puede que todavía tengas algo de esa juventud inmadura dentro de ti que te impide ver esto."`
 `"Pero por lo menos escucha lo que dice tu madre sobre este asunto.`
 ` ¿Alguna vez he dejado de pensar en lo que es mejor para ti?"`
-`"No..., nunca lo has hecho..."`
+`"No... nunca lo has hecho..."`
 `"Eso es todo lo que debes pensar por ahora.`
 ` Muy bien, vamos.`
 ` Estamos haciendo esperar a Padre.`
@@ -569,7 +569,7 @@
 `"Sí, lo sé.`
 ` Así que hice que Lunon lo hiciera.`
 ` Mientras tú te tomabas tu  tiempo limpiando el pasillo, ella terminó de limpiar el estudio y la escalera."`
-`"Eso es porque..., umm,`
+`"Eso es porque... umm,`
 ` quería limpiarlo minuciosamente, así que me llevó algo de tiempo......"`
 `Shannon era humilde y honesta, por lo que siempre realizaba sus tareas correctamente y con seriedad, sin ninguna omisión.`
 `Así que siempre fue lenta con su trabajo.`
@@ -635,7 +635,7 @@
 ` ¿Está bien...?"`
 `"Hmph..."`
 `Kanon miró hacia otro lado, actuando con mal humor.`
-`Fue una reacción deshonesta, muy al estilo de Kanon-kun..., pero me sentí un poco feliz.`
+`Fue una reacción deshonesta, muy al estilo de Kanon-kun... pero me sentí un poco feliz.`
 `Él se enfadó en mi lugar.`
 `"Limpiar el vestíbulo será difícil.`
 ` Te ayudaré."`
@@ -649,7 +649,7 @@
 ` Si no vuelves a tu propio trabajo, incluso recibirás un castigo.`
 ` Y eso me entristecería..."`
 `Shannon conocía bien el carácter de Kanon.`
-`{n}En ocasiones..., no reflexionaba sobre sí mismo.`
+`{n}En ocasiones... no reflexionaba sobre sí mismo.`
 `Si no me niego a la fuerza, me ayudará aunque tenga que descuidar su propio trabajo...`
 `Kanon estaba un poco triste porque su favor había sido rechazado,`
 ` pero se dio cuenta de que, al final, ir demasiado lejos también le causaría molestias, y dio un único y pequeño suspiro.`
@@ -657,14 +657,14 @@
 ` Bien...`
 ` Haz lo mejor que puedas, Nee-san."`
 `"Sí.`
-` Además..., yo también tengo parte de la culpa."`
+` Además... yo también tengo parte de la culpa."`
 `"¡No es tu culpa en absoluto, Nee-san...!"`
 `"No...`
 ` es mi culpa.`
 ` Así que... vete ya"`
 `La cara de Kanon-kun mostraba que aún no lo había aceptado del todo, pero dejó de ser persistente y desapareció.`
 `Aunque Kanon-kun me había dado palabras de consuelo cuando estaba deprimida...`
-`Aun así..., seguía desanimada porque no había sido "él".`
+`Aun así... seguía desanimada porque no había sido "él".`
 `{n}Eso fue, simplemente, un pecado.`
 `Uno mucho más allá de cualquier sueño que a alguien como yo se le permita ver... debo conocer mi lugar.`
 `Shannon, quien había olvidado desayunar, ya empezaba a sentir que sus pensamientos se atenuaban.`
@@ -672,7 +672,7 @@
 `Seguramente la cruel Natsuhi les había contado aquello a los de la cocina.`
 `Yo... tengo que recibir respetuosamente el castigo de la señora.`
 `Es cierto.`
-` Mi posición en el mundo es la de un mueble..., y he sido intoxicada por un sueño que me sobrepasa...`
+` Mi posición en el mundo es la de un mueble... y he sido intoxicada por un sueño que me sobrepasa...`
 `Cuando terminé de limpiar el pasillo, fui al vestíbulo.`
 `Tal vez el hambre hace que la nariz sea más sensible.`
 `La cocina estaba lejos, pero de alguna manera podía oler el delicioso aroma que salía de allí, estimulando aún más mi estómago vacío.`
@@ -696,7 +696,7 @@
 `{n}Por lo que no tenían derecho a decir lo que pensaban sobre sus días difíciles.`
 `{n}No tienen derecho a abrir la boca y decir esas palabras.`
 `Así que, ella al menos dijo lo que pensaba dentro de su corazón.`
-`{n}Esas palabras que no podía decir en voz alta, las dijo dentro de su corazón..., y protestó ante la bruja sin forma.`
+`{n}Esas palabras que no podía decir en voz alta, las dijo dentro de su corazón... y protestó ante la bruja sin forma.`
 `Por supuesto, la bruja no respondió.`
 `{n}Nunca la consoló, y nunca se rió de ella.`
 `{n}Shannon solo podía interpretar aquel silencio como quisiera, como si la bruja estuviera al menos escuchando atentamente.`
@@ -712,7 +712,7 @@
 `"Los muebles de verdad... no tienen algo tan tonto como un corazón.`
 ` Por lo que ellos no tienen que amar a la gente, ¿verdad?`
 ` Por lo que ellos no sienten dolor.`
-` Si solo soy un mueble más..., ¿por qué es que tengo un corazón?"`
+` Si solo soy un mueble más... ¿por qué es que tengo un corazón?"`
 `"Si esto iba a ser tan duro y tan doloroso... ¡Desearía que nunca se me hubiera dado este estúpido corazón...!"`
 `Ya entiendo...`
 ` Haberle dado un corazón a los muebles.`
@@ -720,18 +720,18 @@
 `*carcajada*carcajada*...!`
 `"¿eh...?"`
 `La bruja que nunca respondía ni reía...`
-` respondió...,`
+` respondió...`
 ` y rió.`
 `¿Es mi imaginación?`
 ` ¿Estoy escuchando cosas?`
 ` No.`
-`Después de todo..., las siguientes palabras se convirtieron en una "voz", y pude escucharlas, no con mi corazón, sino con mis oídos...`
+`Después de todo... las siguientes palabras se convirtieron en una "voz", y pude escucharlas, no con mi corazón, sino con mis oídos...`
 `"El ser humano ha buscado constantemente los elementos que componen el mundo desde antes de la era cristiana.`
 ` Se dice que los antiguos griegos intentaron explicar el mundo con los cuatro elementos: aire, fuego, agua y tierra."`
 `"Y después, a lo largo de varios milenios, los humanos añadieron varios elementos a esos cuatro,`
 ` tratando de explicar el mundo con un montón de interpretaciones: los cinco elementos, los seis elementos, los siete elementos, los ocho elementos, los doce elementos...`
 ` pero nunca pudieron explicar el verdadero "único elemento"."`
-`"Sin embargo..., un solo hombre apareció por la guía de una estrella, y finalmente explicó el único elemento que compone el mundo.`
+`"Sin embargo... un solo hombre apareció por la guía de una estrella, y finalmente explicó el único elemento que compone el mundo.`
 ` ¿Sabes cuál es...?"`
 `"E...`
 ` a...`
@@ -748,13 +748,13 @@
 `"Ese hombre explicó todo en el mundo con "amor".`
 ` Ese es el único elemento.`
 ` Con el número más pequeño posible, ese hombre explicó completamente cómo se construyó el mundo."`
-`"Cuán simple y claro..., cuán espléndido, estimulante, agradable y emocionante.`
+`"Cuán simple y claro... cuán espléndido, estimulante, agradable y emocionante.`
 ` El año en que nació ese hombre pasó a conocerse luego como el inicio de la era después de Cristo...`
 ` ¡*carcajada*carcajada*!"`
 `Shannon se quedó sin palabras.`
 ` Pensó que al encontrarse por primera vez con un invitado desconocido, sus primeras palabras deberían ser para preguntarle el nombre a esa persona.`
 `Pero a pesar de no decir nada, Shannon ya sabía el nombre de esta persona, así que se abstuvo.`
-`No, seguramente..., como una persona de esta isla, preguntar a esta persona por su nombre sería la mayor falta de respeto.`
+`No, seguramente... como una persona de esta isla, preguntar a esta persona por su nombre sería la mayor falta de respeto.`
 `Porque... ella era la otra Ama de esta isla además de Kinzo.`
 `"B... {f:5:Beatrice}‐sama..."`
 `"En efecto.`
@@ -780,7 +780,7 @@
 ` Ahora que lo conoces, ya no eres un mueble.`
 ` Ahora, tu eres "humana".`
 ` Yo reconozco eso en mi nombre."`
-`"umm..., u..."`
+`"umm... u..."`
 `"Hmph.`
 ` ¿Es difícil para un ser inferior entenderlo?`
 ` Oh, bien.`
@@ -815,7 +815,7 @@
 ` Sin embargo, yo respondo con buena voluntad a los que me respetan.`
 ` ¿Acaso los humanos no son iguales?`
 ` Aunque, dudo que algún humano responda con buena voluntad a una actitud hostil como esa..."`
-`"Mis..., mis disculpas...`
+`"Mis... mis disculpas...`
 ` No era mi intención..."`
 `Shannon se dio cuenta de que estaba siendo grosera con su hostilidad.`
 `Y... finalmente asimiló las palabras que le habían dicho hace un momento.`
@@ -843,7 +843,7 @@
 `"Sí, lo conozco, pero...`
 ` ¿qué pasa con...?"`
 `"No voy a explicar todo desde el principio a una persona que no sabe de demonios.`
-` Para abreviar la historia..., me está causando problemas.`
+` Para abreviar la historia... me está causando problemas.`
 ` La verdad es que en el interior de ese santuario se guarda un cierto espejo.`
 ` Yo quiero que tú lo rompas."`
 `Esa fue una petición muy sospechosa.`
@@ -859,9 +859,9 @@
 ` No se puede tomar la sopa con un tenedor, ¿correcto?"`
 `"Si solo la imposición de ese espejo desapareciera, podría preparar una cuchara perfecta para tomar la sopa.`
 ` Si tuviera eso, podría tomar esa sopa, o incluso cavar mi camino fuera de una prisión rocosa.`
-` Yo incluso podría sacar ojos de sus cuencas..., ¿es eso de lo que se trataba?`
+` Yo incluso podría sacar ojos de sus cuencas... ¿es eso de lo que se trataba?`
 ` ¡*carcajada*carcajada*!"`
-`"Yo..., yo no sé de qué estás hablando.`
+`"Yo... yo no sé de qué estás hablando.`
 ` Si eso es porque soy inculta, me disculpo."`
 `"Todo se resume en esto.`
 ` Si haces el esfuerzo de romper el más molesto de los espejos para mí,`
@@ -869,13 +869,13 @@
 `"Estoy de muy buen humor hoy...`
 ` Si lo deseas, puedes cambiar tu deseo, y puedo darte todo el oro que le otorgué a Kinzo...`
 ` ¡*carcajada*carcajada*!"`
-`"Yo..., yo tendré que declinar..."`
+`"Yo... yo tendré que declinar..."`
 `"¿Qué has dicho...?"`
 `Cuando escuchó las palabras de Shannon, {f:5:Beatrice} comprendió por primera vez que sus expectativas habían sido traicionadas.`
 `"Si hay alguna razón, dímelo.`
 ` Si hay un malentendido, lo resolveré."`
-`"Yo..., yo realmente no sé la razón.`
-` Pero hasta hoy..., la isla ha estado en paz y nada malo ha sucedido.`
+`"Yo... yo realmente no sé la razón.`
+` Pero hasta hoy... la isla ha estado en paz y nada malo ha sucedido.`
 ` Así que, si no rompo el espejo, la paz que ha existido hasta hoy debería continuar en el futuro."`
 `"Hmm...`
 ` Ya veo, ya veo, eso es muy cierto.`
@@ -922,7 +922,7 @@
 ` Ese límite no lo puedo determinar yo.`
 ` Será determinado por tu propio ser amado.`
 ` ¿Entiendes lo que quiero decir?"`
-`"Yo..., yo no lo entiendo."`
+`"Yo... yo no lo entiendo."`
 `"El límite es el momento en que tu amado elige a la persona a la que debe prometer su amor.`
 ` Soy una bruja, pero no soy un demonio.`
 ` No poseo ningún hechizo que pueda separar a dos que se aman, ¿sabías?`
@@ -995,7 +995,7 @@
 ` En deferencia a ella, te perdonaré esta noche y te dejaré ir.`
 ` Sé agradecido.`
 ` Bien entonces, nos dispersaremos por esta noche."`
-`"Como despedida..., dejaré un pequeño souvenir.`
+`"Como despedida... dejaré un pequeño souvenir.`
 ` Extiendan la palma de la mano izquierda, ustedes dos."`
 `{f:5:Beatrice} sonrió ampliamente y chasqueó los dedos,`
 ` con lo cual, en contra de su voluntad, ambos extendieron la mano izquierda y abrieron sus palmas.`
@@ -1043,7 +1043,7 @@
 `El cuerpo de {f:5:Beatrice} se deshizo como el humo y se desvaneció.`
 `Era humo dorado, no, era un vuelo de mariposas doradas.`
 `Se dispersaron en todas las direcciones dentro del vestíbulo, dejando una niebla dorada detrás mientras desaparecían en el aire.`
-`Después de eso..., sólo quedó el frío silencio.`
+`Después de eso... sólo quedó el frío silencio.`
 `El extremo silencio fue lo suficiente para que ambos pensaran que podrían haber estado soñando despiertos hasta hace un momento...`
 `Es por eso que la bruja lo dejó.`
 `{n}Ella había dejado una marca para que no pudieran pensar que se trataba de un sueño.`
