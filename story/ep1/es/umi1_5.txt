@@ -940,7 +940,7 @@
 ` Probablemente es por eso que Kinzo‐san confía tanto en ti."`
 `"Si es así, me siento honrado."`
 `Mientras Nanjo reía ligeramente como respuesta, nuevamente miró al epitafio.`
-`"Contempla el río de ayus atraviesa mi añorado pueblo natal.`
+`"Contempla el río de ayus que atraviesa mi añorado pueblo natal.`
 ` Tú, que buscas la Tierra Dorada, sigue la corriente del río cuesta abajo en busca de la llave..."`
 `Lo que está escrito en el epitafio llamado "Mi Amada Bruja {f:5:Beatrice}" es lo siguiente:`
 `{e:070:Contempla el río de ayus que atraviesa mi añorado pueblo natal.`
