@@ -1,436 +1,436 @@
-`"Where are you, {f:5:Beatrice}!!`
-` Show yourself!!`
-` {f:5:Beatriceee}!!"`
-`Rosa finally arrived at the chapel.`
-` She pointed her gun around her, screaming the witch's name, but there was no way there would be an answer.`
-`After grimacing slightly, she noisily approached the table where her siblings' corpses were still exposed, and stretched out her arm towards the gold ingots.`
-`They were very heavy, but Rosa paid that no regard.`
-`{n}She wrapped one of them up in a blanket, and slung it over her shoulder.`
-`"At least...just this one......`
-` Just this should be worth more than ten million..."`
-`Rosa did not part with her gun either, carrying the gold in addition to it.`
-`{n}...Her shoulders were screaming, but Rosa didn't care.`
-`"......Kihihihihihihihihihihihihihihihihi.`
-` It will happen very soon.`
-` ......Very soon, the door to the Golden Land...will open."`
-`"Stop laughing with that creepy voice!!`
-` Where is {f:5:Beatrice}?!`
-` Yes, I know it, she's around here somewhere, isn't she?!`
-` You know, right?!`
-` Where?!"`
-`"Kihihihihihihihihihihihi.`
-` I dooon't knowww.`
-` Even if you don't search for her, you can meet her in the Golden Land.`
-` ...Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi,`
+`"¡¡¿Dónde estás, {f:5:Beatrice}?!!`
+` ¡¡Muéstrate!!`
+` ¡¡{f:5:Beatriceee}!!"`
+`Rosa finalmente llegó a la capilla.`
+` Apuntó con su arma a su alrededor, gritando el nombre de la bruja, pero no había forma de que hubiera respuesta.`
+`Después de hacer una leve mueca, se acercó ruidosamente a la mesa donde aún estaban expuestos los cadáveres de sus hermanos y estiró el brazo hacia los lingotes de oro.`
+`Eran muy pesados, pero Rosa no le dio importancia.`
+`{n}Envolvió a uno de ellos en una manta y se lo echó al hombro.`
+`"Al menos... bastará con este...`
+` Solo esto debe valer más de diez millones..."`
+`Rosa no se separó de su arma, llevando el oro con ella.`
+`{n}Sus hombros gritaban, pero a Rosa no le importaba.`
+`"Kijijijijijijijijijijijijiji.`
+` Sucederá muy pronto.`
+` Muy pronto, la puerta a la Tierra Dorada se abrirá."`
+`"¡¡Deja de reírte con esa voz espeluznante!!`
+` ¡¿Dónde está {f:5:Beatrice}?!`
+` ¡Sí, lo sé, está por aquí en alguna parte, ¿no?!`
+` ¡Tú lo sabes, ¿verdad?!`
+` ¡¿Dónde?!"`
+`"Kijijijijijijijijijijiji.`
+` Nooo lo sé.`
+` Aunque no la busques, podrás encontrarla en la Tierra Dorada.`
+` Kijiji{0}ji{0}ji{0}ji{0}ji{0}ji{0}ji{0}ji{0}ji{0}ji{0}ji{0}ji{0}jijiji,`
 ` ouch."`
-`"Stop that laugh!!`
-` ......Aaah, it almost makes {i:me} want to laugh!!`
-` That's right, that was definitely a witch, definitely a witch!!`
-` I didn't understand, I thought it was a human calling herself a witch, I was wrong!!!"`
-`"...It really was a witch!!`
-` I won't be fooled by a thing like that!!`
-` You're there, aren't you?!`
-` Come out, show yourself!!`
-` {f:5:Beatriceeee{-}e{-}e{-}e{-}e{-}e{-}eeeee}!!!"`
-`"I told you, she'll appear very soon.`
-` The door to the Golden Land will be opened.`
-` ......Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi..."`
-`"............Of course.`
-` That's what I should have done!`
-` I don't care, I shall throw away the rook!`
-` You, woman, are the king, who can't even be reached without the resolve to lose everything one has.`
-` I'll corner you, {f:5:Beatriceeee}.`
-` Hihahahahahahahahahaha!"`
-`"At least call me a queen.`
-` Hoh, what a brilliant move.`
-` Tenacity is in your, ...no, in the Ushiromiyas' blood."`
-`"......How pleasant!`
-` Truly an elegant night.`
-` Ku‐hah‐hah‐hah‐hah‐hah‐hah‐ha...!!"`
-`".........My lord; {f:5:Beatrice}‐sama.`
-` It will soon be time for the banquet."`
-`"Already?`
-` ......That's fast.`
-` Every night I pass with you goes by fast;`
-` the moon falls like an apple, and the sun rises like a small fish leaping out of the river."`
-`"Shall we go, it is time.`
-` ......Stand, Battler.`
-` It is the beginning of the banquet to celebrate my revival."`
-`"I'll introduce you as my new furniture, ...no, as my toy.`
-` To the dignitaries among witches."`
-`The witch was relaxing elegantly, her feet thrown out from the sofa and sitting on top of a footrest.`
-`...However, the footrest wasn't a part of the sofa, ......it was a {y:0:Human}{n:0:human}.`
-` Which was down on all fours......`
-`"......{f:5:Beatrice}‐sama, your silk dress."`
-`"You are the guest of honor, but I am the host.`
-` I will go out first.`
-` It would have been nice if Shannon were here to help dress you, but, unfortunately, it seems that she no longer remains."`
-`"......She's never around when I want to use her.`
-` Completely useless.`
-` .........However, you did well to remain here.`
-` ...I'm happy, my friend."`
-`"......I am grateful for your words."`
-`"Good.`
-` Wait downstairs, you two.`
-` Genji, good work, set the dress down over there."`
-`"......Certainly.`
-` .........Well then, my lord."`
-`"We will go first.`
-` ...{f:5:Beatrice}, I will see you later."`
-`"Indeed."`
-`Kinzo and Genji left the study.`
-`{n}After that, only the witch and the dress and the furniture remained.`
-`".........Do you know why I am not embarrassed to show myself to you naked...?"`
+`"¡¡Deja de reírte!!`
+` ¡¡Aaah, casi {i:me} entran ganas de reír!!`
+` ¡¡Eso es, eso definitivamente era una bruja, definitivamente era una bruja!!`
+` ¡¡No lo entendí, pensé que era una humana llamándose bruja, pero me equivoqué!!!"`
+`"¡¡¡Realmente era una bruja!!`
+` ¡¡No me dejaré engañar por algo así!!`
+` ¡Estás ahí, ¿no es así?!`
+` ¡¡Sal, muéstrate!!`
+` ¡¡¡{f:5:Beatriceeee{-}e{-}e{-}e{-}e{-}e{-}eeeee}!!!"`
+`"Te lo dije, ella aparecerá muy pronto.`
+` La puerta a la Tierra Dorada se abrirá.`
+` Kijiji{0}ji{0}ji{0}ji{0}ji{0}ji{0}ji{0}jijiji..."`
+`"Por supuesto.`
+` ¡Eso es lo que debería haber hecho!`
+` ¡No me importa, sacrificaré la torre!`
+` Tú, mujer, eres el rey, al que ni siquiera se puede llegar sin la determinación de perder todo lo que se tiene.`
+` Te acorralaré, {f:5:Beatriceeee}.`
+` ¡Jijajajajajajajajajaja!"`
+`"Por lo menos llámame la reina.`
+` Hoh, que brillante movimiento.`
+` La tenacidad está en tu, no, en la sangre de los Ushiromiyas."`
+`"¡Qué placentero!`
+` Una noche verdaderamente elegante.`
+` ¡¡Ku‐ja‐ja‐ja‐ja‐ja‐ja‐ja...!!"`
+`"Amo, {f:5:Beatrice}‐sama.`
+` Pronto será la hora del banquete."`
+`"¿Ya está listo?`
+` Qué rápido.`
+` Cada noche que paso contigo pasa tan rápida;`
+` la luna cae como una manzana, y el sol sale como un pequeño pez que salta del río."`
+`"Vámonos, ya es hora.`
+` Párate, Battler.`
+` Este es el comienzo del banquete para celebrar mi resurrección."`
+`"Te presentaré como mi nuevo mueble, no, como mi juguete.`
+` Lo haré frente los dignatarios entre las brujas."`
+`La bruja se relajaba elegantemente, sacando los pies del sofá y colocándolos en un reposapiés.`
+`Sin embargo, el reposapiés no formaba parte del sofá, era un {y:0:Humano}{n:0:humano}.`
+` El cual estaba en cuatro patas...`
+`"{f:5:Beatrice}‐sama, su vestido de seda."`
+`"Tú eres la invitada de honor, pero yo soy el anfitrión.`
+` Iré primero.`
+` Hubiera sido bueno que Shannon estuviera aquí para ayudarte a vestirte, pero, por desgracia, parece que ya no está más."`
+`"Ella nunca está cuando quiero usarla.`
+` Completamente inútil.`
+` Sin embargo, hiciste bien en quedarte aquí.`
+` Estoy feliz, amigo mío."`
+`"Le agradezco sus palabras."`
+`"Bien.`
+` Esperen abajo, ustedes dos.`
+` Genji, buen trabajo, deja el vestido aquí."`
+`"Ciertamente.`
+` Así que, Amo."`
+`"Nosotros iremos primero.`
+` {f:5:Beatrice}, nos vemos luego."`
+`"Por supuesto."`
+`Kinzo y Genji salieron del estudio.`
+`{n}Después de eso, solamente quedaron la bruja, el vestido y el mueble.`
+`"¿Sabes por qué no me da vergüenza mostrarme desnuda ante ti...?"`
 `"..........................."`
-`"It's because you are furniture.`
-` Furrrrniture.`
-` Understand?`
-` Furniture, just furrrrniture!"`
-`"Who would feel shame at exposing their body to furniture?`
-` So there is no reason for me to feel shame because of you.`
-` ...*cackle*cackle*cackle*cackle*cackle*!"`
-`The witch stood up, and removed her jacket just at the shoulders.`
-`{n}......The jacket slumped down at the back.`
-`When the furniture respectfully approached to pick up her clothing, the witch gave it a small kick and it fell over.`
-`...The furniture was afraid of what misconduct it had shown...`
-`"Do you, as furniture, plan to force me to unbutton myself?"`
-`"......Stand.`
-` And undo the buttons.`
-` ...One by one, carefully.`
-` Quickly.`
-` Beautifully.`
-` With no mistakes.`
-` The guests are being kept waiting, change my clothes quickly."`
-`"..................Yes..."`
-`"*cackle*cackle*cackle*cackle*cackle*, kakakaka, hah‐hah‐hah‐hah‐hah‐hah‐ha!!`
-` Undo them carefully.`
-` Those buttons are each worth more than one of your eyeballs.`
-` ...If you accidentally tear one off, I'll sew on an eyeball of yours in its place...`
-` *cackle*cackle*cackle*cackle*cackle*cackle*cackle*cackle*cackle*cackle*!!"`
-`The entrance hall was bustling with a large number of figures.`
-`{n}And it was sparkling gold with the gold butterflies flying around.`
-`The gentlemen in suits and tuxedos and the ladies in dresses looked like they were having a great number of friendly chats.`
-` At a glance, it might have looked like a fabulous medieval ball.`
-`But they all had one thing in common, and that thing was exceedingly bizarre.`
-`......Because all of them...had goat heads.`
-`It was impossible to tell whether it was a goat mask masquerade,`
-` .........or whether they really had goat heads.`
-`...The latter was a ridiculous notion, but in this bizarre world, there was serious doubt about which was true...`
-`Kinzo was amongst those goat nobles, greeting them.`
-`Every one of them seemed to be an honored guest, and Kinzo greeted them more respectfully than could ever have been imagined from his normal demeanor.`
-`At that time, Genji's voice rang out through the hall.`
-`{n}It was a voice calling for silence.`
-`{n}That voice stopped the voices of idle chatter, and everyone turned to face Genji.`
-`".........Tonight marks the entrance of our Golden Witch, who has achieved her revival,`
-` the Lady {f:5:Beatrice}.`
-` I ask you all to join me in welcoming her with your applause."`
-`When Genji began to applaud, it quickly spread through the guests, and became thunderous applause.`
-`And.........the Golden Witch appeared at the top of the large staircase...`
-`She gracefully waved her hand as she slowly descended the staircase...with her preferred furniture in tow...`
-`The goat nobles offered unanimous words of celebration in some long‐forgotten language.`
-`And those with whom she was closely acquainted embraced her, filled with joy at their reunion.`
-`As the witch offered greetings of reunion, ...the witch's furniture followed behind her the whole time.`
-`.........There was a chain around its neck.`
-`{n}This was gripped in the witch's hand, like it was a trained dog.`
-`The chain wasn't there to restrain it.`
-`{n}...The only purpose of the restraining device was to injure the furniture's dignity...`
-`It wasn't permitted to wear anything else on its body.`
-`One of the young woman goats, mixed in with the goat nobles,`
-` softly removed her goat mask as the furniture passed in front of her, and spoke with eyes that had no light in them.`
-`That face...looked like it belonged to a long‐haired young girl...`
-`"...............How pitiful."`
+`"Es porque eres un mueble.`
+` Mueeeeeeble.`
+` ¿Entiendes?`
+` ¡Un mueble, solo un mueeeeble!"`
+`"¿Quién se avergonzaría de exponer su cuerpo a los muebles?`
+` Así que no hay razón para que yo sienta vergüenza a causa de tuya.`
+` ¡*carjada*carjada*carjada*carjada*carjada*!"`
+`La bruja se levantó y se quitó la chaqueta por los hombros.`
+`{n}La chaqueta cayó a sus espaldas.`
+`Cuando el mueble se acercó respetuosamente a recoger la ropa, la bruja le dio una pequeña patada y este se cayó.`
+`El mueble tenía miedo de la mala conducta que había mostrado...`
+`"¿Acaso un mueble como tú pretende que me desabotone yo misma?"`
+`"De pie.`
+` Y desabotóname.`
+` Botón por botón, cuidadosamente.`
+` Rápidamente.`
+` Con gracia.`
+` Sin cometer errores.`
+` Los invitados están esperando, cámbiame de ropa enseguida."`
+`"Sí..."`
+`"¡¡*carjada*carjada*carjada*carjada*carjada*, kakakaka, ja‐ja‐ja‐ja‐ja‐ja‐ja!!`
+` Hazlo con cuidado.`
+` Cada uno de esos botones vale más que uno de tus globos oculares.`
+` Si accidentalmente arrancas uno, coseré un globo ocular tuyo en su lugar...`
+` ¡¡*carjada*carjada*carjada*carjada*carjada*carjada*carjada*carjada*carjada*carjada*!!"`
+`El vestíbulo estaba repleto de personas.`
+`{n}Y brillaba como el oro con las mariposas doradas volando alrededor.`
+`Los caballeros de traje y esmoquin y las damas vestidas de gala lucían como si estuviesen entablando una conversación amistosa.`
+` A primera vista, podría haber parecido un fabuloso baile medieval.`
+`Pero todos ellos tenían una cosa en común, y esa cosa era sumamente extraña.`
+`Debido a que todos ellos... tenían cabezas de cabra.`
+`Era imposible saber si eran máscaras de cabra,`
+` o si realmente tenían cabezas de cabra.`
+`Esto último era una idea ridícula, pero en este mundo bizarro, había serias dudas sobre cuál era la verdad...`
+`Kinzo estaba entre los nobles con cabezas de cabra, saludándolos.`
+`Cada uno de ellos parecía un invitado de honor, y Kinzo les saludó con más respeto del que se podía imaginar por su comportamiento normal.`
+`En ese momento, la voz de Genji resonó por el pasillo.`
+`{n}Era una voz que pedía silencio.`
+`{n}Esa voz detuvo las voces de las conversaciones, y todos se giraron para mirar a Genji.`
+`"Esta noche marca la llegada de nuestra Bruja Dorada, que ha logrado su resurrección,`
+` Lady {f:5:Beatrice}.`
+` Le pido a todos que se unan a mí para darle la bienvenida con sus aplausos."`
+`Cuando Genji comenzó a aplaudir, enseguida se extendió entre los invitados, y se convirtió en un estruendoso aplauso.`
+`Y... la Bruja Dorada apareció en lo alto de la gran escalera...`
+`Ella saludó elegantemente con la mano mientras bajaba lentamente la escalera... con su mueble preferido a rastras...`
+`Los nobles con cabezas de cabra pronunciaron unánimes palabras de celebración en una lengua olvidada.`
+`Y aquellos que ya la conocían estrechamente, la abrazaron por la alegría de su reencuentro.`
+`Mientras la bruja ofrecía saludos por la reunión, el mueble de la bruja la seguía por detrás todo el tiempo.`
+`Había una cadena alrededor de su cuello.`
+`{n}Esta estaba agarrada por la mano de la bruja, como si fuera un perro amaestrado.`
+`La cadena no estaba allí para sujetarlo.`
+`{n}La única finalidad del dispositivo de sujeción era herir la dignidad del mueble...`
+`No se le permitía llevar nada más en el cuerpo.`
+`Una de las jóvenes mujeres con cabeza de cabra, la cual se encontraba entre la multitud,`
+` se quitó delicadamente la máscara de cabra cuando el mueble pasó por delante de ella, y habló con los ojos apagados.`
+`Ese rostro... parecía pertenecer a una chica joven de pelo largo...`
+`"Qué lamentable."`
 `"Ohh, Lady {f:5:Bernkastel}.`
-` Welcome.`
-` Do you like my furniture?"`
-`".........Good taste."`
-`After saying only that, the witch called {f:5:Bernkastel} once again put on her goat mask,`
-` and was swallowed up in the shadows of the other tall goats...`
-`"Ahahahahahahaha...`
-` Sore loser.`
-` She's irritated."`
-`"You're right.`
-` *cackle*cackle*cackle*cackle*cackle*cackle*cackle*cackle*cackle*cackle*!"`
-`The young women goats giggled, and the witch once again let out a high‐pitched laugh.`
-`"Thank you for gathering here for my sake tonight!!`
-` Why don't we enjoy to the fullest this "banquet of the witch", where old friends have gathered from past and present, east and west...!"`
-`"Come, we will eat all night,`
-` drink all night,`
-` slurp all night,`
-` and chew to bits all night as we enjoy ourselves!!`
-` Look at the clock, it shows the time when the ending hour and the beginning hour melt together... ...Come!!`
-` Let us begin the banquet of the witch!!!"`
-`When the witch proclaimed the beginning of the banquet, the large clock pointed to 24:00, and the sound of a bell began to ring out loudly...`
-`"Come...... Now is the time!!`
-` Open the golden door............!!!"`
-`All at once, the butterflies leafed in gold flew all around the inside of the room.`
-`Amidst the golden storm and the brilliant gold‐colored light, the cross‐section joining this world and a different world......was cut open......`
-`Amidst the goats' delighted voices, the mansion of the human world and the mansion of those not human overlapped,`
-` ......and, in the form of golden butterflies, all those folk who praised the resurrection of the Golden Witch...`
-`...poured out of the depths of hell...`
-`It was...a golden...tornado.`
-`{n}...A rondo of golden demons.`
-`Come, tonight we will put aside rank.`
-`Throw open the wine cellar,`
-` drop the snake's head into the liquor pot,`
-` throw cows and chickens into the furnace alive,`
-` drink and eat and sing and dance,`
-` sneer and kill and desecrate and degrade!!`
-`"Aaaaaahh, {f:5:Beatrice}!!`
-` Take me to the Golden Land now!`
-` To the Golden Laaaaa{-}a{-}a{-}a{-}a{-}a{-}aaaand!!!`
+` Bienvenida.`
+` ¿Te gusta mi mueble?"`
+`"Tienes buen gusto."`
+`Después de decir solo eso, la bruja llamada {f:5:Bernkastel} volvió a ponerse su máscara de cabra,`
+` y desapareció de la vista entre las sombras de las cabras más altas...`
+`"Jajajajajaja...`
+` Qué mala perdedora.`
+` Está irritada."`
+`"Tienes razón.`
+` ¡*carcajada*carcajada*carcajada*carcajada*carcajada*carcajada*carcajada*carcajada*carcajada*carcajada*!"`
+`La joven con cabeza de cabra soltó una risita y la bruja volvió a soltar una aguda carcajada.`
+`"¡¡Gracias por reunirse aquí por mí esta noche!!`
+` ¡Por qué no disfrutamos al máximo de este "banquete de la bruja", donde están reunidos viejos amigos del pasado y del presente, del este y del oeste!"`
+`"¡¡Vamos, comeremos toda la noche,`
+` beberemos toda la noche,`
+` sorberemos toda la noche,`
+` y masticaremos en pedazos toda la noche mientras nos divertimos!!`
+` Miren al reloj, está marcando el momento en que la hora del final y la hora del inicio se fusionan... ¡¡Vamos!!`
+` ¡¡¡Qué comience el banquete de la bruja!!!"`
+`Cuando la bruja proclamó el comienzo del banquete, el gran reloj marcó las 24:00, y el sonido de una campana comenzó a sonar con fuerza...`
+`"Vamos... ¡¡Ya es hora!!`
+` ¡¡¡Abran la puerta dorada...!!!"`
+`De repente, las mariposas doradas volaron por todo el interior de la habitación.`
+`En medio de la tempestad dorada y de la brillante luz dorada, la sección transversal que une este mundo y el otro mundo... fue cortada...`
+`En medio de las voces complacidas de las cabras, la mansión del mundo humano y la mansión de los que no son humanos se superponían,`
+` y, en forma de mariposas doradas, todos aquellos que alabaron la resurrección de la Bruja Dorada...`
+` fueron arrojados a las profundidades del infierno...`
+`Era... un tornado... dorado.`
+`{n}Un rondó de demonios dorados.`
+`Vamos, esta noche dejaremos a un lado el rango.`
+`¡¡Abran la vinoteca,`
+` viertan cabezas de serpientes en vasos de licor,`
+` arrojen vacas y pollos vivos al horno,`
+` beban y coman, canten y bailen,`
+` búrlense y maten, profanen y deshonren!!`
+`"¡¡Aaaaaahh, {f:5:Beatrice}!!`
+` ¡Llévame a la Tierra Dorada ahora!`
+` ¡¡¡A la Tierra Doraaaaaa{-}a{-}a{-}a{-}a{-}a{-}aaada!!!`
 ` Oooo{0}o{0}o{0}o{0}ooohhh{0}h{0}hhhhh, aaaaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaaaahhh!!!"`
-`The goat nobles were suddenly crushing in around Kinzo.`
-`...Almost like they were kids demanding the autograph of some famous movie star.`
-`There were two differences.`
-` First, they were witches, not kids.`
-` And second, what the witches demanded were not autographs.`
-`Kinzo began to drown in the sea of goat nobles.`
-`{n}Only Kinzo's laughing voice echoed throughout the area.`
-`It was a grand mixture of laughter and his death throes.`
-`{n}And Kinzo became wine and meat and bread.`
-`An aroma if slurped, a rich taste if gnawed, and pleasant to tear to bits!`
-`The voice of his death throes lingered on sweetly,`
-` and adorned with melted chocolate and silver dragées, it would make a wonderful dessert!`
-`If you took the bones home, you could also use them for a soup,`
-` and the remains could even become toys for the children to play with,`
-` and they could also become good tools for fortune‐telling that always gave misfortune!`
-`That entire scene, ......was watched by the piece of furniture.`
-`{n}It was all fantastical.`
-` ...It was all demonic.`
-`...Was the quaking of its heart, which should have been paralyzed, ...proof that it could still feel fear?`
-`Just then, its knees buckled, and the furniture's body tumbled onto the center of the carpet.`
-`Because the witch had kicked those knees from behind.`
-`"Kneel and show your respect.`
-` Rub your forehead against the carpet and show how vulgar you are.`
-` Join your hands behind your back and swear that you will offer all your flesh and blood to me."`
-`"..................u............ah........."`
-`The piece of furniture let out a painful voice.`
-`...Fear is the most primal emotion {y:0:Human}{n:0:human}s have.`
-`{n}...Was that emotion reviving his sense of self, which should already have been killed?`
-`".........Hmph.`
-` So, you are still far from being appropriate for my furniture."`
-`"Good!`
-` I will carefully make you into the kind of furniture I like, the kind appropriate only for me.`
-` ...I suppose the best you can do for now is simply entertaining the guests!"`
-`The goat nobles were surrounding the cowering furniture...`
-`{n}It seemed that their blazing, blood‐red eyes couldn't hide their ecstasy at this new young food that they had been given.`
-`And from their mouths, from which protruded countless ugly teeth, saliva,`
-` ...or maybe the traces of meat and wine that they had just eaten, dribbled down...`
-`".........e............eeeeeeeeeeeeeeeeeeeeeeeeeek!!"`
-`As the piece of furniture let out a wild scream, it retreated, still sitting on its backside.`
-`...But the circle of goat nobles was closing in...`
-`And the piece of furniture looked at the witch's face.`
-` ...It stared at her face one final time, believing that because it had submitted to the witch, she would show it some mercy.`
-`But there was nothing but scorn on the witch's face, and she wasn't even facing it anymore.`
-`The witch went off to greet an honored guest with whom she had crossed gazes...`
-`The goat nobles looked down upon the furniture.`
-`They were, in fact, waiting.`
-`Just like how one must remove the cork in order to drink champagne,`
-` before bringing the offering served at the banquet to their mouths, they were waiting for just one of {i:those}.`
-`Of course, the furniture didn't know what that was.`
-`...But it would come out of his mouth all by itself.`
-` In the same way there is always a pop when the cork is removed, it too would certainly leave his mouth.`
-`"...G...`
-`......yaa...`
+`Los nobles con cabezas de cabra se agolparon de repente alrededor de Kinzo.`
+`Casi como si fueran niños pidiendo el autógrafo de algún actor famoso de cine.`
+`Pero había dos diferencias.`
+` Primero, eran brujas, no niños.`
+` Y segundo, lo que las brujas pedían no eran autógrafos.`
+`Kinzo empezó a ahogarse en un mar de cabras.`
+`{n}Solo la voz risueña de Kinzo resonaba por los alrededores.`
+`Fue una gran mezcla de risas junto con su agonía.`
+`{n}Y Kinzo se convirtió en vino y carne y pan.`
+`¡Un dulce aroma si se sorbe, un rico sabor si se roe, y placentero de despedazar!`
+`¡La voz de su agonía se prolongó dulcemente,`
+` y si se adornaba con chocolate fundido y grageas plateadas, sería un postre maravilloso!`
+`¡Si te llevas los huesos a casa, también podrías usarlos para hacer una sopa,`
+` y los restos podrían incluso convertirse en juguetes para que jueguen los niños,`
+` incluso podrían convertirse en unas buenas herramientas de adivinación de las que predicen desgracias!`
+`Toda esa escena, fue observada por el mueble.`
+`{n}Todo era fantasioso.`
+` Todo era demoníaco.`
+`¿Acaso el temblor de su corazón, que debería haber estado paralizado, era prueba de que aún podía sentir miedo?`
+`En ese momento, sus rodillas se doblaron y el cuerpo del mueble cayó sobre el centro de la alfombra.`
+`Porque la bruja había pateado esas rodillas por detrás.`
+`"Arrodíllate y muestra respeto.`
+` Frota tu frente contra la alfombra y muestra lo vulgar que eres.`
+` Une tus manos a la espalda y jura que me ofrecerás toda tu carne y tu sangre."`
+`"u... ah..."`
+`El mueble dejó escapar una adolorida voz.`
+`El miedo es la emoción más primitiva que tienen los {y:0:Humanos}{n:0:humanos}.`
+`{n}¿Fue esa emoción la que revivió su sentido del yo, que ya debería haber muerto?`
+`"Hmph.`
+` Entonces, aún estás lejos de ser un mueble apropiado para mí."`
+`"¡Bien!`
+` Te convertiré cuidadosamente en el tipo de mueble que me gusta, el apropiado solo para mí.`
+` ¡Supongo que lo mejor que puedes hacer por ahora es simplemente entretener a los invitados!"`
+`Los nobles con cabezas de cabra rodearon al acobardado mueble...`
+`{n}Parecía que sus ardientes ojos rojos como la sangre no podían ocultar su éxtasis ante este nuevo y joven alimento que les habían dado.`
+`Y de sus bocas, de las cuales sobresalían innumerables y horribles dientes, goteaba saliva,`
+` o tal vez eran los restos de la carne y el vino que acababan de comer...`
+`"¡¡E... eeeeeeeeeeeeeeeeeeeeeeeeeek!!"`
+`Cuando el mueble lanzó un grito salvaje, retrocedió, aún sentado sobre su trasero.`
+`Pero el círculo de cabras se estaba cerrando...`
+`Y el mueble miró al rostro de la bruja.`
+` Mirándole el rostro por última vez, creyendo que por haberse sometido a la bruja, esta le mostraría algo de misericordia.`
+`Pero no había más que desprecio en la expresión de la bruja, y ella ya ni siquiera miraba al mueble.`
+`La bruja se fue a saludar a un invitado de honor con el que había cruzado miradas...`
+`Las cabras miraban con desprecio al mueble.`
+`De hecho, ellos estaban esperando.`
+`Al igual que hay que sacar el corcho para beber champán,`
+` antes de llevarse a la boca la ofrenda servida en el banquete, ellos estaban esperando {i:eso}.`
+`Por supuesto, el mueble no sabía lo que era {i:eso}.`
+`Pero {i:eso} saldría de su boca por sí solo.`
+` De la misma manera que siempre se oye un estallido cuando se quita el corcho, seguro que también saldría uno de su boca.`
+`"¡¡G...`
+` yaa...`
 `ahiiii{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}iiIII!!!"`
-`{nobreak:{m:-5:—}—}A scream.`
-`{n}It was a sign that the modest banquet at which he was to be served...had begun.`
-`"Gyaaaaaaaaaaaaaa`
+`{nobreak:{m:-5:—}—}Un grito.`
+`{n}Era señal de que el modesto banquete en el que fue servido... había comenzado.`
+`"¡¡¡Gyaaaaaaaaaaaaaa`
 `gebu{0}ki{0}kya{0}kya{0}ka{0}ku`
 `oooo{0}ga{0}a{0}ge{0}o{0}e`
 `oo{0}ooaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a`
 `a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a`
 `a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaah...!!!"`
 `Gapupogyugukigukiboryu.`
-`By now the rose garden was a garden of roses and gold.`
-` A gold‐colored garden where gold butterflies, gold fairies, gold lizards rampaged and flew about wildly.`
-`"Maria, hurry!!`
-` Run!!`
-` Hurry hurry hurry hurry!!"`
-`Holding onto the gun and the blanket wrapping the ingot,`
-` Rosa ran at a speed Maria couldn't catch up with, sometimes pausing to call out at Maria to run faster.`
-`Therefore, she saw it every time.`
-`{n}...She saw the golden pursuers chasing them from the mansion!`
-`The mass of gold butterflies was chasing after them like a massive crawling hand!!`
-` And horrifyingly strange‐looking shadowy figures with goat heads were chasing after them...!!`
-`There was no need for her to strain her eyes.`
-` Because those blazing pupils told her what would happen if she was captured.`
-`"......Mama, wait,`
-` Mama, wait......`
-` ...Uu‐uu,`
-` ......au!!"`
-`Maria tripped over.`
-`Rosa, ashamed that for just an instant she had entertained thoughts of abandoning her daughter and running away, kicked back against the ground and instantly reversed direction.`
-`As Rosa's own child tried to stand,`
-` the goat‐head that had sprinted over to get the first bite grabbed a fistful of her hair and pulled her up from the back...!!`
-`"Mamaaaaaaaaaaaaaaaaaaaa,`
+`A estas alturas, el jardín de rosas era un jardín de rosas doradas.`
+` Un jardín dorado, donde mariposas doradas, hadas doradas y lagartos dorados corrían y volaban salvajemente.`
+`"¡¡María, rápido!!`
+` ¡¡Corre!!`
+` ¡¡Rápido rápido rápido rápido!!"`
+`Sujetando el arma y la manta que envuelve al lingote,`
+` Rosa corría a una velocidad que María no podía alcanzar, y a veces se detenía para pedirle que corriera más deprisa.`
+`Por lo tanto, ella los veía cada vez.`
+`{n}¡Veía como los perseguidores dorados las seguían desde la mansión!`
+`¡¡La masa de mariposas doradas las perseguía como una enorme mano reptante!`
+` ¡¡Y horripilantes y extrañas figuras sombrías con cabezas de cabra corrían tras ellas...!!`
+`No era necesario mirarles a los ojos.`
+` Porque esas pupilas ardientes ya le decían lo que pasaría si la capturaban.`
+`"Mamá, espera,`
+` Mamá, espera...`
+` ¡¡Uu‐uu,`
+` au!!"`
+`María se tropezó.`
+`Rosa, avergonzada de haber pensado por un instante en abandonar a su hija y huir, dio una patada al suelo e inmediatamente cambió de dirección.`
+`¡¡Mientras la hija de Rosa intentaba ponerse de pie,`
+` el cabeza de cabra que había corrido a por el primer bocado la agarró de un puñado de pelo y la levantó de espaldas...!!`
+`"¡¡Mamáááááááááááááááá,`
 ` noooo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}ooooo!!"`
-`Rosa rammed into the goat‐head with her shoulder,`
-` spun,`
-` bashed the back of her elbow into the goat's jaw,`
-` and buried her knee into its protruding chest!!`
-`And she thrust the barrel of the gun inside the goat‐head's mouth as it doubled over from the pain in its gut!`
-`"......Just try laying one finger on Maria in front of me.`
-` I'll show you just how lukewarm the hell you came from is."`
-`The blast from the 45‐caliber Long Colt bullet exploded inside the goat‐head's throat,`
-` and its medulla oblongata was instantly pulverized.`
-`The goat‐head couldn't understand.`
-`It had thought that women were like already opened wine bottles!`
-`{n}It had thought that they were wine bottles, and that turning them upside down would immediately cause their deep‐red contents to come out!`
-`"Mama!!`
-` Mamaaaaaa!!"`
-`Released, Maria flung her arms around Rosa.`
-`But the pursuers were still coming!`
-` They could see the giant goat‐heads, who had given up even pretending to be {y:0:Human}{n:0:human}, running towards them from across the rose bushes.`
-`Rosa spilled several extra bullets, which had been in the pocket of her coat, all over the place, and told Maria to pick them up.`
-`"Y‐yes...!`
-` Pick up, pick up...!!"`
-`"Maria.`
-` If Mama falls down,`
-` run.`
-` Go to the shore.`
-` And swim, and swim, and swim!`
-` There's no place on this island where we can survive!!"`
-`"N‐no!!`
-` Together with Mama!!`
-` Uuu!!"`
-`Rosa's gun roared four times.`
-` But even though she really did land four shots in the chest of the massive, approaching goat, it didn't even flinch!!`
-`The goat ran with a violent vigor, as though it planned to crush Rosa and Maria with its massive body!!`
-`"Put the bullets in!!`
-` Quickly!!"`
-`"U‐uu!!"`
-`Rosa grasped the blanket with the ingot in both hands,`
-` and she herself sprinted at the goat, dragging the ingot along behind her!!`
-` Without even an ounce of fear of that strange‐looking giant!!`
-`If it's to protect my daughter, I'll overcome even hell!!`
-`"I'll show you...`
-`what a golden dream looks liiiiiiiiiiike!!!"`
-`Rosa's roar.`
-` The goat‐head's roar.`
-`The terribly heavy ingot, after picking up a terrible centrifugal force and speed, slammed into the goat‐head's cranium.`
-`Rosa pulled a fountain pen from her pocket.`
-` But she held it crooked.`
-` She placed it in her palm,`
-` in the gap between her middle finger and her ring finger, so that it stuck out when she made a fist, almost like it was a stinger growing out.`
-`She jabbed that stinger into the left eye of the goat‐head as its head toppled forward.`
-` Was the goat‐head's roar a scream?`
-`But Rosa's roar was different.`
-`She pulled back her fist and slammed it into the fountain pen that was still sticking into the goat‐head's eye.`
-` The pointed tip was gouged destructively into the depths of its head...!`
-`"Mama, bullets in!!"`
-`"Good job!!"`
-`As I grabbed the gun Maria had thrown, I finally heard the thunderous crash of the giant tumbling to earth.`
-`However, at the same time, I saw the goat‐head pursuers on the other side of the rose bushes increase in number.`
-` I've gained some distance, more than enough now!`
-`Holding onto the gun and the blanket wrapped around the ingot, I once again ran with Maria.`
-`...Why am I running with a gun in my right hand and the gold in my left?`
-`Why don't I free one hand and grasp Maria's hand...?!!`
-`I can't let go of the gun that protects my body.`
-`{n}I can't let go of the gold that protects my future.`
-`And yet I would let go of the hand of my daughter, who {i:is} my very future...?!`
-`Run.`
-` Run. Run.`
-`She got out of the rose garden and began to run down the staircase through the grove of trees.`
-`But Rosa knew.`
-` This path through the grove was only turning and twisting many times to make it seem long.`
-` She tore straight through it!`
-`She had always played here since she was a kid.`
-`{n}So she knew!`
-`To the beach. To the beach.`
-` To the sea, to the sea, to the sea.`
-`And after reaching the sea?`
-`Nothing to do but swim, swim swim, if Maria can't swim, I'll carry her as I swim!!`
-`There is nothing but death on this island!`
-`"Kya!!!"`
-`"Mamaaaa?!"`
-`As she raced down the stairs, she took a bad step.`
-`{n}A violent pain ran up her left ankle and her mind went completely blank.`
-`Rosa fell down several stairs, and stared in shock at her ankle, which was bent at an odd angle.`
-`...And the blanket with the ingot wasn't there.`
-` She had let go of it the instant she fell, and it had disappeared somewhere into the darkness.`
-`Only the gun was left.`
-`The tremors in the earth were getting closer.`
-`{n}It was only a matter of time before the goat‐heads flooded in.`
-`She didn't want to imagine how many there would be, or how strange they would look.`
-`The lightly dancing gold pursuers arrived.`
-`The gold butterflies surrounded Rosa and Maria, sparkling and clamoring as though saying "the prize is here, the prize is here".`
-`Rosa couldn't even try to get up.`
-`{n}The violent pain from her broken ankle was so great that she couldn't ignore it, even in her last moments.`
-`Aaaaaaaaaaaaah, what am I doing...`
-`{n}I had the gold, it would have been worth several million yen.`
-`I might have been able to start over with that!!`
-` And yet I fell, lost it, and that's not all, my own life is in danger, even Maria's life is in danger?!`
-`......What has my life been?!!!`
-`I was born in an incomprehensible house!`
-`{n}With an irritating older brother and sister since the day I was born!!`
-`What did I do?!`
-`No matter what I did or didn't do, I was always in trouble and bullied and made fun of!!`
-` What has my life been?!?!`
-`"Mama..., Mama, Mama...!!"`
+`¡¡Rosa embistió al cabeza de cabra con su hombro,`
+` giró,`
+` golpeó la mandíbula de la cabra con su codo,`
+` y le enterró la rodilla en el pecho!!`
+`¡Mientras la cabra se retorcía de dolor en las tripas, ella le metió el cañon del arma en la boca!`
+`"Intenten ponerle un dedo encima a María delante de mí.`
+` Y les mostraré cuán cálido es el infierno del que vienen."`
+`El impacto de la bala de calibre 45 Long Colt explotó dentro de la garganta del cabeza de cabra,`
+` y su médula oblongada se pulverizó al instante.`
+`El cabeza de cabra no lo pudo entender.`
+`¡Había pensado que las mujeres eran como botellas de vino ya abiertas!`
+`{n}¡Había pensado que eran botellas de vino y que si las ponía boca abajo, su contenido rojizo saldría inmediatamente!`
+`"¡¡Mamá!!`
+` ¡¡Mamááááááá!!"`
+`Liberada, María abrazó a Rosa.`
+`¡Pero los perseguidores seguían viniendo!`
+` Pudieron ver a los gigantes cabezas de cabra, que habían dejado de fingir ser {y:0:Humanos}{n:0:humanos}, corriendo hacia ellas desde el otro lado de los rosales.`
+`Rosa dejó caer varias balas extras, que habían estado en el bolsillo de su abrigo, al suelo, y le dijo a María que las recogiera.`
+`"¡S-sí...!`
+` ¡¡Recoger, recoger...!!"`
+`"María.`
+` Si mamá cae,`
+` corre.`
+` Ve a la costa.`
+` ¡Y nada, nada con todas tus fuerzas!`
+` ¡¡No hay lugar en esta isla donde podamos sobrevivir!!"`
+`"¡¡N‐no!!`
+` ¡¡Junto con Mamá!!`
+` ¡¡Uuu!!"`
+`El arma de Rosa rugió cuatro veces.`
+` ¡¡Pero a pesar de que consiguió acertar cuatro tiros en el pecho de la enorme cabra que se acercaba, esta ni siquiera se inmutó!!`
+`¡¡La cabra corría con un violento vigor, como si pensara en aplastar con su enorme cuerpo a Rosa y a María!!`
+`"¡¡Pon las balas dentro!!`
+` ¡¡Rápido!!"`
+`"¡¡U‐uu!!"`
+`¡¡Rosa agarró la manta con el lingote con ambas manos,`
+` y ella misma corrió hacia la cabra, arrastrando el lingote con ella!!`
+` ¡¡Sin siquiera una pizca de miedo a ese gigante de aspecto extraño!!`
+`¡¡Si es para proteger a mi hija, acabaré con el mismísimo infierno!!`
+`"¡¡¡Te mostraré...`
+` cómo es un sueño doraaaaaaaado!!!"`
+`El rugido de Rosa.`
+` El rugido del cabeza de cabra.`
+`El lingote, extremadamente pesado, tras adquirir una fuerza centrífuga y una velocidad terribles, se estrelló contra el cráneo del cabeza de cabra.`
+`Rosa sacó una pluma estilográfica del bolsillo.`
+` Pero la sujetó de forma incorrecta.`
+` La puso en la palma de su mano,`
+` en el espacio que quedaba entre el dedo corazón y el anular, de tal forma que la punta sobresalió cuando cerró el puño, casi como un aguijón.`
+`Clavó el aguijón en el ojo izquierdo del cabeza de cabra, que se desplomó hacia delante.`
+` El rugido del cabeza de cabra parecía haber sido un grito.`
+`Pero el rugido de Rosa fue diferente.`
+`Ella retiró el puño y lo estampó contra la pluma que seguía clavada en el ojo del cabeza de cabra.`
+` ¡La punta afilada se clavó hasta el fondo de su cabeza!`
+`"¡¡Mamá, balas dentro!!"`
+`"¡¡Bien hecho!!"`
+`Mientras agarraba el arma que María había arrojado, oí por fin el estruendo del gigante cayendo a tierra.`
+`Sin embargo, al mismo tiempo, vi que los perseguidores con cabezas de cabra del otro lado de los rosales aumentaban en número.`
+` ¡He ganado algo de distancia, más que suficiente por ahora!`
+`Sujetando el arma y la manta que envolvía el lingote, corrí de nuevo con María.`
+`¿Por qué estoy corriendo con un arma en la mano derecha y el oro en la izquierda?`
+`¡¿Por qué no libero una mano y agarro la mano de María...?!!`
+`No puedo soltar el arma que protege mi cuerpo.`
+`{n}No puedo soltar el oro que protege mi futuro.`
+`¡Y aun así, ¿soltaría la mano de mi hija, quien {i:es} mi futuro?!`
+`Corre.`
+` Corre. Corre.`
+`Ella salió del jardín de rosas y empezó a correr por la escalera a través de la arboleda.`
+`Pero Rosa lo sabía.`
+` Este camino a través de la arboleda solo daba varias vueltas para que pareciera largo.`
+` ¡Por lo que cortó camino directamente a través del bosque!`
+`Ella siempre había jugado aquí desde que era una niña.`
+`{n}¡Es por eso que lo sabía!`
+`A la playa. A la playa.`
+` Al mar, al mar, al mar.`
+`¿Y después de llegar al mar?`
+`¡¡Solo quedaría nadar, nadar y nadar, si María no puede nadar, la cargaré mientras nado!!`
+`¡En esta isla no hay nada más que muerte!`
+`"¡¡¡Kya!!!"`
+`"¡¿Mamáááá?!"`
+`Mientras ella bajaba las escaleras, dio un mal paso.`
+`{n}Un intenso dolor le recorrió el tobillo izquierdo y su mente se quedó completamente en blanco.`
+`Rosa cayó varios escalones, y se miró el tobillo, el cual estaba doblado en un ángulo extraño.`
+`Y la manta con el lingote no estaba.`
+` Ella lo había soltado en cuanto cayó, y había desaparecido en algún lugar de la oscuridad.`
+`Solo le quedaba el arma.`
+`Los temblores de tierra se intensificaban.`
+`{n}Era solo cuestión de tiempo antes de que los cabezas de cabra llegaran.`
+`Ella no quería ni imaginarse cuántos serían, ni lo extraños que parecerían.`
+`Los perseguidores dorados, que danzaban serenamente, habían llegado.`
+`Las mariposas doradas rodearon a Rosa y a María, brillando y clamando como si dijeran "el premio está aquí, el premio está aquí".`
+`Rosa ni siquiera podía levantarse.`
+`{n}El intenso dolor de su tobillo roto era tan grande que no podía ignorarlo, ni siquiera en sus últimos momentos.`
+`Aaaaaaaaaaaaah, ¿qué estoy haciendo?`
+`{n}Tenía el oro, su valor habría sido por lo menos de varios millones de yenes.`
+`¡¡Podría haber empezado de nuevo con eso!!`
+` ¡Pero me caí, lo perdí, y eso no es todo, mi propia vida está en peligro, incluso la vida de María está en peligro!`
+`¡¡¡¿Qué clase de vida he tenido?!!!`
+`¡Nací en una familia incomprensible!`
+`{n}¡¡Con unos irritantes hermanos mayores desde el día en que nací!!`
+`¡¿Qué hice con mi vida?!`
+`¡¡No importaba lo que hiciera o dejara de hacer, siempre me metía en problemas, me intimidaban y se burlaban de mí!!`
+` ¡¿¡¿Qué clase de vida he tenido?!?!`
+`"¡¡Mamá... mamá, mamá...!!"`
 `"........................"`
-`The roar inside Rosa's heart shriveled away and disappeared.`
-`...It disappeared when she listened to Maria's crying voice, as her daughter sobbed and clung onto her.`
-`".........Maria.`
-` Mama remembered that there's something she has to do.`
-` Please go on ahead."`
-`"No, no no no no!!`
-` Want to be with Mama!!`
-` Don't want Mama to die!!"`
-`"Maria,`
-` ...even though I'm such a bad mama,`
-` ......you still say you want to be with me?"`
-`"Yes...!`
-` ......Want to be with Mama...`
-` Want to be with Mama...!"`
-`"...I made it look like I was putting you first,`
-` ...but I was always putting you off.`
-` I went to your sports day,`
-` I went to parent's day,`
-` ...but I was always thinking about how I appeared to the world, and you were never in my eyes."`
-`"......Are you saying...that you want to be together, even with that kind of mama......?`
-` Even though...`
-`...I've been such a bad mama............!!"`
-`"Hey, Mama.`
-` ...Did you know?`
-` There's only one Mama in the world.`
-` There's no good Mama or bad Mama.`
-` ...There's just one Mama.`
-` So all I want is for Mama, the only Mama in the world, to be here.`
-` And I want to become the only Maria for Mama."`
-`".........The Maria who's in a good mood that you want to spoil, and the Maria who's a nuisance and you don't want to be around, aren't different people.`
-` I'm also just one Maria.`
-` ......So the scary Mama and the nice Mama are just like that.`
-` ......To me,`
-` ...there is just one...`
-`...Mama......"`
-`"...............I was...`
-`......such...`
-`.........an idiot...`
-` .........I didn't need gold.`
-` If only I had just pulled your hand...`
-` ......I was such a...`
-`...stupid mama...!!"`
-`The shadows of the goats covered the sky even more than the trees of the forest.`
-`{n}Their roars blotted out the world with fear.`
-`Rosa, still hugging Maria, readied her gun with one hand.`
-`"Maria, let's go together.`
-` Always together.`
-` ...So that Mama doesn't lose her way, always together...!"`
-`"Yes...!!`
-` Can see each other soon.`
-` Always together...!!`
-` ...Can see each other...in the Golden Land...!!"`
-`"And then we'll play together!`
-` Play with the "Wolves and Sheep Puzzle"!!`
-` You still haven't solved more than one question, Mama, but I solved them all.`
-` So I'll be the questioner!!"`
-`She had bought that as a birthday present, ......and then hadn't played it with Maria after that night.`
-`"Yes, let's play, together!!!`
-` I promise!!!"`
-`"Mamaaaaaaaaaaaaaaaaaaaa!!"`
-`Those eyes, sparkling like red‐hot lava, looked just like a group of fireflies.`
-`{n}They danced, closed in, and attacked.`
-`"Oooooooooooooohh, come ooooooon!!`
-` Whoever wants to eat these bullets Maria chambered for me, step forwaaaaaaard,`
+`El rugido dentro del corazón de Rosa se apagó y desapareció.`
+`Desapareció cuando escuchó la voz llorosa de María, mientras sollozaba y se aferraba a ella.`
+`"María.`
+` Mamá recordó que hay algo que tiene que hacer.`
+` Por favor, adelántate."`
+`"¡¡No, no no no no!!`
+` ¡¡Quiero estar con mamá!!`
+` ¡¡No quiero que mamá muera!!"`
+`"María,`
+` a pesar de que soy tan mala madre,`
+` ¿aún quieres estar a mi lado?"`
+`"¡Sí...!`
+` Quiero estar con mamá...`
+` ¡Quiero estar con mamá...!"`
+`"Aparentaba que siempre te ponía a ti primero,`
+` pero siempre te dejaba a un lado.`
+` Iba a tus eventos deportivos,`
+` Iba al día de los padres,`
+` pero siempre pensaba en cómo me veía ante el mundo, y nunca te consideraba."`
+`"¿Dices que quieres que estemos juntas, incluso cuando soy ese tipo de mamá...?`
+` ¡¡A pesar de que...`
+` he sido tan mala mamá...!!"`
+`"Oye, Mamá.`
+` ¿Sabías?`
+` Solo hay una mamá en el mundo.`
+` No hay mamá buena ni mamá mala.`
+` Solo hay una mamá.`
+` Así que lo único que quiero es que mamá, la única mamá del mundo, esté aquí.`
+` Y quiero convertirme en la única María para mamá."`
+`"La María que está de buen humor y quieres mimar, y la María que es un fastidio y no quieres tener cerca, no son personas diferentes.`
+` Yo también soy solo una María.`
+` Así que la aterradora mamá y buena la mamá también son iguales.`
+` Para mí,`
+` solo hay...`
+` una mamá..."`
+`"Fui...`
+` tan...`
+` idiota...`
+` No necesitaba el oro.`
+` Si tan solo te hubiera agarrado de la mano...`
+` ¡¡Fui una...`
+` mamá tan estúpida!!"`
+`Las sombras de las cabras cubrían el cielo más que los árboles del bosque.`
+`{n}Sus rugidos cubrieron el mundo en miedo.`
+`Rosa, aún abrazadando a María, preparó su arma con una mano.`
+`"María, vayamos juntas.`
+` Siempre juntas.`
+` ¡Así mamá no perderá el rumbo, siempre juntas!"`
+`"¡¡Sí!!`
+` Nos veremos pronto.`
+` ¡¡Siempre juntas...!!`
+` ¡¡Podremos vernos... en la Tierra Dorada...!!"`
+`"¡Y entonces jugaremos juntas!`
+` ¡¡Jugaremos el "Puzle de lobos y ovejas"!!`
+` Todavía no has resuelto más de una pregunta, mamá, pero yo las he resuelto todas.`
+` ¡¡Así que yo seré quien pregunte!!"`
+`Ella se lo había comprado como regalo de cumpleaños, y luego no volvió a jugar con María después de aquella noche.`
+`"¡¡¡Sí, jugaremos juntas!!!`
+` ¡¡¡Lo prometo!!!"`
+`"¡¡Mamáááááááááááááááá!!"`
+`Esos ojos, brillantes como lava ardiente, parecían un grupo de luciérnagas.`
+`{n}Danzaron, se acercaron y atacaron.`
+`"¡¡Oooooooooooooohh, vaaaaaaamos!!`
+` ¡¡¡Quien quiera comerse estos caramelos de plomo de parte de María, que dé un paso al frente,`
 ` uwoooo{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}oooohhh!!!"`
