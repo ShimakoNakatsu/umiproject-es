@@ -169,14 +169,14 @@
 `"¡Sí...!`
 ` Fue muy, umm, divertido..."`
 `Repentinamente el rostro de Shannon se puso radiante.`
-`{n}La bruja se rió ligeramente, como si ese cambio valiera dinero.`
+`{n}La bruja se rio ligeramente, como si ese cambio valiera dinero.`
 `"La persona en la que piensas ya no es un objeto de amor unilateral.`
 ` Ahora ustedes son una pareja de enamorados ahora.`
 ` Para una pareja, estar juntos es todo lo que necesitan en el mundo.`
 ` Un mundo maravilloso e ideal, por así decirlo.`
 ` ¡Huhuhuhuhu!`
 ` Incluso las brujas se pondrían celosas."`
-`{f:5:Beatrice} rió agradablemente.`
+`{f:5:Beatrice} rio agradablemente.`
 `{n}Aquella sonrisa no tenía ni una pizca de malicia, haciendo parecer que bendecía el encuentro secreto de los amantes desde el fondo de su corazón.`
 `Después de ese día, {f:5:Beatrice} se mostraba ante Shannon de vez en cuando.`
 `Incluso ahora, Shannon seguía pensando en ella como un ser espeluznante.`
@@ -237,7 +237,7 @@
 `"Es por eso que no recibo a menudo el agradecimiento por mi buena voluntad.`
 ` Veamos, ¿es esta la primera vez?`
 ` *carcajada*carcajada*carcajada*carcajada*."`
-`La bruja se rió con fuerza, pero a los ojos de Shannon parecía una risa triste.`
+`La bruja se rio con fuerza, pero a los ojos de Shannon parecía una risa triste.`
 `Ella misma había sido así en el pasado... No, tal vez aún lo siga siendo.`
 `{f:5:Beatrice} era definitivamente una bruja, con un extraño y aterrador poder.`
 `Probablemente, nadie la acompañaría si es que pudieran hacerlo .`
@@ -346,7 +346,7 @@
 `"Todavía falta bastante tiempo para el plato principal.`
 ` Tal y como estoy ahora, soy más débil que un hada en una zapatería."`
 `"pf...`
-` ahahahahahahaha."`
+` ajajajajajaja."`
 `"Mh.`
 ` ¿Qué es tan gracioso?"`
 `"Nada...`
@@ -367,7 +367,7 @@
 ` Yo creo que el océano es de un hermoso azul intenso, incluso si está nublado."`
 `"Hmph..."`
 `Tal vez la bruja se había dado cuenta del profundo significado que había detrás de las palabras de Shannon.`
-`Se rió ligeramente y dejó su taza de té vacía.`
+`Se rio ligeramente y dejó su taza de té vacía.`
 `"Al parecer tus ojos ya no están apagados...`
 ` ¿Entonces?`
 ` ¿Entiendes el sentimiento de los muebles que renacen como humanos?"`
@@ -579,7 +579,7 @@
 `Puede que haya dejado el estudio por un cambio de humor,`
 ` pero los pensamientos que llenaban su cabeza no eran diferentes de los que tenía dentro del estudio.`
 `Así que Kanon sabía que, independientemente de la hora, hablar con Kinzo cuando no quería que le hablasen sería siempre una molestia para su investigación.`
-`"Hay un mal clima.`
+`"El clima está malo.`
 ` ¿Se pondrá peor?"`
 `"Sí.`
 ` Según el informe meteorológico, podría llover en cualquier momento.`
@@ -601,12 +601,12 @@
 ` ¡¿O es el poder mágico o la suerte o un oráculo...?!"`
 `"Ooohhh, {f:5:Beatrice}, ¿qué debo hacer para ver tu rostro una vez más...?`
 ` Ooooooooohhhhhhh..."`
-`En cuanto Kanon escuchó la voz llorosa de su maestro por encima de su hombro, se dió la vuelta.`
+`En cuanto Kanon escuchó la voz llorosa de su maestro por encima de su hombro, se dió la vuelta una vez.`
 `Cuando lo hizo,`
 ` justo detrás de su viejo y solitario Amo,`
-` estaba la silueta de una persona que no debería estar allí...`
+` estaba la silueta de una persona que no debería haber estado allí...`
 `Era... la bruja.`
-`En seguida, Kanon, pensando que la bruja estaba tramando hacer algún daño a Kinzo,`
+`En seguida, Kanon, pensó que la bruja estaba tramando hacer algún daño a Kinzo,`
 ` corrió rápidamente hacia Kinzo, tratando de convertirse él mismo en un escudo.`
 `Pero cuando vio la expresión en el rostro de la bruja,`
 ` esa emoción suya se desvaneció.`
@@ -615,7 +615,7 @@
 ` o tal vez lástima.`
 `"Eres un tonto, Kinzo...`
 ` Estoy aquí, ¿no puedes {y:1:‘verme’}{n:1:verme}?"`
-`Justo detrás de Kinzo, mientras repetía el nombre de la bruja una y otra vez, deseando reunirse con ella más que nada, estaba la propia bruja.`
+`Detrás de Kinzo, mientras repetía el nombre de la bruja una y otra vez, deseando reunirse con ella más que nada, estaba la propia bruja.`
 `Y aún así, Kinzo no se daba cuenta de nada.`
 `{n}Incluso cuando {f:5:Beatrice} intentó apoyar la mano en su hombro, él no notó nada.`
 `"¡¿Por qué, por qué mi mano no alcanza la sonrisa de {f:5:Beatrice}?!`
@@ -630,5 +630,5 @@
 `¿Podría aprender algo que le permitiera a él también {y:1:‘ver’}{n:1:ver} lo que actualmente no puede?`
 `".................................`
 ` Sin amor, no puede ser {y:1:‘visto’}{n:1:visto}."`
-`Él volvio a mirar a la espalda de Kinzo.`
-`{n}Y la bruja ya no se encontraba más.`
+`Él miró a la espalda de Kinzo una vez más.`
+`{n}Y la bruja ya no se encontraba más en ese lugar.`
