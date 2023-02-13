@@ -172,13 +172,13 @@
 `"Puede que no encontremos un malvavisco exactamente igual, pero espero que podamos encontrar un dulce parecido.`
 ` Y entonces, vamos a sorprender a todos tus primos con el."`
 `"Sí.`
-` Si es un dulce que compré junto a mamá, cualquiera está bien."`
+` Si es un dulce que compraré junto a mamá, cualquiera estará bien."`
 `Las dos salieron de la estación de esta desconocida ciudad.`
-`{n}Maria cruzó el paso de peatones junto a su madre, sintiéndose muy contenta, como si estuviera caminando en un parque de atracciones.`
+`{n}María cruzó el paso de peatones junto a su madre, sintiéndose muy contenta, como si estuviera caminando en un parque de atracciones.`
 `Los rostros de ambas estaban todavía enrojecidos,`
 ` pero la afectividad se veía entre ambas, madre e hija, mientras se sonreían de manera embarazosa...`
 `"Cariño.`
-` ¿Qué haces en un lugar como éste?"`
+` ¿Qué haces en un lugar como este?"`
 `"Oh, eres tú.`
 ` Nada.`
 ` Es solo que este era un lugar agradable para pensar."`
@@ -334,9 +334,9 @@
 `"Hey, George‐kun.`
 ` ¿Estás bien?`
 ` ¿Tienes dolor de estómago o algo así?"`
-`"¡Ah, ahahahaha, tío Rudolf...!`
+`"¡Ah, ajajajaja, tío Rudolf...!`
 ` ¡No pasa nada, estoy bien!`
-` ¡No tienes que preocuparte, ahahahahahaha...!"`
+` ¡No tienes que preocuparte, ajajajajajaja...!"`
 `"¿Estás seguro...?`
 ` Bien, entonces.`
 ` No pujes demasiado.`
@@ -355,15 +355,15 @@
 `"Papá siempre es un niño, no importa la edad que tenga."`
 `"¿Qué has dicho? Si soy un niño, eso te convierte a ti en un bebé.`
 ` ¡Vamos, Battler-chan, ven con papá~!"`
-`"¡Para, eso hace cosquillas, wahahaha, paaara!"`
+`"¡Para, eso hace cosquillas, wajajaja, paaara!"`
 `"Ustedes dos parecen más un par de niños traviesos que un padre y un hijo...`
 ` Miren, ya llegó."`
 `"¡¡¡Ohoooooooooh!!!`
 ` ¡Pero si es Rosa-san!`
-` ¡¡Maria-chan, cuánto tiempo sin verte!!"`
+` ¡¡María-chan, cuánto tiempo sin verte!!"`
 `"¡¡Mucho tiempo sin verte!!`
 ` ¡Uu!"`
-`"¡Maria!`
+`"¡María!`
 ` ¿No debería ser: "Me alegra verte de nuevo"?`
 ` Saluda a tu tío como es debido."`
 `"Uu.`
@@ -374,11 +374,11 @@
 ` Oh, ¿huh?`
 ` ¿Dónde los puse...?"`
 `"Rosa-san, me alegra volver a verte.`
-` Me alegra verte también, Maria-chan."`
+` Me alegra verte también, María-chan."`
 `"Ha pasado mucho tiempo, Kyrie nee-san, Hideyoshi nii-san.`
 ` Y... oh, ¡¿Battler‐kun?!`
 ` ¡Mira cuánto has crecido...!"`
-`"Ah, vamos, hahaha...`
+`"Ah, vamos, jajaja...`
 ` ¡Es vergonzoso escuchar eso de cada persona con la que me encuentro...!"`
 `"Hey, Rosa.`
 ` Llegas tarde.`
@@ -402,12 +402,12 @@
 `"¡Sí, supongo que no se acordaría de algo que pasó cuando ella tenía tres años!`
 ` Hola María, tanto tiempo sin verte.`
 ` ¡Sí que has crecido!"`
-`"Maria.`
+`"María.`
 ` Él es Battler onii‐chan.`
 ` El hijo del tío Rudolf.`
 ` ¿Comprendes?"`
 `"El hijo del tío es...`
-` El tío es el hijo es...`
+` El tío es el hijo de...`
 ` ¿............?`
 ` ¡¡Uuuu!!"`
 `Ella estaba obviamente a la defensiva.`
@@ -429,7 +429,7 @@
 ` ¡Vamos, María, es Halloween!`
 ` ¡¡Dulce o truco~!!"`
 `"¡¡Dulce o truco~!!`
-` ¡¡Kyahahaha, *risita*risita*!!"`
+` ¡¡Kyajajaja, *risita*risita*!!"`
 `Del interior de su bolso, María sacó un caramelo de calabaza de Halloween idéntico al que tenía en la mano, y se lo ofreció a Battler.`
 `Parecía que el hecho de que Battler lo aceptara era suficiente para confirmar su amistad.`
 `Los adultos sintieron admiración al ver cómo los niños tienen sus propias formas de comunicarse.`
@@ -470,8 +470,8 @@
 ` Con tanta expectación por hablar del oro de la bruja, supongo que no sería nada extraño que la propia bruja que concedió ese oro hiciera finalmente su aparición."`
 `"Kumasawa-san, sabes,`
 ` Es cierto que siempre estás dejando de trabajar en un momento y trabajando al siguiente, pero has estado aquí tanto tiempo como Genji-san, ¿verdad?`
-` Tú sabes más, sobre {f:5:Beatrice}, ¿no es así?"`
-`"Bueno, podría ser.`
+` Tú sabes más acerca de {f:5:Beatrice}, ¿no es así?"`
+`"Bueno, puede ser.`
 ` Hoh‐hoh‐ho...`
 ` Aunque intente recordar, esta anciana no puede ni siquiera acordarse de lo que ha desayunado esta mañana..."`
 `"Kumasawa-san, siempre te escapas con esas excusas, pero tú sabes algo, ¿verdad?`
@@ -497,7 +497,7 @@
 ` Seguramente, sería bastante tenebroso que un rayo destruyera el santuario que mantiene a los muertos en paz.`
 ` Pero, bueno, ya estaba todo desgastado desde el principio.`
 ` Apuestaría a que se lo llevó alguna ola grande.`
-` Hahahahaha."`
+` Jajajajaja."`
 `"Los espíritus malignos de Akujikijima despertaron de su sueño y convocaron a {f:5:Beatrice}‐sama.`
 `  Así que si {f:5:Beatrice}‐sama viniera por casualidad a la conferencia familiar, entonces..."`
 `"¿Entonces...?"`
@@ -528,7 +528,7 @@
 `"Bueno, me temo que... no es tan favorable.`
 ` Parece que no tienen planes de desistir con el juicio."`
 `"Al parecer no podremos persuadirlos después de todo.`
-` Tahaha...`
+` Tajaja...`
 ` Por favor, pásame la llamada."`
 `"Muy bien.`
 ` Enseguida."`
@@ -573,7 +573,7 @@
 `"Te lo agradezco mucho.`
 ` Si hay algún progreso más, por favor, póngase en contacto conmigo.`
 ` Ustedes cobran mucho, así que no puedo ni siquiera charlar con ustedes.`
-` Hahahaha.`
+` Jajajaja.`
 ` <Thank you, thank you, goodbye>."`
 `Rudolf colgó el teléfono.`
 `Parecía que los ejecutivos sentados en la recepción pudieron adivinar el contenido de la llamada.`
