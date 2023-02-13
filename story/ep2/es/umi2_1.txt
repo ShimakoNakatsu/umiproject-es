@@ -84,7 +84,7 @@
 `"¡Jessica...!"`
 `Jessica estaba en esa edad difícil de predecir, con los exámenes a la vuelta de la esquina.`
 `{n}Últimamente, Jessica discutía a menudo con su madre, quien estaba empeñada con su educación.`
-`"Disculpen...`
+`"Con permiso...`
 ` ¡¿kya?!"`
 `Jessica, que se apresuraba a abandonar el salón de mal humor, y Shannon, que empujaba un carrito de servicio, chocaron entre sí.`
 `"Ah, Shannon. No te preocupes por mi té.`
@@ -115,7 +115,7 @@
 ` Es un aroma muy característico, así que probablemente lo reconozca.`
 ` ¿Es... Earl Grey?"`
 `"Yo, creo que probablemente si lo es..."`
-`"Ahahahaha.`
+`"Ajajajaja.`
 ` Probablemente se trate de Earl Grey.`
 ` Cuando vuelvas a la cocina, revisa el recipiente."`
 `"Hoh.`
@@ -137,7 +137,7 @@
 `"Lo mismo ocurre con los medicamentos.`
 ` Natsuhi nee-san, deberías intentar leer la explicación de tu medicina favorita contra el dolor de cabeza algún día.`
 ` *risita*risita*risita*risita*."`
-`"Hahahaha!`
+`"Jajajaja!`
 ` Una buena idea.`
 ` Intenta probarlo esta noche."`
 `"Sí... lo intentaré."`
@@ -181,7 +181,7 @@
 `"Él es muy bueno leyendo entre líneas en ese tipo de situaciones.`
 ` Bueno, tal vez esa sea la manera estética de George nii-san a la hora de hacer las cosas.`
 ` Ese tipo es más presumido de lo que parece.`
-` Ahahahahaha."`
+` Ajajajajaja."`
 `"E-eso no es cierto....`
 ` Yo pienso que es una persona muy maravillosa."`
 `"¡¿Hmmmm...?!`
@@ -216,7 +216,7 @@
 `Shannon tuvo que tratar frenéticamente de recuperar su compostura ordinaria antes de que George los alcanzara...`
 `"El abuelo finalmente bajó.`
 ` Ahora están teniendo una discusión de adultos, así que me echaron."`
-`"Hahaha, entonces salir fue la elección correcta.`
+`"Jajaja, entonces salir fue la elección correcta.`
 ` Prefiero besar al dios de la peste que ir a mirar al abuelo a la cara."`
 `"No deberías hablar de esa manera.`
 ` Sin embargo, creo que el abuelo puede pensar en nosotros como criaturas pestilentes.`
@@ -273,7 +273,7 @@
 `"¡Ah, no, no es nada...!"`
 `"Umm, ¿debería preparar un poco de té?`
 ` Uhh... prepararé un poco más de ese Earl Grey para usted."`
-`"Ahaha, así que recordaste el nombre de ese té negro.`
+`"Ajaja, así que recordaste el nombre de ese té negro.`
 ` Me alegro."`
 `"Um... umm..."`
 `"Hm?"`
@@ -327,7 +327,7 @@
 ` George‐sama es muy amable,`
 ` así que estoy segura que...`
 ` umm... debe de ser muy popular entre las chicas..."`
-`"No, err, ...hahahahahahahahahaha."`
+`"No, err, jajajajajajajajajaja."`
 `"Déjalo Shannon~.`
 ` Eres bastante mala, acorralándolo de esa manera...`
 ` ¡*carcajada*!"`
@@ -437,8 +437,8 @@
 `"¡Ah... ya sé...!`
 ` George nii-san, es uno de esos, ¿verdad? ¡Un matrimonio arreglado!"`
 `"¿Un matrimonio arreglado...?"`
-`"nn... bueno... sí.`
-` Hahahaha..."`
+`"Nn... bueno... sí.`
+` Jajajaja..."`
 `Como hombre, George sin duda quería encontrar una pareja por sí mismo y encargarse de ella.`
 `Así que le pareció un poco patética la idea de conocer a su pareja en un matrimonio arreglado organizado por sus padres.`
 `"¿No deberían hacerse los matrimonios arreglados a una edad más madura...?`
@@ -473,10 +473,10 @@
 ` Te has convertido en un buen hombre capaz de estar a la altura de quien sea.`
 ` Y con la salida de Battler-kun del registro familiar, tú eres el único nieto que lleva la sangre de Padre.`
 ` Debemos elegir con prudencia una pareja adecuada para ti."`
-`Como todos los relacionados con la familia Ushiromiya sabían, Eva adoraba tanto a George que éste era "la niña de sus ojos".`
+`Como todos los relacionados con la familia Ushiromiya sabían, Eva adoraba tanto a George que este era "la luz sus ojos".`
 `Pero eso no significa que ella lo hubiese mimado.`
 `{n}Ella lo había educado estrictamente, y él se había convertido en un hombre encantador que no traicionaba sus expectativas.`
-` Es de esta manera que él era "la niña de sus ojos".`
+` Es de esta manera que él era "la luz de sus ojos".`
 `"Definitivamente no estamos decidiendo a tu pareja en base a lo que personalmente ganamos con ella.`
 ` Te presentaré a una mujer verdaderamente maravillosa y adecuada para ti.`
 ` En este momento, puede que todavía tengas algo de esa juventud inmadura dentro de ti que te impide ver esto."`
@@ -500,8 +500,8 @@
 `"Está bien.`
 ` Estoy segura de que pronto conocerás a alguien maravilloso, Jessica-chan.`
 ` Una persona maravillosa y a tu mismo nivel."`
-`"Entonces, si está al mismo nivel que yo, hahaha, ¿te refieres a un chico con malas notas?`
-` Pues eso esta un poco jodido, ¡hahaha!"`
+`"Entonces, si está al mismo nivel que yo, jajaja, ¿te refieres a un chico con malas notas?`
+` Pues eso esta un poco jodido, ¡jajaja!"`
 `"Y por supuesto, a ti también Shannon-chan.`
 ` Estoy segura de que aparecerá un hombre maravilloso adecuado para ti."`
 `"¡¡S‐Sí!!`
@@ -533,8 +533,8 @@
 `"¡Sí, hasta luego!`
 ` ¡¡Y luego, por favor, cuéntame algunas historias sobre ti y el tío Hideyoshi~~!!"`
 `"De ninguna manera.`
-` ¡Ahahahahahahahahaha...!"`
-`Eva rió cortantemente y se dirigió de vuelta al vestíbulo..`
+` ¡Ajajajajajajajaja...!"`
+`Eva rio cortantemente y se dirigió de vuelta al vestíbulo..`
 `Detrás de Jessica, quien estaba agitando alegremente su mano,`
 ` Shannon reflexionó muy, muy profundamente sobre esas palabras de Eva, acerca de conocer su lugar...`
 ` Yo sentí un profundo remordimiento por mi breve momento de presunción.`
@@ -698,7 +698,7 @@
 `Así que, ella al menos dijo lo que pensaba dentro de su corazón.`
 `{n}Esas palabras que no podía decir en voz alta, las dijo dentro de su corazón... y protestó ante la bruja sin forma.`
 `Por supuesto, la bruja no respondió.`
-`{n}Nunca la consoló, y nunca se rió de ella.`
+`{n}Nunca la consoló, y nunca se rio de ella.`
 `{n}Shannon solo podía interpretar aquel silencio como quisiera, como si la bruja estuviera al menos escuchando atentamente.`
 `{f:5:Beatrice}‐sama...`
 `Por favor, escúcheme, a pesar de lo inútil que soy...`
@@ -761,7 +761,7 @@
 ` Yo soy {f:5:Beatrice}...`
 ` La cara que pone la gente cuando me ve por primera vez no ha cambiado incluso después de mil años.`
 ` *carcajada*."`
-`La bruja se rió al ver que la reacción de Shannon no traicionaba sus expectativas.`
+`La bruja se rio al ver que la reacción de Shannon no traicionaba sus expectativas.`
 `Shannon se dio cuenta de que se había encontrado con un ser que no debía encontrarse, y dio un paso atrás.`
 `En ese lugar estaban la pared y el retrato, así que mientras miraba a la bruja, se apoyó en el retrato de la bruja que tenía a su espalda.`
 `"Tus preocupaciones se deben al amor.`
@@ -788,7 +788,7 @@
 ` Perdóname.`
 ` Hace mucho tiempo que no hablo con un humano.`
 ` Pediré disculpas por mi locuacidad."`
-`Sin esperar una respuesta de Shannon, {f:5:Beatrice} rió agradablemente durante un rato.`
+`Sin esperar una respuesta de Shannon, {f:5:Beatrice} rio agradablemente durante un rato.`
 `"No estoy segura de que esto sea suficiente para una disculpa,`
 ` pero puedo usar mi poder para conceder ese deseo tuyo, si es que así lo quieres"`
 `"¿Huh...?"`
@@ -944,7 +944,7 @@
 ` Él es una persona que tendrá que cargar con el peso de la familia Ushiromiya algún día en el futuro."`
 `"Para responder a esa expectativa, él ha estudiado incansablemente, ha ingresado en una magnífica universidad y está sacando unas magníficas notas.`
 ` ¿En seeerio piensas que estás a su nivel, tú incompetente, poco cualificada e inculta sirvientaaaa?"`
-`"¡¡¡*risita*risita*, *carcajada*carcajada*carcajada*ahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!!"`
+`"¡¡¡*risita*risita*, *carcajada*carcajada*carcajada*ajaja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}jajaja!!!"`
 `"¡¡Pa... para, no intimides a Shannon!!`
 ` ¡¡¿Quién demonios eres tú?!!"`
 `En ese momento, mientras Shannon se sujetaba la cabeza, intentando proteger su corazón contra las afiladas palabras de {f:5:Beatrice}, Kanon corrió delante de ella.`
@@ -1039,7 +1039,7 @@
 `"Pues bien, volvamos a vernos cuando surja la oportunidad.`
 ` Fue muy entretenido volver a tener una conversación después de tanto tiempo.`
 ` Adiós, muebles.`
-` ¡Ahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!"`
+` ¡Ajaja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}jajaja!"`
 `El cuerpo de {f:5:Beatrice} se deshizo como el humo y se desvaneció.`
 `Era humo dorado, no, era un vuelo de mariposas doradas.`
 `Se dispersaron en todas las direcciones dentro del vestíbulo, dejando una niebla dorada detrás mientras desaparecían en el aire.`
