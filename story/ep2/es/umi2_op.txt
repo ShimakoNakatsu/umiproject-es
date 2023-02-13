@@ -88,7 +88,7 @@
 `Shannon estaba mostrándome su inquietud porque creía no me sentía bien.`
 `{n}Aparentemente la había hecho preocupar con mi estúpido intento de impresionarla.`
 `Y en cualquier caso, no parecía que mi estómago fuera a dejarme mantener esta pretensión por más tiempo.`
-`"... Gah, ahaha...`
+`"... Gah, ajaja...`
 ` En ese caso, lo confesaré.`
 ` Solo estaba tratando de parecer genial...`
 ` Y me contuve porque estaba con una chica..."`
@@ -370,7 +370,7 @@
 `Rómpelo, y tomaré una vida reflejada más allá del espejo.`
 `{n}Si no lo rompo, mi vida será para siempre un par de espejos mirándose cara a cara.`
 `{n}Nada cambiará en lo más mínimo...`
-`La bruja me susurró.`
+`La bruja me susurra.`
 `Me tienta a dar un mordisco al fruto del conocimiento.`
 `{n}O quizás ya he probado ese fruto.`
 `Porque terminé conociendo esas enloquecedoras emociones.`
