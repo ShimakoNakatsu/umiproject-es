@@ -1,210 +1,210 @@
-`Battler could be found in the dining hall.`
-`Unable to summon the will to return to the guesthouse in the middle of this rain,`
-` he had wandered halfheartedly around the mansion in search of a random place to sit, ...and had stationed himself in the dining hall.`
-`He hadn't bothered to lock it.`
-`He did think that maybe the shapeless murderer, or the Golden Witch, might come to kill him now that he was isolated,`
-` but he no longer thought about resisting that.`
-`On the contrary, he had no intention of blocking the culprit with a lock.`
-`{n}He wanted that person to come at him openly, from the front.`
-`...If it was a murderer, he thought he'd ask them to tell about some of those wonderful locked room tricks as a parting souvenir.`
-`And if it was a witch, he thought he'd ask her to at least take his life with some wonderful magic.`
-`......However, ironically, neither of these two came to meet Battler...`
-`Battler opened the liquor cabinet on his own and enjoyed the liquor to his heart's content.`
-`{n}No longer was there anybody anywhere who would have a problem with him drinking alcohol.`
-`He boldly set both of his legs on the extravagant tablecloth and savored the high‐quality liquor, which probably had a mind‐boggling price, straight from the neck of the bottle....`
-`At that time, ......someone knocked.`
-`Battler realized that he was about to meet his maker...`
-`"Heee~yy, it's not locked.`
-` Come in, whoever you are.`
-` And please introduce yourself.`
-` If you're human, gimme your name.`
-` And if you're {f:5:Beatrice}, gimme your three sizes."`
-`"You might not believe this, but I'm a pretty well‐known breast‐sommelier, y'sheee?"`
-`".........It is Genji, Battler‐sama."`
-`"...Genji‐san, huh.`
-` ......Sorry, but I'm not interested in your bust size.`
-` Please, come in. It's open."`
-`".........Excuse me."`
-`Genji‐san opened the door and bowed.`
-`.........So Genji‐san was the culprit after all, ...or maybe an accomplice?`
-` ......That theory would probably explain most of the tricks...`
-`"Did you come to give me my last rites?"`
-`".........Nothing of the sort.`
-` ......I shall excuse myself if I am disturbing you."`
-`"...Wait, wait, excusing yourself without even telling me what you wanted would actually just be creepy.`
-` ...What do you want?`
-` ...Please, let me do as I wish, at least in the very end."`
-`".........Battler‐sama, is it truly your wish...`
-`to spend the little time you have left in such an indolent fashion?"`
-`Those words...stung...`
-`{n}......Of course it wasn't.`
+`Battler se encontraba en el comedor.`
+`Incapaz de reunir la voluntad necesaria para volver a la casa de huéspedes en medio de esta lluvia,`
+` él había vagado sin entusiasmo por la mansión en busca de un lugar al azar donde sentarse, y se había acomodado en el comedor.`
+`No se había molestado en echar el cerrojo.`
+`Pensó que tal vez el asesino sin forma, o la Bruja Dorada, podría aparecer para matarlo ahora que estaba aislado,`
+` pero ya no pensaba resistirse a eso.`
+`Al contrario, no tenía intención de obstaculizar al culpable con una cerradura.`
+`{n}Quería que esa persona se le acercara abiertamente, de frente.`
+`Si se trataba de un asesino, pensó en pedirle que le contara alguno de esos maravillosos trucos de las habitaciones cerradas como recuerdo de despedida.`
+`Y se trataba de una bruja, pensó en pedirle que al menos le quitara la vida con alguna magia maravillosa.`
+`Sin embargo, irónicamente, ninguno de estos dos vino a buscar a Battler...`
+`Battler abrió el armario de los licores por su cuenta y disfrutó de ellos a su antojo.`
+`{n}Ya no había nadie en ninguna parte que tuviera problemas con que bebiera alcohol.`
+`Él colocó ambas piernas sobre el elegante mantel y degustó el licor de alta calidad, que seguramente costó una fortuna, directamente del cuello de la botella...`
+`En ese momento, alguien tocó la puerta.`
+`Buttler se dio cuenta de que por fin alguien había venido a buscarlo...`
+`"Heee~yy, no está cerrado.`
+` Entra, quienquiera que seas.`
+` Y por favor preséntate.`
+` Si eres humano, dime tu nombre.`
+` Y si eres {f:5:Beatrice}, dime tus medidas."`
+`"Puede que no te lo creas, pero soy un sommelier de pechos bastante conocido."`
+`"Es Genji, Battler‐sama."`
+`"Genji‐san, huh.`
+` Lo siento, pero no estoy interesado en el tamaño de tus pechos.`
+` Por favor, entra. Está abierto."`
+`"Con su permiso."`
+`Genji‐san abrió la puerta e hizo una reverencia.`
+`¿Así que Genji-san era el culpable después de todo, o quizás un cómplice?`
+` Esa teoría probablemente explicaría la mayoría de los trucos...`
+`"¿Has venido a darme la extremaunción?"`
+`"Nada de eso.`
+` Pido disculpas si le estoy molestando."`
+`"Espera, espera, disculparte sin decirme lo que realmente quieres me da bastante miedo.`
+` ¿Qué es lo que quieres?`
+` Por favor, déjame hacer lo que me plazca, al menos antes de que todo acabe."`
+`"Battler‐sama, ¿es realmente su deseo...`
+` pasar el poco tiempo que le queda de una manera tan indolente?"`
+`Sus palabras... me afectaron...`
+`{n}Por supuesto que no.`
 `"...............................`
-` What can I do at this point?`
-` ......I'm ready to die at any time..."`
-`"......You are just like the Master.`
-` Indeed, you inherited the Master's blood strongly...."`
-`"You mean to tell me that Grandfather, that larger‐than‐life man, was actually willing to die at any moment...?`
-` First I've heard of that."`
-`".........The Master's life,`
-` ......after a number of sad incidents,`
-` ......was completely reduced to atonement."`
-`"...What do you know?"`
-`"............{f:5:Beatrice}‐sama's ritual has been entirely completed up to the eighth twilight.`
-` ...I believe...that I can now tell you everything."`
-`"Wha‐......what did you say...?"`
-`My drunkenness was completely blown away.`
-` I lowered my feet from the table and listened carefully to hear what kind of words Genji‐san would say next...`
+` ¿Qué puedo hacer yo en este punto?`
+` Ya estoy listo para morir en cualquier momento..."`
+`"Usted es igual que el Amo.`
+` Ciertamente, ha heredado bastante de la sangre del Amo..."`
+`"¿Me estás diciendo que el abuelo, ese hombre más viejo que la vida misma, estaba dispuesto a morir en cualquier momento...?`
+` Es la primera vez que oigo eso."`
+`"La vida del Amo,`
+` tras una serie de tristes incidentes,`
+` quedó completamente reducida a la expiación."`
+`"¿Qué es lo que sabes?"`
+`"{f:5:Beatrice}‐sama ha completado su ritual hasta el octavo crepúsculo.`
+` Creo... que ahora puedo contártelo todo."`
+`"¿Q-qué dijiste...?"`
+`Mi borrachera se esfumó por completo.`
+` Bajé los pies de la mesa y escuché atentamente qué tipo de palabras diría Genji-san a continuación...`
 `"Battler‐sama.`
-` ......I shall guide you to the Master's study.`
-` ......It would probably be better to hear it directly from them."`
-`"From......them...?`
-` H‐hey, what in the world do you mean by that...!!"`
-`"......Come, this way.`
-` I shall guide you.`
+` Le guiaré al estudio del Amo.`
+` Probablemente sería mejor escucharlo directamente de ellos."`
+`"¿De... ellos...?`
+` ¡¡O-oye, ¿qué rayos quieres decir con eso...?!!"`
+`"Venga, por aquí.`
+` Le guiaré.`
 ` Battler‐sama."`
-`After Genji‐san told me to follow him, he started to walk down the corridor.`
-`I sobered up completely and went after him...`
-`We climbed the big staircase, .........towards the third floor.`
-`{n}Genji‐san stopped walking halfway.`
-`{n}He then turned back and spoke.`
-`".........Battler‐sama.`
-` ......From here on, you will...`
-`......probably see things you will not be able to understand."`
-`"Don't try to intimidate me.`
-` .........I've already seen plenty of things I can't understand today."`
-`".........Please accept what you see as you see it,`
-` and what you hear as you hear it."`
-`"Questions like "Why?",`
-` or "What?",`
-` ...there is no need for such things.`
-` ...Battler‐sama, you will probably simply learn the truth.`
-` Whether to accept it, believe it,`
-` or even deny it, are all choices I leave to you."`
+`Después de que Genji-san me dijera que le siguiera, empezó a caminar por el pasillo.`
+`Me recompuse completamente y fui tras él...`
+`Subimos por la gran escalera, hacia el tercer piso.`
+`{n}Genji‐san dejó de caminar a mitad de camino.`
+`{n}Se dio la vuelta y habló.`
+`"Battler‐sama.`
+` De aquí en adelante, usted...`
+` probablemente vea cosas que no será capaz de entender."`
+`"No trates de intimidarme.`
+` Hoy ya he visto muchas cosas que no soy capaz de entender."`
+`"Por favor, acepte lo que ve como lo que ve,`
+` y lo que oye como lo que oye."`
+`"Preguntas como ‘¿Por qué?’,`
+` o ‘¿Qué?’,`
+` ya no son necesarias.`
+` Battler‐sama, usted probablemente acabe conociendo la verdad.`
+` Lo acepte o no, que lo crea,`
+` o que lo niegue, depende de usted."`
 `"....................................."`
-`Genji‐san checked one last time to see whether I was prepared to learn the truth.`
-`The eighth twilight had already ended.`
-` And on the ninth twilight, the witch revives, ......and none shall be left alive.`
-`It meant that {f:5:Beatrice} had already revived.`
-`{n}...And probably, none of us would be allowed to return alive.`
-`If I was going lose my life anyway, ......I wanted to know the truth in the end.`
-`{n}...It didn't matter how hard it might be to accept.`
-`"..................Yeah.`
-` ......Even if a demon or a witch shows up, ...I'm prepared."`
-`".........You really are just like the Master in his youth.`
-` ......Battler‐sama, please be diligent in your studies.`
-` In the future, you will surely have great aspirations.`
-` And make sure that at that time, you are not forced into a lifetime of regret by a lack of academic knowledge."`
-`".........If I have a chance to work hard in my studies, then no problem."`
+`Genji-san comprobó por última vez si yo estaba preparado para saber la verdad.`
+`El octavo crepúsculo ya había terminado.`
+` Y en el noveno crepúsculo, la bruja revivirá... y nadie podrá quedar con vida.`
+`Eso significa que {f:5:Beatrice} ya debe haber revivido.`
+`{n}Y probablemente, a ninguno de nosotros se nos permitirá regresar con vida.`
+`Si iba a perder la vida de todos modos, quiero saber la verdad al final de todo.`
+`{n}No importaba lo difícil que fuera aceptarlo.`
+`"Sí.`
+` Incluso si aparece un demonio o una bruja, estoy preparado."`
+`"Realmente eres igual que el Amo en su juventud.`
+` Battler‐sama, por favor, sea diligente en sus estudios.`
+` En el futuro, seguro que tendrá grandes aspiraciones.`
+` Y asegúrese de que, en ese momento, no se vea forzado a una vida de arrepentimiento por falta de conocimientos académicos."`
+`"Si tengo la oportunidad de esforzarme en mis estudios, entonces no hay problema."`
 `".............................."`
-`Genji‐san's silence forced me to consider that resignation of mine more deeply...`
-`And, .........we could see the door of Grandfather's study, impregnated with a sweet smell.`
-`From his pocket, Genji‐san withdrew a gold key with an elegant design.`
-`The master keys had been confiscated by Auntie Rosa, but the key to this study alone, he had kept with him.`
-`He put it in the keyhole, .........and it made a heavy clunking sound.`
-`".........My lord.`
-` It is Genji.`
-` I have brought Battler‐sama with me."`
-`There was no reply, but it seemed that permission to go in had been given...`
-`"Come, Battler‐sama.`
-` ......Please enter."`
-`"..................Yeah.`
-` ......In I go."`
-`I readied myself, ......and threw the door open...`
-`At that moment, ...I got slightly disoriented by the dazzling golden glow..........`
-`It was, .........somehow,`
-` ......a swarm of butterflies, shining gold.`
-`The golden butterflies that were completely filling the inside of the study poured out all at once.......`
-`"Wha‐............`
-` ......What the heck...`
-`......is thiiiss.................."`
-`It was almost like golden leaf confetti.`
-`{n}The interior of Grandfather's study was filled with a golden glow...`
-`And......there were reception sofas and a table for guests placed in front of the study desk,`
-` .........and I could see Grandfather's back.`
-`There was someone on the side opposite from Grandfather.`
-`{n}...It was in shadow, so I couldn't see it well...`
-`"......My lord.`
-` I have brought Battler‐sama."`
-`"............Battler, is it?`
-` I'm busy thinking now...`
-` Be silent for a while......"`
-`Kinzo declared that in displeasure, his back still turned.`
-`It seemed that he was enjoying playing chess with a visitor...`
-`Apparently, the opponent had counterattacked with a superb move.`
-`{n}Kinzo seemed to be enjoying himself as he thought deeply, while occasionally laughing and groaning...`
-`"I thought for thirty years.`
-` ......I thought for thirty years about how to counterattack this move...`
-` Have fun, have fun with the move I fermented for thirty years."`
-`"......Heheheheheheheh.`
-` Indeed, this is a deeply matured move.`
-` ......Such fun, such fun... *cackle*cackle*cackle*cackle*, hahahahahahaha...!!`
-` Unbeatable, unbeatable."`
-`"......Wha‐`
-`............what is...`
-`......this........."`
-`"So you came, Battler.`
-` Wait just a moment.`
-` Be silent for Kinzo's sake.`
-` ...Isn't it too early to resign, Kinzo?`
-` I can already counterattack for several moves.`
-` *cackle*cackle*cackle*...!"`
-`It should have been...`
-`...my first meeting with that witch.`
-`However, ...I knew this witch.`
-`{n}Even though it was our first meeting,`
-` ...I knew her,`
-` ......from the portrait......!`
+`El silencio de Genji-san me obligó a considerar mi resignación aún más profundamente...`
+`Y entonces, pudimos ver la puerta del estudio del abuelo, impregnada de un olor agridulce.`
+`De su bolsillo, Genji-san sacó una llave dorada con un elegante diseño.`
+`Las llaves maestras fueron confiscadas por la tía Rosa, pero él se quedó con la llave del estudio.`
+`La introdujo en el agujero de la cerradura, e hizo un fuerte ruido metálico.`
+`"Amo.`
+` Es Genji.`
+` He traído a Battler‐sama conmigo."`
+`No hubo respuesta, pero parece que se había dado permiso para entrar...`
+`"Adelante, Battler‐sama.`
+` Por favor, entre."`
+`"Sí.`
+` Voy a entrar."`
+`Me preparé, y abrí la puerta de golpe...`
+`En ese momento, me desorienté un poco por el deslumbrante resplandor dorado...`
+`Era como, de alguna forma,`
+` un enjambre de mariposas, doradas y brillantes.`
+`Las mariposas doradas que ocupaban por completo el interior del estudio salieron todas a la vez...`
+`"¿Q-`
+` qué diablos...`
+` es eeeesto...?"`
+`Era casi como confeti dorado.`
+`{n}El interior del estudio del abuelo estaba lleno de un resplandor dorado...`
+`Y... había sofás y una mesa para recibir a los invitados delante del escritorio del estudio,`
+` y pude ver la espalda del abuelo.`
+`Había alguien en el lado opuesto al abuelo.`
+`{n}Estaba en la sombra, así que no pude verlo bien...`
+`"Amo.`
+` He traído a Battler‐sama."`
+`"Battler, ¿no?`
+` Ahora estoy ocupado pensando...`
+` Guarda silencio por un momento..."`
+`Kinzo declaró eso disgustado, aún de espaldas.`
+`Parecía que estaba disfrutando de su partida de ajedrez con un visitante...`
+`Aparentemente, el oponente había contraatacado con un excelente movimiento.`
+`{n}Kinzo parecía divertirse al pensar profundamente, mientras de vez en cuando reía y gemía...`
+`"Pensé durante treinta años.`
+` Pensé durante treinta años en cómo contraatacar este movimiento...`
+` Diviértete, diviértete con el movimiento que fermenté durante treinta años."`
+`"Jejejejejejeje.`
+` En efecto, se trata de un movimiento profundamente maduro.`
+` ¡¡Qué divertido, qué divertido... *carcajada*carcajada*carcajada*carcajada*, jajajajajajaja...!!`
+` Inigualable, inigualable."`
+`"¿Qu‐`
+`qué es...`
+` esto...?"`
+`"Así que viniste, Battler.`
+` Espera un momento.`
+` Guarda silencio por el bien de Kinzo.`
+` ¿No es demasiado pronto para resignarse, Kinzo?`
+` Yo ya puedo contraatacar con varios movimientos.`
+` ¡*carcajada*carcajada*carcajada*...!"`
+` Este debería haber sido...`
+` mi primer encuentro con esa bruja.`
+`Sin embargo, yo conocía a esta bruja.`
+`{n}A pesar de que era nuestro primer encuentro,`
+` yo la conocía,`
+` del retrato...`
 `"Genji.`
-` Serve something for Battler.`
-` What would be the most appropriate for this man...?"`
-`"......The same which the Master has loved since the days of his youth."`
-`"That is ideal; serve it to him.`
-` ......You did well coming here, Ushiromiya Battler.`
-` First, take a seat."`
-`".........You called my name many times, did you not?`
-` In deference to that, I allowed you to meet me.`
-` ...So, what will you ask me?`
-` What will you inquire?"`
-`"......The door to the Golden Land will soon be opened.`
-` Soon, we will have a banquet to celebrate my revival, to which I will be welcoming the witches.`
-` ...In the meantime, I'll be answering your questions, as many as you like."`
-`"I, ......I have a bunch of things I want to ask about!!`
-` What happened on this island?!`
-` And why did these incidents happen?!"`
-`"I want to ask about the locked rooms too!!`
-` What about the chapel?!`
-` What about Jessica's room?!`
-` And the servant room?!`
-` And Aunt Natsuhi's room?!`
-` And the parlor?!"`
-`"There's more still I want to ask about!!`
-` About the witch's true nature!!`
-` Are you really a witch?!!`
-` What is your purpose, what do you want to make us do and why did you call me here?!!`
-` Answer me, about everything!!!"`
-`"Arrrrghhh, be quiet!!`
-` You think merely asking will get you answers?!?!"`
-`"Don't say that, Kinzo.`
-` A fragile and fleeting spider web did protect from King Herod once.`
-` ......Just as there are no useless things in this world, there are also no useless questions."`
-`"Very well, I'll answer all your questions.`
-` ......But, I do have one condition."`
-`"What is it?"`
-`"Once you have heard everything, if you are satisfied of my existence,`
-` ............kneel, and kiss my shoes.`
-` I called you here because I wanted to make you submit to me."`
-`"...Kinzo and I made a bet.`
-` We bet on which would come first, Kinzo thinking of a new move, or me forcing you to submit.`
-` I don't see myself losing.`
-` *cackle*cackle*cackle*cackle*...!"`
-`"...D‐............Damn you, talking so tough!!`
-` Yeah, alright.`
-` Try to make me admit it.`
-` ...Try to make me admit that you're a witch and that you can use weird, awesome, and great magic!!"`
-`"If I submit, I'll kiss your shoes or do whatever else you want!!!"`
-`The witch cackled gloatingly.`
-`{n}Then, she glared at him unpleasantly with eyes that said a man can't go back on his word...`
-`"Well said!!`
-` So, from what question shall I begin?!`
-` I'll answer everything!!`
-` Come, what will the first one be?!?!"`
+` Sírvele algo a Battler.`
+` ¿Qué sería lo más apropiado para este hombre...?"`
+`"Lo mismo que el Amo ha amado desde los días de su juventud."`
+`"Eso es perfecto; sírveselo.`
+` Hiciste bien en venir aquí, Ushiromiya Battler.`
+` Primero, toma asiento."`
+`"Me has llamado varias veces, ¿no es así?`
+` En deferencia a eso, te permití reunirte conmigo.`
+` Entonces, ¿qué me vas a preguntar?`
+` ¿Qué vas a inquirir?"`
+`"La puerta a la Tierra Dorada se abrirá pronto.`
+` Pronto, tendremos un banquete para celebrar mi resurrección, en el que daré la bienvenida a las brujas.`
+` Mientras tanto, responderé a tus preguntas, a todas las que quieras."`
+`"Yo, ¡¡tengo un montón de cosas sobre las que quiero preguntar!!`
+` ¡¿Qué ocurrió en esta isla?!`
+` ¡¿Y por qué ocurrieron estos incidentes?!"`
+`"¡¡También quiero preguntar sobre las habitaciones cerradas!!`
+` ¡¿Qué hay de la capilla?!`
+` ¡¿Qué hay de la habitación de Jessica?!`
+` ¡¿Y de la habitación de los sirvientes?!`
+` ¡¿Y de la habitación de la tía Natsuhi?!`
+` ¡¿Y de el salón?!"`
+`"¡¡Todavía hay más cosas que quiero preguntar!!`
+` ¡¡Con lo que respecta a la verdadera naturaleza de la bruja!!`
+` ¡¡¿De verdad eres una bruja?!!`
+` ¡¡¿Cuál es tu propósito, qué quieres que hagamos y por qué me has llamado?!!`
+` ¡¡¡Respóndeme a todo!!!"`
+`"¡¡Arrrrghhh, cállate!!`
+` ¡¿¡¿Crees que solo preguntando obtendrás respuestas?!?!"`
+`"No digas eso, Kinzo.`
+` Una frágil y endeble telaraña protegió una vez del rey Herodes.`
+` Así como no hay cosas inútiles en este mundo, tampoco hay preguntas inútiles."`
+`"Muy bien, responderé a todas tus preguntas.`
+` Pero con una condición."`
+`"¿Qué cosa?"`
+`"Una vez que ya hayas escuchado todo, si estás satisfecho con mi existencia,`
+` arrodíllate, y besa mis zapatos.`
+` Te llamé aquí porque quería que te sometieras a mí."`
+`"Kinzo y yo hicimos una apuesta.`
+` Apostamos sobre qué sucedería primero, que Kinzo piense en un nuevo movimiento, o que yo te forzara a someterte.`
+` Y yo no me veo perdiendo esa apuesta.`
+` ¡*carcajada*carcajada*carcajada*carcajada*!"`
+`"¡¡Ma-maldita, actuas tan arrogante!!`
+` Sí, está bien.`
+` Intenta que lo admita.`
+` ¡¡Intenta hacerme admitir que eres una bruja y que puedes usar una extraña, asombrosa y gran magia!!"`
+`"¡¡¡Si me someto, te besaré los zapatos o lo que sea!!!"`
+`La bruja se rio a carcajadas, regodeándose.`
+`{n}Entonces, ella lo miró desagradablemente con ojos que decían que un hombre no puede faltar a su palabra...`
+`"¡¡Bien dicho!!`
+` Entonces, ¡¿por dónde empiezo?!`
+` ¡¡Responderé a todo!!`
+` ¡Vamos, ¿cuál será la primera?!"`
