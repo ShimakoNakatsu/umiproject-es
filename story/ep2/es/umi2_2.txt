@@ -601,18 +601,18 @@
 ` ¡¿O es el poder mágico o la suerte o un oráculo...?!"`
 `"Ooohhh, {f:5:Beatrice}, ¿qué debo hacer para ver tu rostro una vez más...?`
 ` Ooooooooohhhhhhh..."`
-`En cuanto Kanon escuchó la voz llorosa de su maestro por encima de su hombro, se dió la vuelta una vez.`
+`En cuanto Kanon escuchó la voz llorosa de su maestro por encima de su hombro, se dió la vuelta al instante.`
 `Cuando lo hizo,`
 ` justo detrás de su viejo y solitario Amo,`
 ` estaba la silueta de una persona que no debería haber estado allí...`
 `Era... la bruja.`
-`En seguida, Kanon, pensó que la bruja estaba tramando hacer algún daño a Kinzo,`
+`Enseguida, Kanon, pensó que la bruja estaba tramando hacer algún daño a Kinzo,`
 ` corrió rápidamente hacia Kinzo, tratando de convertirse él mismo en un escudo.`
 `Pero cuando vio la expresión en el rostro de la bruja,`
 ` esa emoción suya se desvaneció.`
 `Porque la expresión de {f:5:Beatrice} era de...`
 ` tristeza,`
-` o tal vez lástima.`
+` o tal vez de lástima.`
 `"Eres un tonto, Kinzo...`
 ` Estoy aquí, ¿no puedes {y:1:‘verme’}{n:1:verme}?"`
 `Detrás de Kinzo, mientras repetía el nombre de la bruja una y otra vez, deseando reunirse con ella más que nada, estaba la propia bruja.`
@@ -631,4 +631,4 @@
 `".................................`
 ` Sin amor, no puede ser {y:1:‘visto’}{n:1:visto}."`
 `Él miró a la espalda de Kinzo una vez más.`
-`{n}Y la bruja ya no se encontraba más en ese lugar.`
+`{n}Y la bruja ya no se encontraba en ese lugar.`
