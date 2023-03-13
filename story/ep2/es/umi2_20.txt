@@ -1,240 +1,240 @@
-`"Well then.`
-` ...Did you enjoy it?`
-` Our game just now."`
-`"......A game that one‐sided goes beyond captivating and becomes boring."`
-`"*cackle*cackle*. My, my, a harsh critic as always.`
-` ......And I was so certain that even Lady {f:5:Bernkastel}, who has no love for boredom,`
-` would surely be satisfied by this compelling development... How remorseless."`
-`"...Well, I'll accept that it was compelling.`
-` ...However, it was horrible as a fair game.`
-` You need the conditions to be a little more even, or—"`
-`"......Am I about to be told there's no way to win?`
-` By Lady {f:5:Bernkastel}?`
-` ......*cackle*cackle*."`
-`"..................I wonder what you mean by that, Beato."`
-`"There's no need to play ignorant.`
-` I already know.`
-` ...That you {i:aren't a bystander}."`
+`"Y bien.`
+` ¿Qué te pareció?`
+` Nuestro juego de ahora."`
+`"Un juego tan desequilibrado pasa de ser cautivador y se torna aburrido."`
+`"*carcajada*carcajada*. Vaya, vaya, una dura crítica como siempre.`
+` Y yo que estaba tan segura de que incluso Lady {f:5:Bernkastel}, a quien no le gusta nada el aburrimiento,`
+` quedaría completamente satisfecha con este impactante desarrollo... Qué despiadada."`
+Bueno, aceptaré que fue impactante.`
+` Sin embargo, fue horrible como un juego limpio.`
+` Necesitas que las condiciones sean un poco más parejas, o—"`
+`"¿Me estás diciendo que no hay forma de ganar?`
+` ¿Incluso para Lady {f:5:Bernkastel}?`
+` *carcajada*carcajada*."`
+`"Me pregunto qué insinuas con eso, Beato."`
+`"No hay necesidad de seguir fingiendo.`
+` Ya lo sé.`
+` Sé que {i:no eres mera espectadora}."`
 `"................................."`
-`"You thought you were hiding it?`
-` How insolent, to travel all that way, and come into territory that isn't yours, just to bet against me.`
-` You came here planning to watch my game from the sidelines, while having a large stake placed in my defeat.`
-` I've guessed right, haven't I...?"`
+`"¿Pensaste no me daría cuenta?`
+` Qué insolente, viajar hasta aquí y entrar en un territorio que no es tuyo solo para apostar contra mí.`
+` Viniste aquí planeando ver mi juego desde las gradas, mientras apostabas por mi derrota.`
+` He adivinado bien, ¿no es así...?"`
 `"...........................`
-` And if so?"`
-`"......*cackle*cackle*!`
-` Truly interesting!"`
-`"That I should be granted a chance to fight against Lady {f:5:Bernkastel}, the strongest of witches who defeated Lady {f:5:Lambdadelta}, is truly a pleasure!!"`
-`"......Yes.`
-` It is pleasing me too.`
-` After all, I came all this way just because I wanted to see you brimming with that confidence, only to fall apart and lose."`
-`"What an honest person.`
-` *cackle*cackle*!!"`
-`"Incidentally, if the contest between me and the great Lady {f:5:Bernkastel}...`
-`were not to have at least one observer, what a tremendous shame that would be."`
+` ¿Y si así fuera?"`
+`"¡*carcajada*carcajada*!`
+` ¡Verdaderamente interesante!"`
+`"¡¡Que se me conceda la oportunidad de luchar contra Lady {f:5:Bernkastel}, la bruja más poderosa y quien derrotó a Lady {f:5:Lambdadelta}, es un verdadero placer!!"`
+`"Sí.`
+` Es un placer para mí tambien.`
+` Después de todo, he venido hasta aquí solo porque quería verte rebosante de confianza, para luego destrozarte y verte perder."`
+`"Qué persona tan honesta.`
+` ¡¡*carcajada*carcajada*!!"`
+`"Por cierto, si la contienda entre la gran Lady {f:5:Bernkastel} y yo...`
+` no contase con al menos un observador, sería una completa lástima."`
 `".................................`
-` ...You called her, didn't you.`
-` That child."`
+` La llamaste, ¿no es así?.`
+` A esa niña."`
 `"Hoh‐hoh‐hoh‐hoh‐ho!`
-` I found you, I finally found you, {f:5:Bernkastel}!!"`
-`"............How are you, Lambda?`
-` Looks like you also have time to kill.`
-` ...I wonder if it's fate that we who share no love for boredom should run into each other again...?"`
-`"Such a dumb kid.`
-` Why can't you realize that the only reason you won against me was because of a little luck and a not‐so‐great matchup?`
-` That made you so snobby, and now you're even picking a fight with {f:5:Beatrice}? Shouldn't you learn your place?"`
-`"*giggle*, {f:5:Beatrice} is strong, you know.`
-` And she's more brutal than I am.`
-` Just a teensy bit!"`
-`"Oh and also, don't just shorten someone's name to Lambda!"`
-`".........You're a fool too, Beato.`
-` This kid won't make exceptions for your game, she'll turn everything into a preposterous farce."`
-`"I didn't bring Lady {f:5:Lambdadelta} here solely to watch from the sidelines."`
-`"After I informed her that you were betting against me, she said that she would bet against you."`
-`"..............................You're still holding a grudge, aren't you."`
-`"Hoh‐hoh‐hoh‐ho!!`
-` 'Cause I'm the strongest witch in the universe.`
-` But I lost to you so I'm not the strongest!"`
-`"So I'm taking the side of anyone who's against youuuu!!"`
-`"*cackle*cackle*!`
-` There you have it.`
-` With the great Lady {f:5:Bernkastel} as our opponent, this may not even count as a handicap, but it will be suitable for entertainment."`
-`"...............Do as you like.`
-` ...Now that the cat's out of the bag, I'm going to get serious."`
-`"That would be suitable.`
-` "Leniency" has never featured in my dictionary.`
-` *cackle*cackle*cackle*cackle*cackle*!`
-` Lady {f:5:Lambdadelta}, let us enjoy our valuable new relationship."`
-`"Yes, I'll be counting on you, Lady {f:5:Beatrice}!`
-` This girl really put me through the wringer.`
-` I'm not gonna be happy until the two of us have smushed her up and paid her back double!!"`
-`"............I look forward to it, Lambda.`
-` And Beato.`
-` ...No matter who wins or who loses, this will be a very meaningful battle for us."`
-`"That's right.`
-` Of course, I'm not gonna lose easy, but this is more important than winning and losing."`
-`"After all, we have no love for boredom."`
-`The three witches giggled, cackled, and guffawed.`
-`"......That's right.`
-` I should thank you, Beato.`
-` It looks like I can finally escape boredom.`
-` Do your best to entertain me.`
-` Together with {f:5:Lambdadelta}."`
-`"I shall do just that.`
-` *cackle*cackle*...!!"`
-`"That's that, Beato, so let's start a strategy meeting right now!`
-` I know all of this girl's weak points, and I'm gonna teach you all of them!"`
-`"And yet, Lady {f:5:Lambdadelta}, you were defeated by her, I note... *cackle*cackle*...!"`
-`"Urrrrrrrrgggh, I won't tell you, I won't tell you!`
-` Tsuun!"`
-`"*cackle*cackle* hahhahahahahahaha!`
-` ...She never bores, that Lady {f:5:Lambdadelta}."`
-`"............She doesn't, does she?`
-` Take care of her.`
-` She might not look it, but she gets lonely."`
-`"I see.`
-` So she's one of those newfangled whatchamacallits.`
-` *cackle*, as expected from Lady {f:5:Lambdadelta}.`
-` Quite cutting edge.`
-` *cackle*cackle*cackle*cackle*."`
-`"Go already.`
-` That child's waiting for you to chase after her."`
-`"......Then, if you'll excuse me."`
-`"See you next game.`
-` *cackle*cackle*cackle*cackle*cackle*!"`
-`......I'm sorry.`
-` A troublesome one came, but don't mind her.`
-`More importantly,`
-` .........things sure got ugly.`
-`I thought I had experienced some particularly gruesome ends in my game with Lambda,`
-` .........but this time, ......it's exceptionally horrible.`
-`...It isn't as though I don't understand your desire to hug your knees and close your heart.`
-`If you meet that end several more times,`
-` your heart will be killed within a hundred years.`
-`......Beato saw through me, so I'll confess.`
-`You are now just like I was in the past, when I was imprisoned inside Lambda's world.`
-`Shut inside a labyrinth of cruel fate, tormented at the whims of a witch.`
-`...I am a witch who was born from there.`
-`......So maybe I'm like an older sister to you.`
-` So I decided that I'd lend you my power.`
-`However,`
-` ............even compared to my fate,`
-` ......yours is...truly brutal.`
-`Not only do I sympathize with you, I'm almost brought to tears by your tragic fate.`
-`But please, don't lose heart.`
-`Please don't submit to Beato, no matter what.`
-`Certainly, that child's game is quite unfair.`
-`I took a glimpse of the game board, and the tricks are so mean and cunning,`
-` and the scenic tricks are filthy to a degree that probably far surpasses that of {f:5:Lambdadelta}'s game board.`
-`And what's even more frightening is that when that child moves a piece, it's not like she always makes the best possible move.`
-`This is where she is very different from Lambda.`
-`Lambda always uses an overpowering number of pieces and makes the best possible move, in order to win.`
-`But Beato sometimes intentionally eases up when she moves her pieces.`
-`This is unfortunate for us, trying to seek out our opponent's strategy by looking at her moves,`
-` because it creates a formidable amount of noise in our information.`
-`This disorder could be troublesome.`
-`......However, as in chess,`
-` a player might be able to create some noise for their opponent with a useless move, but they would still miss out on a more valuable move.`
-`In other words, it's not like your opportunities to take advantage of it are zero.`
-`Although you may not be able to believe it, this game was also like that.`
-`......Even though those developments looked so overpowering,`
-` ...there actually were weak points.`
-`It looks almost as if she wants us to take advantage of them.`
-`......Although, I don't know if it's a trap or if she's testing us.`
-`Anyway, don't surrender.`
-`Don't stop thinking.`
-`Don't deny any possibility.`
-`As long as you continue to hold the will to fight, Beato will not win.`
-`Defense is crucial during a witch's battle, you know?`
-`Rather than trying to win, try not to lose.`
-`...If you lose when you accept her, then you definitely must not accept her.`
-`......Making you accept witches.`
-`There is no longer any doubt that this is one of {f:5:Beatrice}'s victory conditions.`
-`Now that I have announced that I am your ally, I too will make an effort to lend you as much of my power as I can.`
-`Make an effort yourself as well.`
-`If you're still hugging your knees, quickly stand back up.`
-`......Umm, in times like this, what did I use to say again?`
-`.........Umm, uh,`
-` .........Fi‐`
-`...fight,`
-` yea~h.`
+` ¡¡Te encontré, por fin te encontré, {f:5:Bernkastel}!!"`
+`"¿Cómo estás, Lambda?`
+` Parece que también tienes tiempo libre.`
+` ¿Me pregunto si es el destino que nosotras, quienes compartimos el odio por el aburrimiento, volvamos a encontrarnos...?"`
+`"Qué niña más tonta.`
+` ¿Por qué no te das cuenta de que la única razón por la que me ganaste fue por un poco de suerte y una no tan buena compatibilidad?`
+` ¿Acaso eso te hizo una engreída, que ahora incluso buscas pelearte con {f:5:Beatrice}? ¿No deberías conocer cuál es tu lugar?"`
+`"*risita*, {f:5:Beatrice} es fuerte, ¿sabes?`
+` Y ella es más brutal que yo.`
+` ¡Aunque solo por un poquito!"`
+`"¡Ah, y tampoco acortes mi nombre a Lambda!"`
+`"Eres una tonta tú también, Beato.`
+` Esta niña no hará excepciones por tu juego, lo convertirá todo en una farsa absurda."`
+`"No he traído a Lady {f:5:Lambdadelta} aquí solo para que observe desde las gradas."`
+`"Después de informarle de que estabas apostando contra mí, me dijo que apostaría contra ti."`
+`"Todavía me guardas rencor, ¿no?"`
+`"¡¡Hoh‐hoh‐hoh‐ho!!`
+` Porque yo era la bruja más fuerte del universo.`
+` ¡Pero como perdí contra ti, ya no soy la más fuerte!"`
+`"¡¡Así que me pondré de parte de cualquiera que esté en tu contra!!"`
+`"¡*carcajada*carcajada*!`
+` Ahí lo tienes.`
+` Con la gran Lady {f:5:Bernkastel} como oponente, puede que esto ni siquiera cuente como desventaja, pero servirá para entretenernos."`
+`"Haz lo que quieras.`
+` Ahora que me han descubierto, voy a ponerme seria."`
+`"Eso sería lo idóneo.`
+` "Indulgencia" nunca ha figurado en mi diccionario.`
+` ¡*carcajada*carcajada*carcajada*carcajada*carcajada*!`
+` Lady {f:5:Lambdadelta}, disfrutemos de nuestra nueva y valiosa relación."`
+`"¡Sí, cuento contigo, Lady {f:5:Beatrice}!`
+` Esta chica realmente me puso en aprietos.`
+` ¡¡No seré feliz hasta que las dos la aplastemos y le hagamos pagar el doble!!"`
+`"Lo espero con ansias, Lambda.`
+` Y Beato.`
+` No importa quién gane o quién pierda, esta será una batalla de gran importante para nosotras."`
+`"Así es.`
+` Por supuesto, no tengo intención de perder, pero eso es más importante que ganar o perder."`
+`"Después de todo, odiamos el aburrimiento."`
+`Las tres brujas, reían, carcajeaban y se jactaban.`
+`"Así es.`
+` Debería darte las gracias, Beato.`
+` Parece que por fin podré escapar del aburrimiento.`
+` Da lo mejor de ti para entretenerme.`
+` Junto a {f:5:Lambdadelta}."`
+`"Eso haré.`
+` ¡*carcajada*carcajada*!!"`
+`"¡Eso es, Beato, así que empecemos una reunión estratégica ahora mismo!`
+` ¡Conozco todos los puntos débiles de esta chica, y te los voy a enseñar todos!"`
+`"¡Y a pesar de eso, Lady {f:5:Lambdadelta}, fuiste derrotada por ella, para que conste... *carcajada*carcajada*!"`
+`"¡Urrrrrrrrgggh, no te diré nada, no te diré nada!`
+` ¡Tsuun!"`
+`"¡*carcajada*carcajada* jajajajajajajaja!`
+` Nunca te aburre, esa Lady {f:5:Lambdadelta}."`
+`"No lo hace, ¿no?`
+` Cuida de ella.`
+` Puede que no lo parezca, pero se siente muy sola."`
+`"Ya veo.`
+` Así que es una de esas que son populares en estos días.`
+` *carcajada*, como se esperaría de Lady {f:5:Lambdadelta}.`
+` Bastante moderna.`
+` *carcajada*carcajada*carcajada*carcajada*."`
+`"Ve de una vez.`
+` Esa niña está esperando que la persigas."`
+`"Entonces, si me disculpas."`
+`"Nos vemos en el próximo juego.`
+` ¡*carcajada*carcajada*carcajada*carcajada*carcajada*!"`
+`Lo siento.`
+` Ha venido una problemática, pero no le hagas caso.`
+`Más importante,`
+` las cosas se pusieron feas.`
+`Pensé que había experimentado algunos finales particularmente horribles en mi juego con Lambda,`
+` pero esta vez, es excepcionalmente horrible.`
+`No es que no comprenda tu deseo de abrazar tus rodillas y cerrar tu corazón.`
+`Pero si te encuentras con ese final varias veces más,`
+` tu corazón morirá dentro de cien años.`
+`Beato vio a través de mí, así que lo confesaré.`
+`Ahora eres exactamente como yo era en el pasado, cuando estaba aprisionada en el mundo de Lambda.`
+`Encerrada en un laberinto del cruel destino, atormentada por los caprichos de una bruja.`
+`Yo soy una bruja que nació de allí.`
+`Así que tal vez soy como una hermana mayor para ti.`
+` Así que he decidido prestarte mi poder.`
+`Sin embargo,`
+` incluso comparado con mi destino,`
+` el tuyo es... verdaderamente brutal.`
+`No solo me compadezco de ti, sino que casi se me saltan las lágrimas por tu trágico destino.`
+`Pero por favor, no pierdas la esperanza.`
+`Por favor, no te sometas a Beato, pase lo que pase.`
+`Ciertamente, el juego de esa niña es bastante injusto.`
+`He echado un vistazo al tablero de juego, y los trucos son tan mezquinos y astutos,`
+` y los trucos escénicos son tan sucios que probablemente superan con creces a los del tablero de juego de {f:5:Lambdadelta}.`
+`Y lo que es aún más aterrador es que cuando esa niña mueve una pieza, no siempre hace el mejor movimiento posible.`
+`Es ahí donde es muy diferente de Lambda.`
+`Lambda siempre utiliza un número abrumador de piezas y hace el mejor movimiento posible para ganar.`
+`Pero Beato a veces suaviza las cosas intencionadamente cuando mueve sus piezas.`
+`Esto es desafortunado para nosotros, ya que intentamos averiguar la estrategia de nuestro oponente mirando sus movimientos,`
+` pero toda esa cantidad formidable de ruido crea ciertos fallos en nuestra información.`
+`Este desorden podría ser problemático.`
+`Sin embargo, como en el ajedrez,`
+` un jugador podría crear algo de ruido a su oponente con una jugada inútil, pero perdería una jugada más valiosa.`
+`En otras palabras, no es que tus oportunidades de aprovechar eso sean nulas.`
+`Aunque no puedas creerlo, este juego también fue así.`
+`Aunque esos acontecimientos parecían tan abrumadores,`
+` en realidad eran puntos débiles.`
+`Parece casi como si quisiera que nos aprovechemos de ellos.`
+`Aunque, no sé si es una trampa o si nos está poniendo a prueba.`
+`De todas formas, no te rindas.`
+`No dejes de pensar.`
+`No niegues ninguna posibilidad.`
+`Mientras sigas manteniendo la voluntad de luchar, Beato no ganará.`
+`La defensa es crucial durante una batalla de brujas, ¿sabes?`
+`Más que intentar ganar, intenta no perder.`
+`Si pierdes al aceptarla, entonces definitivamente no debes aceptarla.`
+`Hacerte aceptar a las brujas.`
+`Ya es es claramente una de las condiciones de victoria de {f:5:Beatrice}.`
+`Ahora que he anunciado que soy tu aliada, yo también me esforzaré por prestarte todo el poder que pueda.`
+`Haz un esfuerzo tú también.`
+`Si sigues abrazado a tus rodillas, ponte de pie rápidamente.`
+`Umm, en momentos así, ¿qué es lo que solía decir?`
+`Umm, uh,`
+` Fi‐`
+` fight,`
+` yay~.`
 ` Mii,`
 ` nipah~{p:0:☆}`
-`..................It's so embarrassing, doing this.`
-`......I've done this much for you, so hurry and stand back up.`
-`"...Ah, there you are.`
-` Did Bern shrink off somewhere?`
-` *giggle*, could she be any more lame?"`
-`Anywho.`
-`The pieces Bern chooses are crummy as usual, huh.`
-`It's the same with chess, right?`
-`If all your pieces were pawns, you'd have zero chance to win, right?`
-`If all your pieces were rooks and bishops, no way you'd lose.`
-`......W‐well, last time, I felt just a little pity and said that she could start her pieces anywhere she wants,`
-` and then that idiot Bern totally didn't pick up on my compassion and started with aaall of her pawns promoted on the eighth rank!!`
-`What's up with that, that wasn't a loss or anything!!`
-` Aaah, just remembering that makes me queasy.`
-`So, see, I'm gonna be ruffled until I see Bern's stupid speechless face.`
-`So it's like, seeing you in this state as Bern's piece, that makes me feel just awesome!`
-`Plus, believe it or not, that girl really hates to lose,`
-` so I bet she's definitely grinding her teeth in frustration right about now, crying like a baby,`
-` she's so lame, *giggle*, hohhh‐hoh‐hoh‐hoh‐hoh‐ho!`
-`C'mon, laugh with me, oh‐hoh‐hoh‐hoh‐ho!`
-`............Wait a sec.`
-`Are you still hugging your knees?`
-`You're already like this just because Beato got a little serious?`
-`Could you be any more pathetic?`
-`You're so pathetic, I'll help you just a little bit.`
-`I, the great Lady {f:5:Lambdadelta}, the Witch of Certainty and the strongest in the universe,`
-` will bring your hopeless chances of winning just a teensy bit closer to certainty.`
-` You better thank me.`
-`You know, {f:5:Beatrice} may really be a cruel and powerful witch, but she's no match for me.`
-`Why?`
-` 'Cause she's soft.`
-`That kid will make the board so she can win with just a few more moves, but she deliberately won't finish you off.`
-`She'll do stuff like take worthless pieces, or put way too many pieces on the board to make things even more one‐sided.`
-`The point is, she's got this bad habit of playing around when she thinks she's going to win.`
-`Almost all the various attacks that are painful for you and Bern...`
-`look like a total waste and overkill to me.`
-`...Basically, that's her weakness, and it's also your chance.`
-` See?`
-` She isn't an opponent to be afraid of, right?`
-`She sometimes mistakes the means for the end.`
-`And she has too much bad fun.`
-`As a result, she makes and even exposes her own weak points.`
-`It's impossible for a strongest‐ever witch like me to understand why she acts so relaxed.`
-`Lowering her own chances of winning.`
-`.........But, well.`
-`That's why the type of witch like Bern who reads her opponent and dodges their moves has a really bad matchup with her.`
-` 'Cause reading her doesn't work.`
-`...It's probably really easy for Bern to read and handle an obedient and honest type like me.`
-` That makes me so mad!`
-`...Well, still, a super‐firepower type like me can easily go head‐on against a light, wide‐range barrage type like {f:5:Beatrice},`
-` so I guess it's kinda like rock‐paper‐scissors.`
-`If I'm paper, Beato's rock.`
-`I guess Bern would be scissors.`
-`Weeelll, maybe none of that matters anyway.`
-`Sure, my paper loses to Bern's scissors,`
-` but if it was the way more awesome super‐paper, which is as thick as wood, it could even beat scissors, right?!`
-`In other words, I, Lady {f:5:Lambdadelta},`
-` am super‐paper, and super‐thick!`
-` Hoh‐hoh‐hoh‐ho!`
-`It looks like the color's come back to your face a little.`
-`That Beato, she's having fun torturing some piece called Rosa.`
-`At a glance, you'd think she has really nasty hobbies, right?`
-` Wrong, though!`
-`......She's just killing time, hoping you'll get up and come back.`
-`It's a move to fire up your righteous indignation by doing something to make you hate her on purpose.`
-`Ah man, I hate kids like that!`
-`Well then, I'll go back.`
-`Ah!`
-` Don't you tell anyone that I helped you out just a teensy bit!`
-`I mean, it's not like I helped you because I wanted to save you, okay?!`
-`I, the strongest witch in the universe, had my seat as the strongest stolen when I lost to Bern!`
-`So it's like, I have to take that seat back from Bern,`
-` but if Bern loses to Beato here, then the position of the strongest will be moved to Beato this time, right?!`
-`...Well, it'd be easier to steal it back from Beato, so who cares really, but that won't satisfy me, you know what I mean?!`
-`I'm gonna be the one to defeat Bern!`
-`And I'll take back my position as the strongest!`
-`It's not like I'm really helping you, okay?!`
-`I won't forgive you if you make Bern cry!`
+`Es tan vergonzoso hacer esto.`
+`He hecho todo esto por ti, así que date prisa y vuelve a levantarte.`
+`"Ah, ahí estás.`
+` ¿Se ha ido Bern a algún sitio?`
+` *risita*, ¿no podría ser más patética?"`
+`En cualquier caso.`
+`Las piezas que elige Bern son horribles como siempre, eh.`
+`Es lo mismo con el ajedrez, ¿verdad?`
+`Si todas tus piezas fueran peones, tendrías cero oportunidades de ganar, ¿cierto?`
+`Si todas tus piezas fueran torres y alfiles, no habría forma de que perdieras.`
+`¡¡B‐bueno, la última vez, sentí un poco de lástima y le dije que podía colocar sus piezas donde quisiera,`
+` y entonces la idiota de Bern no se dio cuenta de mi compasión y empezó con todos sus peones promocionados en la octava fila!!`
+`¿Qué pasa con eso? ¡¡No fue una derrota ni nada parecido!!`
+` Aaah, solo de recordarlo me entran náuseas.`
+`Así que, mira, estaré molesta hasta que no vea a la estúpida de Bern quedarse sin palabras.`
+`¡Así que verte en este estado como pieza de Bern me hace sentir increíble!`
+`¡Además, lo creas o no, esa chica odia mucho perder,`
+` así que apuesto a que ahora mismo está rechinando los dientes de frustración, llorando como un bebé,`
+` es tan patética, *risita*, hohhh‐hoh‐hoh‐hoh‐hoh‐ho!`
+`Vamos, ríete conmigo, oh‐hoh‐hoh‐hoh‐ho!`
+`Espera un segundo.`
+`¿Sigues abrazándote las rodillas?`
+`¿Estás así solo porque Beato se puso un poco seria?`
+`¿No podrías ser un poco menos patético?`
+`Eres tan patético, así que te ayudaré solo un poquito.`
+`Yo, la gran {f:5:Lambdadelta}, la Bruja de la Certeza y la más fuerte del universo,`
+` hará que tus pocas posibilidades de ganar se acerquen un poquito más a la certeza.`
+` Será mejor que me lo agradezcas.`
+`Sabes, puede que {f:5:Beatrice} sea una bruja cruel y poderosa, pero no es rival para mí.`
+`¿Por qué?`
+` Porque es demasiado blanda.`
+`Esa niña preparará un tablero de modo que pueda ganar con unos pocos movimientos más, pero deliberadamente no acabará contigo.`
+`Hará cosas como coger piezas sin valor o poner demasiadas piezas en el tablero para hacer las cosas aún más desiguales.`
+`El punto es que tiene la mala costumbre de juguetear cuando cree que va a ganar.`
+`Casi todos los diversos ataques que son perjudiciales para ti y para Bern...`
+` me parecen a mí como un desperdicio total y una exageración.`
+`Básicamente, esa es su debilidad, y también es tu oportunidad.`
+` ¿Entiendes?`
+` No es una oponente a la que temer, ¿verdad?`
+`A veces ella confunde los medios con el fin.`
+`Y se divierte mucho con cosas inecesarias.`
+`Como resultado, ella hace e incluso expone sus propios puntos débiles.`
+`Es imposible para una bruja tan fuerte como yo entender por qué actúa tan relajada.`
+`Disminuyendo sus propias posibilidades de ganar.`
+`Pero, bueno.`
+`Por eso el tipo de bruja como Bern que lee a su oponente y esquiva sus movimientos tiene muy mala compatibilidad con ella.`
+` Porque leerla no funciona.`
+`Probablemente sea muy fácil para Bern leer y manejar a alguien obediente y honesta como yo.`
+` ¡Eso me enfurece!`
+`Bueno, aun así, alguien con una superpotencia de fuego como yo puede enfrentarse fácilmente a alguien de ataque ligero y de gran alcance como {f:5:Beatrice},`
+` así que supongo que es como piedra, papel o tijeras.`
+`Si yo soy el papel, Beato es la piedra.`
+`Supongo que Bern sería las tijeras.`
+`Bueeeeno, tal vez nada de eso importa de todos modos.`
+`Claro, mi papel pierde ante las tijeras de Bern,`
+` ¡pero yo soy el mucho más asombroso superpapel, que es tan grueso como la madera, que puede incluso vencer a las tijeras, ¿verdad?!`
+`¡En otras palabras, yo, Lady {f:5:Lambdadelta},`
+` soy un superpapel!`
+` ¡Hoh‐hoh‐hoh‐ho!`
+`Parece que tu cara ha recuperado un poco su color.`
+`Esa Beato, se está divirtiendo torturando a una pieza llamada Rosa.`
+`A simple vista, podrías pensar que tiene aficiones muy desagradables, ¿verdad?`
+` ¡Estás equivocado!`
+`Ella solo está matando el tiempo, esperando que te levantes y vuelvas.`
+`Es una maniobra para despertar tu justa indignación haciendo algo para que la odies a propósito.`
+`¡Hombre, odio a los niños así!`
+`Bueno, entonces, volveré.`
+`¡Ah!`
+` ¡No le digas a nadie que te ayudé un poquito!`
+`¡Quiero decir, no es como si te hubiera ayudado porque quería salvarte, ¿de acuerdo?!`
+`¡A mí, la bruja más fuerte del universo, me robaron mi puesto como la más fuerte cuando perdí contra Bern!`
+`¡Así que tengo que quitarle ese asiento a Bern,`
+` pero si Bern pierde contra Beato aquí, entonces la posición del más fuerte se trasladará a Beato esta vez, ¿verdad?!`
+`Bueno, sería más fácil robárselo a Beato, así que a quién le importa realmente, pero eso no me dejará satisfecha, ¡¿sabes a lo que me refiero?!`
+`¡Yo seré quien derrote a Bern!`
+`¡Y recuperaré mi posición como la más fuerte!`
+`¡No es como si realmente te estuviera ayudando, ¿okay?!`
+`¡No te perdonaré si haces llorar a Bern!`

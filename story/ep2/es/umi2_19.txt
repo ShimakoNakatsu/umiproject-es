@@ -1,396 +1,396 @@
 `"................................."`
-`Rosa woke up from her doze.`
-`......It must have been a very deep sleep.`
-`{n}Her mind was fuzzy and she wasn't thinking clearly.`
-`Where was she...`
-`{n}It felt like some mansion, but at least it didn't seem to be the Ushiromiya family mansion.`
-`She was in a room that looked like a parlor.`
-`......And there was some tea that had been prepared.`
-`{n}It had almost certainly been prepared for her.`
-`Sparkles like gold leaf were dancing around the room, and it looked very dreamlike.`
-`...She eventually realized that they were gold butterflies, which made that stand out even more.`
-`There was someone across from her.`
-`......Female.`
-` ......A lady.`
-`.........The witch...`
-`of the portrait.`
-`She looked like she was having a one‐sided conversation.`
-`She was probably talking to Rosa,`
-` but Rosa's mind was clouded up by a deep fog, and she didn't have a clue what was being said...`
-`"......It can be anything.`
-` If there is anything you desire, I will give you it all.`
-` You may think of it as a reward for your good luck, or as a proper trade for my demands."`
-`"To you, it may not be that great a thing at all.`
-` But that is how significant this transaction is to me."`
-`............What is she...talking about.`
-`...I don't know,`
-` ...I don't know.`
-`"Only, ......considering that I {i:am} a witch,`
-` I think it would be wise to ask for something that only a witch can grant."`
-`"Isn't this a rare chance.`
-` You can actually receive a favor from me, {f:5:Beatrice} the Golden.`
-` *cackle*cackle*!"`
-`"........................u........."`
-`Finally, Rosa started to feel the blood flowing through her body.`
-`{n}...Her movements were still sluggish, and she couldn't even voice the words she was thinking.`
-`"I am commonly called the Golden Witch.`
-` Bestowing a mountain of gold, like I gave to Kinzo, is no problem for me.`
-` ......After all, every pleasure of the human world can be expressed in terms of cash.`
-` Put another way, gold is human pleasure itself."`
-`"Can you imagine?`
-` A mountain of gold that you couldn't use up as long as you lived."`
-`The witch blew on her pipe, and seven colors of smoke covered the area.`
-`When she did, the inside of the parlor...had suddenly become filled with stacks of gold ingots.`
-`It looked like a shining gold‐colored wall.`
-`...If each ingot was worth tens of millions of yen,`
-` how much would all of this be worth?`
-`It seemed sinful to even think of that number.`
-`"......However, the human world is difficult.`
-` I know that there are some things that cannot be satisfied no matter how high into the sky you pile up gold.`
-` I know that there are cracks that can't be filled."`
-`"I won't make light of that, and in fact, I believe that is why this is a gift that only a witch such as I can give."`
-`"......Why don't I fill those cracks in for you?`
-` Yes, how about this.`
-` It's something that only I can give.`
-` You should be very happy."`
-`"......You don't have to say it out loud.`
-` I can understand it right away, the cracks in your heart are written on your face, *cackle*cackle*!"`
-`Rosa felt a touch of discomfort at this witch,`
-` who kept on talking even though she herself hadn't uttered a single word,`
-` but since she still couldn't speak well, and found it difficult even to move a finger, she could do nothing about it,`
-` and was unable to do anything but listen.`
-`"How far back must I trace the deep wounds in your heart in order to heal them?"`
-`"......This is...`
-`...deep,`
-` deep.`
-` ......Sometimes, wounds close up while a fragment of something is still inside.`
-` ...Even when those wounds appear to have healed, they will continue to throb for all eternity.`
-` Sometimes you have to open the wound once to completely heal it."`
-`As the witch spoke, she was staring deep into Rosa's eyes.`
-`......What in the world...was she peering at?`
-` Rosa felt uncomfortable, but she couldn't look away.`
-`"............So this pain of yours was preordained from your very birth.`
-` ...How heart‐breaking.`
-` ...You don't have to say it.`
-` I understand.`
-` ......I understand......"`
-`Gradually, Rosa, in turn, was drawn into the witch's eyes.`
-`Gradually, the world grew dark, spinning round and round as she was sucked in...`
+`Rosa se despertó de su letargo.`
+`Debe de haber sido un sueño muy profundo.`
+`{n}Su mente estaba confusa y no podía pensar con claridad.`
+`¿Dónde estaba...?`
+`{n}Parecía una mansión, pero no parecía ser la mansión de la familia Ushiromiya.`
+`Estaba en una habitación que parecía un salón.`
+`Y había té preparado.`
+`{n}Estaba casi segura de que se había preparado para ella.`
+`Alrededor de la sala se veía algo parecido a hojas doradas brillantes que danzaban en el aire y transformaban la escena en algo fantástico.`
+`Al final se dio cuenta de que eran mariposas doradas, lo que hizo que aquello resaltara aún más.`
+`Había alguien enfrente de ella.`
+`Una mujer.`
+` Una dama.`
+`La bruja...`
+` del retrato.`
+`Parecía que ella estaba teniendo una conversación unilateral.`
+`Probablemente estaba hablando con Rosa,`
+` pero la mente de Rosa estaba nublada, y no tenía ni idea de lo que se decía...`
+`"Puede ser cualquier cosa.`
+` Si hay algo que desees, te lo concederé.`
+` Puedes considerarlo una recompensa por tu buena suerte, o como un intercambio por mis demandas."`
+`"Puede que no sea tan importante para ti.`
+` Pero esta es una transacción importante para mí."`
+`¿De qué... está hablando?`
+`No lo sé,`
+` no lo sé.`
+`"Es solo que, considerando que {i:soy} una bruja,`
+` pienso que lo más sabio sería pedir algo que solo una bruja podría conceder."`
+`"¿No es esta una oportunidad única?`
+` ¡Podrás recibir un favor de {f:5:Beatrice} la Dorada.`
+` *carcajada*carcajada*!"`
+`"u..."`
+`Finalmente, Rosa empezó a sentir la sangre fluir por su cuerpo.`
+`{n}Sus movimientos seguían siendo lentos y ni siquiera podía pronunciar las palabras que estaba pensando.`
+`"Se me conoce comúnmente como la Bruja Dorada.`
+` Dar una montaña de oro, como la que le di a Kinzo, no es un problema para mí.`
+` Al fin y al cabo, todos los placeres del mundo humano pueden expresarse en términos de dinero.`
+` Dicho de otro modo, el oro es el placer humano en sí mismo."`
+`"¿Te lo imaginas?`
+` Una montaña de oro que no podrías ni gastar en toda tu vida."`
+`La bruja sopló su pipa, y siete colores de humo cubrieron la zona.`
+`Cuando lo hizo, el interior del salón se llenó de repente de montones de lingotes de oro.`
+`Parecía una brillante pared dorada.`
+`Si cada lingote vale decenas de millones de yenes,`
+` ¿cuánto valdría todo esto?`
+`Me pareció pecaminoso siquiera pensar en esa cifra.`
+`"Sin embargo, el mundo humano es difícil.`
+` Sé que hay cosas que no se pueden conseguir por muy alto que llegue tu montón de oro al cielo.`
+` Sé que hay grietas que no se pueden tapar."`
+`"No voy a quitarle importancia a eso, y de hecho, creo que es precisamente por eso que este es un regalo que solo una bruja como yo puede dar."`
+`"¿Por qué no relleno esas grietas por ti?`
+` Sí, ¿qué tal esto?`
+` Es algo que solo yo puedo dar.`
+` Deberías alegrarte mucho."`
+`"No hace falta que lo digas en voz alta.`
+` ¡Puedo entenderlo enseguida, las grietas de tu corazón están escritas en tu cara, *carcajada*carcajada*!"`
+`Rosa sintió una pizca de incomodidad ante esta bruja,`
+` quien seguía hablando a pesar de que ella misma no había pronunciado ni una sola palabra,`
+` pero como seguía sin poder hablar con claridad y le costaba aún más poder moverse, no podía hacer nada al respecto,`
+` y no era capaz de hacer otra cosa que no sea escuchar.`
+`"¿Hasta dónde debo recorrer las profundas heridas de tu corazón para curarlas?"`
+`"Es...`
+` profunda,`
+` muy profunda.`
+` A veces, las heridas se cierran mientras un fragmento de algo sigue aún dentro.`
+` Incluso cuando esas heridas parecen haber cicatrizado, seguirán doliendo por toda la eternidad.`
+` Algunas veces hay que abrir la herida una vez más para curarla del todo."`
+`Mientras hablaba, la bruja miraba fijamente a los ojos de Rosa.`
+`¿Qué rayos... estaba mirando?`
+` Rosa se sentía incómoda, pero no podía apartar la mirada.`
+`"Así que este dolor tuyo estaba predestinado desde tu mismo nacimiento.`
+` Qué desgarrador.`
+` No tienes que decirlo.`
+` Lo entiendo...`
+` Lo entiendo..."`
+`Gradualmente, Rosa se sintió atraída por los ojos de la bruja.`
+`Gradualmente, el mundo se oscureció, girando sin cesar mientras ella era absorbida...`
 `Rosa, Rosa.`
-` Why are you such an idiot?`
-`Oh, that's Krauss nii‐san's voice.`
-`{n}Krauss nii‐san is very grown‐up, so he's very smart.`
-`{n}So he hated the stupid kid Rosa.`
-`And he was a very scary person, and I was often hit, and my toys were taken from me and broken.`
-`He would say it was a punishment because I did something bad, but I didn't really understand what that was, or why I was being punished.`
-`I was always punished suddenly, and then after the fact, I was told in a contrived manner that it was a punishment for something or other,`
-` but it was always something I didn't remember doing.`
-`......So I really hated Krauss nii‐san.`
+` ¿Por qué eres tan idiota?`
+`Oh, esa es la voz de Krauss nii-san.`
+`{n}Krauss nii-san es muy adulto, así que es muy listo.`
+`{n}Así que él odiaba a Rosa, la estúpida niña.`
+`Él era una persona muy aterradora, y a menudo me pegaba, y me quitaba los juguetes y me los rompía.`
+`Decía que era un castigo porque había hecho algo malo, pero yo no entendía qué había hecho mal ni por qué me castigaban.`
+`Siempre me castigaban de repente y, después, me decían de una manera rebuscada que era un castigo por algo que hice,`
+` pero siempre era algo que no recordaba haber hecho.`
+`Es por eso que yo odiaba mucho a Krauss nii-san.`
 `Rosa, Rosa.`
-` Why are you such an idiot?`
-`Oh, that's Eva nee‐san's voice.`
-`{n}Eva nee‐san is very grown‐up, so she's very smart.`
-`{n}So she hated the stupid kid Rosa.`
-`And she was a very sly person, and I was often lied to, tricked, and bullied a lot.`
-`She would say it was because I was stupid, and that it was only natural for stupid people to be swindled by those smarter than them.`
-`So I wanted to become a wise person like Eva nee‐san, and listened to what she said, but when I obeyed her, for some reason, someone always got really mad at me.`
-`......So I really hated Eva nee‐san.`
+` ¿Por qué eres tan idiota?`
+`Oh, esa es la voz de Eva nee-san.`
+`{n}Eva nee‐san es muy adulta, así que es muy lista.`
+`{n}Así que ella odiaba a Rosa, la estúpida niña.`
+`Ella era una persona muy maliciosa, y a menudo me mentía, me engañaba y me intimidaba mucho.`
+`Decía que era porque yo era estúpida, y que era normal que los estúpidos fueran engañados por los más listos.`
+`Así que quería convertirme en una persona sabia como Eva nee-san, y escuchaba lo que decía, pero cuando la obedecía, por alguna razón, alguien siempre se enfadaba mucho conmigo.`
+`Es por eso que yo odiaba mucho a Eva nee‐san.`
 `Rosa, Rosa.`
-` Why are you such an idiot?`
-`Oh, that's Rudolf nii‐san's voice.`
-`{n}Rudolf nii‐san is very shrewd.`
-`{n}So he hated the stupid kid Rosa.`
-`When Krauss nii‐san was around, he was friendly with Krauss nii‐san.`
-`{n}When Eva nee‐san was around, he was friendly with Eva nee‐san.`
-`...And when Krauss nii‐san wasn't around, he was violent like Krauss nii‐san,`
-` and when Eva nee‐san wasn't around, he played dirty like Eva nee‐san.`
-`And even though he too was bullied most of the time,`
-` when Krauss nii‐san and Eva nee‐san weren't around, he gave me two people's worth of bullying.`
-`......So I really hated Rudolf nii‐san.`
-`......Oh, but these are my memories from when I was a kid.`
-`Quite a lot of unfair things happen when you're a kid.`
-`{n}And you can't drag them out forever.`
-`In time, you bury them away in the far reaches of memory, and forget them bit by bit; that is supposed to be what it means to grow up, and become an adult.`
-`So becoming an adult is the same thing as separating yourself from all of those memories.`
-`And so.`
-` No matter how much time passed, Rosa couldn't become an adult.`
-`......Even though she had been blessed with a daughter called Maria and was called a mother,`
-` ...she didn't at all feel like she had become an adult.`
-`The witch pitied that.`
-`And she smiled, saying that she could heal that pain herself.`
-`"......How to heal you.`
-` It's possible, but not easy.`
-` ...I could even rewind time, and give you a world where you have no elder siblings."`
-`"But that way, your "memories of being hurt by your elder siblings" wouldn't remain,`
-` and therefore, you would be unable to acknowledge it as a reward."`
-`"It is the relieving of hunger that brings satisfaction.`
-` If you erase hunger itself, no one will thank you.`
-` Just like how there are no young people who give thanks for their daily gluttony.`
-` ......Understand?"`
-`I think she just told me something really difficult.`
-`...In short, even if she makes it so that I never had elder siblings, the pain wouldn't be removed,`
-` maybe that's what she's saying.`
-`Strictly speaking, it's different.`
-`{n}Healing isn't the same thing as removing pain.`
-`{n}It's the pleasure earned for withstanding pain.`
-`Therefore, there can be no healing without pain.`
-`{n}To know the joy of healing, you have to know the pain.`
-`"In that case, ......you will require joy that compensates for your pain.`
-` You can feel proud of the past you have suffered.`
-` Because you are qualified to know a kind of pleasure that those who have not known suffering cannot taste.`
-` ...Those that have known this pleasure cannot help but give the same joy to others...`
-` *cackle*cackle*..."`
-`The witch snapped her fingers, and even though the room was still filled with a mountain of gold,`
-` and was already like something from another world, a fabulous tablecloth appeared on top of the table,`
-` and wonderful cooking was laid out, almost as though it was the opening of a banquet in a castle from some fairy tale.`
-`For an instant, Rosa felt a pleasurable surprise at how fabulous it was,`
-` ...but at the same time, she felt a bit of anticlimax.`
-`Because she found herself thinking that being bullied by her siblings...`
-`couldn't be wiped away by just one meal, no matter how delicious.`
-`"Food contains many of the human pleasures.`
-` You must eat like a pig as long as you live."`
-`"If one meal isn't enough, then as many as you want.`
-` Let us continue this gourmet banquet until the pain of your heart is healed.`
-` ......Begin, furniture."`
-`As the witch clapped twice,`
-` there were suddenly goat‐head servants there, and they began to prepare the meal.`
-`From the beautiful food dishes adorning the table, they efficiently took some food and began to pile it up on Rosa's plate.`
-`It really did look delicious, but Rosa's body still felt as heavy as lead,`
-` and there was no way she could eat.`
-`Maybe they also understood that.`
-`The goat‐head servants tied a napkin around Rosa's collar,`
-` and gallantly brought a glass of before‐dinner alcohol to her mouth, and even tilted it for her.`
-`She remembered an old servant who had once carried rice porridge to her mouth when she was laid up with a high fever.`
-`She couldn't drink it well, and it dripped down from her mouth, but she felt the fragrant sweetness spread throughout her mouth.`
-`"It's a sweet aperitif of noble rot German‐made wine.`
-` A wine cocktail of white wine tinged with crimson golden drops."`
-`"If I had to give it a name, I'd call it a Bloody Krauss.`
-` The color comes solely from golden drops of your brother's blood, obtained by placing him in a compressor."`
-`"Bghk......?! *cough*, *cough*......!!"`
-`Rosa coughed violently.`
-` And the bright red that stained her face made it look as though she had coughed up blood.`
-`"You know a lot about black tea, so you should know what it means, right?`
-` "Golden drop" refers to the last drop.`
-` It is called the most precious drop in black tea."`
-`".........So a golden drop of blood is the same.`
-` The last and most precious drop of blood squeezed out of a human.`
-` It's squeezed with that."`
-`As the witch snapped her fingers, a bright red veil was pulled off something large which had not been there moments ago.`
-`......The solemn and massive machine there was just like...`
-`a coffin for a large‐sized person, with many large bulb‐like things stuck to it,`
-` and it looked like a sinister torture device.`
-`By its unnerving shape,`
-` you could tell that it used manpower to tighten and compress something.`
-`...And it seemed that there were still some squeezed dregs remaining inside,`
-` because of the bright red remains that stained it.`
-`"But you can't take more than one golden drop at once.`
-` No matter what kind of human you take it from, you can't get more than one drop.`
-` But I am a witch.`
-` It is also easy to revive a person."`
-`When the witch snapped her fingers, suddenly, the human compressor began to shake.`
-` ...No, you could also hear a groan.`
-`......It looked almost as though someone had been sleeping in that man‐sized coffin,`
-` had woken up, and was now struggling to get out.`
-`But that was wrong.`
-`{n}What was inside had definitely {i:been squeezed dregs}.`
-`Using her magic, the witch had once again revived the squeezed dregs to how they had been before they were squeezed.`
-`Three goat‐head servants with muscular physiques approached the compressor, and forcefully started tightening the large bulbs.`
-`...As they did, an unearthly moan came from the inside of the coffin.`
-`{n}...Rosa thought she knew the owner of that voice.`
-`"It is fitting for cooking to be done in the kitchen.`
-` That is enough, stand back."`
-`"......Do you understand now how precious a golden drop is?`
-` To have it stained this crimson requires that {i:several dozen people's worth} be squeezed."`
-`The witch had definitely said that only one golden drop could be taken from a single human.`
-`And yet, she had dozens of people's worth of golden drops from a single human.`
-`{n}......Only a witch could do this.`
-`The Golden Witch {f:5:Beatrice} could kill a single human "endlessly".`
-`......In other words, before {f:5:Beatrice}, even death did not mean release.`
-`"Want a second sip?`
-` Have you forgotten the day this man hit you, and you swallowed the blood that ran into your mouth?"`
-`"That's right, remember that taste.`
-` Remember the taste of the tears that you spilled until you were dry.`
-` I believe this aperitif will be sufficient to heal that regrettable memory.`
-` *cackle*cackle*!!"`
-`Once again, the goat‐head servants tilted the deep red glass against her mouth.`
-`...Rosa attempted to close her lips in resistance,`
-` but the deep red liquid was relentlessly poured into her mouth, which was hanging open with shock,`
-` and the inside of her mouth was filled with a ghastly sweetness...`
-`It was definitely a fragrant sweetness.`
-`Her brother, who she had thought of so hatefully, and who had made her soak her pillow so many times,`
-` had died dozens of times over to tinge this wine crimson, so it must have tasted sweet.`
-`But Rosa tried to spit it out.`
-`Because of that, the deep red wine that spilled out of Rosa's mouth made her look as if she was covered in blood.`
-`......If this ghastly substance was only the aperitif,`
-` Rosa couldn't help but feel uncomfortable about what would happen if this banquet continued.`
-`"That is a forked‐tongued salad made from vegetables in season.`
-` ...On your ninth birthday, you wished you could bite it off someday—so here is that salad you desired, made from Eva's tongue."`
-`"........................!!!"`
-`When Rosa heard the true nature of the pink‐colored meat piled up in the salad,`
-` she had a sudden impulse to vomit her guts out.`
-`...Furthermore, the goat servants stuck a fork in it, and carried it to Rosa's mouth.`
-`"How does your sister's forked tongue taste?`
-` It must be quite soft and enchanting, right?`
-` *cackle*cackle*!"`
-`How sweet, soft and enchanting it must have tasted in her mouth.`
-`After all, Eva's lies were always sweet, and young Rosa had always listened to them.`
-`...So you could say that the taste of the stimulating pepper seasoning that had been added expressed the details of those lies well.`
-`"......mnnnnnnnnnnn!!`
-` mnnnnnnnnnnnnnn!!"`
-`Rosa spat out the tongue salad that kept being pushed into her mouth, covering it with saliva.`
-`But the goat‐head servants carefully returned it to the plate and carried it to Rosa's mouth over and over again.`
-`"It goes without saying, but I made this salad generously using five of Eva's tongues.`
-` You can't steal more than one tongue out of one person.`
-` But I can steal it over and over.`
-` *cackle*cackle*!!"`
-`".........nnnnnnnnnnnnnnn!!`
-` nnnnnnnnnnnnnnnnnnnnn!!"`
-`As Rosa's tears dripped down, she resisted, half‐crazed.`
-`{n}However, the only way she could resist was by refusing to swallow.`
-`Even if she didn't swallow it,`
-` the taste of the french dressing increasingly violated Rosa's mouth...`
-`"Is it not to your satisfaction...?`
-` There's still much more food.`
-` Sea bass pie wrapped in the skin of Rudolf's face.`
-` Soup with boiled brains, liver pate.`
-` And look forward to dessert, *cackle*cackle*!!"`
-`"It's not just your siblings, see?`
-` I have lavishly arranged all of those who you have trusted and yet betrayed you.`
-` Why don't we continue this banquet for all eternity, until your heart is satisfied.`
-` For all eternity."`
-`"......You're happy, riiiight, Ushiromiya Rosaaaa?`
-` Don't pretend that you hate it I know that you're really happy alriiight?`
-` If you want to laugh, then laugh,`
-` if you won't feel better until you've heard a live performance of your annoying elder siblings' screams, then I'll let you hear them as often as you want."`
-`"It's alright that you are so unwilling.`
-` That's your personality, isn't it?`
-` You're actually so happy that your skin is crawling all over.`
-` And yet, on the outside, you're just pretending to act like you're in pain, aren't youuu?"`
-`"It's alright, there is no need to worry about honor or your public image or anything here,`
-` so laugh as much as you want and chew it to bits.`
-` Isn't this the bessst banquet, Ushiromiya Rosaaaa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aaaaa???"`
-`".........st‐`
-` .........please,`
-` ......stop......`
-`...*cough*, *hack*!!`
+` ¿Por qué eres tan idiota?`
+`Oh, esa es la voz de Rudolf nii‐san.`
+`{n}Rudolf nii‐san es muy astuto.`
+`{n}Así que él odiaba a Rosa, la estúpida niña.`
+`Cuando Krauss nii-san estaba cerca, era amistoso con Krauss nii-san.`
+`{n}Cuando Eva nee-san estaba cerca, era amistoso con Eva nee-san.`
+`Y cuando Krauss nii-san no estaba, era tan violento como Krauss nii-san,`
+` y cuando Eva nee-san no estaba cerca, jugaba sucio como Eva nee-san.`
+`Y aunque él también era intimidado la mayor parte del tiempo,`
+` cuando Krauss nii-san y Eva nee-san no estaban, me intimidaba por los dos.`
+`Es por eso que yo odiaba mucho a Rudolf nii-san.`
+`Oh, pero estos son mis recuerdos de cuando era niña.`
+`Cuando eres niño te pasan muchas cosas injustas.`
+`{n}Y no puedes guardar rencores como esos para siempre.`
+`Con el tiempo, los entierras en lo más recóndito de la memoria y los olvidas poco a poco; se supone que eso es lo que significa crecer y convertirse en adulto.`
+`Convertirse en adulto es lo mismo que separarse de todos esos recuerdos.`
+`Y por eso,`
+` no importa cuánto tiempo pasara, Rosa no podía convertirse en adulta.`
+`Aunque fue bendecida con una hija llamada María y se convirtió madre,`
+` ella no sentía en absoluto que se hubiera convertido en adulta.`
+`La bruja se compadeció de eso.`
+`Y sonrió, diciendo que ella misma curaría ese dolor.`
+`"¿Cómo puedo curarte?`
+` Es posible, pero no es fácil.`
+` Podría incluso rebobinar el tiempo y darte un mundo en el que no tuvieras hermanos mayores."`
+`"Pero de ese modo, tus "recuerdos de haber sido lastimada por tus hermanos mayores" no desaparecerían,`
+` y, por lo tanto, no podrías reconocerlo como recompensa."`
+`"Lo que produce satisfacción es mitigar el hambre.`
+` Si eliminaras el hambre en sí, nadie te lo agradecería.`
+` Al igual que no hay jóvenes que den gracias por su glotonería diaria.`
+` ¿Entiendes?"`
+`Creo que acaba de decirme algo bastante difícil.`
+`En resumen, aunque ella hiciera que nunca tuviera hermanos mayores, el dolor no se me quitaría,`
+` quizás es eso lo que está diciendo.`
+`Estrictamente hablando, es diferente.`
+`{n}Curar no es lo mismo que quitar el dolor.`
+`{n}Es el placer que se gana por soportar el dolor.`
+`Por lo tanto, no puede haber curación sin dolor.`
+`{n}Para conocer la alegría de ser curada, hay que conocer el dolor.`
+`"En ese caso, es necesario que conozcas la alegría para compensar tu dolor.`
+` Podras sentirte orgullosa del pasado que has sufrido.`
+` Porque estás cualificada para conocer un tipo de placer que aquellos que no han conocido el sufrimiento no pueden saborear.`
+` Quien conoce este placer no pueden evitar compartir la misma alegría con los demás.`
+` *carcajada*carcajada*..."`
+`La bruja chasqueó los dedos, y aunque la habitación estaba repleta de oro,`
+` lo que ya era algo de otro mundo, un fabuloso mantel apareció sobre la mesa,`
+` y una maravillosa comida fue servida, casi como si fuera la inauguración de un banquete en un castillo de algún cuento de hadas.`
+`Por un instante, Rosa sintió una placentera sorpresa ante lo fabuloso que era todo,`
+` pero al mismo tiempo, se sintió un poco decepcionada.`
+`Porque pensó que el haber sido maltratada por sus hermanos...`
+` no se olvidaría con solo una comida, por muy deliciosa que fuera esta.`
+`"La comida contiene muchos de los placeres humanos.`
+` Debes comer como un cerdo mientras vivas."`
+`"Si una comida no es suficiente, entonces come tantas como quieras.`
+` Continuemos con este banquete gourmet hasta que el dolor de tu corazón se cure.`
+` Comiencen, muebles."`
+`Cuando la bruja aplaudió dos veces,`
+` aparecieron repentinamente varios sirvientes con cabezas de cabra y empezaron a preparar la cena.`
+`De los preciosos platos de comida que adornaban la mesa, tomaron eficientemente algo de comida y empezaron a apilarlo en el plato de Rosa.`
+`Se veía muy delicioso, pero el cuerpo de Rosa seguía sintiéndose tan pesado como el plomo,`
+` y no había manera de que ella pudiera comer.`
+`Quizá ellos también se dieron cuenta de eso.`
+`Los sirvientes con cabezas de cabra ataron una servilleta alrededor del cuello de Rosa,`
+` y galantemente le acercaron a la boca una copa de alcohol, e incluso se la inclinaron hacia ella.`
+`Ella se acordó de una vieja sirvienta que una vez le llevó gachas de arroz a la boca cuando estuvo postrada con mucha fiebre.`
+`Ella no podía beberlo bien, y le goteaba por la boca, pero sentía que el fragante dulzor se extendía por toda su boca.`
+`"Se trata de un dulce aperitivo de un azucarado vino alemán añejado.`
+` Un cóctel de vino blanco matizado con unas rojizos golden drops."`
+`"Si tuviera que llamarlo de alguna manera, lo llamaría Bloody Krauss.`
+` El color proviene únicamente de las golden drops de la sangre de tu hermano, obtenidas al ponerlo en un compresor."`
+`"¡¿Bghk...?! ¡¡*toser*, *toser*...!!"`
+`Rosa tosió violentamente.`
+` Y el rojo vivo que manchaba su cara hacía parecer que había tosido sangre.`
+`"Sabes mucho sobre el té negro, así que ya deberías saber lo que significa, ¿verdad?`
+` Una "golden drop" hace referencia a la última gota.`
+` Se le considera la gota más preciada del té negro."`
+`"Así que una golden drop de sangre es lo mismo.`
+` La última y más preciada gota de sangre exprimida de un ser humano.`
+` Fue exprimida con esto."`
+`Cuando la bruja chasqueó los dedos, un velo rojo brillante se desprendió de algo grande que no estaba allí hace unos momentos.`
+`La solemne y masiva máquina era como...`
+` un ataúd para una persona de gran tamaño, con un gran número de artilugios en forma de arco unidos a el,`
+` y parecía un siniestro aparato de tortura.`
+`Por su desconcertante forma,`
+` se podría decir que ha hecho falta mano de obra para apretar y comprimir algo.`
+`Y parece que aún quedaba un poco de ese contenido exprimible,`
+` por el rojo brillante de los restos que estaban en el.`
+`"Pero no puedes tomar más de una golden drop a la vez.`
+` No importa a qué tipo de humano utilices, no puedes obtener más de una gota.`
+` Pero yo soy una bruja.`
+` Me es también fácil revivir a una persona."`
+`Cuando la bruja chasqueó los dedos, repentinamente, el compresor de humanos empezó a temblar.`
+` Y no solo eso, también se oía un gemido.`
+`Parecía casi como si alguien que había estado durmiendo en ese ataúd del tamaño de un hombre,`
+` se hubiera despertado, y ahora luchaba por salir.`
+`Pero eso era incorrecto.`
+`{n}Lo que había dentro definitivamente {i:había sido exprimido}.`
+`Usando su magia, la bruja revivió una vez más los restos exprimidos a la forma que tenían antes de ser exprimidos.`
+`Tres sirvientes con cabezas de cabra y cuerpos musculosos se acercaron al compresor y activaron la máquina.`
+`Mientras lo hacían, un gemido sobrenatural salió del interior del ataúd.`
+`{n}Rosa creía conocer al dueño de esa voz.`
+`"Es conveniente que se cocine en la cocina.`
+` Es suficiente, retrocedan."`
+`"¿Entiendes ahora lo preciada que es una golden drop?`
+` Para que se tiña de este carmesí hace falta que se expriman {i:varias decenas de personas}."`
+`La bruja definitivamente había dicho que solo se podía conseguir una golden drop de un humano.`
+`Y a pesar de eso, ella había extraído varias decenas de golden drops de un solo humano.`
+`{n}Únicamente una bruja podría hacer eso.`
+`La Bruja Dorada {f:5:Beatrice} podía matar a un único humano "interminablemente".`
+`En otras palabras, ante {f:5:Beatrice}, ni siquiera la muerte conllevaba a la liberación.`
+`"¿Quieres un segundo sorbo?`
+` ¿Has olvidado el día en que este hombre te golpeó y tragaste la sangre que corría por tu boca?"`
+`"Eso es, recuerda ese sabor.`
+` Recuerda el sabor de las lágrimas que derramaste hasta no poder más.`
+` Creo que este aperitivo será suficiente para curar ese lamentable recuerdo.`
+` ¡¡*carcajada*carcajada*!!"`
+`Una vez más, los sirvientes con cabezas de cabra inclinaron la copa de color rojo intenso contra su boca.`
+`Rosa intentó cerrar los labios en señal de resistencia,`
+` pero el líquido rojo intenso se vertía incesantemente en su boca, que estaba abierta de asombro,`
+` y el interior de su boca se llenó de una dulzura espantosa...`
+`Definitivamente era una dulzura fragante.`
+`Su hermano, en quien tan odiosamente había pensado, y que tantas veces le había hecho empapar la almohada,`
+` había muerto docenas de veces para teñir este vino de carmesí, así que debía de saber dulce.`
+`Pero Rosa intentó escupirlo.`
+`Por eso, el vino rojo intenso que salía de la boca de Rosa la hacía parecer como si estuviera cubierta de sangre.`
+`Si esta espantosa sustancia era solo el aperitivo,`
+` Rosa no podía evitar sentirse incómoda por lo que pasaría en caso de que este banquete continuara.`
+`"Esta es una ensalada de lengua bífida hecha con verduras de temporada.`
+` En tu noveno cumpleaños, deseaste poder arrancársela algún día-así que aquí está esa ensalada que deseabas, hecha con la lengua de Eva."`
+`"¡¡¡........................!!!"`
+`Cuando Rosa se enteró de la verdadera procedencia de la carne de color rosa amontonada en la ensalada,`
+` tuvo un repentino impulso de vomitar sus entrañas.`
+`Además, los sirvientes con cabezas de cabra lo ensartaron en un tenedor y se lo llevaron a la boca a Rosa.`
+`"¿A qué sabe la lengua bífida de tu hermana?`
+` Debe tener un sabor muy suave y cautivador, ¿verdad?`
+` ¡*carcajada*carcajada*!"`
+`Qué dulce, suave y cautivador debió de saber en su boca.`
+`Después de todo, las mentiras de Eva siempre fueron dulces, y la joven Rosa siempre las escuchaba.`
+`Así que podría decirse que el sabor del estimulante condimento de pimienta que se había añadido expresaba bien los detalles de esas mentiras.`
+`"¡¡mnnnnnnnnnnn!!`
+` ¡¡mnnnnnnnnnnnnnn!!"`
+`Rosa escupió la ensalada de lengua que le seguían metiendo en la boca, cubriéndola de saliva.`
+`Pero los sirvientes con cabezas de cabra lo devolvían cuidadosamente al plato y se lo llevaban a la boca de Rosa una y otra vez.`
+`"No hace falta decirlo, pero hice esta ensalada generosamente usando cinco lenguas de Eva.`
+` No puedes robarle más de una lengua a una persona.`
+` Pero yo puedo robárselas una y otra vez.`
+` ¡¡*carcajada*carcajada*!!"`
+`"¡¡nnnnnnnnnnnnnnn!!`
+` ¡¡nnnnnnnnnnnnnnnnnnnnn!!"`
+`Mientras las lágrimas de Rosa goteaban, ella se resistía, medio enloquecida.`
+`{n}Sin embargo, la única forma en que podía resistir era negándose a tragar.`
+`Incluso si no se lo tragaba,`
+` el sabor de la salsa francesa penetraba cada vez más en la boca de Rosa...`
+`"¿No es de tu agrado...?`
+` Aún queda mucha más comida.`
+` Pastel de lubina envuelto en la piel de la cara de Rudolf.`
+` Sopa de sesos hervidos, paté de hígado.`
+` ¡¡Y espera con ansias el postre, *carcajada*carcajada*!!"`
+`"No son solo tus hermanos, ¿sabes?`
+` He dispuesto generosamente a todos aquellos en los que has confiado y te terminaron traicionaron.`
+` ¿Por qué no continuamos este banquete por toda la eternidad, hasta que tu corazón esté satisfecho?`
+` Por toda la eternidad."`
+`"Estás contenta, ¿verdad, Ushiromiya Rosaaaa?`
+` No pretendas que lo odias, sé que estás muy contenta, ¿de acuerdo?`
+` Si quieres reír, ríete,`
+` si no te sentirás mejor hasta que oigas en persona los gritos de tus molestos hermanos mayores, entonces dejaré que los oigas todas las veces que quieras."`
+`"Está bien que seas tan reacia.`
+` Esa es tu personalidad, ¿no es así?`
+` Estás tan feliz que se te eriza la piel.`
+` Pero por fuera, finges que sufres, ¿verdaaaad?"`
+`"Está bien, aquí no hay que preocuparse por el honor, ni por tu imagen pública, ni por nada,`
+` así que ríete todo lo que quieras y traga a carcajadas.`
+` ¿¿¿No es este un grannn banquete, Ushiromiya Rosaaaa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aaaaa???"`
+`"Por...`
+` por favor,`
+` para...`
+` ¡¡*toser*, *toser*!!`
 ` uweghhh..."`
-`"Oh, I'm sorry, I was keeping the dessert a secret to surprise you, but let me reveal it anyways.`
-` If I reveal it, maybe that will be enough incentive for you to eat up the full course."`
-`"The dessert is that beloved daughter that you had to keep pretending to love,`
-` oven‐baked Maria and apples.`
-` Doesn't that sound yummyyyy?"`
-`"If you eat this, you will be released from everything.`
-` Freedom, you see, freedom!`
-` Finally Rosa will gain freedom as an individual person, aren't you happyyyy{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}yyyyyy?`
-` Of course you are, drool is hanging from your mouth, just try looking in a mirroooo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}ooooor, hyaha{0}haaa{0}haa{0}haa{0}haha!!"`
-`Suddenly, a muscular goat‐head cook was holding Maria under his arm.`
-`And Maria gazed at Rosa with a face that was just slightly sad.`
-`"............Mama...`
-` ......Was I......a burden......?"`
-`"...nnnnnnn!`
-` You aren't a burden!!`
-` nnnnnnnnnnnnnnnnnn!!"`
-`As Rosa spat out the food that was continually being carried to her mouth,`
-` as she was covered with mess and saliva and blood, she resisted filthily and screamed.`
-`"......If you...`
-`think I'm a burden, Mama,`
-` ......I'm fine being eaten."`
-`".........After all, I always do horrible things to you, Mama.`
-` Even when you brought a man over, I couldn't stay quiet.`
-` When you stayed over with a man, I got lonely and unruly and made a mess of the room."`
-`"When I went to search by myself, I got lost, the police had to pick me up and I brought shame on you, Mama.`
-` When you didn't come home for days, I cried and had to be cheered up by the neighbors, and brought shame on you again, Mama."`
-`"Because I'm like this, I cause trouble for you, Mama.`
-` I'm sorry for being born.`
-` So I'll become delicious oven‐baked apples for you, Mama."`
-`"And then, maybe I can make you happy I exist for the first time.`
-` Maybe, if you eat me and you think I'm delicious."`
-`"She will be, riiiiiiiiiiiiiiiight?`
-` Be choked up with tears of gratitude your daughter is saying this much for you seeeeeee?`
-` Oven‐baked apples and your beloved daughter make for the best dessert!`
-` You've managed to raise such delicious ingredients,`
-` aren't you the best mother, Ushiromiya Rosaaa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aaaaaa???"`
-`".........Mama, thanks for everything.`
+`"Oh, lo siento, estaba guardando el postre en secreto para sorprenderte, pero déjame revelártelo de todos modos.`
+` Si te lo revelo, tal vez eso sea suficiente incentivo para que te comas toda la comida."`
+`"El postre es esa amada hija que tuviste que seguir fingiendo que amabas,`
+` María al horno y manzanas.`
+` ¿No suena delicioooooso?"`
+`"Si comes esto, te librarás de todo.`
+` ¡Seras libre, libre, ¿me oyes?!`
+` Rosa por fin conseguirá su libertad como individuo, ¿no estás conteeee{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}eenta?`
+` ¡Por supuesto que lo estás, la baba te cuelga de la boca, solo intenta verte en un espeeee{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}eeejo, jyaja{0}jaaa{0}jaa{0}jaa{0}jaja!!"`
+`De pronto, un cocinero musculoso con cabeza de cabra llevaba a María bajo el brazo.`
+`Y María miró a Rosa con una cara ligeramente triste.`
+`"Mamá...`
+` ¿He sido... una molestia...?"`
+`"¡nnnnnnn!`
+` ¡¡No eres una molestia!!`
+` ¡¡nnnnnnnnnnnnnnnnnn!!"`
+`Rosa escupía continuamente la comida que le llevaban a la boca,`
+` resistiéndose mientras gritaba y estaba cubierta de suciedad, saliva y sangre.`
+`"Si tú...`
+` piensas que soy una molestia, mamá,`
+` no me importa que me coman."`
+`"Después de todo, siempre te hago cosas horribles, mamá.`
+` Incluso cuando trajiste a un hombre, no me quedaba quieta.`
+` Cuando te quedaste a pasar la noche con un hombre, me sentí sola y fui desobediente, y terminé haciendo un desastre en la habitación."`
+`"Cuando salí por mi cuenta a buscarte, me perdí y la policía tuvo que recogerme, y te avergoncé, mamá.`
+` Cuando no volviste a casa durante días, lloré tanto que tuve que ser consolada por los vecinos, y volví a avergonzarte, mamá."`
+`"Como soy así, te he causado muchos problemas, mamá.`
+` Lamento haber nacido.`
+` Así que me convertiré en una deliciosa María al horno y manzanas para ti, mamá."`
+`"Y entonces, quizás, por primera vez, te sentirás feliz de que haya nacido.`
+` Tal vez, pienses que estoy deliciosa si me comes."`
+`"Lo estará, ¿veeeeeeeeerdad?`
+` ¿No te saltan las lágrimas de gratitud cuando tu hija dice todo esto por tiiiii?`
+` ¡Manzanas al horno y tu querida hija son el mejor postre!`
+` Has conseguido cultivar unos ingredientes tan deliciosos,`
+` ¿no eres tú la mejor madre del mundo, Ushiromiya Rosaaa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aaaaaa???"`
+`"Mamá, gracias por todo.`
 ` Bye bye."`
-`"Wait!!`
-` Wait, Maria, that's wrong!!`
-` Stop it already, stop it already,`
+`"¡¡Espera!!`
+` ¡¡Espera, María, te equivocas!!`
+` ¡¡Basta ya, basta ya,`
 ` noooo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}ooooo!!`
-` I didn't want something like this!"`
-`"Please stop, please let me go!!`
-` No,`
-` stop it already,`
-` don't put it...in my mouth...`
+` ¡Yo no quiero nada de esto!"`
+`"¡¡Por favor, detente, por favor, déjame ir!!`
+` ¡¡No,`
+` basta,`
+` no lo pongas... en mi boca...`
 ` uuuuulg,`
 ` gweeeeeeeeeeeeehh!!"`
-`"Have you found my hospitality to your satisfaction...?`
-` Then I'll have you accept it.`
-` That I am a witch.`
-` Proclaim it.`
-` Proclaim that "Ushiromiya Rosa accepts that {f:5:Beatrice} is a witch"!!"`
-`"......I accept it!!`
-` U‐Ushiromiya Rosa...`
-`...accepts that B‐{f:5:Beatrice}...`
-`...is a witch!!`
-` So give Maria back!!`
-` Release meeeeeee{-}e{-}e{-}eeeee!!"`
-`"*cackle*cackle*, hahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hah‐hah‐hah‐hah‐hah‐ha!!`
-` I finally made you accept it!!`
-` That smart‐alecky Battler has already submitted, and now I've made even Rosa accept it, the fool who denied me after being invited to the Golden Land!!`
-` Perfect!!`
+`"¿Te ha parecido agradable mi hospitalidad...?`
+` Entonces, acéptalo.`
+` Acepta que soy una bruja.`
+` Proclámalo.`
+` ¡¡Proclama que "Ushiromiya Rosa acepta que {f:5:Beatrice} es una bruja"!!"`
+`"¡¡Lo acepto!!`
+` ¡¡U‐Ushiromiya Rosa...`
+` acepta que B‐{f:5:Beatrice}...`
+` es una bruja!!`
+` ¡¡Así que devuélveme a María!!`
+` ¡¡Libééééé{-}é{-}é{-}ééérame!!"`
+`"¡¡*carcajada*carcajada*, jajaja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja‐ja‐ja‐ja‐ja‐ja!!`
+` ¡¡Finalmente hice que lo aceptaras!!`
+` ¡¡Ese testarudo de Battler ya se ha sometido, y ahora he conseguido que incluso Rosa lo acepte, la tonta que me negó después de ser invitada a la Tierra Dorada!!`
+` ¡¡Perfecto!!`
 ` <It's perfect!!>"`
-`"I've accomplished my perfect victory!!`
-` *cackle*, haha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hakya‐HAH‐HAH‐HAH‐HAH‐HAH‐HA!!`
-` Now, take Maria away, prepare a delicious oven roast for Rosa!!"`
-`"Nooooooooooooooooooooooo, Mariaaaaa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aaaaaa!!"`
-`"Looks delicious.`
-` Slice up your cow tits and make me a sandwich."`
-`"Wha‐......th‐that voice!!`
-` Ooof?!"`
-`An arm grabbed the back of the witch's head and smashed her face into the table.`
-`As it did, the witch broke to pieces, turned into a group of gold butterflies, and reformed into her body a short distance away.`
-`"Ba‐.........Battler?!?!`
-` Y‐......you cursed man,`
-` ...I, I thought you became furniture, that you submitted down to your very soul!!"`
-`"I thought I did too.`
-` ...But while I was listening to your gross recipes, I started to get a little hungry."`
-`"Now I feel like eating a whole roast witch!!"`
-`"And Maria.`
-` It's ten years too early for you to talk about having someone eat you.`
-` But in ten years, you have to say that to me. Promise."`
-`"......Uu.`
-` Promise."`
-`"Ba‐...Battler‐kun...!"`
-`"Sorry to keep you waiting, Auntie Rosa.`
-` I had forgotten.`
-` This was a one‐on‐one fight between me and this woman.`
-` I was never supposed to give in.`
-` ......Thanks to your persistence, I've regained my will to fight!!"`
-`......Th‐...this man, he was broken to the depths of his soul, and capitulated to me...`
-`......I see, he doesn't know when to give up, just what I'd expect from Ushiromiya Kinzo's grandson...!`
-` So the chick of a phoenix is a phoenix after all...!`
-`"Fu...fuhahahahahahahahaha, how vigorous, I like it!`
-` I wouldn't have it any other way!!"`
-`"That is exactly what I expect from you, Ushiromiya Battler!!`
-` Try to deny me, I'll completely and thoroughly smash you to bits!`
-` I will break you over and over again, and I'll teach you, one who has licked my shoes, the taste of defeat over and over!!"`
-`"No problem, I'll teach you that I, Ushiromiya Battler, am a man who'll stand back up even after crawling in the mud!!"`
-`"I've never had the experience of being invincible in a fight.`
-` I've lost many times."`
-`"But I always crawl through the mud and stand up again.`
-` And I always finish what I started!!`
-` In a man's fight, you don't lose until you accept defeat, no matter how much you get beat up!!"`
-`"Don't think I'm out just because you took a shot at me.`
-` Entertain me, {f:5:Beatriceeeeeeeeeeeee}!!"`
-`"I'll accept your challenge, Ushiromiya Battler!!`
-` Furniture, begin preparations for the next game!!"`
-`"And while we're waiting, I have much I want to hear from you!`
-` There were many locked rooms in this game.`
-` Using red, I've smashed to bits most of the methods by which you tried to talk yourself out.`
-` What other evasive quibbles will you show me now?!!"`
-`"The lock to the chapel, the lock to Jessica's room, the lock to the servant room, the lock to Natsuhi's room, the lock to the parlor!!`
-` Use all those things you humans are so good at pulling out of the blue,`
-` your delusions, rantings, daydreams, bluffs,`
-` all slanted with ridiculous, incredible turns of events, and show how you can thoroughly deny meeeeeeeeeeeeeeeeeeeeee!!"`
-`"Aaah, it's no good,`
-` it's no goddamn good at aaaaaa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aaaaaaallllll!!!"`
+`"¡¡He logrado una victoria perfecta!!`
+` ¡¡*carcajada*, jaja{0}ja{0}ja{0}ja{0}ja{0}ja{0}jakya‐JA‐JA‐JA‐JA‐JA‐JA!!`
+` ¡¡Ahora, llévense a María y prepárenla en el horno para Rosa!!"`
+`"¡¡Nooooooooooooooooooooooo, Maríaaaaa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aaaaaa!!"`
+`"Se ven deliciosas.`
+` Rebana tus tetas de vaca y hazme un sándwich."`
+`"¿Qué...? ¡¡E‐esa voz!!`
+` ¡¿Ooof?!"`
+`Un brazo agarró la nuca de la bruja y le estampó la cara contra la mesa.`
+`Al hacerlo, la bruja se deshizo en pedazos, se convirtió en un grupo de mariposas doradas y recuperó su forma a poca distancia.`
+`"¡¿¡¿Ba‐Battler?!?!`
+` ¡¡D-desgraciado,`
+` pensé que te habías convertido en un mueble y que tu propia alma estaba sometida!!"`
+`"Yo pensé lo mismo.`
+` Pero mientras escuchaba tus asquerosas recetas, empecé a tener un poco de hambre."`
+`"¡¡Ahora tengo unas ganas de comerme una bruja asada entera!!"`
+`"Y María.`
+` Es diez años demasiado pronto para que hables de que alguien te coma.`
+` Pero en diez años, prométeme que me dirás eso a mí."`
+`"Uu.`
+` Prometido."`
+`"¡Ba‐Battler‐kun...!"`
+`"Siento haberte hecho esperar, tía Rosa.`
+` Lo había olvidado.`
+` Esta es una pelea uno a uno entre esta mujer y yo.`
+` Nunca debí ceder.`
+` ¡¡Gracias a tu persistencia, he recuperado la voluntad para luchar!!"`
+`E-este hombre, se rompió hasta lo más profundo de su alma, y se rindió ante mí...`
+`¡Ya veo, él no sabe cuándo rendirse, justo lo que esperaba del nieto de Ushiromiya Kinzo...!`
+` ¡Así que el polluelo de un fénix es un fénix después de todo...!`
+`"¡Fu... fujajajajajajajajaja, cuánto vigor, me gusta!`
+` ¡¡No lo hubiera querido de otra forma!!"`
+`"¡¡Esto es exactamente lo que esperaba de ti, Ushiromiya Battler!!`
+` ¡Intenta negarme y te haré añicos!`
+` ¡¡Te romperé una y otra vez, y te enseñaré, a ti que me has lamido los zapatos, el sabor de la derrota una y otra vez!!"`
+`"¡¡No hay problema, te enseñaré que yo, Ushiromiya Battler, soy un hombre que se levanta incluso después de arrastrarse por el barro!!"`
+`"Nunca he experimentado un combate en el que sea invencible.`
+` He perdido muchas veces."`
+`"Pero siempre que me arrastro por el barro, me vuelvo a levantar.`
+` ¡¡Y siempre termino lo que empecé!!`
+` ¡¡En una pelea de hombres, no pierdes hasta que aceptas la derrota, no importa cuánto te golpeen!!"`
+`"No creas que estoy fuera solo porque acertaste una vez.`
+` ¡¡Entretenme, {f:5:Beatriceeeeeeeeeeeee}!!"`
+`"¡¡Aceptaré tu desafío, Ushiromiya Battler!!`
+` ¡¡Muebles, comiencen los preparativos para el próximo juego!!"`
+`"¡Y mientras esperamos, tengo muchas cosas que quiero escucharte decir!`
+` Hubo muchas habitaciones cerradas en este juego.`
+` Usando el rojo, he hecho añicos la mayoría de los métodos con los que intentabas salirte con la tuya.`
+` ¡¡¿Qué otras evasivas me mostrarás ahora?!!"`
+`"¡¡La cerradura de la capilla, la cerradura de la habitación de Jessica, la cerradura de la habitación de los sirvientes, la cerradura de la habitación de Natsuhi, la cerradura del salón!!`
+` ¡¡Utiliza todas esas cosas que ustedes, los humanos, son tan buenos inventando de la nada,`
+` sus delirios, desvaríos, fantasías, engaños,`
+`todo sesgado con giros ridículos e inverosímiles de los acontecimientos, y demuestren cómo pueden negarme por compleeeetoo!!"`
+`"¡¡Aaah, es inútil,`
+` es completamente inú{-}ú{-}ú{-}ú{-}ú{-}ú{-}ú{-}tiillll!!!"`

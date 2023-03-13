@@ -1,788 +1,788 @@
-`With Jessica's death, it became certain that the culprit was hiding somewhere nearby, and that they would come after our lives if they had a chance.`
-`According to Genji‐san, when tomorrow morning comes, the boat should arrive.`
-`The boat has a radio, too.`
-`{n}We'll probably be able to contact the police immediately with that.`
-`We all gathered in the parlor, and decided to wait quietly until tomorrow.`
-`I proposed that we should search throughout the mansion for clues about the culprit,`
-` but Auntie Rosa rejected that, saying that if we put pressure on the culprit, or provoked them,`
-` it might lead to a third murder.`
-`...That was probably the right thing to do.`
-`{n}Even if a bunch of amateurs like us investigated, there's no way we'd find anything.`
-`It would be wisest to focus on protecting ourselves without doing anything unnecessary, and leave it to the police after tomorrow.`
-`We had been tense in the beginning, but other than Auntie Rosa,`
-` most of us had spent all morning watching TV and were getting bored, so our sense of danger had grown much less intense.`
-`When we thought about it, even though there certainly had been six adults killed at once in the first murder,`
-` that made us imagine that some back‐handed method like poison had been used.`
-`And in the second murder, it was thought that those two had become sacrifices because they were unfortunately isolated from the rest of us.`
-`From this, we imagined that there weren't a great number of culprits,`
-` and they didn't have the ability to kill this large group gathered in the parlor all at once.`
-`Right now, in this parlor, there was George‐aniki and me,`
-` Maria,`
-` Auntie Rosa,`
-` Genji‐san, Gohda‐san, Shannon‐san, Kumasawa‐san, ......and finally Doctor Nanjo—a total of nine people were here.`
-`Furthermore, Auntie Rosa was even armed with a gun.`
-`Surely, with this many people staying in this room, they wouldn't be able to touch us easily.`
-`That feeling of security, along with the passage of time, allowed us to recover from the shock of that morning bit by bit...`
-`Incidentally, lunchtime had just ended for us.`
-`{n}However, it had been a canned‐food lunch, a far cry from last night's dinner which Gohda‐san had skillfully made for us.`
-`...Auntie Rosa too had suspected that poison had been used in the murder of those six people.`
-`...So, we probably couldn't deny the possibility that the culprit had snuck into the kitchen during all that confusion in the morning, and mixed poison in with the ingredients there.`
-`......Auntie Rosa had ordered all of us not to put anything into our mouths except safe foods like canned food, until the police came.`
-`As a cook, Gohda‐san must have felt very let down.`
-`As though he wanted to display his skill anyway, he said that he at least wanted to bring the plates and pile them up with canned food.`
-`At first, Auntie Rosa had been reluctant, examining each one of the plates that were brought, but she hadn't been able to find anything to complain about,`
-` and Gohda‐san's "Chef's Pick Canned Food Combo Lunch" had become a reality.`
-`Gohda‐san had said something about taste being savored not just with the tongue, but with the eyes too.`
-`...I found myself agreeing—it had been the same canned food we ate for breakfast, but it felt like something completely different...`
+`Con la muerte de Jessica, se hizo seguro que el culpable estaba escondido en algún lugar cercano, y que vendrían a por nuestras vidas en cuanto tuvieran oportunidad.`
+`Según Genji-san, mañana por la mañana debería llegar el barco.`
+`El barco también tiene radio.`
+`{n}Probablemente podremos contactar con la policía inmediatamente.`
+`Nos reunimos todos en el salón y decidimos esperar tranquilamente hasta mañana.`
+`Propuse que buscáramos pistas sobre el culpable por toda la mansión,`
+` pero la tía Rosa se negó, diciendo que si presionábamos al culpable, o lo provocábamos,`
+` podría conducirlo a cometer un tercer crimen.`
+`Eso probablemente estaba en lo correcto.`
+`{n}Incluso si un grupo de aficionados como nosotros investigásemos, no hay forma de que encontremos algo útil.`
+`Lo más sensato sería centrarnos en protegernos sin hacer nada innecesario, y dejárselo todo a la policía después de mañana.`
+`Habíamos estado tensos al principio, pero aparte de la tía Rosa,`
+` la mayoría nos habíamos pasado toda la mañana viendo la tele y nos estábamos aburriendo, así que nuestra sensación de peligro se había disminuido.`
+`Cuando pensamos sobre la situación y el hecho de que seis adultos fueron asesinados a la vez en el primer crimen,`
+` nos hizo imaginar que se había utilizado algún método encubierto como el veneno.`
+`Y en el segundo crimen, se pensó que esos dos se habían convertido en sacrificios porque desgraciadamente estaban aislados del resto de nosotros.`
+`A partir de esto, imaginamos que no había un gran número de culpables,`
+` y que no tenían la capacidad de matar a este gran grupo reunido en el salón todos a la vez.`
+`Ahora mismo, en este salón, estábamos George-aniki y yo,`
+` María,`
+` la tía Rosa,`
+` Genji‐san, Gohda‐san, Shannon‐san, Kumasawa‐san, y finalmente el doctor Nanjo, lo que hace un total de nueve personas reunidas aquí.`
+`Además, la tía Rosa iba armada con un arma de fuego.`
+`Seguramente, con tanta gente en esta habitación, no podrían tocarnos fácilmente.`
+`Esa sensación de seguridad, junto con el paso del tiempo, nos permitió recuperarnos poco a poco del shock de aquella mañana...`
+`Por casualidad, la hora del almuerzo acababa de terminar para nosotros.`
+`{n}Sin embargo, había sido un almuerzo de comida enlatada, muy lejos de la cena de anoche que Gohda-san había preparado hábilmente para nosotros.`
+`La tía Rosa también sospechaba que se había utilizado veneno en el asesinato de esas seis personas.`
+`Así que, probablemente no podíamos negar la posibilidad de que el culpable se hubiera colado en la cocina durante toda esa confusión de la mañana, y mezclara veneno con los ingredientes que había allí.`
+`La tía Rosa nos había ordenado a todos que no nos metiéramos nada en la boca, excepto alimentos seguros como los enlatados, hasta que viniera la policía.`
+`Como cocinero, Gohda-san debe haberse sentido muy defraudado.`
+`Goda-san, como si quisiera demostrar sus habilidades de un modo u otro, se ofreció al menos a traer platos y apilar en ellos la comida enlatada.`
+`Al principio, la tía Rosa se mostró reacia, examinando cada uno de los platos que le habían traído, pero no había podido encontrar nada de lo que quejarse,`
+` y así nació el "Combo Almuerzo de Comida Enlatada Elegida por el Chef" de Gohda-san.`
+`Gohda-san había dicho algo sobre que el sabor no solo se saborea con la lengua, sino también con los ojos.`
+`Tuve que darle la razón. Era la misma comida enlatada que comimos en el desayuno, pero había algo en ella que la hacía completamente diferente...`
 `"Uu, Battler.`
-` Look, look.`
-` Here, "Wolves and Sheep Puzzle".`
+` Mira, mira.`
+` Aquí, "Puzle de Lobos y Ovejas".`
 ` Uu."`
-`As I was sitting lazily on a sofa, with no desire to watch TV,`
-` Maria came over, pulled a picture book out of her handbag, and held it out to me as she said that.`
-`"......What is that book?`
-` "Wolves and Sheep Puzzle"?`
-` ..................Let's have a look‐see."`
-`"Wolves and Sheep Puzzle".`
-`{n}It was a phrase that Auntie Rosa had said this morning when we had gone to call on Jessica.`
-`...At the time, I hadn't known what it meant, and then after that, there was the uproar when Jessica's body was found, so I'd forgotten about it completely.`
-`The book that Maria held out to me looked like a foreign picture book or something that had been translated.`
-`Opening it, I could tell that the book contained an assortment of puzzles.`
+`Mientras estaba sentado perezosamente en un sofá, sin ganas de ver la tele,`
+` María se acercó, sacó un libro de ilustraciones de su bolso y me lo tendió mientras decía eso.`
+`"¿Qué es ese libro?`
+` ¿"Puzle de Lobos y Ovejas"?`
+` Vamos a verlo."`
+`"Puzle de Lobos y Ovejas".`
+`{n}Era una frase que la tía Rosa había dicho esta mañana cuando fuimos a visitar a Jessica.`
+`No sabía lo que significaba en ese momento, y debido a toda la conmoción que siguió al descubrimiento del cadáver de Jessica, lo olvidé por completo.`
+`María me entregó un libro que parecía extranjero con ilustraciones o algo traducido.`
+`Al abrirlo, pude ver que el libro contenía una variedad de puzles.`
 `"Uu.`
-` So there's several wolves and sheep, okay?`
-` And the puzzle is to take them to the other side using one boat."`
-`"......Hmmmm?`
-` I've heard of a game with rules like this.`
-` So this is that, but with wolves and sheep?"`
-`It was a very simple puzzle, passed on from long ago.`
-`{n}Let's try one of the problems.`
-`On the right bank, there are two wolves and two sheep.`
-`{n}There is a boat that as many as two animals can ride on, and using it, you have to move all four of them to the opposite left bank.`
-`There are two rules.`
-`The first is regarding the boat.`
-`{n}It can be paddled by wolves or sheep, and even just by one animal on its own.`
-`{n}But it can only hold up to two.`
-`The second is regarding the wolves.`
-`{n}When they are greater in number than the sheep in that location, they attack the sheep and it's game over.`
-`For example, at the start of the game:`
-`{n}Both sheep ride the boat, and go to the other side.`
-`{n}Then one sheep gets off, and the other goes back to the first bank.`
-`......When it does, there are two wolves on the first bank.`
-`{n}And a single sheep returns there.`
-`When that happens, there are more wolves, so the sheep is attacked and it's game over.`
-`On either bank or even the boat, there must not be more wolves than sheep.`
-`It's a puzzle about how to shuttle them across in the boat under these conditions.`
-`By the way, the right answer is: On the first turn, move both wolves to the opposite bank.`
-`{n}Then one wolf comes back.`
-`On the second turn, move two sheep to the opposite bank.`
-`{n}Then one wolf comes back.`
-`Then on the third turn, put that last wolf that was on the right bank on the boat and cross to the opposite bank, and congratulations, transport successful.`
-`Partway, there may be the same number of wolves and sheep in the boat or on either side, but that isn't a problem.`
-`You only lose when the number of wolves is greater.`
-`This book symbolizes it using wolves and sheep, but there are probably lots of people who know this same game with a different symbolism...`
-`It looked like Maria wanted to test whether I too could solve the puzzles she knew how to solve,`
-` and she kept showing me different pages, saying "solve this one" and "this one's hard".`
-`What had been happening when Auntie Rosa had said the name of this puzzle...`
-`That's right.`
-`...When we'd decided to go call Jessica, we had been talking about how many men should go,`
-` and Auntie Rosa mentioned the "Wolves and Sheep Puzzle", and said that we should all go together......`
-`".................................Wait a sec..."`
-`That could only mean one thing.`
-` ...Auntie Rosa was saying that there are "wolves" among us.`
-`And when the number of wolves and sheep is balanced, we're safe, but when a situation comes up where that isn't the case, the wolves will bear their fangs—is that what she's thinking......?`
-`At the time we had found our parents' corpses, Auntie Rosa was already suspecting that the servants might be "wolves".`
-`While she didn't know whether it was all of them or just some, she had sniffed out the possibility that "wolves" were hiding among them.`
-`......Well, yeah.`
-`That murder scene was pretty damn elaborate.`
-`{n}It's easy to imagine that there were multiple culprits.`
-`And considering that she had that idea already in mind when we went to Jessica's room,`
-` where Jessica had been alone with a servant, Kanon, and had been killed,`
-` .........it isn't hard to imagine why Auntie Rosa had suspected the servants so persistently...`
-`"All you servants.`
-` Gohda‐san is going to the kitchen to wash the dishes.`
-` Just in case, would you please all go with him?"`
-`"My apologies, everyone.`
-` Let us go as a group."`
-`"......Shannon, Kumasawa.`
-` Let's go."`
-`"Yes, yes, coming.`
+` Así que tienes varios lobos y ovejas.`
+` Y el puzle es llevarlos al otro lado usando un bote."`
+`"¿Hmmmm?`
+` Conozco un juego con reglas similares.`
+` ¿Así que esto sería lo mismo, pero con lobos y ovejas?"`
+`Era un puzle muy sencillo, bastante antiguo.`
+`{n}Trataré de enunciar el problema.`
+`En la orilla derecha, hay dos lobos y dos ovejas.`
+`{n}Hay un bote en el que caben hasta dos animales, y tienes que llevar a los cuatro a la orilla izquierda usando el bote.`
+`Hay dos reglas.`
+`La primera es con respecto al bote.`
+`{n}Este puede ser remado por lobos u ovejas, e incluso por un solo animal.`
+`{n}Pero solo pueden caber hasta dos de ellos.`
+`La segunda es con respecto a los lobos.`
+`{n}Cuando hay más lobos que ovejas en una zona determinada, estos atacarán a las ovejas y será fin del juego.`
+`Por ejemplo, cuando empezamos el juego:`
+`{n}Ambas ovejas suben al barco y cruzan al otro lado.`
+`{n}Luego, una oveja se baja y la otra regresa a la primera orilla.`
+`Cuando lo hace, hay dos lobos en la primera orilla.`
+`{n}Y solo una oveja ha regresado.`
+`En esa situación, ya que hay más lobos, la oveja es atacada y se acaba el juego.`
+`En ninguna de las dos orillas, ni siquiera en el barco, debe haber más lobos que ovejas.`
+`Es un puzle sobre cómo transportarlos en el bote bajo esas condiciones.`
+`Por cierto, la respuesta correcta es: En el primer turno, mueve a ambos lobos a la orilla opuesta.`
+`{n}Entonces, has que uno de los lobos regrese.`
+`En el segundo turno, mueve a las dos ovejas a la orilla opuesta.`
+`{n}Entonces, has que regrese un lobo.`
+`Así que en el tercer turno, subes al bote a ambos lobos que ahora estan en la orilla derecha y haces que crucen a la orilla opuesta. Felicidades, transporte exitoso.`
+`En parte, es posible tener el mismo número de lobos y ovejas en el barco o en ambos lados, ya que ese no es el problema.`
+`Solo pierdes cuando el número de lobos es mayor.`
+`En este libro se utilizan lobos y ovejas como ejemplos, pero seguro que mucha gente conoce este juego con otros ejemplos...`
+`Parecía que María quería probar si yo era capaz resolver los puzles que ella ya sabía resolver,`
+` y no paraba de enseñarme diferentes páginas, diciendo "resuelve este" y "este es difícil".`
+`¿Cuándo fue que la tía Rosa mencionó lo del puzle...?`
+`Eso es.`
+`Fue cuando habíamos decidido ir a llamar a Jessica y nos pusimos a discutir de cuántas personas debían ir.`
+` Entonces, la tía Rosa mencionó el "Puzle de lobos y ovejas" y dijo que deberíamos ir todos juntos...`
+`"Espera un segundo..."`
+`Eso solo puede significar una cosa.`
+` La tía Rosa estaba diciendo que hay "lobos" entre nosotros.`
+`Y cuando el número de lobos y ovejas está equilibrado, estamos a salvo, pero cuando se da una situación en la que eso no es así, los lobos sacan los colmillos, ¿es eso lo que ella está pensando...?`
+`Cuando encontramos los cadáveres de nuestros padres, la tía Rosa ya sospechaba que los sirvientes podrían ser "lobos".`
+`Aunque ella no sabía si eran todos o solo algunos, asumió la posibilidad de que los "lobos" estaban escondidos entre ellos.`
+`Bueno, sí.`
+`Esa escena del crimen era bastante elaborada.`
+`{n}Es fácil imaginar que hubo múltiples culpables.`
+`Y considerando que ya tenía esa idea en mente cuando fuimos al cuarto de Jessica,`
+` en el cual Jessica había estado a solas con un sirviente y había sido asesinada,`
+` no es difícil imaginar el porqué la tía Rosa había sospechado de los sirvientes tan persistentemente...`
+`"A todos los sirvientes.`
+` Gohda-san va a ir a la cocina a lavar los platos.`
+` Solo por si acaso, ¿podrían ir todos con él?"`
+`"Mis disculpas a todos.`
+` Vayamos en grupo."`
+`"Shannon, Kumasawa.`
+` Vayamos."`
+`"Sí, sí, ya voy.`
 ` Hoh‐hoh‐ho."`
-`"Well then, George‐san, excuse me for now."`
-`"Okay.`
-` .........Take care.`
-` Ah, Auntie Rosa, could I go as well?"`
-`"I'm sorry, would you remain here, George‐kun?`
-` There's something I want to talk to you about."`
-`"......Is that so?`
-` Sorry, Shannon.`
-` Anyway, take care.`
-` ...Don't be alone."`
-`"...Yes..."`
-`"Excuse me, Doctor Nanjo.`
-` ......I wanted to consult with you about something."`
-`"Yes, ......what might that be?`
+`"Entonces, George‐san, si me disculpas."`
+`"De acuerdo.`
+` Ten cuidado.`
+` Ah, tía Rosa, ¿puedo ir yo también?"`
+`"Lo siento, ¿podrías quedarte aquí, George-kun`
+` Hay algo de lo que quiero hablarte."`
+`"¿En serio?`
+` Lo siento, Shannon.`
+` De todos modos, ten cuidado.`
+` No te quedes sola."`
+`"Sí..."`
+`"Disculpe, doctor Nanjo.`
+` Quiero consultarte algo."`
+`"Sí, ¿qué podrá ser?`
 ` ........................"`
-`The servants put the dishes and empty cans on the serving cart and started to head out into the corridor.`
-`Behind them, Auntie Rosa was talking to Doctor Nanjo about something in a small voice.`
-`"...Alright.`
-` I will go."`
-`"Yes, if you wouldn't mind."`
-`Doctor Nanjo closed the book he had been reading, stood from the sofa, and followed after the servants...`
-`Auntie Rosa stuck her head out into the hallway, and after watching them leave completely, she closed the door, and spoke.`
-`"Listen, everyone.`
-` Now everyone here is an Ushiromiya."`
-`"......Hmm?`
-` Yes, that is true..."`
-`"So you're saying that you've chased out all of the "wolves"?`
-` ......Auntie Rosa."`
-`With that one sentence, Auntie Rosa's gaze grew sharp.`
-`{n}...Apparently she had picked up on my sardonic tone.`
-`......Auntie Rosa laughed lightly.`
-`"...Your mind sure works fast, Battler‐kun.`
-` I like clever kids.`
-` It means there's less to explain."`
+`Los sirvientes colocaron los platos y las latas vacías en el carro de servicio y empezaron a salir al pasillo.`
+`A sus espaldas, la tía Rosa hablaba en voz baja con el doctor Nanjo.`
+`"Está bien.`
+` Iré."`
+`"Sí, si no le importa."`
+`El doctor Nanjo cerró el libro que había estado leyendo, se levantó del sofá y siguió a los sirvientes...`
+`La tía Rosa se asomó al pasillo, y después de verlos irse completamente, cerró la puerta, y habló.`
+`"Escuchen todos.`
+` Ahora todo el mundo aquí es un Ushiromiya."`
+`"¿Hmm?`
+` Sí, es verdad..."`
+`"¿Así que estás diciendo que has echado a todos los "lobos"?`
+` Tía Rosa."`
+`Con esa sola frase, la mirada de la tía Rosa se tornó severa.`
+`{n}Aparentemente ella había captado mi tono sarcástico.`
+`La tía Rosa se rio ligeramente.`
+`"Tu mente sí que trabaja rápido, Battler-kun.`
+` Me gustan los niños listos.`
+` Significa que hay menos que explicar."`
 `"Uu.`
-` Battler, smart...?`
-` Can you solve this?`
-` Hard one on page 64.`
-` Uu!"`
-`"Maria, sit there watching TV for a while.`
-` Mama wants to talk with Battler‐kun and George‐kun."`
-`"..................Uu."`
-`"Auntie Rosa.`
-` ...I heard about the puzzle from Battler‐kun.`
-` ...I don't think it's bad to be very careful, but I think being too suspicious isn't good either."`
-`"Whether the real culprit is {f:5:Beatrice} or not,`
-` I think there is reason for us to suspect that the servants are in league with her."`
-`"......In the first murder, where Nii‐san and the others were killed,`
-` they'd been given a very brutal treatment, right?`
-` Did that look like something that could be done alone?"`
-`"............Maybe our mystery guest {f:5:Beatrice}‐sama worked all night and did it all."`
-`"And the incident with the master keys involving the door to Jessica's room?`
-` Isn't that proof that one of the servants was involved?"`
-`"......nn.................."`
-`Only a master key could have locked the door to Jessica's room.`
-`{n}...In that case, we can only suppose that one of the servants locked it......`
-`.........No,`
-` ......wait.`
-`"Flip over the chessboard.`
-` ......That's strange, Auntie Rosa."`
-`"After killing Jessica, why did the culprit go to all the trouble of locking the door?`
-` It was inevitable that the owners of the master keys were gonna be suspected if they did that.`
-` ......There was no need to deliberately lock the door."`
-`"...Tha‐that's right.`
-` It's just as Battler‐kun says!`
-` They have no reason to deliberately go and do something that makes themselves suspicious."`
-`"Yes.`
-` That's an interesting thought.`
-` Of course, I also thought that."`
-`"......If that's so, then the person who locked it wanted to cast suspicion on the servants, and locked that door without a master key.`
-` But that's impossible.`
-` Right?"`
-`......That's right.`
-` If there was a trick that could lock the door without a master key, this would be a good disguise aimed at casting doubt on the servants.`
-`...If the culprit wanted to isolate us and attack us one by one, this trick was a very effective one that could even give rise to paranoia.`
-`However, there was no way to lock that door without using a master key...`
-`"How can you make the claim that there's no way to lock the door without using a master key?`
-` Isn't that a Devil's Proof, like Rudolf nii‐san was talking about?`
-` {i:Maybe it was locked by a method we can't think of}."`
-`"Even if we can't think of it, that doesn't disprove that there was some unknown trick."`
-`"............Well, sure, but...`
-` So is that it?`
-` The suspicious ones are guilty...?"`
-`"I don't know the practical details of the trick, but I have a general idea.`
-` My apologies, but if we suppose that Kanon‐kun was the culprit, it can be explained extremely easily.`
-` Even as to why there was no corpse."`
-`"Huh......`
-` But Kanon‐kun wasn't holding a master key, right?!`
-` Putting aside the other servants, at least Kanon‐kun shouldn't have been able to lock the door!"`
-`"......I see.`
-` ...So that's why you told us to search in the closet and everywhere else right after we entered Jessica's room.`
-` ......Auntie Rosa, ...your mind works faster than I could imagine judging by your normal appearance."`
-`"The brain speed of a little sister is always the big sister's minus 1.`
-` ...I feel glad that there's no one I need to worry about now."`
-`George‐aniki realized that she was referring to Auntie Eva,`
-` and seemed a little disturbed about how he should take that nasty remark...`
-`"......I, I'm sorry.`
-` Could you explain it so that even I can understand?"`
-`"Kanon‐kun's master key was in Jessica‐chan's pocket, closed up inside a locked room.`
-` After the door was locked, it should have been impossible for him to pull a stunt like putting it in her pocket from outside the room...!"`
-`"That's not it, Aniki.`
-` ......If it was done in the way Auntie Rosa imagines, ......this trick could only be used by Kanon‐kun."`
-`"...And, the door could be locked without a key, while the master key was still in Jessica's pocket.`
-` ......And, as a result, his corpse would also disappear."`
-`"H‐......how?!`
-` How would he lock the door without a key?!"`
-`"It's simple.`
-` George‐kun, when you return home, you lock the door, right?`
-` You twist the knob, click, right?"`
-`"Huh...?!`
-` .........C‐`
-`...could it be...`
-` ......No, but...`
-`...Kanon‐kun wasn't anywhere......"`
-`"...It looks like you've got it, Aniki.`
-` .........That's what Auntie Rosa was searching inside the room for."`
-`"......She was searching for Kanon‐kun, who had locked the door from the inside, stuck the key in Jessica's pocket,`
-` and was hiding somewhere, waiting for us to go away."`
-`The simplest locked‐room trick.`
-` ...In other words, to hide inside the locked room after committing the murder.`
-`...And if he could get out after those who discovered the body left, it would create a perfect locked‐room murder......`
-`"We searched that room, but we couldn't find anything.`
-` ...But, that doesn't mean we can rule out something like a secret hidden passage in that room that only the servants know about."`
-`"I don't know where that might be hidden,`
-` but if we assume that there was a hidden passage, we can say for certain that it was impossible for anyone except him."`
-`"..................You know, that line of reasoning,`
-` ...it was the first thing I thought of, too.`
-` ......It's the reasoning I hate the most, so I wanted to destroy it in the very beginning..."`
-`"*cackle*cackle*...`
-` "{p:1:Kanon was killed in this room}", yes?"`
-`"Because you seemed to suspect Kanon as the culprit, you made me repeat this to destroy that possibility right away.`
-` I understand, I understand.`
-` *cackle*......"`
-`"...So this is what I thought of next.`
-` A theory that there were actually three people in that room.`
-` Jessica and Kanon‐kun were victims.`
-` And the culprit, the guest {f:5:Beatrice}, was also there with them."`
-`"You wanted to make it "the human me" who committed the crime without using magic.`
-` I see, a strange theory that fits you perfectly.`
-` *giggle*giggle*."`
-`"......I guessed that you killed those two, then locked the door from the inside.`
-` And you carried Kanon‐kun's corpse using some secret method that normal people wouldn't notice.`
-` ......In other words, you used a secret door to escape."`
-`"But you told me it in red.`
-` ...You said that there are no types of hidden doors in that room."`
-`"Indeed.`
-` No secret passage exists unknown to you all.`
-` Was it Knox, or was it Van Dine?`
-` It seems that in mystery novels, there must never be hidden passages, no matter what.`
-` I also follow that etiquette."`
-`"In other words, even without having to thoroughly search a room, great detectives can state with confidence that there are no secret passages.`
-` .........*cackle*cackle*, humans have it so easy with their little detective games."`
-`"Damn you, talking so big...`
-` Thanks.`
-` Thanks to the witch's arrangement, I can say for sure that the room doesn't have a hidden door without searching the whole thing."`
-`"Indeed.`
-` {p:1:There are no hidden doors in this room}.`
-` {p:1:There is no way to get in or out other than the door and the windows}."`
-`"......Which means...`
-`...that theory Auntie Rosa's so confident in...`
-`...is wrong."`
-`"...Plus, frustratingly, it's impossible to disprove that theory.`
-` ......If you, the witch, say in red`
+` Battler, ¿listo...?`
+` ¿Puedes resolver esto?`
+` Uno difícil en la página 64.`
+` ¡Uu!"`
+`"María, siéntate un rato a ver la tele.`
+` Mamá quiere hablar con Battler-kun y George-kun."`
+`"Uu..."`
+`"Tía Rosa.`
+` Me enteré del puzle por Battler-kun.`
+` No creo que sea malo ser muy precavido, pero creo que ser demasiado desconfiado tampoco es bueno."`
+`"Ya sea que el verdadero culpable sea {f:5:Beatrice} o no,`
+` Creo que hay razones para que sospechemos que los sirvientes están aliados con ella."`
+`"En el primer asesinato, donde Nii-san y los otros fueron asesinados,`
+` les habían dado un trato muy brutal, ¿no?`
+` ¿Eso les parece algo que pueda llevarse a cabo por solo uno?"`
+`"Tal vez nuestra invitada misteriosa {f:5:Beatrice}‐sama trabajó toda la noche y lo hizo todo."`
+`"¿Y el incidente con las llaves maestras de la puerta de la habitación de Jessica?`
+` ¿No es eso prueba de que uno de los sirvientes estaba involucrado?"`
+`"nn..."`
+`Solo una llave maestra podría haber cerrado la puerta de la habitación de Jessica.`
+`{n}En ese caso, solo podemos suponer que uno de los sirvientes la cerró con llave...`
+`No,`
+` esperen.`
+`"Vamos a darle la vuelta al tablero.`
+` Eso es extraño, tía Rosa."`
+`"Después de matar a Jessica, ¿por qué el culpable se tomó la molestia de cerrar la puerta?`
+` Era inevitable que se sospechara de los propietarios de las llaves maestras si hacían eso.`
+` No había necesidad de cerrar la puerta deliberadamente."`
+`"E-es verdad.`
+` ¡Es como dice Battler-kun!`
+` No tienen ninguna razón para hacer deliberadamente algo que les haga sospechosos."`
+`"Sí.`
+` Ese es un planteamiento interesante.`
+` Por supuesto, yo también pensé eso."`
+`"Si es así, entonces la persona que la cerró quería levantar sospechas sobre los sirvientes, y cerró esa puerta sin una llave maestra.`
+` Pero eso es imposible.`
+` ¿Verdad?"`
+`Es cierto.`
+` Si hubiera algun truco con el que se pudiera cerrar la puerta sin una llave maestra, sería un buen engaño destinado a sembrar la duda entre los sirvientes.`
+`Si el culpable quería aislarnos y atacarnos uno a uno, ese truco sería muy eficaz y puede incluso dar lugar a la paranoia.`
+`Sin embargo, no había forma de cerrar esa puerta sin usar una llave maestra...`
+`"¿Cómo puedes afirmar que no hay forma de cerrar la puerta sin una llave maestra?`
+` ¿No es esa una Prueba Diabólica, de la que tanto hablaba Rudolf nii-san?`
+` {i:Tal vez fue cerrada por un método que no se nos ocurre}."`
+`"Aunque no se nos ocurra, eso no refuta que hubiera algún truco desconocido."`
+`"Bueno, por supuesto, pero...`
+` Entonces, ¿eso es todo?`
+` ¿Los sospechosos son culpables...?"`
+`"No conozco los detalles prácticos del truco, pero tengo una idea general.`
+` Mis disculpas, pero si suponemos que Kanon-kun fue el culpable, se puede explicar muy fácilmente.`
+` Incluso en lo que respecta al porqué no había cadáver."`
+`"Huh...`
+` ¡Pero Kanon-kun no tenía una llave maestra, ¿verdad?!`
+` Dejando de lado a los otros sirvientes, ¡al menos Kanon-kun no debería haber sido capaz de cerrar la puerta!"`
+`"Ya veo.`
+` Así que por eso nos dijiste que buscásemos en el armario y en todas partes justo después de entrar en la habitación de Jessica.`
+` Tía Rosa, tu mente trabaja más rápido de lo que podría imaginar a juzgar por tu apariencia normal."`
+`"La velocidad cerebral de una hermana pequeña es siempre la de la hermana mayor menos 1.`
+` Me siento bien por no tener que preocuparme por nadie ahora."`
+`George-aniki se dio cuenta de que se refería a la tía Eva,`
+` y parecía no saber cómo tomarse ese comentario...`
+`"Lo-lo siento.`
+` ¿Podrías explicarlo de forma que hasta yo pueda entenderlo?"`
+`"La llave maestra de Kanon-kun estaba en el bolsillo de Jessica-chan, la cual estaba dentro de una habitación cerrada.`
+` ¡Después de que la puerta fue cerrada, debería de ser imposible para él hacer un truco para ponerlo en su bolsillo desde afuera de la habitación!"`
+`"No es eso, Aniki.`
+` Si fue tal y como la tía Rosa imaginaba, este truco solo podría ser usado por Kanon-kun."`
+`"Y si él cerraba la puerta sin usar una llave, mientras la llave maestra seguía en el bolsillo de Jessica,`
+` daría como resultado que su cuerpo desaparecería."`
+`"¡¿C-cómo?!`
+` ¡¿Cómo es que él podría cerrar la puerta sin usar una llave?!"`
+`"Es simple.`
+` George-kun, cuando vuelves a casa, cierras la puerta, ¿verdad?`
+` Giras la perilla, y hace clic, ¿no?"`
+`"¡¿Huh...?!`
+` Po‐`
+`podría ser...`
+` No, pero...`
+` Kanon-kun no estaba por ningún lado..."`
+`"Parece que lo lograste, Aniki.`
+` Eso es lo que buscaba la tía Rosa dentro de la habitación."`
+`"Ella estaba buscando a Kanon-kun, quien había cerrado la puerta por dentro, metió la llave en el bolsillo de Jessica,`
+` y estaba escondido en algún lugar, esperando a que nos fuéramos."`
+`El truco más simple de habitaciones cerradas.`
+` En otras palabras, esconderse dentro de la habitación cerrada después de cometer el asesinato.`
+`Y si él pudiera salir después de que se fueran los que descubrieron el cuerpo, se crearía un perfecto asesinato a puerta cerrada......`
+`"Registramos la habitación, pero no encontramos nada.`
+` Pero, eso no significa que podamos descartar algo como un pasadizo secreto oculto en esa habitación que solo los sirvientes conocen."`
+`"No sé dónde puede estar escondido,`
+` pero si suponemos que había un pasadizo oculto, podemos afirmar con certeza que fue imposible para cualquiera excepto para él."`
+`"Sabes, esa manera de razonar,`
+` fue también lo primero que pensé.`
+` Es el razonamiento que más odio, por eso quise destruirlo desde el principio..."`
+`"*carcajada*carcajada*...`
+` "{p:1:Kanon fue asesinado en esa habitación}", ¿no fue así?"`
+`"Como parecías sospechar que Kanon era el culpable, me hiciste repetir esto para destruir esa posibilidad de inmediato.`
+` Lo entiendo, lo entiendo.`
+` *carcajada*..."`
+`"Así que esto es lo siguiente que se me ocurrió.`
+` Una teoría de que en realidad había tres personas en esa habitación.`
+` Jessica y Kanon-kun fueron las víctimas.`
+` Y la culpable, la invitada {f:5:Beatrice}, también estaba allí con ellos."`
+`"Quieres que "la yo humana" sea quien cometió el crimen sin usar magia.`
+` Ya veo, una extraña teoría que encaja perfectamente contigo.`
+` *risita*risita*."`
+`"Supuse que mataste a esos dos y luego cerraste la puerta por dentro.`
+` Y te llevaste el cuerpo de Kanon-kun usando algún método secreto que la gente normal no notaría.`
+` En otras palabras, usaste una puerta secreta para escapar."`
+`"Pero me lo dijiste en rojo.`
+` Dijiste que no hay ningún tipo de puertas secretas en esa habitación."`
+`"En efecto.`
+` No existe ningún pasadizo secreto desconocido para todos ustedes.`
+` ¿Era Knox, o era Van Dine?`
+` Parece que en las novelas de misterio nunca debe haber pasadizos ocultos, sin importar qué.`
+` Yo también sigo esa etiqueta."`
+`"En otras palabras, incluso sin tener que registrar a fondo una habitación, los grandes detectives pueden afirmar con seguridad que no hay pasadizos secretos.`
+` *carcajada*carcajada*, los humanos lo tienen tan fácil con sus jueguecitos de detectives."`
+`"Maldita sea, sigues presumiendo...`
+` Gracias.`
+` Gracias a la disposición de la bruja, puedo decir con seguridad que la habitación no tiene una puerta oculta sin registrarla entera."`
+`"En efecto.`
+` {p:1:No hay puertas secretas en esta habitación}.`
+` {p:1:No hay otra forma de entrar o salir que la puerta y las ventanas}."`
+`"Lo que significa...`
+` que esa teoría en la que la tía Rosa confía tanto...`
+` está equivocada."`
+`"Además, frustrantemente, es imposible refutar esa teoría.`
+` Si tú, la bruja, dices en rojo`
 ` "`
-`{p:1:there are no hidden doors}", then it's settled."`
-`"......However, no matter how much a human like me tries to argue against her, Auntie Rosa probably won't accept it.`
-` {i:Humans can't prove there's no hidden door}."`
-`"It's a Devil's Proof.`
-` ...............Damn.`
-` Sure is convenient being a witch..."`
-`"......No way!`
-` You're calling Kanon‐kun the culprit because of a hidden door that we don't even know exists...`
-` I...can't accept that."`
-`"If you can't accept that, tell me some reasoning that's easier to accept, then?`
-` .........There is none.`
-` I've been thinking the whole time.`
-` There's nothing but this!"`
+`{p:1:no hay puertas secretas}", es un hecho."`
+`"Sin embargo, por mucho que un humano como yo intente llevarle la contraria, es probable que la tía Rosa no lo acepte.`
+` {i:Los humanos no pueden probar que no hay puerta secreta}."`
+`"Es una Prueba Diabólica.`
+` Maldición.`
+` Seguro que es conveniente ser una bruja..."`
+`"¡De ninguna manera!`
+` Estás llamando a Kanon-kun el culpable por una puerta secreta que ni siquiera sabemos que existe...`
+` Yo... no puedo aceptar eso."`
+`"Si no puedes aceptar eso, dime algún razonamiento que sea más fácil de aceptar, ¿y bien?`
+` No hay ninguno.`
+` Estuve pensándolo todo el tiempo.`
+` ¡No hay nada más que esto!"`
 `".............................."`
-`"George‐kun, you had a good relationship with Shannon‐chan, right?`
-` So I think it would be hard for you to accept that all of the servants are the culprits."`
-`"I also don't want to believe that Shannon‐chan is one of the culprits.`
-` .........But whether it's all of them or not, the culprit, or maybe an accomplice, is definitely in that group.`
-` You must not fail to see that!"`
-`"......If you thought that there were more wolves in addition to Kanon‐kun,`
-` ...then causing that uproar by saying that Kanon‐kun was the culprit in Jessica's room was to see the servants' reactions...?"`
-`"Yes, that's right.`
-` And as a result, I began to suspect them even more.`
-` ......I'm certain there are wolves among the servants.`
-` Certain.`
-` And, just like the "Wolves and Sheep Puzzle", while they are normally docile, they will surely attack if they get the chance."`
-`"......Jessica‐chan was a lone sheep on the boat.`
-` ......In that puzzle, they may not attack when there is a balance between wolves and sheep, but our puzzle is different.`
-` Depending on the opportunity and the number of people, they'll attack even if there is a balance.`
-` Just like when Jessica‐chan was killed!"`
-`".........Th‐there's something I don't like!`
-` In that case, Shannon, who you sent to the kitchen, is in a dangerous situation, isn't she?!!`
-` We should also go to the kitchen right now!`
-` No matter who might or might not be a wolf!`
-` If we can form a balance by gathering together, I think we should maintain that!!"`
-`"......Shannon‐chan went to see Father along with Genji‐san.`
-` She was isolated then, but she wasn't killed."`
-`"Because Genji‐san wasn't a wolf either?"`
-`"......No!`
-` Because they were both wolves!!"`
-`"Shannon isn't the kind of person who would take part in a crime!!`
-` Even if it's you, Auntie Rosa, I cannot ignore that.`
-` I demand that you take back what you just said...!"`
-`"...I hate to say this in front of Aniki, but that argument...`
-`...feels just like something Auntie Eva would say.`
-` If we can't argue back, then you automatically assume that you're right.`
-` ......Looks like you can't fight your blood after all, Auntie."`
-`".........Even I don't think of myself as very praiseworthy right now."`
-`"But you know what? I'm a mother!`
-` I would even become a demon to protect Maria's safety.`
-` Honestly speaking, I wish I could just shut myself away somewhere alone with Maria."`
-`"......But I also plan to act as a mother to you two.`
-` Right now, you are as good as my children.`
-` ......You may not be my own children, ...but I won't forsake you.`
-` .........Ever."`
-`"......Sure, thanks."`
-`"I just wanted to warn you not to be careless, as your mother.`
-` {i:Always remain where I can see you}.`
-` I will protect you."`
-`"And at the same time, you'll be observing us to make sure we aren't "wolves".`
-` ...Yeah, thanks a lot for that.`
-` Can you prove that you aren't a "wolf" yourself?"`
-`"Yes, I can."`
-`"That's a quick answer.`
-` How?"`
-`"With this.`
-` ...This is my proof."`
-`Auntie Rosa held up the gun, and pointed the barrel at me.`
-`But that was only for an instant.`
-`She immediately lowered the gun, laughing impishly.`
-`{n}......But to me, the time I spent staring down the barrel of the gun had felt like an eternity.`
-`"...How does that gun prove that you aren't the culprit, Auntie Rosa?"`
-`"Think about it.`
-` What if I were the culprit?`
-` Do you think I would let by this once‐in‐a‐lifetime chance I got when the servants left?"`
-`"I could just shoot you both, bang, and all that's left is to come out with a fitting excuse.`
-` Something like, {f:5:Beatrice} appeared outside the window and shot at us with a gun.`
-` I would claim that I fired two shots back at her, and throw the two shots' worth of empty cartridges onto the floor."`
-`"That's a crazy wild argument, but it does make sense. Ihihihi!"`
-`"There's something Krauss nii‐san often used to say.`
-` Might makes right.`
-` .........I wonder if this proves that?"`
-`".........I'm sorry, you two.`
-` I've lost a lot of my composure after all these crimes since morning.`
-` You know how I normally am, so right now I must seem on‐edge and a little short‐tempered."`
-`"...But understand.`
-` I want to protect you from the malicious culprit.`
-` I will become a demon to do that.`
-` That's all there is to it.`
-` ......I'm sorry for saying something that's angered you.`
+`"George-kun, tienes una buena relación con Shannon-chan, ¿verdad?`
+` Por eso, creo que es difícil para ti aceptar que todos los sirvientes son los culpables."`
+`"Tampoco quiero creer que Shannon-chan sea uno de los culpables.`
+` Pero lo sean todos o no, el culpable, o tal vez un cómplice, está sin duda en ese grupo.`
+` ¡No debes olvidarlo!"`
+`"Si pensabas que había más lobos además de Kanon-kun,`
+` ¿entonces causar ese alboroto diciendo que Kanon-kun era el culpable en la habitación de Jessica fue para ver las reacciones de los sirvientes...?"`
+`"Sí, así es.`
+` Y como resultado, empecé a sospechar aún más de ellos.`
+` Estoy segura de que hay lobos entre los sirvientes.`
+` No me cabe duda.`
+` Y al igual que en el "puzle de los lobos y las ovejas", aunque normalmente son dóciles, seguro que atacan en cuanto tienen oportunidad."`
+`"Jessica-chan era una oveja solitaria en el barco.`
+` En ese puzle, puede que no ataquen cuando hay un equilibrio entre lobos y ovejas, pero en nuestro caso es diferente.`
+` Dependiendo de la oportunidad y del número de personas, atacarán incluso si hay un equilibrio.`
+` ¡Igual que cuando mataron a Jessica-chan!"`
+`"¡Ha-hay algo que no me gusta!`
+` ¡En ese caso, Shannon, a quien enviaste a la cocina, está en una situación peligrosa, ¿no?!`
+` ¡También deberíamos ir a la cocina ahora mismo!`
+` ¡No importa quien pueda o no ser un lobo!`
+` ¡¡Si podemos formar un equilibrio al agruparnos, creo que debemos mantenerlo así!!"`
+`"Shannon-chan fue a ver a Padre junto con Genji-san.`
+` Ella estuvo aislada en ese momento, pero no fue asesinada."`
+`"¿Fue porque Genji-san tampoco era un lobo?"`
+`"¡No!`
+` ¡¡Fue porque ambos son lobos!!"`
+`"¡¡Shannon no es el tipo de persona que participaría en un crimen!!`
+` Aunque seas tú, tía Rosa, no puedo ignorarlo.`
+` ¡Exijo que te retractes de lo que acabas de decir...!"`
+`"Odio decir esto delante de Aniki, pero ese argumento...`
+` se siente como algo que la tía Eva diría.`
+` Si no podemos refutarte, asumes automáticamente que tienes razón.`
+` Parece que no puedes luchar contra tu sangre después de todo, tía."`
+`" Incluso yo, no me considero muy digna de elogio ahora mismo."`
+`"¿Pero sabes qué? ¡Soy madre!`
+` Incluso me convertiría en un demonio para proteger la seguridad de María.`
+` Hablando sinceramente, me gustaría poder encerrarme en algún lugar a solas con María."`
+`"Pero también pienso hacer de madre para ustedes dos.`
+` Ahora mismo, ustedes son como mis hijos.`
+` Puede que no sean mis propios hijos, pero no los abandonaré.`
+` Nunca."`
+`"Claro, gracias."`
+`"Solo quería advertirles que no sean descuidados, como su madre.`
+` {i:Quédense siempre donde pueda verlos}.`
+` Los protegeré."`
+`"Y al mismo tiempo, nos observarás para asegurarte de que no somos "lobos".`
+` Sí, muchas gracias por eso.`
+` ¿Puedes tú mima probar que no eres un "lobo"?"`
+`"Sí, sí puedo."`
+`"Esa es una respuesta rápida.`
+` ¿Cómo?"`
+`"Con esto.`
+` Esta es mi prueba."`
+`La tía Rosa levantó el arma y me apuntó con el cañón.`
+`Pero eso fue solo por un instante.`
+`Ella bajó inmediatamente el arma, riendo pícaramente.`
+`{n}Pero para mí, el tiempo que pasé mirando el cañón de la pistola me había parecido una eternidad.`
+`"¿Cómo prueba esa arma que tú no eres la culpable, tía Rosa?"`
+`"Piénsalo.`
+` ¿Qué pasaría si yo fuera el culpable?`
+` ¿Crees que dejaría pasar esta oportunidad única en la vida que tuve cuando se fueron los sirvientes?"`
+`"Podría dispararles a los dos, bang, y todo lo que tendría que hacer es salir con una excusa conveniente.`
+` Algo así como que {f:5:Beatrice} apareció por la ventana y nos disparó con una arma.`
+` Yo diría que le disparé dos veces y tiraría al suelo los cartuchos vacíos de los dos disparos."`
+`"Es un argumento descabellado, pero tiene sentido. ¡Ijijiji!"`
+`"Hay algo que Krauss nii-san solía decir a menudo.`
+` La ley del más fuerte.`
+` ¿Me pregunto si esto lo demuestra?"`
+`"Lo siento, ustedes dos.`
+` He perdido mucho la compostura después de todos estos crímenes desde la mañana.`
+` Ustedes conocen cómo soy normalmente, así que ahora debo parecerles un poco nerviosa e irritada."`
+`"Pero entiéndanlo.`
+` Quiero protegerlos del malicioso culpable.`
+` Me convertiré en un demonio para hacerlo.`
+` Eso es todo.`
+` Siento haber dicho algo que los molestó.`
 ` Battler‐kun, George‐kun.`
-` ...Let's make up."`
-`George‐aniki was wearing an unsatisfied expression.`
-`{n}...He probably couldn't forgive the damage done to Shannon's honor.`
-`...What about me...?`
-` Several bits of circumstantial evidence hint strongly at the servants' participation.`
-`......I don't want to believe that one of them is the culprit, or possibly colluding with the culprit,`
-` ...but in the current situation, that's nothing but wishful thinking.`
-`Who should I believe?`
-`In the first place, who is the culprit?`
-`{n}Are there accomplices?`
-`{n}If so, how many?!`
-`......I feel like I'm constantly only suspecting the people connected to all this.`
-`...I find myself quickly forgetting about that 19th person,`
-` the guest, {f:5:Beatrice}, who came yesterday and boldly called herself the Golden Witch.`
-`I haven't actually seen her face.`
-`I've heard that she's like a double of the witch in that portrait,`
-` but because I haven't seen her directly, no matter how hard I try, I can't really feel like there are 19 people on this island.`
-`...So I easily slip into the illusion that the culprit is one of the 18...`
-`Damn it......`
-` Come out, {f:5:Beatrice}.`
-`If you're the bad guy, then act like the bad guy, and show yourself, laughing in a high‐pitched voice and looking down on us.`
-`Just like a bad guy in one of those dramas who, even once they're exposed as the culprit,`
-` aggressively says "is there any proof?"`
-`"*cackle*cackle*cackle*cackle*cackle*cackle*.`
-` Is there any proof?"`
-`"Shut up, you keep your trap shut for a minute..."`
-`There were five humans in the kitchen, but it was very quiet, filled only with the sound of the rain.`
-`It was only accented by the sound of Shannon and Kumasawa washing the dishes.`
-`Gohda was using the leftovers from breakfast and lunch as ingredients for a servants' soup.`
-`......Rosa had suspected that poison might have been added to the food, so they had decided to eat canned food, but it hadn't really been filling.`
-`But Gohda thought that she was being too careful.`
-`{n}So he was spontaneously creating a soup to be served only to those that wanted to eat it.`
-`Shannon and Kumasawa were washing the dishes that the food had been arranged on.`
-`On the inside, they thought maybe Gohda should be the one to wash them since he had been the one who wanted the food on plates in the first place,`
-` but they left their complaints unsaid for the time being.`
-`Genji and Nanjo were facing each other across a crude chess set which had seen many years.`
-`...It had still only just begun.`
-`And because the opening game of the experienced players had been endlessly refined,`
-` it looked like a ritual where they just moved specified pieces in a specified order.`
-`"That's a nice aroma...`
-` You wouldn't get this from canned food."`
-`"It was made only from sealed ingredients, so there won't be any poison mixed in."`
-`"I have made enough for everybody, so please, eat.`
-` Of course, I will also taste for poison.`
-` Please feel secure and eat."`
-`"That really is a nice aroma.`
-` Gohda‐san, your makeshift servant meals really are delicious."`
-`"It's natural that you can create delicious food if you buy delicious ingredients.`
-` ......My teacher taught me that perfecting your ability to make delicious food from whatever is at hand is what makes you a true cook."`
-`"That was a good teacher.`
-` Thanks to him, it looks like I shall be able to enjoy some truly delicious soup."`
-`"......Although it is a shame that it was made from ingredients intended for all of the family members to eat."`
-`"I'm sure that Rosa‐san is also tired after everything that happened this morning.`
-` It is only natural."`
-`"But thanks to that, we get to eat some soup made from delicious ingredients, hoh‐hoh‐ho."`
-`Rosa had fervently told everyone that they didn't realize the danger they were in, and that they must suspect that poison was mixed in with the food.`
-`The atmosphere in that place had led to their agreement,`
-` but their hunger wouldn't be overcome by that momentary emotion.`
-`"Ironically, it has become a soup that we normally wouldn't be able to savor.`
-` If possible, I would like to also serve it to everyone in the parlor, but..."`
-`"......Seeing as that goes against Rosa‐sama's instructions, you'd better not.`
-` ......Those who want to eat it can do so."`
+` Hagamos las paces."`
+`George‐aniki tenía una expresión de insatisfacción.`
+`{n}Él probablemente no podía perdonar el daño hecho al honor de Shannon.`
+`¿Y qué hay de mí...?`
+` Varias pruebas circunstanciales apuntan fuertemente a la participación de los sirvientes.`
+`No quiero creer que uno de ellos sea el culpable, o posiblemente esté en complicidad con el culpable,`
+` pero dadas las circunstancias, eso no es más que una ilusión.`
+`¿A quién debo creer?`
+`En primer lugar, ¿quién es el culpable?`
+`{n}¿Hay cómplices?`
+`{n}Si es así, ¡¿cuántos?!`
+`Siento que constantemente solo sospecho de la gente relacionada con todo esto.`
+`Me olvido rápidamente de esa 19na persona,`
+` la invitada, {f:5:Beatrice}, que vino ayer y se llamó a sí misma la Bruja Dorada.`
+`Nunca le he visto la cara.`
+`He oído que es como un doble de la bruja de ese retrato,`
+` pero como no la he visto directamente, por mucho que lo intente, no puedo sentir realmente que hay 19 personas en esta isla.`
+`Así que fácilmente caigo en la ilusión de que el culpable es uno de los 18...`
+`Maldita sea...`
+` Sal, {f:5:Beatrice}.`
+`Si eres el malo, actúa como tal y muéstrate riendo con voz aguda y mirándonos por encima del hombro.`
+`Igual que los malos en esos dramas que, incluso una vez desenmascarado como culpable,`
+`  agresivamente dicen "¿hay alguna prueba?"`
+`"*carcajada*carcajada*carcajada*carcajada*carcajada*carcajada*.`
+` ¿Hay alguna prueba?"`
+`"Cállate, mantén la boca cerrada por un minuto..."`
+`Había cinco personas en la cocina, pero el silencio era absoluto, únicamente interrumpido por el sonido de la lluvia.`
+`Que solo se acentúa por el sonido de Shannon y Kumasawa lavando los platos.`
+`Gohda estaba usando las sobras del desayuno y del almuerzo como ingredientes para hacer la sopa de los sirvientes.`
+`Rosa había sospechado que podían haber añadido veneno a la comida, así que habían decidido comer comida enlatada, pero no les había llenado mucho.`
+`Pero Gohda pensó que estaba siendo demasiado cuidadosa.`
+`{n}Así que estaba creando espontáneamente una sopa que se serviría solo a los que quisieran comerla.`
+`Shannon y Kumasawa estaban lavando los platos en los que se había servido la comida.`
+`En el fondo, pensaban que tal vez Gohda debía ser quien los lavara, ya que había sido él quien había querido servir la comida en platos en primer lugar.`
+` Pero, por el momento, no han expresado sus quejas.`
+`Genji y Nanjo estaban frente a frente en un tosco juego de ajedrez que había visto pasar muchos años.`
+`La partida acababa de comenzar.`
+`Y como la apertura de ambos jugadores experimentados había sido practicamente perfecta,`
+` parecía un ritual en el que solo movían piezas específicas en un orden específico.`
+`"Qué aroma tan agradable...`
+` Esto no se consigue con comida enlatada."`
+`"Fue hecha solo con ingredientes sellados, asi que no habra ningun veneno mezclado."`
+`"He hecho suficiente para todos, así que por favor, coman.`
+` Por supuesto, también lo probaré para demostrar que no está envenenado.`
+` Por favor, siéntanse seguros y coman."`
+`"Realmente es un aroma agradable.`
+` Gohda-san, tus comidas improvisadas para sirvientes son realmente deliciosas."`
+`"Es natural que se pueda crear comida deliciosa si se compran ingredientes deliciosos.`
+` Mi maestro me enseñó que perfeccionar tu habilidad para hacer comida deliciosa con lo que tengas a mano es lo que te convierte en un verdadero cocinero."`
+`"Ha sido un buen profesor.`
+` Gracias a él, parece que voy a poder disfrutar de una sopa realmente deliciosa."`
+`"Aunque es una pena que se haya hecho con ingredientes destinados a ser comidos por todos los miembros de la familia."`
+`"Seguro que Rosa-san también está cansada después de todo lo que ha pasado esta mañana.`
+` Es natural."`
+`"Pero gracias a eso, podemos comer una sopa hecha con ingredientes deliciosos, hoh‐hoh‐ho."`
+`Rosa había dicho fervientemente a todos que no se daban cuenta del peligro que corrían, y que debían sospechar que el veneno estaba mezclado con la comida.`
+`El ambiente de aquel lugar les había llevado a ponerse de acuerdo,`
+` pero su hambre no se dejaría vencer por esa emoción momentánea.`
+`"Irónicamente, se ha convertido en una sopa que normalmente no podríamos saborear.`
+` De ser posible, me gustaría servirlo también a todos en el salón, pero..."`
+`"Ya que eso va en contra de las instrucciones de Rosa-sama, será mejor que no lo hagas.`
+` Quienes quieran comerlo, pueden hacerlo."`
 `"Hoh‐hoh‐hoh‐ho.`
-` Skillfully taking a breather when no one is looking is one of the things you learn as a servant, after all."`
-`Kumasawa laughed loudly, and Shannon and Gohda laughed with her.`
-`It seemed that, in an area where only their fellow servants were gathered, they could be very relaxed.`
-`Shannon didn't like Gohda's occasional dishonesty,`
-` but she knew that there was no falsehood in his childish smile when he cooked,`
-` nor in his desire that people enjoy his food.`
-`So even though it was a little aggravating to be made to wash the dishes,`
-` she couldn't really hate him.`
-`However, they couldn't have dreamed that Rosa was calling them wolves in the parlor at exactly the same moment that they were spending their time peacefully like this......`
-`At that time, several of the servants heard a sound like something was being dragged, and then a thump.`
-`When a servant was out carrying a mountain of trash bags on a rainy day,`
-` or doing some work in a raincoat, they would create exactly this kind of noise and presence as they returned and hovered around the back door.`
-`So after hearing that sound, at first, none of them noticed anything out of the ordinary...`
-`But they quickly realized.`
-` ............In a situation where everyone was either in the kitchen or the parlor, who in the world was at the back door...?!`
-`As the servants all looked at each other, they checked to make sure that each one of them knew what that sound meant.`
-`"Who, ..........who could it be......?"`
-`The servants knew the mansion's layout well.`
-`So they understood how unimaginable it would be for someone from the parlor to actually go outside in this typhoon,`
-` go all the way around, and come up to this back door.`
-`Then was it Kinzo?`
-` ...They found it even more difficult to imagine that Kinzo, who never left his study even under normal conditions,`
-` would dash out into the middle of this typhoon for no apparent reason, and come to the back of the house, where only low‐class people came in or out.`
-`"......Tha‐`
-`......that wasn't...`
-`our imagination, was it......?"`
-`".............Awawawawawawawawa..."`
-`Shannon and Kumasawa drew close together, fearfully looking at the back door...`
-`"...Who, ...who is it......?"`
-`As Gohda fearfully approached the back door, he called out.`
-`{n}......And he checked with his eyes the location of a butcher's knife set on a nearby sink.`
-`......He didn't pick it up yet.`
-`{n}Because there was still a possibility that this was a member of the family.`
-`{n}However, that possibility wasn't possible...`
-`There was no response from across the door to Gohda's initial question.`
-`{n}...Maybe his voice had been so quiet that it hadn't reached through all the wind and rain outside.`
-`".........Genji‐san."`
-`"......Yes.`
-` .........Stand back, Doctor Nanjo and the women."`
-`"...Who, ......who in the world could it be......"`
-`Genji took a knife with a classical design from a stationery box placed near the chess set.`
-`...It was something to be used instead of a paper knife to open envelopes for invoices and bills.`
-`But it was fundamentally a knife.`
-`{n}So the blade on it could injure someone...`
-`Genji hid it in his sleeve with a well‐practiced manner.`
-`{n}Then he too approached the back door, and signaled to Gohda with a silent nod.`
-`Gohda cautiously approached the back door, .........and slowly started to open it......`
-`"Wa...wahyaaaaaaaaaaaaaaaaaaaaaaaaa...!!!"`
-`The figure of a person suddenly shuffled into sight, landed on its knees, and fell over.`
-`{n}Gohda fell backwards onto his backside in shock.`
-`That figure was soaked with rain, smeared with mud, and drenched with blood...`
-`"K‐............Kanon‐kun?!`
-` Kanon‐kun!!"`
-`".........Kanon.`
-` Are you alright...?`
-` Doctor Nanjo...!"`
-`It was Kanon.`
-`......His breath was feeble, ......and the puddles of mud he left quickly became drenched bright‐red.`
-`When Nanjo held him and turned him face up, there was a deep, gruesome scar right in the center of his chest, as though he had been run through with a spear or something.`
-`Even now, deep‐red blood poured out from there...!`
-`"Th‐th‐th‐...this is horrible...`
-` Wh‐what shall we do—first aid kit? First aid kit?!"`
-`"Kanon‐san, put your hand against the wound!`
-` Please, push firmly!`
-` Let's carry him to the bed in the servant room!!`
-` Everyone, please, lend a hand."`
-`"C‐come now, Kanon‐san!`
-` Please, hang in there a little longer...!"`
-`"Hang in there!!`
-` It's alright now!!`
-` So don't take your hand from the wound...!!"`
-`"Anyway, let's carry him to the servant room.`
-` ......Kumasawa, inform Rosa‐sama that we have found Kanon."`
-`"Wai‐.........wait.........`
-` ......Not...`
-`......Rosa‐sama........."`
-`"...Please wait!`
-` Kanon‐san said not Rosa‐sama..."`
-`"......Wh‐what do you mean, Kanon‐kun...!"`
-`"............Not now.`
-` Let's carry him to the servant room quickly.`
-` Kumasawa, don't tell Rosa‐sama yet.`
-` ...We'll do it after we hear the situation from Kanon."`
-`"Y‐......yes......`
-` ......hiiiiii..."`
-`After appearing in this horrible state, he had said not to tell Rosa.`
-`......That could only mean something very disquieting.`
-`{n}......An eerie sense of panic rose to their faces...`
-`"C‐come now, everyone!`
-` Let's hurry and carry him...!`
-` Quickly, quickly...!"`
-`Kanon's wound was unbelievably deep,`
-` ...and judging from Nanjo's pale face, it was almost a miracle that he was still conscious...`
-`"......This is......horrible...`
-` It appears that he has been stabbed with something like a spear.`
-` I‐if it hasn't reached the lungs, I might be able to do something......`
-` Anyway, stop the bleeding......!"`
-`"u...guo......aaaaga!!!"`
-`No matter how much Nanjo tried to wipe off that gushing deep‐red blood, ...he couldn't wipe it he couldn't wipe it he couldn't wipe it all away...!`
-` And each time, the wound was aggravated, causing Kanon to cry in anguish...`
-`"Kanon‐kun, Kanon‐kun Kanon‐kun!`
-` Hang in there... Hang in there...!!"`
-`"Doctor Nanjo!`
-` A new towel...!`
-` ...How...horrible...!!"`
-`"What is his condition...?"`
-`".........In all honesty, ...it is so severe that I cannot believe he is alive...`
-` Maybe the location of the stab was fortunate...`
-` But the blood loss is too horrible...!`
-` A blood transfusion is necessary, but that's impossible until tomorrow...!"`
-`"......u...`
-`...*cough*cough*!!`
-` Ro‐`
-`......Rosa‐sama...`
-`......she......`
-`ugaaaaaa!!"`
-`"D‐don't talk, Kanon‐kun!`
-` Your wound will open...!"`
-`"......Rosa‐sama...came...`
-`......t‐`
-`......to Milady and...`
-`...me, and........."`
-`"Wh‐......what did you say......"`
-`"Rosa‐sama......did...?`
-` Oooooh... Could that mean, could that mean..."`
-`"......Are you certain?"`
-`"Yes.........`
-` ......I'm certain......it was Rosa‐sama........."`
-`"Come now, don't speak any more...!`
-` Kumasawa‐san, please grab another first aid kit!"`
-`".........Genji‐san.`
-` ......Is it possible Rosa‐sama......did such a thing?"`
-`"............I don't know."`
-`Disregarding Nanjo and Kumasawa, who were struggling hard and stained with blood as they tried to stop the bleeding, Genji and Gohda faced each other...`
-`......Because if what Kanon had said was the truth,`
-` ......Rosa was the culprit who killed Jessica.`
-`"Curse you, Rosa......`
-` How could you do that...to Milady......`
-` ...I'm gonna kill you......ugnnnggg...!"`
-`Kanon screamed even more hatefully...`
-`{n}...His hate‐filled voice made it seem like he had seen Jessica being harmed right before his eyes.`
-`"......Cer‐certainly, Rosa‐sama may have had a reason to kill Milady.`
-` If the Ushiromiya family was wiped out, the inheritance would all go to Rosa‐sama..."`
-`"If so, Battler‐sama and George‐sama are in danger...!`
-` Not only is Rosa‐sama holding a gun, but right now, they are the only ones in the parlor...!`
-` Genji‐san, isn't this quite perilous......?!"`
+` Después de todo, una de las cosas que aprendes como sirviente es a tomarte un respiro cuando nadie te ve."`
+`Kumasawa rio a carcajadas, y Shannon y Gohda rieron con ella.`
+`Al parecer, en una zona donde solo estaban reunidos sus compañeros de servicio, ellos podían estar muy relajados.`
+`A Shannon no le gustaba la deshonestidad ocasional de Gohda,`
+` pero ella sabía que no había falsedad en su sonrisa infantil cuando cocinaba,`
+` ni en su deseo de que la gente disfrute de su comida.`
+`Así que, aunque era un poco agravante que le hicieran lavar los platos,`
+` ella no podía odiarlo realmente.`
+`Sin embargo, no podían imaginar que Rosa les estaba llamando lobos en el salón exactamente en el mismo momento en que ellos pasaban el tiempo tranquilamente de esta manera...`
+`En ese momento, varios sirvientes oyeron un ruido como si arrastraran algo, y luego un golpe.`
+`Cuando un sirviente salía a llevar un montón de bolsas de basura en un día lluvioso,`
+` o haciendo algún trabajo con un impermeable, creaban exactamente este tipo de ruido y presencia cuando volvían y se acercaban a la puerta trasera.`
+`Así que después de oír ese sonido, al principio, ninguno de ellos notó nada fuera de lo normal...`
+`Pero enseguida se dieron cuenta.`
+` En una situación en la que todo el mundo estaba en la cocina o en el salón, ¡¿quién demonios estaba en la puerta trasera...?!`
+`Mientras los criados se miraban los unos a los otros, comprobaban que cada uno de ellos sabía lo que significaba ese sonido.`
+`"¿Quién, quién podría ser...?"`
+`Los sirvientes conocían bien la disposición de la mansión.`
+`Así que comprendieron cuán inimaginable sería que alguien del salón saliera al exterior con este tifón,`
+` dando toda la vuelta, y luego entrando por la puerta trasera.`
+`Entonces, ¿era Kinzo?`
+` Les resultaba aún más difícil imaginar que Kinzo, quien nunca salía de su estudio ni siquiera en condiciones normales,`
+` saldría corriendo en medio de este tifón sin razón aparente, y llegaría a la parte trasera de la casa, donde solo entraba o salía gente de clase baja.`
+`"E‐`
+`eso no fue...`
+`nuestra imaginación, ¿no?"`
+`"Awawawawawawawawa..."`
+`Shannon y Kumasawa se acercaron juntas, mirando temerosamente hacia la puerta trasera...`
+`"¿Quién, quién es...?"`
+`Cuando Gohda se acercó temeroso a la puerta trasera, gritó.`
+`{n}Y comprobó con sus ojos la ubicación de un cuchillo de carnicero colocado sobre un fregadero cercano.`
+`Él no lo recogió.`
+`{n}Porque aún existía la posibilidad de que fuera un miembro de la familia.`
+`{n}Sin embargo, tal cosa no era posible...`
+`No hubo respuesta del otro lado de la puerta a la pregunta inicial de Gohda.`
+`{n}Tal vez su voz había sido tan baja que no había llegado a través de todo el viento y la lluvia de afuera.`
+`"Genji‐san."`
+`"Sí.`
+` Atrás, Doctor Nanjo y las mujeres."`
+`"¿Quién, quién rayos podría ser...?"`
+`Genji cogió un cuchillo de diseño clásico de una caja de papelería colocada cerca del juego de ajedrez.`
+`Era algo que se utilizaba en lugar de un cortapapeles para abrir sobres de facturas y recibos.`
+`Pero era básicamente un cuchillo.`
+`{n}Así que la hoja podría herir a alguien...`
+`Genji lo escondió en su manga de una manera muy hábil.`
+`{n}Entonces, él también se acercó a la puerta trasera, y le hizo una señal a Gohda con una silenciosa inclinación de cabeza.`
+`Gohda se acercó cautelosamente a la puerta trasera, y empezó a abrirla lentamente...`
+`"¡¡¡Wa... wahyaaaaaaaaaaaaaaaaaaaaaaaaa...!!!"`
+`La figura de una persona apareció de repente, se puso de rodillas y cayó al suelo.`
+`{n}Gohda cayó de espaldas en estado de shock.`
+`Esa figura estaba empapada de lluvia, cubierta de barro y empapada de sangre...`
+`"¡¿Ka... Kanon‐kun?!`
+` ¡¡Kanon‐kun!!"`
+`"Kanon.`
+` ¿Estás bien...?`
+` ¡Doctor Nanjo!"`
+`Es Kanon.`
+`Su respiración era débil, y los charcos de barro que dejaba se empapaban rápidamente de un rojo brillante.`
+`Cuando Nanjo lo sujetó y lo puso boca arriba, tenía una cicatriz profunda y espantosa justo en el centro del pecho, como si lo hubieran atravesado con una lanza o algo parecido.`
+`¡Incluso ahora, sangre de color rojo intenso brotaba de allí...!`
+`"E‐e‐e‐esto es horrible...`
+`¿Qu-qué hacemos? ¿Botiquín de primeros auxilios? ¡¿Botiquín de primeros auxilios?!"`
+`"¡Kanon-san, pon tu mano contra la herida!`
+` ¡Por favor, presiona firmemente!`
+` ¡¡Llevémoslo a la cama de la habitación de los sirvientes!!`
+` Todos, por favor, ayúdenme."`
+`"¡V-vamos, Kanon-san!`
+` ¡Por favor, resite un poco más...!"`
+`"¡¡Resiste!!`
+` ¡Todo está bien!`
+` ¡¡Así que no saques la mano de la herida...!!"`
+`"De todos modos, vamos a llevarlo a la habitación de los sirvientes.`
+` Kumasawa, informa a Rosa-sama que hemos encontrado a Kanon."`
+`"Espe... espera...`
+` No a...`
+` Rosa‐sama..."`
+`"¡Por favor, espera!`
+` Kanon-san dijo no a Rosa-sama..."`
+`"¡¿Q-qué quieres decir, Kanon-kun...?!"`
+`"Ahora no.`
+` Llevémoslo rápido a la habitación de los sirvientes.`
+` Kumasawa, no se lo digas a Rosa-sama todavía.`
+` Se lo diremos después de escuchar la situación de Kanon."`
+`"S‐sí...`
+` hiiiiii..."`
+`Después de aparecer en este horrible estado, él les había dicho que no se lo dijeran a Rosa.`
+`Eso solo podría significar algo muy preocupante.`
+`{n}Una espeluznante sensación de pánico se apoderó de sus rostros...`
+`"¡Va-vamos, todos!`
+` ¡Démonos prisa y carguémoslo!`
+` ¡Rápido, rápido...!"`
+`La herida de Kanon era increíblemente profunda,`
+` y a juzgar por el pálido rostro de Nanjo, era casi un milagro que siguiera consciente...`
+`"Esto es... horrible...`
+` Parece que ha sido apuñalado con algo parecido a una lanza.`
+` S-si no ha llegado a los pulmones, tal vez pueda hacer algo...`
+` ¡De todos modos, hay que parar el sangrado...!"`
+`"u... guo... ¡¡¡aaaaga!!!"`
+`¡Por mucho que Nanjo intentaba limpiar esa sangre oscura que brotaba, no conseguía limpiarla, no conseguía limpiarla, no conseguía limpiarla del todo...!`
+` Y cada vez, la herida se agravaba, haciendo que Kanon gritara de dolor...`
+`"¡Kanon‐kun, Kanon‐kun, Kanon‐kun!`
+` Resiste... ¡¡Resiste...!!"`
+`"¡Doctor Nanjo!`
+` ¡Aquí tiene una toalla nueva...!`
+` ¡¡Qué... horrible...!!"`
+`"¿Cuál es su estado...?"`
+`"Sinceramente, es tan grave que no puedo creer que siga vivo...`
+` Tal vez la ubicación de la puñalada fue afortunada...`
+` ¡Pero la pérdida de sangre es demasiado horrible...!`
+` ¡Es necesaria una transfusión de sangre, pero eso es imposible hasta mañana...!"`
+`"u...`
+` ¡¡*toser*toser*!!`
+` Ro...`
+` Rosa‐sama...`
+` ella...`
+` ¡¡ugaaaaaa!!"`
+`"¡N-no hables, Kanon‐kun!`
+` ¡Tu herida se abrirá...!"`
+`"Rosa‐sama... vino...`
+` y...`
+` a la Señorita y...`
+` a mí... nos..."`
+`"¿Qu-qué has dicho...?"`
+`"Rosa‐sama... ¿vino...?`
+` Oooooh... Eso significa que, eso significa que..."`
+`"¿Estás seguro?"`
+`"Sí...`
+` Estoy seguro... fue Rosa‐sama..."`
+`"¡Por favor, deja de hablar...!`
+` ¡Kumasawa‐san, por favor, trae otro botiquín de primeros auxilios!"`
+`"Genji‐san.`
+` ¿Es posible que Rosa-sama... hiciera algo así?"`
+`"No lo sé."`
+`Sin prestarles atención a Nanjo y a Kumasawa, quienes estaban completamente manchados de sangre al intentar detener la hemorragia, Genji y Gohda se pusieron frente a frente...`
+`Porque si lo que Kanon había dicho era verdad,`
+` Sería Rosa la culpable de matar a Jessica.`
+`"Maldita seas, Rosa...`
+` ¿Cómo pudiste hacerle eso... a la Señorita...?`
+` ¡Te mataré... ugnnnggg...!"`
+`Kanon gritó aun con más odio...`
+`{n}Su voz llena de odio hizo que pareciera que había visto a Jessica siendo lastimada ante sus ojos.`
+`"Cie-ciertamente, Rosa-sama podría tener una razón para matar a la Señorita.`
+` Si la familia Ushiromiya fuera eliminada, toda la herencia iría a Rosa-sama..."`
+`"¡De ser así, Battler-sama y George-sama están en peligror...!`
+` ¡Rosa-sama no solamente tiene un arma, sino que ahora mismo, ellos son los únicos en el salón...!`
+` Genji-san, ¡¿no es esto bastante peligroso...?!"`
 `"................................."`
 `".............................."`
-`Shannon suddenly ran out into the corridor.`
-`...Her expression was complex and tragic, as though she didn't know what to believe...`
-`Shannon ran.`
-` To where?`
-`......The inside of the mansion had been scrupulously cleaned, so they probably wouldn't be easy to find.`
-`She might find some if she searched the rose garden, but they would probably have all been lost in this wind and rain...`
-`That's right, ......the boiler room isn't cleaned very often.`
-`{n}...If she went there, ......she might be able to find some...`
-`Shannon ran down the stairs to search for {i:those} in the underground boiler room...`
-`Had some medicine taken effect at the brink of death,`
-` or had Kanon finally stopped even feeling pain?`
-`...For the time being, Kanon had at least gotten over his painful gasping.`
-`Nanjo apparently didn't think of this as that great of a trend, and didn't let his eyes off Kanon for a second.`
-`Kumasawa firmly gripped Kanon's hand, and kept encouraging him, so that his will to stay alive didn't fall asleep.`
-`Genji and Gohda seemed bewildered at how to deal with the truth that Kanon had risked his life to deliver...`
-`".........I believe Rosa‐sama's gun had four or five shots loaded."`
-`"That is no small number.`
-` ...But loading cartridges into that gun should require quite a lot of practice.`
-` We might unfortunately allow her to get one shot off, but if everyone attacks her at once, we should be able to take the gun from her before she shoots again..."`
-`".........On this island, we may have a doctor, but there's no medicine, and no hospital.`
-` ......If you're shot in the wrong place, ...you're dead."`
-`"I understand that, but...`
-` More importantly, if we don't move quickly, there is also the possibility that another crime will occur...!`
-` I get the feeling that Rosa‐sama skillfully chased us out.`
-` There is a possibility that George‐sama and Battler‐sama are being killed right about now...!"`
+`Shannon de repente salió corriendo al pasillo.`
+`Su expresión era compleja y trágica, como si no supiera qué creer...`
+`Shannon corrió.`
+` ¿A dónde iba?`
+`El interior de la mansión había sido limpiado meticulosamente, así que probablemente no serían fáciles de encontrar.`
+`Ella tal vez podría encontrar algunas si buscase en el jardín de rosas, pero probablemente se habían ido volando todas con este viento y esta lluvia...`
+`Es cierto, la sala de calderas no se limpia muy a menudo.`
+`{n}Si ella fuera allí, tal vez podría encontrar alguna...`
+`Shannon bajó corriendo las escaleras para buscar {i:esas} en la sala de calderas subterránea...`
+`¿Había hecho efecto algún medicamento al borde de la muerte?`
+` ¿O Kanon finalmente había dejado de sentir dolor?`
+`Por el momento, Kanon al menos había dejado de jadear dolorosamente.`
+`Nanjo aparentemente no pensó en esto como algo bueno, y no dejó de mirar a Kanon ni por un segundo.`
+`Kumasawa agarró firmemente la mano de Kanon, y siguió animándole, para que su voluntad de seguir vivo no se apagara.`
+`Genji y Gohda parecían desconcertados sobre cómo afrontar la verdad por la que Kanon había arriesgado su vida...`
+`"Creo que el arma de Rosa-sama tenía cuatro o cinco disparos cargados."`
+`"Ese no es un número pequeño.`
+` Pero cargar los cartuchos en esa arma requiere mucha práctica.`
+` Desgraciadamente, no podemos evitar que dispare, pero si todos atacamos al mismo tiempo, tal vez podamos quitarle el arma antes de que vuelva a disparar..."`
+`"En esta isla, puede que tengamos un médico, pero no hay medicinas, ni hospitales.`
+` Si te disparan en un mal lugar, estás muerto."`
+`"Lo entiendo, pero...`
+` ¡Lo más importante es que, si no actuamos con rapidez, también existe la posibilidad de que se produzca otro crimen...!`
+` Tengo la impresión de que Rosa-sama nos echó hábilmente.`
+` ¡Existe la posibilidad de que George-sama y Battler-sama estén siendo asesinados ahora mismo...!"`
 `"..........................."`
-`"......Ho...hohohohoho.`
-` If the opponent is so dangerous, wouldn't it be better if we didn't provoke them too much...?"`
-`"But there is still much time before tomorrow comes...!`
-` We can't even imagine what strategy she will use!`
-` Genji‐san, we should be the ones to make the first move.`
-` If we can at least take the gun from her under some pretext, things might work out...!"`
-`"There are four or five cartridges, are there not?`
-` That means there aren't enough to kill all of us...`
-` If we don't carelessly provoke her, surely even Rosa‐sama wouldn't recklessly—"`
-`"............No, she said it.`
-` She said she'll massacre all of us."`
-`Kanon, who they thought had been sleeping quietly, suddenly started talking brightly.`
-`Almost like he had been awake the whole time and had suddenly opened his mouth.`
-`He looked firm and steady, and Nanjo was slightly relieved, but thinking of the deepness of that wound, he just couldn't wipe away a certain creepy feeling.`
-`......He knew because he was a doctor.`
-`Kanon should have been expected to fall unconscious after losing so much blood.`
-`{n}And yet somehow, he had preserved his awareness so clearly.`
-`......Youth?`
-` Or tenacity?`
-`{n}...Sometimes the power of human life did surpass common knowledge......`
-`When they had stopped the bleeding, to make sure there were no foreign objects inside the affected area,`
-` Nanjo had groped around a bit inside the bleeding hole with tweezers, and the great depth of the wound had surprised him.`
-`...The wound had certainly reached as far as his lungs.`
-`......And yet, ...and yet...`
-`{n}......No, on the other hand, the fact that he is alive is fortunate...`
-`......But Kanon had spoken clearly.`
-`{n}...He had hatefully said that the one named Rosa had created this wound, and was repeating curses and enraged words.`
-`"...She wants to kill everyone by any means necessary before the typhoon passes, so that she can have the Master's wealth all to herself.`
-` She told me that clearly."`
-`".........Damn...!`
-` What a person...`
-` Genji‐san, what should we do?!`
-` Do we also not need some kind of weapons...?"`
-`"......I can't believe it so suddenly.`
-` ......That Rosa‐sama would do something like......"`
-`"Genji‐sama, it isn't a question of whether you believe or not.`
-` She told me.`
-` I heard it.`
-` {f:5:Why} won't you believe me?"`
-`"D‐don't get up...`
-` You'll worsen your wound..."`
-`Kanon sat up on the bed, and spoke to Genji, who was making no effort to believe Kanon's story.`
-`"She will definitely kill all of us.`
-` She's surely killed all of the people in the parlor by now.`
-` If we don't kill her first, it will absolutely be us who are killed first.`
-` Just like how I was killed first, everyone else will also be killed first.`
-` Kill or be killed.`
-` Kill or be killed kill or be killed."`
-`"...K‐.........Kanon‐san, ......you...`
-` ......Does it really not hurt...?"`
-`"......Oh, this?`
-` It isn't a serious wound."`
-`"Wh‐...what do you mean, not a serious wound, ...you......"`
-`"It really isn't a big deal.`
-` It doesn't hurt at all anymore—it really isn't a serious wound."`
-`As Kanon said that, he began to untie his own bandages which had been painstakingly wrapped...`
-`The gruesome hole in his chest was immediately exposed...`
-`"K‐Kanon‐san...!`
-` You mustn't do something like that!`
-` Quickly, lie down...!"`
-`"I said it's fine.`
-` ......Look.`
-` See...?`
-` It's...not...a serious wound, right...?"`
-`Kanon showed off his gaping wound, which was still slowly spitting out foamy blood.`
-`...Everyone averted their eyes reflexively.`
-`"See, I told you that it wasn't a serious wound at all..."`
-`"S‐......stop that... You mustn't play with your wound......"`
-`"...Look, see?`
-` ......It isn't a deep wound...at all.`
-` .........Look.`
-` ..................Look."`
-`Kanon held up two fingers, showed them to everyone, and slowly started to stick them into the gruesome wound right in the center of his chest...`
-`......Plunging, slimy, squishy, wet.`
-`{n}The fingers...went in deep...to the base...`
-` ......Squich, gloop, blorp...`
-`"Hiiiiiiiiiiiiiiiiiiii...!!`
-` K‐K‐K‐Kanon‐san, stop it, stop it...!!"`
-`Having stuck his fingers completely into his chest......up to their base,`
-` ......he slowly pulled them out in exactly the same way...`
-`The fingers he pulled out were stained a sticky, solid, deep‐red color, and there was even a thread hanging...`
-`...The fingers were, all the way to their base, covered......in deep red...`
-`"......Y‐`
-`.........you...`
-` ......Wh‐wh‐wh‐what in the world.................."`
-`".........See?`
-` It is...not a serious wound...at all, you see?`
-` *cackle*cackle*cackle*cackle*cackle*cackle*!"`
-`Just then, the door opened vigorously, and Shannon appeared.`
-`...Even after she saw Kanon stained with fresh blood, her impregnable expression didn't falter.`
-`"......Hey, Nee‐san.`
-` Where'd you go?`
-` I'm on the verge of death here, where'd you go?"`
-`"Well.`
-` I went to the boiler room.`
-` Looking for something.`
-` .........More importantly, I want to check.`
-` Are you really...Kanon‐kun?"`
-`"......Huh, ......huhh...?"`
-`It was only natural.`
-` Everyone believed he was Kanon.`
-`{n}So they couldn't understand the meaning of Shannon's question.`
-`When they looked, they noticed that Shannon was holding a handkerchief in her hand.`
-`It was filthy, and looked like she had wiped up some trash or dust.`
-`{n}And while holding that, she approached Kanon, .........and drew close to his legs.`
-`"What is that......?"`
-`"It's a handkerchief with a spider's web wiped onto it."`
+`"Ho... hohohohoho.`
+` Si el oponente es tan peligroso, ¿no sería mejor que no lo provocáramos demasiado...?"`
+`"¡Pero aún queda mucho tiempo antes de que llegue mañana...!`
+` ¡No podemos ni imaginar qué estrategia utilizará ella!`
+` Genji-san, deberíamos ser nosotros los que demos el primer paso.`
+` ¡Si al menos podemos quitarle el arma con algún pretexto, las cosas podrían funcionar...!"`
+`"Hay cuatro o cinco cartuchos, ¿no?`
+` Eso significa que no hay suficientes para matarnos a todos...`
+` Si no la provocamos imprudentemente, seguramente ni siquiera Rosa-sama lo haría imprudentemente—"`
+`"No, ella lo dijo.`
+` Ella dijo que nos masacrará a todos."`
+`Kanon, a quien creían que había estado durmiendo tranquilamente, de repente empezó a hablar vívidamente.`
+`Casi como si hubiera estado despierto todo el tiempo y de repente hubiera abierto la boca.`
+`Se le veía firme y estable, y Nanjo se sintió ligeramente aliviado, pero al pensar en la profundidad de aquella herida, no pudo borrar cierta sensación espeluznante.`
+`Lo sabía porque era médico.`
+`Kanon debería haber caído inconsciente después de perder tanta sangre.`
+`{n}Pero de algún modo, había conservado su conciencia tan claramente.`
+`¿Juventud?`
+` ¿O tenacidad?`
+`{n}A veces el poder de la vida humana sobrepasaba el conocimiento común...`
+`Cuando detuvieron la hemorragia, para asegurarse de que no había objetos extraños dentro de la zona afectada,`
+` Nanjo había tanteado un poco dentro del agujero sangrante con unas pinzas, y la gran profundidad de la herida le había sorprendido.`
+`La herida ciertamente había llegado hasta sus pulmones.`
+`Y sin embargo, y sin embargo...`
+`{n}No, en todo caso, el hecho de que esté vivo es afortunado...`
+`Pero Kanon había hablado claramente.`
+`{n}Había dicho con odio que la tal Rosa había creado esta herida, y repetía maldiciones y palabras enfurecidas.`
+`"Ella quiere matar a todo el mundo por cualquier medio necesario antes de que pase el tifón, para poder tener la riqueza del Amo para ella sola.`
+` Ella me lo dijo claramente."`
+`"¡Maldición...!`
+` Vaya persona...`
+` Genji‐san, ¡¿qué debemos hacer?!`
+` ¿No necesitamos también algún tipo de arma...?"`
+`"Me es muy difícil de creer.`
+` Que Rosa-sama haya hecho algo como..."`
+`"Genji-sama, no se trata de si crees o no.`
+` Ella me lo dijo.`
+` Lo escuché.`
+` ¿{f:5:Por qué} no me crees?"`
+`"N-no te levantes...`
+` Empeorarás tu herida..."`
+`Kanon se sentó en la cama y le habló a Genji, quien no parecía estar dispuesto a creerse la historia que le estaba contando.`
+`"Ella definitivamente nos matará a todos.`
+` Seguro que ya ha matado a todas las personas del salón.`
+` Si no la matamos primero, seremos nosotros los primeros en morir.`
+` Al igual que yo fui asesinado, todos los demás también serán asesinados.`
+` Matar o ser matado.`
+` Matar o ser matado, matar o ser matado."`
+`"K‐Kanon‐san, tu...`
+` ¿De verdad no te duele...?"`
+`"Oh, ¿esto?`
+` Esto no es una herida grave."`
+`"¿Q-qué quieres decir con que no es una herida grave...?"`
+`"La verdad es que no es para tanto.`
+` Ya no me duele, no es una herida grave."`
+`Mientras Kanon decía eso, comenzó a desatar sus propias vendas que habían sido cuidadosamente vendadas...`
+`El espantoso agujero en su pecho fue inmediatamente expuesto...`
+`"¡K‐Kanon‐san...!`
+` ¡No debes hacer algo así!`
+` ¡Rápido, acuéstate...!"`
+`"Dije que está bien.`
+` Miren.`
+` ¿Lo ven...?`
+` No es... una herida grave, ¿verdad...?"`
+`Kanon mostró su herida abierta, por la que seguía brotando lentamente sangre espumosa.`
+`Todos apartaron la mirada por reflejo.`
+`"Miren, les dije que no era una herida grave..."`
+`"Pa-para con eso... No debes jugar con tu herida..."`
+`"Miren, ¿lo ven?`
+` No es una herida profunda... en lo absoluto.`
+` Miren.`
+` Miren."`
+`Kanon levantó dos dedos, los mostró a todos, y lentamente comenzó a clavarlos en la horripilante herida justo en el centro de su pecho...`
+`Profundo, viscoso, blando, húmedo.`
+`{n}Los dedos... entraron profundamente... hasta la base...`
+` Squich, gloop, blorp...`
+`"¡¡Hiiiiiiiiiiiiiiiiiiii...!!`
+` ¡¡K‐K‐K‐Kanon‐san, detente, detente...!!"`
+`Habiendo metido sus dedos completamente en su pecho... hasta la base,`
+` él lentamente los sacó exactamente de la misma manera...`
+`Los dedos que sacó estaban manchados de un color rojo intenso, pegajoso y consistente, e incluso había una hebra colgando...`
+`Los dedos estaban, hasta su base, cubiertos... en un rojo intenso...`
+`"T‐`
+`tú...`
+` ¿Q-q-q-qué demonios...?"`
+`"¿Lo ven?`
+` No es... una herida grave... en absoluto, ¿lo ven?`
+` ¡*carcajada*carcajada*carcajada*carcajada*carcajada*carcajada*!"`
+`Justo entonces, la puerta se abrió violentamente, y apareció Shannon.`
+`Incluso después de ver a Kanon manchado de sangre fresca, su expresión inexpugnable no vaciló.`
+`"Oye, Nee‐san.`
+` ¿A dónde fuiste?`
+` Estoy al borde de la muerte aquí, ¿a dónde fuiste?"`
+`"Bueno.`
+` Fui a la sala de calderas.`
+` A Buscar algo.`
+` Más importante, quiero comprobar.`
+` ¿De verdad eres... Kanon-kun?"`
+`"Huh, ¿huhh...?"`
+`Era natural.`
+` Todos creían que era Kanon.`
+`{n}Así que no podían entender el propósito de la pregunta de Shannon.`
+`Cuando miraron, se dieron cuenta de que Shannon llevaba un pañuelo en la mano.`
+`Estaba sucio, y parecía que había limpiado algo de basura o polvo.`
+`{n}Y mientras sostenía eso, se acercó a Kanon, y se acercó a sus piernas.`
+`"¿Qué es eso...?"`
+`"Es un pañuelo con una telaraña."`
 `".....................`
-` ...Why something like that?"`
-`"If you're Kanon‐kun, you should be alright.`
-` ......But if {i:spiders are your natural enemy}, I thought you might hate it."`
+` ¿Por qué traes algo como eso?"`
+`"Si eres Kanon-kun, no debería haber ningún problema.`
+` Pero si {i:las arañas son tus enemigos naturales}, pensé que las odiarías."`
 `"...........................`
-` Hahaha, oh no.`
-` Why would I hate spiders?"`
-`"Sorry, I'll try it."`
-`"......Sha‐...Shannon‐san."`
-`When Shannon brought that handkerchief close to Kanon's thigh, ......something happened in an instant.`
-`It happened all at once.`
-` The human eye couldn't have followed it.`
-`Kanon jumped back like a wild goat, ...fleeing from the thing Shannon was holding.`
-`And his arm drew trails with some kind of afterglow that flashed purple.`
-`They were three beautiful purple trails drawn in an arc, and they were traced across the throats of Nanjo and Kumasawa, who had been tending to him.`
-`And Nanjo and Kumasawa's throats......had opened like gaping mouths, ...and it was the very instant before the blood was about to start spewing out.`
-`The third purple trail should have traced across Shannon's throat.`
-`{n}But Shannon wasn't there.`
-`Because Genji, who had been behind her, had wrapped his own arm around Shannon's neck and pulled her back.`
-`This all happened in an instant.`
+` Jajaja, oh no.`
+` ¿Por qué odiaría a las arañas?"`
+`"Lo siento, voy a intentar algo."`
+`"Sha‐Shannon‐san."`
+`Cuando Shannon acercó ese pañuelo al muslo de Kanon, algo ocurrió en un instante.`
+`Sucedió todo al mismo tiempo.`
+` El ojo humano no podría haberlo seguido.`
+`Kanon saltó hacia atrás como una cabra salvaje, huyendo de la cosa que sostenía Shannon.`
+`Y de sus brazos salió una especie de estela radiante de color púrpura, como un destello.`
+`Eran tres hermosas estelas púrpuras dibujadas en arco, y se trazaban a través de las gargantas de Nanjo y Kumasawa, quienes habían estado atendiéndole.`
+`Y las gargantas de Nanjo y Kumasawa se abrieron como grandes bocas... y fue justo antes de que la sangre empezara a brotar.`
+`La tercera estela púrpura debería haber pasado por la garganta de Shannon.`
+`{n}Pero Shannon no estaba ahí.`
+`Porque Genji, quien estaba detrás de ella, rodeó con su brazo el cuello de Shannon y tiró de ella hacia atrás.`
+`Todo esto sucedió en un instante.`
 `"...........................!!!"`
-`In the instant Gohda tried to think fast in an attempt to understand this scene, the frozen moment in time shattered.`
-`Blood spewed forcefully from Nanjo and Kumasawa's necks, which had been torn open.`
-`Still mid‐jump, Kanon wall‐kicked off a picture frame that had been hanging from the wall behind him, springing forward just like a cat, and aiming for Shannon's throat again.`
-`But Kanon's target once again disappeared from in front of him.`
-` Because Genji had pulled Shannon again, and the two of them had fallen onto the ground, keeping flat to the floor.`
-`"Nice reflexes, you senile old piece of furniture!!"`
-`"......Gohda!"`
-`"Uu...uooooooooooooooooooooooooooohhh!!"`
-`Gohda wasn't an idiot either.`
-` Even if he couldn't fully understand what was going on, he at least realized that if this "Kanon" wasn't seized, his own life would also be in peril.`
-`He sprung at Kanon with his huge body, pushing him up against the wall with his weight and physical strength.`
-`"Uuuoooooooooooooooooohhh...! Ooaaaaaaaaaaaaaaaaaahhh!!"`
-`"Let...me...go, you fatass!!"`
-`The tips of the fingers on Kanon's right hand began to trace out another purple trail.`
-`And when he raised that blade‐hand up, aiming to strike at Gohda's back, there was a loud thunk.`
-`Because Kanon's raised blade‐hand had been pinned to the wall.`
-`He couldn't tear his palm away from the wall.`
-`Sticking out from it was the knife Genji had thrown.`
-`Under normal circumstances, it should have been surprising to see someone as old as Genji handle a knife so skillfully,`
-` but in this abnormal space, no one paid it much mind.`
-`"Genji‐sama, here...!"`
-`"......Yes."`
-`Genji took the handkerchief with the spiderweb stuck to it from Shannon.`
-`{n}And he approached Kanon, who was pinned to the wall by Gohda's massive body and the knife.`
-`"Sto‐stop it...!!`
-` Don't co—Don't come near me with that...!!`
-` Stop it, sto‐stop!!"`
-`"Gyaooooooooooooaaaaaaaaaaaaaaaahhh!!"`
-`When Genji pushed the handkerchief up against Kanon's face,`
-` ...there was a sound just like the one you hear when you set meat on a red‐hot iron plate.`
-`Of course, the smell was the same too.`
-` As he was burned and inflamed, festering in filthy red and black, and cried out in his death throes, Kanon's body burst open and scattered.`
-`It was almost as though a balloon filled with gold leaf had popped.`
-`{n}The entire servant room was completely buried under a storm of gold leaf—no, a rabble of gold butterflies...`
-`Those butterflies began to softly fade into nothingness, as though dissolving into water, no, into the air itself,`
-` ......and afterwards, all that was left was the three of them sitting on their behinds, stained with blood.`
-`However, not everyone was just stained with blood.`
-`{n}Some of them were lying on the ground, vomiting blood themselves.`
-`"...Kumasawa...!`
-` ......Doctor Nanjo...!`
+`En el instante en que Gohda intentó pensar con rapidez para comprender la escena, el momento congelado en el tiempo se hizo añicos.`
+`La sangre brotó con fuerza de los cuellos de Nanjo y Kumasawa, que habían sido desgarrados.`
+`Todavía a medio salto, Kanon dio una patada a un marco que colgaba de la pared detrás de él, saltando hacia delante como un gato y apuntando de nuevo a la garganta de Shannon.`
+`Pero el objetivo de Kanon volvió a desaparecer de delante de él.`
+` Porque Genji había tirado de Shannon otra vez, y los dos habían caído al suelo, manteniéndose pegados al suelo.`
+`"¡¡Buenos reflejos, viejo mueble senil!!"`
+`"¡Gohda!"`
+`"¡¡Uu... uooooooooooooooooooooooooooohhh!!"`
+`Gohda tampoco era idiota.`
+` Incluso si no podía entender completamente lo que estaba pasando, al menos se dio cuenta de que si este "Kanon" no era capturado, su propia vida también estaría en peligro.`
+`Arremetió contra Kanon con su enorme cuerpo, empujándolo contra la pared con su peso y su fuerza física.`
+`"¡Uuuoooooooooooooooooohhh...! ¡¡Ooaaaaaaaaaaaaaaaaaahhh!!"`
+`"¡¡Déjame... ir, gordinflón!!"`
+`Las puntas de los dedos de la mano derecha de Kanon empezaron a trazar otra estela púrpura.`
+`Y cuando levantó la cuchilla para golpear la espalda de Gohda, se oyó un fuerte golpe.`
+`Porque la mano alzada de Kanon había sido clavada en la pared.`
+`Él no podía quitar la palma de la mano de la pared.`
+`En ella estaba clavado el cuchillo que Genji lanzó.`
+`En circunstancias normales, debería haber sido sorprendente ver a alguien tan viejo como Genji manejar un cuchillo con tanta destreza,`
+` pero en este espacio anormal, nadie le prestó mucha atención.`
+`"¡Genji‐sama, aquí...!"`
+`"Sí."`
+`Genji tomó el pañuelo con la telaraña pegada que le dio Shannon.`
+`{n}Y se acercó a Kanon, que estaba inmovilizado contra la pared por el enorme cuerpo de Gohda y el cuchillo.`
+`"¡¡De-detente...!!`
+` ¡¡N-no te me acerques con eso...!!`
+` ¡¡Detente, de-tente!!"`
+`"¡¡Gyaooooooooooooaaaaaaaaaaaaaaaahhh!!"`
+`Cuando Genji presionó el pañuelo contra la cara de Kanon,`
+` hubo un sonido como el que se oye cuando se pone carne en una plancha de hierro al rojo vivo.`
+`Por supuesto, el olor también era el mismo.`
+` Mientras se quemaba e inflamaba, supurando en un sucio rojo y negro, y gritaba en agonía, el cuerpo de Kanon estalló y se dispersó.`
+`Era casi como si hubiera estallado un globo lleno de hojas doradas.`
+`{n}Todo el cuarto de los sirvientes estaba completamente sepultado bajo una tormenta de hojas doradas-no, una multitud de mariposas doradas...`
+`Esas mariposas empezaron a desvanecerse suavemente en la nada, como si se disolvieran en el agua, no, en el aire mismo,`
+` y después solo quedaron los tres sentados sobre sus traseros, manchados de sangre.`
+`Sin embargo, no todos estaban manchados de sangre.`
+`{n}Algunos de ellos yacían en el suelo vomitando sangre.`
+`"¡Kumasawa...!`
+` ¡Doctor Nanjo...!`
 ` ....................."`
-`A slit so sharp that it looked like it could cut your finger if you touched it was opened wide, causing large amounts of blood to keep pouring out...`
-`"What was that, .........j‐...just now............"`
+`Un corte tan afilado que parecía que podía cortarte un dedo si lo tocabas se abrió de par en par, provocando que siguieran saliendo grandes cantidades de sangre...`
+`"¿Qué fue eso que acaba de pasar...?"`
 `"..........................."`
-`".........Gohda.`
-` Have you been injured?"`
-`"I, I am alright...`
-` But.........what did we see?!`
-` What happened?!`
-` E‐ev‐ev‐......even though I definitely pushed that thing against this wall with this very hand!"`
-`"{i:I cannot understand what happened}...!!"`
-`Gohda looked at his own hand.`
-`The bright‐red blood left from his scuffle with Kanon...definitely remained.`
-`...And yet, Kanon was nowhere to be seen.`
-`Because he had disappeared.`
-`{n}He had turned into gold butterflies and scattered.`
-`Gohda kept screaming alone that he had no clue about what was going on.`
-`Shannon sobbed in front of Nanjo's and Kumasawa's remains,`
-` ...and Genji watched over her, silent as always...`
+`"Gohda.`
+` ¿Estás herido?"`
+`"E-estoy bien...`
+` Pero, ¡¿qué acabamos de ver?!`
+` ¡¿Qué ha pasado?!`
+` ¡A‐a‐a‐aunque definitivamente empujé esa cosa contra esta pared con esta misma mano!"`
+`"¡¡{i:No puedo entender lo que ha pasado}...!!"`
+`Gohda miró su propia mano.`
+`La sangre roja brillante que quedó de su pelea con Kanon... definitivamente estaba allí.`
+`Y a pesar de eso, Kanon no estaba por ningún lado.`
+`Porque él había desaparecido.`
+`{n}Se había convertido en mariposas doradas y se habían esfumado.`
+`Gohda seguía gritando que no tenía ni idea de lo que había pasado.`
+`Shannon sollozaba frente a los restos de Nanjo y Kumasawa,`
+` y Genji la observaba, en silencio, como siempre...`

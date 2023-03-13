@@ -751,7 +751,7 @@
 `"...¡Qué insensatez... qué tontería!..."`
 `"¡N‐no puedo aguantar escuchar esto!..."`
 `"Y ahora, hay una parte del contrato que debe ser explicada a todos los presentes.`
-` Yo, {f:5:Beatrice}, presté una enorme cantidad de de oro a Kinzo‐sama, bajo ciertas condiciones.`
+` Yo, {f:5:Beatrice}, presté una enorme cantidad de oro a Kinzo‐sama, bajo ciertas condiciones.`
 ` Una de esas condiciones dicta que todo el oro habrá de ser devuelto a mí tras concluir el contrato.`
 ` Además, también tengo el derecho de recibir todo lo perteneciente a la familia Ushiromiya como interés."`
 `"¡¡R‐ridículo!!"`

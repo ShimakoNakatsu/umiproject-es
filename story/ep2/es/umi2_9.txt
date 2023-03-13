@@ -1,704 +1,704 @@
-`......What was the sound that always filled the ears?`
-`{n}The sound of the rain, the sound of a waterfall, or was it radio static?`
-`In that case, I want it to be the sound of blood flowing through the body.`
-` ......I want it to be the sound of the blood circulating throughout my body, telling me that I am still alive...`
-`".....................Hmm...`
-` ......Is it...morning...?"`
-`The light entering through a crack in the curtain was faint, but it at least told him that dawn had broken.`
-`Kinzo, still in the same pose he had when he awoke, ...still sitting in his chair and looking up at the ceiling, ...felt the blood slowly travel throughout his body...`
-`...Judging by the clock, it was early morning, six on the dot.`
-` ......No matter how tired he was, no matter how deeply he slept, he woke up at exactly this time, as though he had measured it with an hourglass.`
-`He didn't think that something like this was worthy of boasting of, but he told himself that while he could still do something like this, he was still in robust health.`
-`".........Morning has come, which means...`
-` ...............Hmmm.`
-` ......It seems that I've escaped being one of the first sacrifices.`
-` ......Was the result of the roulette fortunate, ...or is this the fruit of my efforts?`
-` It is irritating that I cannot tell the difference, but I will not say that."`
-`Kinzo was very slightly driven by a temptation to look at the other side of the study door.`
-`Because he thought that maybe he might find the traces of a vain struggle to break the door,`
-` made by something trying to select him as one of the first six sacrifices.`
-`"...Hmph.`
-` .........Humans are cheap creatures.`
-` ......They claim to do their best and leave the rest to Providence, yet when they are given good fortune, they desire to flatter themselves that it arose not from simple luck, but from their own ability."`
-`So he wanted to check whether there was a wretched mark on the door.`
-`{n}...That is only human.`
-`Therefore, Kinzo did not check.`
-` He repressed the things that he wanted to do because he was human.`
-` By that, Kinzo could immerse himself in a feeling of sufficiency, as though he had become a being that surpassed humans...`
-`He became aware of human desire, and forbade it.`
-`{n}Things that a human wanted to do, he resisted.`
-`......This eccentric and rebellious sense had surely given him a rare genius,`
-` which must have allowed him to succeed in his exploits as he revived the Ushiromiya family in one generation...`
-`"Well then, {f:5:Beatrice}.`
-` What were the six pieces you took?`
-` ......And what will your next move be?`
-` ...Entertain me.`
-` .........My defense is perfect.`
-` I will not shame myself like last time.`
-` ......Heh, ......heheheh."`
-`The servants woke early.`
-` They had to open the curtains, prepare breakfast, and complete various other tasks to welcome the guests to a new day.`
-`Gohda was the most enthusiastic.`
-`He had been told to concentrate his efforts in particular on his work as a chef for the duration of the family conference,`
-` and he had been specially exempted from several tasks that servants normally must do.`
-`...It seemed that Gohda, who was a show off, had a particular feeling of supremacy about that.`
-` He left the preparations of the inside of the mansion to Genji and the rest, and worked on preparing breakfast in the kitchen.`
-`Genji split the work with Shannon and Kanon, and they carried out various tasks.`
-`Shannon headed to the dining hall and knocked.`
-`...Last year, the family conference had continued into the small hours of the night.`
-` It wouldn't have been odd for this year's conference to continue all the way into the next morning.`
-`So she had knocked out of consideration for the possibility that they were still having a discussion inside.`
-`But there was no response, so she opened the door and said good morning.`
-`"...Good morning.`
-` ...............Is anyone there?"`
-`The room was cold, and it seemed that the conference had ended a long time before.`
-`On top of the table, there was a tea set, from which they had probably been drinking, arranged in a way that would make it easy to clean them up.`
-`Cleaning away the tea was a servant's job.`
-` So if the family was too caring and cleaned it up themselves, the servants would lose face.`
-`Therefore, just doing this much for the servants truly was a pleasing act of kindness.`
-`As she approached the table to clean it away, she noticed that something like a memo had been left along with the cups.`
-`It had been placed together with the tea set, so, naturally thinking it was a memo for the servant cleaning up, Shannon took it.`
-`Written on it was not a request, nor thanks for preparing the tea, but just a single word.`
-`Shannon looked at it blankly, and read it out loud...`
-`"............Chapel.`
-` ...............?"`
-`A small sound kept repeating over and over.`
-`{n}It was a sound that would ordinarily have been trivial and insignificant.`
-`I hope I stop hearing it soon, then I could return to my doze, someone thought vaguely.`
-`...But no matter how much time passed, the sound did not end.`
-`{n}It repeated over and over.`
-`Aaah, shut up.`
-`{n}Who is that?`
-` Banging on the door constantly.`
-`As soon as she realized this, she woke up.`
-`{n}......Someone was knocking.`
-`Then she noticed that there wasn't just a knock, but a voice too.`
-`".........Rosa‐sama, ...Rosa‐sama.`
-` ......Good morning."`
-`"Wa‐......wait.`
-` I'm coming now."`
-`It had been Genji's voice.`
-`{n}Looking at the clock, it was still before seven.`
-`......It was clearly too early to wake the guests.`
-`{n}...Did something happen that was bad enough to cause this?`
-`She felt her sleepiness increasingly fade thanks to this ominous premonition.`
-`Because Genji had been a familiar servant to Rosa since her childhood days, she opened the door a crack and answered, even though she was slightly defenseless in her pajamas.`
-`"Good morning.`
-` I apologize for waking you this early."`
-`"......Did something happen?"`
-`"Yes...`
-` .........Actually, at the chapel, {nobreak:{m:-5:——}—}"`
-`Genji spoke into Rosa's ear, and told her something in a small voice.`
-`It seemed that Rosa couldn't understand what she was being told after only hearing it once,`
-` and after repeating the words back to him several times, she finally realized that apparently, something strange had happened.`
-`Rosa closed her door for a second, and after changing her clothes, she immediately accompanied Genji and they headed to the mansion...`
-`The chapel requires some explanation.`
-` It wasn't in the mansion, but in a grove behind the mansion, which could be reached after a short walk.`
-`It had been built at the same time that the mansion had been constructed on Rokkenjima,`
-` so while its outside walls had been repaired many times, making it look new from the outside, it was a very old building.`
-`Rosa and Genji dashed through the rain together.`
-`{n}Just like the previous night, the rain was falling in earnest.`
-`Eventually, they began to see the chapel beyond a sparse grove...`
-`If all she knew of it was its appearance from the outside, it might have felt like a place of dazzling beauty, where a pair of young lovers might want to hold a ceremony.`
-`However, it seemed that in Kinzo's eyes, this was a very sacred place,`
-` and Rosa and her siblings had been harshly told not to approach it unnecessarily.`
-`So even at this age, and no matter what the reason for it, she felt some guilt in approaching the chapel,`
-` and was gripped by the fear that this would surely make her father so angry he would slap her across the face...`
-`The servants' silhouettes could be seen in front of the entrance to the chapel.`
-`{n}Gohda, Shannon and Kanon.`
-`......Which meant that all of the servants on the morning shift had gathered.`
-`A short while ago, Rosa had been told the nature of the situation verbally by Genji.`
-` However, ...without laying eyes on it directly, she really hadn't been able to understand...`
-`Probably, all of the servants gathered there were the same.`
-`......{i:Without seeing it with their own eyes}, they couldn't understand what was going on.`
-`Because, on the door that was the entrance to the chapel,`
-` ......drawn very large, ......with a creepy, sticky paint‐like substance that made one think of blood, ...was something like a creepy magic circle.`
-`"Wh‐`
-`.........what is...`
-`...this............?`
-` When was it drawn here?!"`
-`The servants looked at each other.`
-`{n}Gohda was the first to open his mouth.`
-`"...My, ...my apologies.`
-` We do not usually trespass here, so we do not know when it was drawn."`
-`"Then, who was the first person to find it?!"`
-`"Tha‐...that was me.`
-` ......When I went to the dining hall to clean away the tea set, ......there was a memo with "chapel" written on it..."`
-`Shannon held out the memo with a shaking hand.`
-`"......Whose handwriting?`
-` It isn't Nii‐san's or Nee‐san's handwriting.`
-` ...And then you came here and found this, right?"`
-`"Yes......"`
-`"...Rosa‐sama, .........look at this."`
-`"What?`
-` ...............<Happy Halloween>...<for>...`
-`......wha—?!"`
-`Kanon was pointing at a single line of English written below the creepy magic circle.`
-`Until it had been pointed out to her, she had thought it was just another part of the magic circle, and hadn't noticed it.`
-`Written there in English were the words "Happy HALLOWEEN for MARIA.".`
-`Happy Halloween...for Maria.`
-`{n}A wish for an enjoyable Halloween.`
-` For Maria.`
-`{n}A creepy magic circle.`
-` For Maria.`
+`¿Qué es ese sonido que retumba en mis oídos?`
+`{n}¿Es el sonido de la lluvia, el sonido de una cascada, o es la estática de la radio?`
+`Si tuviera que escoger, quisiera que sea el sonido de la sangre fluyendo por el cuerpo.`
+` Quiero que sea el sonido de la sangre circulando por mi cuerpo, diciéndome que sigo vivo...`
+`"Hmm...`
+` ¿Ya es... por la mañana...?"`
+`La luz que entraba por una rendija de la cortina era tenue, pero al menos le decía que había amanecido.`
+`Kinzo, aún actuando como un recién despertado, sentado en la silla y mirando al techo, sintió como la sangre recorría lentamente todo su cuerpo...`
+`A juzgar por el reloj, era temprano por la mañana, las seis en punto.`
+` No importaba lo cansado que estuviera, ni lo profundo que durmiera, él se despertaba exactamente a esa hora, como si la hubiera medido con un reloj de arena.`
+`Él no pensaba que algo así fuera digno de presumir, pero se dijo a sí mismo que, mientras pudiera hacer algo así, aún gozaba de buena salud.`
+`"La mañana ha llegado, lo que significa...`
+` Hmmm.`
+` Parece que me he librado de ser uno de los primeros sacrificios.`
+` ¿Fue afortunado el resultado de la ruleta, o es este el fruto de mis esfuerzos?`
+` Es irritante que no pueda notar la diferencia, pero no me quejaré."`
+`Kinzo se dejó llevar muy levemente por la tentación de mirar al otro lado de la puerta del estudio.`
+`Porque pensó que tal vez podría encontrar las huellas de una lucha en vano por forzar la puerta,`
+` hechas por algo tratando de seleccionarlo como uno de los primeros seis sacrificios.`
+`"Hmph.`
+` Los humanos son criaturas ordinarias.`
+` Afirman que hacen todo lo que pueden y dejan el resto a la Providencia, pero cuando tienen buena suerte, quieren presumir de que no se debe a la simple suerte, sino a su propia habilidad."`
+`Es por eso que él quería comprobar si había alguna miserable marca en la puerta.`
+`{n}Eso es lo que harían los humanos.`
+`Por lo tanto, Kinzo no lo comprobó.`
+` Él reprimía las cosas que quería hacer simplemente porque era humano.`
+` Gracias a eso, Kinzo podía sumergirse en un sentimiento de suficiencia, como si se hubiera convertido en un ser que superaba a los humanos...`
+`Él se dio cuenta del deseo humano y se lo prohibió.`
+`{n}Las cosas que un humano quería hacer, las resistía.`
+`Este sentido excéntrico y rebelde le había dotado sin duda de un genio poco común,`
+` lo que debió permitirle triunfar en sus hazañas al revivir a la familia Ushiromiya en una generación...`
+`"Pues bien, {f:5:Beatrice}.`
+` ¿Cuáles fueron las seis piezas que tomaste?`
+` ¿Y cuál será tu próximo movimiento?`
+` Entretenme.`
+` Mi defensa es perfecta.`
+` No voy a quedar en ridículo como la última vez.`
+` Heh, heheheh."`
+`Los sirvientes se despertaron temprano.`
+` Tenían que abrir las cortinas, preparar el desayuno y realizar otras tareas para dar la bienvenida a los invitados a un nuevo día.`
+`Gohda era el más entusiasta.`
+`Se le había dicho que concentrara todos sus esfuerzos en su trabajo de cocinero mientras durara la conferencia familiar,`
+` y había sido eximido especialmente de varias tareas que normalmente deben realizar los sirvientes.`
+`Al parecer, Gohda, quien era un presumido, tenía un particular sentimiento de superioridad al respecto.`
+` Él dejó los preparativos del interior de la mansión a Genji y al resto, y se dedicó a preparar el desayuno en la cocina.`
+`Genji se repartió el trabajo con Shannon y Kanon, y llevaron a cabo diversas tareas.`
+`Shannon se dirigió al comedor y llamó a la puerta.`
+`El año pasado, la conferencia familiar se prolongó hasta altas horas de la madrugada.`
+` No hubiese sido extraño que la conferencia de este año se prolongara hasta la mañana siguiente.`
+`Entonces, ella tocó la puerta, pensando en la posibilidad de que aún estuvieran discutiendo dentro de la habitación.`
+`Pero no hubo respuesta, así que abrió la puerta y dio los buenos días.`
+`"Buenos días.`
+` ¿Hay alguien aquí?"`
+`La sala estaba fría y parecía que la conferencia había terminado hace mucho.`
+`Encima de la mesa había un juego de té, del que probablemente habían estado bebiendo, dispuesto de forma que fuera fácil limpiarlo.`
+`Limpiar el té era el trabajo de los sirvientes.`
+` Así que si la familia era demasiado cuidadosa y lo limpiaban ellos mismos, los sirvientes quedarían mal.`
+`Por lo tanto, hacer esto por los sirvientes fue un acto de amabilidad.`
+`Cuando ella se acercó a la mesa para limpiarla, se dio cuenta de que junto a las tazas había quedado algo parecido a un memorándum.`
+`Este había sido colocado junto con el juego de té, entonces, pensando que era un memorándum para el sirviente que hacía la limpieza, Shannon lo tomó.`
+`En ella no había ninguna petición, ni agradecimiento por preparar el té, tan solo estaba escrito una única palabra.`
+`Shannon lo miró sin comprender, y lo leyó en voz alta...`
+`"Capilla.`
+` ¿...?"`
+`Un pequeño sonido se repetía una y otra vez.`
+`{n}Era un sonido que normalmente hubiera sido trivial e insignificante.`
+`Espero dejar de oírlo pronto, así podría volver a dormir, pensó alguien vagamente.`
+`Pero por mucho tiempo que pasara, el sonido no cesaba.`
+`{n}Se repetía una y otra vez.`
+`Aaah, silencio.`
+`{n}¿Quién es?`
+` ¿Quién está golpeando la puerta?.`
+`En cuanto se dio cuenta de esto, ella se despertó.`
+`{n}Alguien estaba tocando la puerta.`
+`Entonces, se dio cuenta de que no solo tocaban a la puerta, sino que también se oía una voz.`
+`"Rosa‐sama, Rosa‐sama.`
+` Buenos días."`
+`"Es‐espera.`
+` Ya voy."`
+`Era la voz de Genji.`
+`{n}Al mirar el reloj, notó que todavía eran antes de las siete.`
+`Era claramente demasiado temprano para despertar a los invitados.`
+`{n}¿Sucedió algo tan malo como para causar esto?`
+`Sintió que su somnolencia se desvanecía cada vez más gracias a este siniestro presentimiento.`
+`Dado que Genji era un sirviente de confianza para Rosa desde su infancia, abrió la puerta un poco y contestó, aunque estaba un poco indefensa en su pijama.`
+`"Buenos días.`
+` Pido disculpas por despertarle tan temprano."`
+`"¿Ha ocurrido algo?"`
+`"Sí...`
+` En realidad, en la capilla, {nobreak:{m:-5:——}—}"`
+`Genji habló al oído de Rosa, y le dijo algo en voz baja.`
+`Al parecer, Rosa no entendió lo que le dijeron después de escucharlo una sola vez,`
+` y después de que se lo repitieron varias veces, por fin se dio cuenta de que había ocurrido algo extraño.`
+`Rosa cerró la puerta un segundo, y tras cambiarse de ropa, acompañó inmediatamente a Genji y se dirigieron a la mansión...`
+`La capilla requiere cierta explicación.`
+` No estaba en la mansión, sino en una arboleda detrás de la mansión, a la que se llegaba tras una corta caminata.`
+`Se construyó al mismo tiempo que fue construida la mansión en Rokkenjima,`
+` por lo que, aunque sus muros exteriores habían sido reparados muchas veces, haciéndolo parecer nuevo desde fuera, se trataba de un edificio muy antiguo.`
+`Rosa y Genji corrieron juntos bajo la lluvia.`
+`{n}Al igual que la noche anterior, la lluvia caía intensamente.`
+`Eventualmente, ellos empezaron a ver la capilla detrás de la arboleda...`
+`Si lo único que ella supiese de ese lugar fuese su aspecto exterior, le habría parecido un lugar de una belleza deslumbrante, donde una pareja de jóvenes amantes podría querer celebrar una ceremonia.`
+`Sin embargo, parecía que a los ojos de Kinzo, este era un lugar muy sagrado,`
+` por lo que a Rosa y a sus hermanos se les había dicho severamente que no se acercaran innecesariamente.`
+`Así que incluso a esta edad, y sin importar el motivo, sentía cierta culpa al acercarse a la capilla,`
+` y se sintió invadida por el temor de que seguramente enfadaría tanto a su padre que le daría una bofetada...`
+`Las siluetas de los sirvientes podían verse frente a la entrada de la capilla.`
+`{n}Gohda, Shannon y Kanon.`
+`Lo que significaba que todos los sirvientes del turno mañana se habían reunido.`
+`Hace un momento, Genji le contó verbalmente a Rosa la naturaleza de la situación.`
+` Sin embargo, si no lo veía directamente, ella no era capaz de entenderlo...`
+`Probablemente, todos los sirvientes allí reunidos pensaban lo mismo.`
+`{i:Si no lo veían con sus propios ojos}, no podían entender lo que pasaba.`
+`Porque, en la puerta que servía de entrada a la capilla,`
+` dibujado muy grande, con una pintura espeluznante y pegajosa que parecía sangre, había algo así como un espeluznante círculo mágico.`
+`"¿Qu‐`
+` qué es...`
+` esto...?`
+` ¡¿Cuándo fue dibujado esto?!"`
+`Los sirvientes se miraron unos a otros.`
+`{n}Gohda fue el primero en hablar.`
+`"Mis, mis disculpas.`
+` No solemos entrar aquí, así que no sabemos cuándo se dibujó."`
+`"Entonces, ¡¿quién fue la primera persona en encontrarlo?!"`
+`"E-esa... ese fui yo.`
+` Cuando fui al comedor a limpiar el juego de té, había un memorándum con la palabra "capilla" escrito en el..."`
+`Shannon tendió el memorándum con mano temblorosa.`
+`"¿De quién es la letra?`
+` No es la letra de Nii-san ni la de Nee-san.`
+` Y luego viniste aquí y encontraste esto, ¿verdad?"`
+`"Sí..."`
+`"Rosa‐sama, mire esto."`
+`"¿Qué?`
+` <Happy Halloween>... <for>...`
+` ¡¿Qué—?!"`
+`Kanon estaba señalando a una única línea escrita en inglés debajo del espeluznante círculo mágico.`
+`Hasta que se lo señalaron, ella pensó que era otra parte más del círculo mágico y no se había percatado de ello.`
+`Allí estaba escrito en inglés: "Happy HALLOWEEN for MARIA".`
+`Feliz Halloween... para María.`
+`{n}Un deseo de un feliz Halloween.`
+` Para María.`
+`{n}Un espeluznante círculo mágico.`
+` Para María.`
 `{n}Happy Halloween.`
-`The only person who said the words Happy Halloween to Maria yesterday......`
-`The symbols matched.`
-` ......The Golden Witch, {f:5:Beatrice}...!`
-`"Wh‐what about Maria?!`
-` That kid should be sleeping with her cousins, right?`
-` Did you check?!"`
-`"......My apologies.`
-` We just now realized that Maria‐sama's name was written here.`
-` ...We still have not checked.`
-` I shall―"`
-`"What are you doing?!!`
-` I'll go check on Maria and come back!`
-` Also, inform Krauss nii‐san and the rest.`
-` Receive their instructions on how to proceed!"`
-`...After saying that much, Rosa finally noticed that something was out of place.`
-`Her own rank within this family conference was the lowest of the four siblings.`
-`......In an abnormal situation like this, why had she been the only one called, when the other siblings hadn't?`
-`...Even if Maria's name had popped up.`
-`"Don't tell me......huh?`
-` ......What...?!"`
-`"......Ye‐yes.`
-` We tried to contact Krauss‐sama,`
-` ...but could not find him..."`
-`"And Madam was not in her room.`
-` ...Judging by the condition of the sheets, she may not have returned to her bed at all last night."`
-`Rosa felt something creepy crawling slowly up her back...`
-`".........Di‐...did you check inside the chapel?"`
-`"No, not yet.`
-` We did try to check inside, but..."`
-`"......Actually, the lock to the chapel is special, so the master key does not work.`
-` There is a single key which can open it, ......but that key is missing from the key box."`
-`She didn't want to get any closer to the door with the creepy magic circle if she could help it.`
-`Rosa readied herself and approached, and tried pushing and pulling the knob.`
-` ...All she felt was the resistance of the sturdy lock.`
-`"We searched to see whether there was a window through which we could enter, but...`
-`I think that, in order to check inside, we would have to break one of the windows...`
-` What do you think?"`
-`"...There's no way I can give you approval to do that.`
-` It's Father's precious chapel, I can't do something like that.`
+`La única persona que le dijo "Happy Halloween" a María ayer fue...`
+`Todo coincide.`
+` ¡La Bruja Dorada, {f:5:Beatrice}...!`
+`"¿Q-qué hay de María?!`
+` Esa niña debería estar durmiendo al lado de sus primos, ¿verdad?`
+` ¡¿Fueron a revisar?!"`
+`"Mis disculpas.`
+` Acabamos de darnos cuenta de que el nombre de María-sama estaba escrito aquí.`
+` Todavía no hemos revisado.`
+` Debería―"`
+`"¡¡¿Y qué están haciendo?!!`
+` ¡Iré a ver a María, regreso luego!`
+` Ve e informa a Krauss nii-san y al resto.`
+` ¡Recibe sus instrucciones para saber qué debemos hacer!"`
+`Después de decir eso, Rosa por fin se dio cuenta de que algo estaba fuera de lugar.`
+`Su propio rango dentro de esta conferencia familiar era el más bajo de los cuatro hermanos.`
+`En una situación anormal como esta, ¿por qué habían recurrido únicamente a ella, en lugar de recurrir a los demás hermanos?`
+`Incluso si el nombre de María estaba involucrado.`
+`"No me digas qué...`
+` ¡¿Huh...?!"`
+`"S-sí...`
+` Intentamos contactar con Krauss-sama,`
+` pero no pudimos encontrarlo..."`
+`"Y la Señora no estaba en su habitación.`
+` A juzgar por el estado de las sábanas, puede que no volviera a su cama anoche."`
+`Rosa sintió que algo escalofriante se deslizaba lentamente por su espalda...`
+`"¿Re-revisaron el interior de la capilla?"`
+`"No, todavía no.`
+` Intentamos revisar dentro, pero..."`
+`"La verdad es que la cerradura de la capilla es especial, así que la llave maestra no funciona.`
+` Solo hay una llave que puede abrirla, pero esa llave no está en la caja de llaves."`
+`Ella no quería estar más tiempo cerca de la puerta con el espeluznante círculo mágico si podía evitarlo.`
+`Rosa se preparó mentalmente y se acercó, e intentó empujar y tirar del pomo.`
+` Todo lo que sintió fue la resistencia de la robusta cerradura.`
+`"Buscamos a ver si había una ventana por la que pudiéramos entrar, pero...`
+`Pienso que, para comprobar el interior, tendríamos que romper una de las ventanas...`
+` ¿Qué le parece?"`
+`"No hay manera de que pueda darte la aprobación para hacer eso.`
+` Es la preciosa capilla de Padre, no puedo hacer algo así.`
 ` ....................."`
-`Then the events of the previous day swirled around in the back of Rosa's mind...`
-`......That's right,`
-` ......when I met that witch in the rose garden,`
-` ...didn't she hand Maria an envelope?`
-` Yes, I'm positive, she did.`
-`When Maria had tried to open it, that witch had told her not to do that yet, and then she had definitely said,`
-` "{i:The time will come soon to open it}"...`
-`Rosa became convinced.`
-`{n}......There could be no doubt.`
-`{n}......That letter which had been handed to Maria............`
-`After dashing back to the guesthouse, Rosa approached the cousins' room while hiding her footsteps,`
-` softly opened the door, and peered inside...`
-`From the inside, she could hear the healthy snores of young people.`
-`The four children were all there.`
-` Maria was there.`
-` ...Sleeping soundly.`
-`After heaving a sigh of relief, she entered the room with quiet footsteps.`
-`{n}......She was after Maria's handbag, which was resting on the sofa.`
-`Maria always liked walking around with her treasures.`
-`{n}...She was probably imitating how her mother always carried her makeup with her.`
-`Of course, she was just copying her, so on the inside, it was full of junk.`
-`In Maria's case, it was full of small, creepy, occult‐like items, and a notebook with things like that written in it.`
-`......Rosa hadn't once been happy to see her daughter walking around with those kinds of ungirlish things.`
-`However, after she had tried to force Maria to stop, they had gotten into a big fight, and she had decided to let it be.`
-`"........................... ...Here it is.`
-` .........This is it........."`
-`A Western envelope with the crest of the gold eagle...`
-`When she took it out, she could tell that there was a heavy, cylindrical object inside.`
-`...She could tell by its feel and its weight.`
-`{n}......There was no doubt.`
-`{n}This was......a key.`
-`After turning around and checking that Maria was still sound asleep,`
-` Rosa tore open the envelope, and tipped out the contents into her palm.`
-`......It was a key with an old and intricate design...`
-`{n}Rosa grasped that key, and dashed out.`
-`...It seemed that Battler noticed those sounds, but after grumbling and turning over in his sleep, he started snoring again...`
-`"......Genji‐san.`
-` ......Could this key......be the key to the chapel?"`
-`"Where did you......`
-` ...Yes, this is the key to the chapel."`
-`Rosa approached the creepy magic circle once again, ......and put the key in the keyhole.`
-`......There was a strong resistance.`
-` After it resisted for a short while, ...it stopped that resistance with a clunk.`
-`Then, squeaking with a noise that hurt one's ears, it slowly, slowly began to open.........`
-`"...............Is anyone......there............?!"`
-`Her voice reverberated throughout the massive room.`
-`{n}...Of course, there was no answer.`
-`The chapel had a high ceiling, and the air was cold.`
-`...And even on this rainy, unsettling day, for some reason, it felt sacred...`
-`The servants timidly followed after Rosa.`
-`"......Rosa‐sama, look at that."`
-`Kanon noticed it immediately, and pointed.`
-`......Over there...was the altar.`
-`In the place where normally a pastor would preach of God's love, there was a table that shouldn't have been there.`
-`At first, it looked like a dining table.`
-` ...And there actually were gorgeous plates and utensils set on the table, enough to make you think it was a child's birthday party or something.`
-`Upon closer inspection, the surrounding area had been decorated with pumpkins and black and orange ribbons.`
-` They were probably......Halloween decorations.`
-`And there were people seated at the table.`
-`{n}Three people on each side facing each other, seated in chairs.`
-`They could be recognized at a glance.`
-`{n}Krauss and his wife, Eva and her husband, and Rudolf and his wife.`
-`But if you were asked if these were definitely them, you'd still have to go even closer to check.`
-`......Because they seemed almost like dolls.`
-`Rosa and the rest had opened the door, entered all at once with the sound of many footsteps, and called out, asking if anyone was there.`
-`...And yet, there had been no reaction.`
-` ...Even assuming they had chosen to ignore them, normally you'd expect there to be some kind of reaction.`
-`......And there hadn't even been that.`
-`So at first, it felt like someone had set down some dolls that looked a lot like them...`
-`......By now, it wasn't just Rosa.`
-`{n}......Shannon and Kanon, and even Gohda.`
-`...They were all fighting frantically against the rising creepy emotion tightly grasping their hearts.`
-`"......Nii‐san...?`
-` .........Nee‐san.........?"`
-`As she climbed up to the altar, she called out again, but still, the others gave no reaction.`
-`......Yes, ...by now, Rosa had accepted it.`
-`......They were not dolls—`
-`{n}{i:she had accepted that they were those very people}......!`
-`"............This is........."`
+`Entonces, los acontecimientos del día anterior se revolvieron en el fondo de la mente de Rosa...`
+`Es verdad,`
+` cuando me encontré con esa bruja en el jardín de rosas,`
+` ¿no le dio ella un sobre a María?`
+` Sí, estoy segura de que lo hizo.`
+`Cuando María intentó abrirlo, esa bruja le había dicho que no lo hiciera todavía, y luego definitivamente dijo que:`
+` "{i:Pronto llegará el momento de abrirlo}"...`
+`Rosa estaba segura.`
+`{n}No cabía duda.`
+`{n}La carta había sido entregada a María...`
+`Después de volver corriendo a la casa de huéspedes, Rosa se dirigió a la habitación de los primos ocultando sus pasos,`
+` abrió suavemente la puerta, y se asomó al interior...`
+`Desde el interior, ella podía oír los saludables ronquidos de los jóvenes.`
+`Los cuatro niños estaban allí.`
+` María estaba allí.`
+` Durmiendo profundamente.`
+`Después de lanzar un suspiro de alivio, entró en la habitación con pasos silenciosos.`
+`{n}Ella fue a por el bolso de María, que estaba apoyado en el sofá.`
+`A María siempre le gustó pasear con sus tesoros.`
+`{n}Probablemente estaba imitando la forma en que su madre siempre llevaba el maquillaje con ella.`
+`Por supuesto, solo la estaba imitando, así que por dentro estaba llena de cachivaches.`
+`En el caso de María, estaba lleno de pequeños y espeluznantes objetos ocultistas, y un cuaderno con cosas parecidas escritas en él.`
+`Rosa nunca estaría contenta de ver a su hija caminando por ahí con este tipo de cosas tan poco femeninas.`
+`Sin embargo, después de intentar obligar a María a que dejara eso, tuvieron una gran discusión y ella decidió dejarlo pasar.`
+`"Aquí está...`
+` Es esto..."`
+`Un sobre occidental con el emblema del águila dorada...`
+`Cuando lo tomó, se dio cuenta de que dentro había un objeto pesado y cilíndrico.`
+`Ella lo sabía por su tacto y su peso.`
+`{n}No había duda.`
+`{n}Esto es... una llave.`
+`Después de darse la vuelta y comprobar que María seguía profundamente dormida,`
+` Rosa abrió el sobre y puso el contenido en la palma de su mano.`
+`Era una llave con un diseño antiguo e intrincado...`
+`{n}Rosa agarró la llave y salió corriendo.`
+`Al parecer, Battler se dio cuenta de estos sonidos, pero después de refunfuñar y darse la vuelta mientras dormía, empezó a roncar de nuevo...`
+`"Genji‐san.`
+` ¿Podría ser que esta es la llave de la capilla?"`
+`"¿Dónde la ha...?`
+` Sí, esta es la llave de la capilla."`
+`Rosa se acercó de nuevo al espeluznante círculo mágico, y metió la llave por el agujero de la cerradura.`
+`La cerradura opuso una fuerte resistencia.`
+` Y unos segundos después, cesó esa resistencia con un clunk.`
+`Entonces, chirriando con un ruido que irritaba los oídos, empezó a abrirse lentamente...`
+`"¡¿Hay alguien... ahí...?!"`
+`Su voz resonó en toda la enorme capilla.`
+`{n}Por supuesto, no hubo respuesta.`
+`La capilla tenía el techo alto y el aire era frío.`
+`E incluso en este día lluvioso e inquietante, por alguna razón, se sentía sagrado...`
+`Los sirvientes siguieron tímidamente a Rosa.`
+`"Rosa-sama, mire allí."`
+`Kanon lo notó inmediatamente, y lo señaló.`
+`Allí... estaba el altar.`
+`En el lugar donde normalmente un pastor predicaría sobre el amor de Dios, había una mesa que no tendría que estar allí.`
+`Al principio, parecía una mesa de comedor.`
+` En la que estaban colocados algunos platos y utensilios extravagantes colocados en la mesa, como para pensar que se trataba de una fiesta de cumpleaños infantil o algo así.`
+`En una inspección más detallada, los alrededores habían sido decorados con calabazas y cintas negras y naranjas.`
+` Probablemente eran... decoraciones de Halloween.`
+`Y había gente sentada en la mesa.`
+`{n}Tres personas a cada lado frente a frente, sentadas en sillas.`
+`Se les reconocía a simple vista.`
+`{n}Krauss y su esposa, Eva y su esposo, y Rudolf y su esposa.`
+`Pero si te preguntaran si definitivamente se trata de ellos, tendrías que acercarte aún más para comprobarlo.`
+`Porque parecían casi como muñecos.`
+`Rosa y los demás habían abierto la puerta, entraron todos a la vez con el ruido de muchos pasos, y llamaron preguntando si había alguien allí.`
+`Y aun así, no había habido ninguna reacción.`
+` Aun suponiendo que hubieran optado por ignorarlos, lo normal sería esperar que hubiera algún tipo de reacción.`
+`Pero ni siquiera hubo eso.`
+`Así que al principio, parecía como si alguien hubiera colocado unos muñecos que se parecían mucho a ellos...`
+`A estas alturas, ya no era solo Rosa.`
+`{n}Shannon, Kanon e incluso Gohda.`
+`Todos luchaban frenéticamente contra la espeluznante emoción que se apoderaba de sus corazones.`
+`"¿Nii‐san...?`
+` ¿Nee‐san...?"`
+`Cuando ella subió al altar, volvió a gritar, pero los demás no reaccionaron.`
+`Sí, a estas alturas, Rosa ya lo había aceptado.`
+`No eran muñecos.`
+`{n}¡{i:Ella había aceptado que eran las mismas personas}...!`
+`"Esto es..."`
 `".................."`
-`They approached close enough to be able to see clearly what was on the table.`
-`Just like their first impression, it looked like a lovely banquet, reminiscent of a child's birthday party.`
-`Plates piled up with sweets, glasses with lovely drinks.`
-`{n}Several ornaments in the shape of pumpkins...`
-`...They were all decorated in a Halloween style, ...and while it might have been an irrelevant thought at a time like this, ...she thought that this would surely make Maria happy if she could see it.`
-`They were seated in front of that table, and it looked like they were sleeping......`
-`It was an eerie scene, ...as though a small, fun‐looking Halloween party had been stopped in time...`
-`"......They're all......`
-`......sleeping...?`
-` ............?"`
-`When she approached even closer to them, ......she realized that candies were scattered all over the floor.`
-`There were candies in very fancy wrapping, cookies, fizzy lemon sweets, chocolates...`
-`And they were all distributed across the carpet, which was covered with blackberry and cranberry jam...`
-`"......Wa...uwaaaaaaaaaaaaaaaaaaaaa?!"`
-`Rosa and the rest.........finally realized what the situation was......`
-`It was...a Halloween party.`
-`{n}A banquet for those not of this world...!`
-`Krauss, Natsuhi, Eva, Hideyoshi, Rudolf, and Kyrie, six people in all, were seated in the chairs, ......dead as though they were sleeping.`
-`How could you tell that they were dead and not simply sleeping?`
-`That was because...`
-`......they were,`
-` ......from their chests to their stomachs,`
-` .........v‐`
-`...vertically...`
-`......sliced open.........!`
-`"K‐......Krauss‐sama............!!`
-` HiiiIIIiiiiiiiii......!"`
-`".....................How......cruel..."`
-`The six of them were seated at a Halloween party, all of them...killed, with their stomachs sliced open.`
-`Was the jam that covered the floor something that they couldn't finish eating...which had overflowed out of their stomachs...?`
-`......No!!`
-`The contents of their stomachs had been splattered all across the floor!!`
-`{n}And that wasn't all.`
-`From their stomachs, ......almost as though, ......almost as though!`
-`{n}As though they had spilled out!!`
-` Swee‐...sweets!`
-`Candies and cookies, fizzy lemon sweets and chocolates...`
-`......had spilled out, stained with blood, and had scattered across the floor!!`
-`What could have happened to cause this?!`
-`It was almost as though the insides of their stomachs had been stuffed full with sweets,`
-` ......and when their stomachs had been cut, it had all flowed out!!`
-`Rosa remembered a gross‐out meal, a turkey that had been served at her own birthday when she was a young girl.`
-`When she had put the knife in, ......from the inside, her very favorite—but because no one had told her about it at all—`
-`bright‐red—bright‐red—ketchup omelet‐rice had...poured out like blood‐stained maggots,`
-` buwaa,`
-` dripping,`
-` slimy,`
-` pulpy,`
-` sticky!!`
-`"Uerreeeeeeeeeeeeeeeeeeeechgh!!`
-` Eeeeeeaaaaaaaaaaaaaaaaaaaaaa!!"`
-`The trauma of her youth was revived.`
-` Rosa felt a monster raging inside her stomach, as the acid started to rise up.`
-`...Unable to hold back, she threw up on the floor.`
-`Her empty stomach couldn't throw up anything but stomach acid.`
-`This scene in front of her was no longer a fun Halloween party by any means...!`
-`The three couples had been placed there, with their stomachs vertically wrenched open,`
-` wrenched open with a gyuiiiiiiigupaaa.`
-`Lots and lots of sweets had been stuffed in there, pulpy,`
+`Se acercaron lo suficiente para poder ver con claridad lo que había sobre la mesa.`
+`Al igual que su primera impresión, parecía un banquete encantador, que se asemejaba a la fiesta de cumpleaños de un niño.`
+`Platos llenos de dulces, vasos con bebidas deliciosas.`
+`{n}Varios adornos en forma de calabaza...`
+`Todo estaba decorado al estilo de Halloween, y aunque podría haber sido un pensamiento irrelevante en un momento como este, ella pensó que esto seguramente haría feliz a María si pudiera verlo.`
+`Ellos estaban sentados frente a esa mesa, y parecía que estaban durmiendo...`
+`Era una extraña escena, como si una pequeña y divertida fiesta de Halloween se hubiera detenido en el tiempo...`
+`"¿Todos ellos están...`
+` durmiendo...?`
+` ¿............?"`
+`Cuando se acercó aún más a ellos, se dio cuenta de que había caramelos esparcidos por todo el suelo.`
+`Había golosinas en envoltorios muy elegantes, galletas, dulces efervescentes de limón, chocolates...`
+`Y todo estaba desparramado por la alfombra, la cual estaba cubierta de mermelada de moras y arándanos...`
+`"¡Wa... uwaaaaaaaaaaaaaaaaaaaaa!"`
+`Rosa y el resto... finalmente se dieron cuenta de cuál era la situación...`
+`Era... una fiesta de Halloween.`
+`{n}¡Un banquete para los que no son de este mundo...!`
+`Krauss, Natsuhi, Eva, Hideyoshi, Rudolf y Kyrie, seis personas en total, estaban sentados en las sillas, muertos como si estuvieran durmiendo.`
+`¿Cómo podías saber que estaban muertos y no simplemente durmiendo?`
+`Eso era porque...`
+` ellos fueron...`
+` desde el pecho hasta el estómago,`
+` v‐`
+` verticalmente...`
+` rebanados...!`
+`"¡¡K‐Krauss‐sama...!!`
+` ¡HiiiIIIiiiiiiiii...!"`
+`"Qué... cruel..."`
+`Los seis estaban sentados en una fiesta de Halloween, todos ellos... asesinados, con los estómagos cortados.`
+`¿La mermelada que cubría el suelo era algo que no habían podido terminar de comer... se les había salido del estómago...?`
+`¡¡No!!`
+`¡¡El contenido de sus estómagos había sido esparcido por todo el suelo!!`
+`{n}Y eso no era todo.`
+`¡Desde sus estómagos, casi como si, casi como si!`
+`{n}¡¡Como si se hubieran derramado!!`
+` ¡Cara‐caramelos!`
+`Golosinas y galletas, dulces efervescentes de limón y chocolates...`
+` ¡¡Todo se había derramado, manchado de sangre, y se había esparcido por el suelo!!`
+`¡¿Qué ha podido pasar para que esto ocurra?!`
+`Era casi como si les hubieran llenado el estómago de caramelos,`
+` ¡¡y cuando les cortaron el estómago, todo aquello se les salió!!`
+`Rosa recordó una comida repugnante que tuvo, un pavo que le habían servido en su propio cumpleaños cuando era pequeña.`
+`Su plato favorito, pero porque nadie le había dicho el contenido... Así que cuando lo abrió con un cuchillo...`
+`Una tortilla de arroz rojo brillante mezclado con salsa de tomate brotaba desde el interior, como gusanos ensangrentados,`
+` ¡¡buwaa,`
+` fluyendo,`
+` viscosamente,`
+` algo pulposo,`
+` pegajoso!!`
+`"¡¡Uerreeeeeeeeeeeeeeeeeeeechgh!!`
+` ¡¡Eeeeeeaaaaaaaaaaaaaaaaaaaaaa!!"`
+`El trauma de su juventud revivió.`
+` Rosa sintió que un monstruo se enfurecía dentro de su estómago, mientras el ácido empezaba a subir.`
+`Incapaz de contenerse, vomitó en el suelo.`
+`Su estómago vacío no podía vomitar nada más que ácido estomacal.`
+`¡La escena frente a ella ya no era la de una divertida fiesta de Halloween...!`
+`Las tres parejas habían sido colocadas allí, con sus estómagos abiertos verticalmente,`
+` abierto de un tirón con un gyuiiiiiiigupaaa.`
+`Montones y montones de caramelos habían sido metidos ahí, pulposos,`
 ` pugyurubugyu.`
-`Blood and guts and sweets were overflowing onto the floor,`
-` ......blood‐stained,`
-` sticky,`
-` sticky,`
-` sloppy,`
-` pulpy,`
-` sweet candy stuck to each finger,`
-` gummy,`
-` gummy,`
-` aaah, but it's stained with their entrails,`
-` sloppy,`
-` pulpy!`
-` What was that I stepped on just now, that didn't feel like a candy or a cookie or a fizzy lemon sweet or a chocolate!`
-`Aaaaaaaaaaaaaah, I'm so scared I can't even look at the bottom of my foot to see what I stepped on!!`
-`Aaaaaawaaaakiiiyaaaaaaaaaaaaaaaaaaaaaaa!!!`
-`...What a, what a gruesome Halloween party...!!!`
-`From far away, it looked really beautiful, fantastical, and fun.`
-`{n}And when you see it up close, it's really terrible, disgusting, and yet still somehow beautiful...!!`
-`"Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaahhh!!"`
-`Rosa's wild thoughts tried as best they could to escape her throat with a loud voice that was neither a scream nor a roar...`
-`"...............Krauss‐sama............"`
-`"......This is...horrible...... Just horrible........."`
-`"......A‐ambulance...`
-` ......Police.........!"`
-`"Tha‐......that's right, the police...`
-` Police, police police police police!!"`
-`If a word tied to reality like "police" hadn't come out of Gohda's mouth, Rosa and the rest would probably still have been unable to escape this nightmarish party.`
-`...But that wasn't because they thought that the police might be able to do something.`
-`If they didn't say police, police out loud, ......it felt like another seat would be set up at this demon's party and given to them...!!`
-`It felt like their own stomachs were getting uncomfortably filled from the inside!!`
-` Rumbling,`
-` churning...`
-` It was surely because candy was starting to overflow from their stomachs!!`
-`Rosa was again tortured by a desire to vomit, and threw up her stomach acid on the floor.`
-` And then she searched.`
-` To see whether there was any candy mixed in!!`
-`"......Haah, .........haah, ......haah......!!`
-` *wheeze*, ......haah...`
-` ......A‐......anyway!!`
-` *cough*, *cough*!!"`
-`Rosa coughed violently again, and violently spat up the stomach acid that burned her throat onto the floor.`
-`She realized that by now, her whole body had become covered in filthy sweat...`
-`"Ge‐...Genji‐san, Shannon‐chan, please ask Father for instructions.`
-` Gohda‐san, go together with Kanon‐kun and call the police.`
-` ...Then, have Doctor Nanjo come here and..."`
-`Have Nanjo come here and {i:what}?`
-`{n}It's way too late for medical care......!`
-`The servants accepted their orders and dashed outside.`
-`After watching them leave, ...............Rosa once again fixedly cast her eyes upon her siblings, who had been through life's joys and sorrows with her, and their partners.`
-` ......Even though there could be nothing more tragic, ...for some reason, their fantastical deaths tempted her...`
-`to describe them as beautiful.........`
-`"...They're not here.`
-` Where'd they go?"`
-`"The servant room and the kitchen are both empty, too.`
-` ...What the hell happened?"`
-`"Uu‐uu‐uu!!`
-` Mamaaa!!`
-` Mamaaa, where are youuu?!!`
-` My letter!`
-` My letter I got from Beato!`
-` Give it back!`
-` Give it baaaack!!`
-` Wau‐aau‐auu!!"`
-`"Perplexing.`
-` ...Battler‐kun, are you sure it was Auntie Rosa?"`
-`"......Well, I was half‐asleep so I'm not too confident.`
-` But I get the feeling that, at dawn, Auntie Rosa came in and fished around in Maria's handbag."`
-`"...I was just half‐asleep, and assumed that there was a tube of toothpaste or something in Maria's handbag."`
-`"Why would there be a tube of toothpaste in Maria's handbag?`
-` I'd bet my ass you dreamed the whole thing."`
-`Battler vaguely remembered Rosa entering the cousins' room.`
-` And Maria, who had woken up first, had started rampaging around, saying that someone had opened the envelope that she had been keeping safe.`
-`...And so they had started wondering whether Rosa might have come and opened it.`
-`"......A letter from the Golden Witch...`
-` I wonder what was inside."`
-`"Who knows.`
-` ...But that envelope was one with the Ushiromiya family crest on it, for Grandfather's personal use.`
-` ............It's hard to believe that what was in there doesn't have anything to do with the family conference."`
-`She hadn't let anyone touch it, but yesterday, Maria had bragged a lot about the envelope to Battler and the rest.`
-` ...So they remembered it well.`
-`"Uu‐uu‐uu!!`
-` Mama, give it back!`
-` Mama, give it back!!`
-` Uu‐uu‐uu!`
-` Waauuuuuuuuuuuuu!!"`
-`"......If you're right, George‐aniki, it sounds pretty important.`
-` ...But if it was so important, why did the witch give it to Maria?`
-` ...I don't have a clue."`
-`The refreshing morning atmosphere had been completely wiped out by the occasional sounds of thunder.`
-`...It was only natural.`
-` Since the time they had woken up, they hadn't met anyone other than themselves.`
-`It felt like the mansion had become an empty husk, leaving only them behind.`
-`"......Heeeeey!`
-` Anyone theeeere?!`
-` Answer mee!"`
-`After Jessica called out into the hallway, an answer finally came back.`
-` It was from the entrance hall.`
-`"I can hear youu.`
-` ...Has something happened?"`
-`"It's Doctor Nanjo.`
-` ...Great.`
-` It looks like everyone hasn't disappeared from this island but us."`
-`"Doctor Nanjo, good morning.`
-` ...Umm, sorry, but do you know where our parents went...?"`
-`"Dear me.`
-` ...I have only just come here after waking up, you see.`
-` I have no idea, I'm afraid."`
-`It was only natural.`
-` Nanjo was a guest like the rest of them.`
-` He had just now come to pass the time in the parlor until breakfast.`
-`"Uu‐uu‐uu!!`
-` Doctor Nanjo, Mama took it, Mama took my letter!!`
-` Give it back, give it back, uu‐uu‐uu!!!"`
-`Maria buried her face in Nanjo's well‐built stomach, sobbing and crying.`
-`...Nanjo could do nothing but be bewildered at what was going on so early in the morning.`
-`".........nn.`
-` Someone's running this way.`
-` Jessica!`
-` Someone's coming!"`
-`From down the hall, they could sense people running hurriedly.`
-`When they looked, they saw that it was Gohda and Kanon.`
-`......Running inside the mansion should have been immodest for a servant.`
-`{n}And yet, Battler and the rest didn't even think to question that now.`
-`Maria's sobbing had become so unmanageable, they wanted to ask someone, anyone, where Rosa was.`
-`But the two servants ignored Jessica as she waved her hand.`
-`Gohda flew into the servant room, and Kanon, noticing that Nanjo was here, bowed and approached him at a quick pace, and whispered something into his ear.`
-`"...............What did you say?`
-` Rosa‐san is?"`
-`"Yes.`
-` I will guide you, so please accompany me."`
-`"Alright..."`
-`"This way."`
-`Without saying anything more than that, Kanon finally noticed Jessica and bowed to her.`
-`...But he wasn't calm.`
-`He dashed back down the corridor by which he had come, followed by Nanjo.`
-`By looking at how hurried they were, Battler and the rest realized that something bad really had happened.`
-`They saw Gohda through the door to the servant room, which had been flung open.`
-`...He had the telephone receiver in hand and was violently pressing the hook.`
-`From that, they realized that he was trying to call a hospital, or the police, or in any event he was trying to call someone because a serious emergency had occurred.`
-`"Let's go see what's going on...!"`
-`"Yeah...!"`
-`"Mamaaa, give it baaack!!`
-` Give back my letterrr!!`
-` It's {i:an invitation to the Golden Land}!!"`
-`They didn't know what, ...but something was happening.`
-`{n}Battler and the rest chased after Kanon and Nanjo...`
-`Aaah......and then we realized.`
-` Kanon‐kun had called Doctor Nanjo, but he hadn't called us.`
-`...So we should never have followed.`
-`I wonder if Alice didn't regret her excess curiosity when she chased after the rabbit holding a clock......`
-`"No, you mustn't come in!!`
-` You mustn't look!!`
-` Jessica‐chan!`
-` No!!"`
+`Sangre, vísceras y dulces se desparramaban por el suelo,`
+` manchados de sangre,`
+` ¡pegajoso,`
+` pegajoso,`
+` sucio,`
+` pulposo,`
+` dulces caramelos pegados en cada dedo,`
+` pastoso,`
+` pastoso,`
+` aaah, pero está manchado con sus entrañas,`
+` embarrado,`
+` pulposo!`
+` ¡¿Qué es lo que acabo de pisar que no parecía un caramelo, una galleta, un dulce de limón o un chocolate?!`
+`¡¡Aaaaaaaaaaaaaah, tengo tanto miedo que no puedo ni mirarme la planta del pie para ver lo que he pisado!!`
+`¡¡¡Aaaaaawaaaakiiiyaaaaaaaaaaaaaaaaaaaaaaa!!!`
+`¡¡¡Qué, qué fiesta de Halloween tan macabra...!!!`
+`Desde lejos, parecía muy bonito, fantástico y divertido.`
+`{n}¡¡Pero cuando lo ves de cerca es realmente horrible, repugnante, y aun así, de alguna manera también es hermoso!!`
+`"¡¡Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaahhh!!"`
+`Los pensamientos salvajes de Rosa intentaban escapar como podían de su garganta con una voz fuerte que no era ni un grito ni un rugido...`
+`"Krauss‐sama..."`
+`"Esto es... horrible... Absolutamente horrible..."`
+`"¡A‐ambulancia...!`
+` !Policía...!"`
+`"E‐es verdad, la policía...`
+` ¡¡Policía, policía policía policía policía!!"`
+`Si de la boca de Gohda no hubiera salido una palabra tan ligada a la realidad como "policía", probablemente Rosa y el resto habrían seguido sin poder escapar de esta fiesta de pesadilla.`
+`Pero no fue porque pensaran que la policía podría hacer algo.`
+`¡¡Si no dijeran policía, policía en voz alta, sentirían como si en la fiesta de este demonio se dispusiera otro asiento y se lo dieran a ellos...!!`
+`¡¡Sentían como si sus propios estómagos se estuviesen rellenando desagradablemente desde dentro!!`
+` Retumbando,`
+` revolviéndose...`
+` ¡¡Seguramente era porque los caramelos empezaban a derramarse de sus estómagos!!`
+`Rosa se sintió de nuevo torturada por las ganas de vomitar, y vomitó los ácidos de su estómago en el suelo.`
+` Y entonces ella buscó con la mirada.`
+` ¡¡Buscó si había algún caramelo mezclado en el!!`
+`"¡¡Haah, haah, haah...!!`
+` *jadeo*, haah...`
+` ¡¡E‐... en cualquier caso!!`
+` ¡¡*toser*, *toser*!!"`
+`Rosa volvió a toser violentamente y escupió con violencia al suelo el ácido estomacal que le quemaba la garganta.`
+`Se dio cuenta de que ahora, todo su cuerpo se había cubierto de sudor asqueroso...`
+`"Ge‐Genji‐san, Shannon‐chan, pidanle instrucciones a Padre.`
+` Gohda‐san, ve con Kanon-kun y llama a la policía.`
+` Entonces, díganle al doctor Nanjo que venga y..."`
+`¿{i:Para qué} vendría el doctor Nanjo?`
+`{n}¡Es demasiado tarde para darles atención médica...!`
+`Los sirvientes aceptaron sus órdenes y salieron corriendo.`
+`Después de verlos marchar, Rosa dirigió de nuevo su mirada a sus hermanos, quienes la han acompañado en las alegrías y en las penas de la vida, y a sus parejas.`
+` Aunque no podía haber nada más trágico, por alguna razón, sus muertes fantásticas la tentaban...`
+` a describir la escena como algo hermoso...`
+`"No están aquí.`
+` ¿Adónde fueron?"`
+`"El cuarto de sirvientes y la cocina también están vacíos.`
+` ¿Qué demonios ha pasado?"`
+`"¡¡Uu‐uu‐uu!!`
+` ¡¡Mamááá!!`
+` ¡¡Mamááá, ¿dónde estááás?!!`
+` ¡Mi carta!`
+` ¡Mi carta que recibí de Beato!`
+` ¡Devuélvemela!`
+` ¡¡Devuééélvemela!!`
+` ¡¡Wau‐aau‐auu!!"`
+`"No lo entiendo.`
+` Battler‐kun, ¿estás seguro de que era la tía Rosa?"`
+`"Bueno, estaba medio dormido así que no estoy muy seguro.`
+` Pero tengo la sensación de que, al amanecer, la tía Rosa entró y rebuscó en el bolso de María."`
+`"Estaba medio dormido, y supuse que había un dentífrico o algo así en el bolso de María."`
+`"¿Por qué habría un dentífrico en el bolso de María?`
+` Apostaría mi pellejo a que lo soñaste todo."`
+`Battler recordaba vagamente a Rosa entrando en la habitación de los primos.`
+` Y María, quien fue la primera en despertarse, había empezado a llorar, diciendo que alguien había abierto el sobre que había estado manteniendo en un lugar seguro.`
+`Y por eso habían empezado a preguntarse si Rosa habría venido y la habría abierto.`
+`"Una carta de la Bruja Dorada...`
+` Me pregunto qué había dentro."`
+`"Quién sabe.`
+` Pero ese sobre era uno con el emblema de la familia Ushiromiya, para uso personal del abuelo.`
+` Es difícil de creer que lo que había allí no tenga nada que ver con la conferencia familiar."`
+`Ella no había dejado que nadie lo tocara, pero ayer, María había presumido mucho del sobre ante Battler y los demás.`
+` Es por eso que ellos se acordaban bien de eso.`
+`"¡¡Uu‐uu‐uu!!`
+` ¡¡Mamá, devuélvemela!`
+` ¡¡Mamá, devuélvemela!!`
+` ¡Uu‐uu‐uu!`
+` ¡¡Waauuuuuuuuuuuuu!!"`
+`"Si estás en lo cierto, George-aniki, suena bastante importante.`
+` Pero si era tan importante, ¿por qué la bruja se lo dio a María?
+` No tengo ni idea."`
+`La refrescante atmósfera de la mañana había quedado completamente aniquilada por el ocasional sonido de los truenos.`
+`Era lógico.`
+` Desde que se habían despertado, no se habían encontrado con nadie más que con ellos mismos.`
+`Parecía como si la mansión se hubiera convertido en un cascarón vacío, siendo ellos los únicos que quedan.`
+`"¡Heeeeey!`
+` ¡¿Hay alguien ahí?!`
+` ¡Respóndanme!"`
+`Después de que Jessica llamara al pasillo, por fin hubo respuesta.`
+` Fue desde el vestíbulo.`
+`"Puedo oírte.`
+` ¿Ha pasado algo?"`
+`"Es el doctor Nanjo.`
+` Menos mal.`
+` Parece que nosotros no somos lo únicos que no desaparecieron de la isla."`
+`"Doctor Nanjo, buenos días.`
+` Umm, disculpe, ¿pero sabe a dónde fueron nuestros padres...?"`
+`"Vaya, pues.`
+` Acabo de llegar aquí después de despertarme, como ves.`
+` Me temo que no tengo ni idea."`
+`Era lo lógico.`
+` Nanjo era un invitado como los demás.`
+` Él acababa de llegar para pasar el tiempo en el salón hasta el desayuno.`
+`"¡¡Uu‐uu‐uu!!`
+` ¡¡Doctor Nanjo, mamá se la llevó, mamá se llevó mi carta!!`
+` ¡¡Devuélvemela, devuélvemela, uu‐uu‐uu!!!"`
+`María enterró el rostro en la barriga bien formada de Nanjo, sollozando y llorando.`
+`Nanjo no pudo hacer otra cosa que quedarse perplejo ante lo que estaba ocurriendo tan temprano por la mañana.`
+`"nn...`
+` Alguien está corriendo por aquí.`
+` ¡Jessica!`
+` ¡Alguien viene!"`
+`Desde el fondo del pasillo, podían oír gente corriendo apresuradamente.`
+`Cuando fueron a ver, vieron que se trataba de Gohda y Kanon.`
+`Correr dentro de la mansión debería haber sido inmodesto para un sirviente.`
+`{n}Sin embargo, Battler y el resto ni siquiera pensaron en cuestionar eso ahora.`
+`Los sollozos de María se habían vuelto tan incontrolables que querían preguntar a alguien, a quien fuera, dónde estaba Rosa.`
+`Pero los dos sirvientes ignoraron a Jessica mientras agitaba la mano.`
+`Gohda entró corriendo al cuarto de sirvientes, y Kanon, al darse cuenta de que Nanjo estaba aquí, se inclinó y se acercó a él a paso rápido, y le susurró algo al oído.`
+`"¿Qué acabas de decir?`
+` ¿Rosa‐san está...?"`
+`"Sí.`
+` Yo le guiaré, así que acompáñeme, por favor."`
+`"De acuerdo..."`
+`"Por aquí."`
+`Sin decir nada más que eso, Kanon finalmente se fijó en Jessica y le hizo una reverencia.`
+`Pero él no estaba tranquilo.`
+`Él volvió corriendo por el pasillo por el que había venido, seguido por Nanjo.`
+`Al ver lo apresurados que estaban, Battler y los demás se dieron cuenta de que algo malo había ocurrido de verdad.`
+`Ellos vieron a Gohda a través de la puerta del cuarto de los sirvientes, que se había abierto de par en par.`
+`Él tenía el auricular del teléfono en la mano y estaba presionando violentamente el gancho.`
+`Con ello se dieron cuenta de que estaba intentando llamar a un hospital o a la policía, o en cualquier caso estaba intentando llamar a alguien porque se había producido una emergencia grave.`
+`"¡Vayamos a ver qué ocurre...!"`
+`"¡Sí...!"`
+`"¡¡Mamááá, devuélvemela!!`
+` ¡¡Devuélveme mi carta!!`
+` ¡¡Es {i:una invitación a la Tierra Dorada}!!"`
+`No sabían qué, pero algo estaba pasando.`
+`{n}Battler y el resto persiguieron a Kanon y Nanjo...`
+`Aaah... y entonces nos dimos cuenta.`
+` Kanon-kun había llamado al Doctor Nanjo, pero no nos había llamado a nosotros.`
+`Así que nunca deberíamos haberles seguido.`
+`Me pregunto si Alicia no se arrepintió de su exceso de curiosidad cuando persiguió al conejo que sujetaba un reloj...`
+`"¡¡No, no deben entrar!!`
+` ¡¡No deben ver!!`
+` ¡Jessica‐chan!`
+` ¡¡No!!"`
 `"Hii...`
-`......n...`
-`noooooooooooooooooooooooooooooooooo!!!"`
-`"Mom, Dad!!`
-` What, ......what happened!!`
-` Uuuuuuuuuuuughhh!!"`
-`"......What the hell is this...`
-` ......There's a limit to how degenerate you can be...`
-` Isn't taking someone's life enough...`
-` ......What the hell is this!!"`
-`"After you'd killed them you actually bothered to sit them on chairs, slice their stomachs!!`
-` And stuff a ton of sweets inside?!!`
-` Why, ......why the fuck would you do something so sick?!!`
-` Fuck this, fuck this!`
-` Great work, shithead, looks awesome, looks fucking awesome!!`
-` Uwoooooooooooooohhh!!"`
-`".........It would be better if you all went outside...!`
-` There is no way they would want you all to see them this way..."`
-`Nanjo told the children to go outside, but no one lent him an ear.`
-`"Rosa‐san, please tell them.`
-` If they keep looking at something like this...it will do nothing but harm...!"`
+` n...`
+`¡¡¡noooooooooooooooooooooooooooooooooo!!!"`
+`"¡¡Mamá, papá!!`
+` ¡¡¿Q-qué ha pasado?!!`
+` ¡¡Uuuuuuuuuuuughhh!!"`
+`"¿Qué demonios es esto...?`
+` Existe un límite para lo degenerado que puedes ser...`
+` ¿No es suficiente quitarle la vida a alguien...?`
+` ¡¡¿Qué demonios es esto?!!"`
+`"¡¡Después de matarlos, te tomaste la molestia de sentarlos en sillas y abrirles el estómago!!`
+` ¡¡¿Y en meter una tonelada de dulces adentro?!!`
+` ¡¡¿Por qué?!! ¡¡¿Por qué mierda harías algo tan enfermo?!!`
+` ¡A la mierda con esto, a la mierda con esto!`
+` ¡¡Gran trabajo, imbécil, luce genial, luce jodidamente genial!!`
+` ¡¡Uwoooooooooooooohhh!!"`
+`"¡Será mejor que todos ustedes salgan afuera...!`
+` De ninguna manera ellos hubieran querido que ustedes los vieran de esta forma..."`
+`Nanjo les dijo a los niños que salieran, pero nadie le hizo caso.`
+`"Rosa‐san, por favor, díles algo.`
+` ¡Si siguen mirando algo así... solo será peor para ellos...!"`
 `".................."`
-`Rosa regretted her own carelessness.`
-` ......She should have been able to anticipate that the children would eventually come here.`
-`...She should have quickly locked it instead of standing around.`
-`So now the children had come.`
-`{n}They had seen it...!`
-`Surely, in this very moment, they were having a sight burned into their eyes...`
-`which was far more grotesque than the gross‐out food Rosa had seen in her youth...`
-`While she hugged Maria, who seemed to have forgotten her emotions as she stared dumbfounded at the horrible scene,`
-` Rosa shed copious tears for them and their parents.`
-`The four groaning and crying voices, their sadness, ...continued to echo in a place which should have known God's love......`
-`"You piece of shit!!`
-` Again, another one of these murders!!`
-` And yet again, you made it all elaborate, killing them like it's a perfect joke!!"`
-`"*cackle*cackle*cackle*cackle*.`
-` I was hoping I'd hear words of gratitude rather than grief from you."`
-`"Gratitude?!!`
-` Did you say gratitude, you old bitch?!`
-` Damn it, if there's something wrong with your ears, I'll cut them both off so you can hear better!!"`
-`"Why should I have to say oh, thank you very much {f:5:Beatrice}‐sama~, about this supremely fucked‐up way of killing?! I'll beat you to death!!!"`
-`"In the last game,`
-` you were grieving that you couldn't see your parents' faces when they died, I believe?`
-` So I left them.`
-` Didn't touch them!!"`
-`"{i:Take a good long look and see, that without a doubt, your father and the others have been killed}!!"`
-`"R......eally, wow, you deserve full marks for top service, I'm so happy!!`
-` I swore that if I choked the life out of you, I'd plow your face, but I'll take that back, I'll drag out your guts!!!"`
-`"Don't give in to emotion and stop thinking.`
-` My game has already begun, you know?`
-` *cackle*cackle*cackle*.`
-` I decided to leave the corpses clean this time."`
-`"Do you know why?`
-` When you denied my existence in the last game, you denied me by thinking in the following way."`
-`"That is:`
-` "{i:Their faces are crushed, so the identities of the corpses cannot be confirmed}";`
-` "{i:therefore, the possibility that fake corpses had been prepared to create an alibi cannot be eliminated}";`
-` "{i:as long as that possibility cannot be excluded, the human culprit theory can be maintained}"!!"`
-`"What did you saaaaaay......?!!"`
-`"*cackle*cackle*cackle*kikiki{0}ki{0}ki{0}ki{0}ki{0}ki{0}ki{0}ki{0}ki{0}ki{0}ki{0}ki{0}ki{0}ki{0}ki{0}kikiki!!`
-` Come, Battler, are you sure you wish to leave the examination of the corpses to Nanjo?`
-` Isn't it traditional in mystery novels for the doctor who performs such examinations to be an accomplice?"`
-`"Then don't leave the examination to Nanjo; do it yourself.`
-` Make completely sure that without a doubt, the six corpses are the people claimed, that they aren't pretending to be dead, that they really, really are dead!!"`
-`"To make sure that your father and mother really have been killed by having their stomachs cut open and their entrails pulled out,`
-` I suggest you stick your hand inside their stomachs and feel around inside!!!`
-` Kuhaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha, kiiihaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!"`
-`"I WON'T cry!!!`
-` Damn it, damn it, ...I won't cry...!!"`
-`Battler suddenly yelled.`
-`His tears were still dripping down, but as though scolding himself for being girly, he slapped his face hard several times with both hands.`
-`Even so, the tears still wouldn't stop.`
-`{n}......However, he felt a hot blaze ignite in both his eyes.`
-`"Whoever the bastard is who pulled this detestable bullshit, I'll make him pay back his debt completely!!`
-` So this isn't the time to cry, think about what you're gonna do!!"`
-`"Aaaah, this is no good, it's no goddamn good at all!!`
-` If you have enough spare time to cry, then think!`
-` This is not the time to be working your lacrimal glands!!"`
-`Rather than pure hatred, maybe it was more of an evasive hatred to blot out his sadness.`
-`......However, it gave a little courage to George and Jessica, who were being crushed by sadness.`
-`"......That's right.`
-` ...Even if we cry,`
-` ......the reality of what's happened here...`
-`won't change."`
-`"Damn it... Damn it damn it damn it, ......damn it damn it damn it!!`
-` What am I supposed to do then?!`
-` What am I supposed to do...for Mom and Dad?!!"`
-`"......Rosa‐sama...`
-` I have returned..."`
-`"Gohda‐san, what happened with the police?`
-` What did they say to do?`
-` Did they say when they think they'll be able to get here?"`
-`"...Regarding that, ......it seems the telephones are out of order...`
-` I also tried the emergency wireless, but...umm, perhaps it's the weather, but that isn't working either..."`
-`"What did you say...?!`
-` So, you're saying we can't contact the police?!"`
-`"It's her!`
-` She did something to the phone line, and made it so we can't contact the police!!"`
-`When she heard that the telephones were out of order, Jessica immediately decided that it was the work of that mysterious guest.`
-`Her eyes were bright‐red after so much crying, and they began to grow even more red with rage.`
-`"...Yeah, there's not even any room for debate anymore!`
-` I understand everything, I know the truth!`
-` Who killed Mom and Dad?!"`
-`"It's obvious, it's her!!`
-` It has to be that witch or whatever who came yesterday!!!`
-` I'll grab her by the collar!!`
-` Damn it damn it damn iiiiiiiiiiiit!!"`
-`"Jessica‐chan...!`
-` Wait!`
-` Gohda‐san, Kanon‐kun, go!"`
-`"Ye‐yes...!"`
-`"Milady, wait...!!"`
-`Covering her unfocused sadness with anger, Jessica ran outside, torn apart by emotion.`
-`...Thinking about it hastily, maybe the mystery guest, {f:5:Beatrice}, who had arrived yesterday, was suspicious.`
-` However, at the current time, there was absolutely no proof that she was the culprit.`
-`...At this moment, she was nothing more than a simple guest, and only one of many.`
-`So Rosa had to make an adult decision, and stop Jessica in her hasty rampage.`
-` Gohda and Kanon realized that immediately, and chased after her.`
-`"......Could {f:5:Beatrice}, the guest that no one invited, be the culprit...?"`
-`"I understand how Jessica feels.`
-` ...I also want to make myself think that.`
-` It doesn't matter who, I want to make someone the culprit and bash them right in the face!!"`
-`"......But before that, we have to understand things clearly.`
-` ...Who is this {f:5:Beatrice}?`
-` I haven't even seen her face!!"`
-`"......Kihihihihihihihihihihihihihihihi.`
-` If you're looking for her face, it decorates the big portrait in the mansion.`
-` You still don't remember after looking at it for so long?`
-` Kihihihihihi."`
-`"...Come on, Maria.`
-` ...What's so funny in a situation like this?!"`
-`"{f:5:Beatrice} is a witch.`
-` And the ritual to open the door to the Golden Land has finally begun.`
-` These six people are sacrifices.`
-` ......Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi!"`
-`"Now, the witch's banquet shall begin.`
-` Tonight is Halloween; the witches gather now in celebration.`
-` Kiiihi‐hi‐hi‐hi‐hihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi!!"`
-`"Maria, how many times have I told you to stop laughing in that creepy voice!"`
-`The crisp sound of Rosa slapping Maria's cheek echoed through the high‐ceilinged chapel...`
-`It kinda feels like, ever since the rain started yesterday—`
-`no, ...ever since the island had become wrapped up in the typhoon, something has gone crazy.`
-`I had arrived in Rokkenjima while it was clear, and taken a nap because I had gotten up early.`
-`......When I woke up, it had already started raining.`
-`And after I got up, that's when it all started.`
-`Suddenly a mysterious visitor had arrived, calling herself the Golden Witch {f:5:Beatrice}, and it feels like the world had started skewing bit by bit into something insane.`
-`What happened while I was taking that nap?`
-` During that time, had this island been cut off, trapped in a different world where common sense doesn't apply...?!`
-`Who is this person called {f:5:Beatrice}?`
-`{n}Is she some unknown person trying to involve themselves with the inheritance problem, like our parents were freaking out about at dinner last night?`
-`......Or is the culprit the witch from the Legend of the Gold, like Maria says?!`
-`Even if Jessica hadn't let her short temper get the better of her, in this situation, the visitor was probably the most suspicious.`
-`But we mustn't jump to conclusions just like that.`
-`{n}Yeah, that's no good, no good, no goddamn good at all...!!`
-`I smacked my face with both hands again, cooling off my brain before it overheated.`
-` Even though it might have been a waste of effort.`
-`"......This is.........one of Grandfather's envelopes."`
-`On a tray piled up with sweets that decorated the table, George‐aniki found a Western envelope which had the Ushiromiya family crest done on it in gold leaf.`
-`And it was unopened.`
-`"So, ......doesn't this mean it was sent to us?`
-` If it was something Dad and the rest read, it should be open."`
-`"......It seems your reasoning is correct.`
-` ......Look what's written here.`
-` It says "to those who remain"."`
-`"Is that...a letter the culprit left...?!`
-` Wha‐what's inside...?"`
-`"Aniki, let's open it...!"`
-`After nodding silently, George‐aniki opened it.`
-`{n}......A folded letter came out.`
-`".........I'll read it.`
-` .........Welcome to Rokkenjima, ladies and gentlemen of the Ushiromiya family.`
-` I am {f:5:Beatrice}, the alchemist for this family, under the employ of Kinzo‐sama..."`
-`That letter really was a joke.`
-`This {f:5:Beatrice}, who called herself the family alchemist, had announced that she was collecting the gold she had lent Grandfather, along with the interest.`
-`And that interest was everything that Grandfather had created.`
-`Since this tragedy was right before our eyes as this paragraph was read aloud, it clearly wasn't referring just to the wealth that Grandfather had built up.`
-`......It was literal.`
-` Everything that Grandfather had given birth to—`
-`in other words, ...all of Grandfather's descendants, were included in the interest!`
-`"Batshit insanity!!`
-` What a screwed up contract!`
-` So lives are the interest for gold, are they?!`
-` That's like a deal with the devil!`
-` Is that how you pretend to be a witch?!`
-` Ha, real goddamn funny!!"`
-`"......Special clause.`
-` .........However, if someone is able to discover the hidden gold of this contract, {f:5:Beatrice} must abandon these rights for all time."`
-`".........Mmhm......`
-` ......Kinzo‐sama has already publicly displayed the location of the hidden gold within the epitaph under my portrait..."`
-`"......So it's something like this.`
-` If the motive for these murders was collection of the interest,`
-` the condition for stopping them is to find the hidden gold she gave to Grandfather, ...is what it's saying.`
-` And it also says that the secret to this is hidden in the epitaph from that portrait."`
-`"So......this is a letter of challenge from the witch?`
-` Break the ciphertext describing the location of the hidden gold, if you can?!`
-` And it's saying that if we can't, the collection of the interest will continue as planned?"`
-`"I'll beat you to death, no problem!!!"`
-`"...Ba‐Battler‐kun!`
-` Look...... Look here!!!"`
-`The table had been full of sweets,`
-` ...so even though they had been right in the open, we had assumed they were just sweets.`
-`......I mean, come on, you find stuff like this a lot, right?`
-`......You know, boxes of chocolate, shaped like golden ingots...!`
-`"The‐......these are...not boxes of candy...`
-` They're the real thing...!`
-` ......These are real goddamned gold bars...!!"`
-`"...It's inscribed with the crest of the One‐winged Eagle...`
-` ...I've heard Mother talking about this before.`
-` ......This is a gold bar from the legend of Grandfather's gold...!!"`
-`Gold ingots, ...three of them, weighing a full ten kilograms each, were piled up in the very center of the table!`
-` It was where the cake would be placed if it was a birthday party.`
-`...In other words, this was without a doubt the birthday cake of the party known as the family conference!`
-`"If these are really four‐nines‐purity ingots...`
-` ...nn, *gulp*.`
-` They, they're worth about 60 million yen!"`
-`"You stupid biiiiiitch!!`
-` That's way too cheap!!!`
-` Six of our parents have been killed, and the gold you throw our way for it is a measly 60 million yen?!`
-` Don't take us for fools, damn iiiiiiiiiiiiiiiit!!!"`
-`"......Kihihihihihihihihihihihihihihihi.`
-` ...So, it has begun, {f:5:Beatrice}.`
-` ......It's not like anyone can solve this riddle anyway.`
-` So, Beato, you will definitely win."`
-`"......Hurry up and open the door to the Golden Land.`
-` And take me away.`
-` ...Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi!"`
+`Rosa lamentó su propio descuido.`
+` Ella debería haber podido prever que los niños acabarían viniendo aquí.`
+`Debería de haberlo cerrado rápidamente en vez de quedarse parada.`
+`Y ahora que los niños habían llegado aquí.`
+`{n}¡Lo vieron...!`
+`Seguramente, en este mismo momento, esta escena fue grabada a fuego en sus ojos...`
+` La cual era mucho más grotesca que la repugnante comida que Rosa había visto en su juventud...`
+`Mientras ella abrazaba a María, quien parecía haber olvidado sus emociones al contemplar estupefacta la horrible escena,`
+` Rosa derramó copiosas lágrimas por ellos y por sus padres.`
+`Las cuatro voces gimientes y llorosas, continuaron resonando en un lugar que debería haber conocido el amor de Dios...`
+`"¡¡Tú, pedazo de mierda!!`
+` ¡¡Otra vez, otro de estos asesinatos!!`
+` ¡¡Y una vez más, lo preparaste todo, matándolos como si fuera algún tipo de broma!!"`
+`"*carcajada*carcajada*carcajada*carcajada*.`
+` Esperaba oír de ti palabras de gratitud y no de sufrimiento."`
+`"¡¡¿Gratitud?!!`
+` ¡¿Has dicho gratitud, vieja puta?!`
+` ¡¡Maldita sea, si hay algo malo con tus orejas, te las cortaré para que puedas escuchar mejor!!"`
+`"¡¿Por qué tendría que decir oh, muchas gracias {f:5:Beatrice}-sama~, por esta manera sumamente jodida de matar?! ¡¡¡Te mataré a golpes!!!"`
+`"En el último juego,`
+` ¿No te lamentaste por no poder ver las caras de tus padres cuando murieron?`
+` Es por eso que se las dejé esta vez.`
+` ¡¡No las toqué!!"`
+`"¡¡{i:Mira bien y comprueba que, sin duda alguna, tu padre y los demás han sido asesinados}!!"`
+`"¡¡En serio, vaya, te mereces la máxima puntuación por tu buen servicio, estoy tan contento!!`
+` ¡¡¡Juré que acabaría arrancándote la cara después de asfixiarte hasta la muerte, pero me retracto, te sacaré las tripas!!!"`
+`"No te dejes llevar por las emociones y no dejes de pensar.`
+` Mi juego ya ha comenzado, ¿sabes?`
+` *carcajada*carcajada*carcajada*.`
+` Decidí dejar los cadáveres limpios esta vez."`
+`"¿Sabes por qué?`
+` Cuando negaste mi existencia en el último juego, me negaste pensando de la siguiente manera."`
+`"Fue así:`
+` "{i:Sus caras están aplastadas, por lo que no se puede confirmar la identidad de los cadáveres}";`
+` "{i:por lo tanto, no se puede descartar la posibilidad de que se hubieran preparado cadáveres falsos para crear una coartada}";`
+` "¡¡{i:mientras no se pueda descartar esa posibilidad, se puede mantener la teoría de un culpable humano}"!!"`
+`"¡¡¿Qué has diiiicho...?!!"`
+`"*carcajada*carcajada*carcajada*kikiki{0}ki{0}ki{0}ki{0}ki{0}ki{0}ki{0}ki{0}ki{0}ki{0}ki{0}ki{0}ki{0}ki{0}ki{0}kikiki!!`
+` Vamos, Battler, ¿estás seguro de que deseas dejar la examinación de los cadáveres a Nanjo?`
+` ¿No es típico en las novelas de misterio que el médico que realiza esos exámenes sea un cómplice?"`
+`"Entonces no le dejes la examinación a Nanjo; hazla tú mismo.`
+` ¡¡Asegúrate completamente de que, sin lugar a dudas, los seis cadáveres son las supuestas personas, y que no están fingiendo estar muertas, sino que realmente, realmente están muertas!!"`
+`"¡¡¡Para asegurarte de que a tu padre y a tu madre los han matado de verdad, les han abierto el estómago y les han sacado las entrañas,`
+` te sugiero que metas la mano en sus estómagos y los palpes por dentro!!!`
+` ¡¡Kujaja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}jajaja, kiiijaja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}jajaja!!"`
+`"¡¡¡NO VOY a llorar!!!`
+` ¡¡Maldita sea, maldita sea, no voy a llorar...!!"`
+`Battler gritó de repente.`
+`Sus lágrimas seguían cayendo, pero como si se regañara a sí mismo por ser una niña, se dio varias bofetadas en la cara con ambas manos.`
+`E incluso así, las lágrimas no paraban.`
+`{n}Sin embargo, sintió que un fuego ardiente se prendía en sus dos ojos.`
+`"¡¡Sea quien sea el bastardo que hizo esta detestable porquería, me las pagará completamente!!`
+` ¡¡Así que no es el momento de llorar, piensa en lo que vas a hacer!!"`
+`"¡¡Aaaah, esto es inútil, es completamente inútil!!`
+` ¡Si tienes suficiente tiempo libre para llorar, entonces piensa!`
+` ¡¡No es el momento de ejercitar tus glándulas lagrimales!!"`
+`Más que odio puro, quizá era más bien un odio evasivo para borrar su tristeza.`
+`Sin embargo, dio un poco de coraje a George y Jessica, que estaban siendo destrozados por la tristeza.`
+`"Eso es cierto.`
+` Aunque lloremos,`
+` lo que ha pasado aquí...`
+`no cambiará."`
+`"¡¡Maldita sea... Maldita sea, maldita sea, maldita sea, maldita sea, maldita sea, maldita sea!!`
+` ¡¿Qué se supone que debo hacer entonces?!`
+` ¡¡¿Qué se supone que debo hacer... por mamá y papá?!!"`
+`"Rosa‐sama...`
+` He regresado..."`
+`"Gohda-san, ¿qué pasó con la policía?`
+` ¿Qué te dijeron que hicieras?`
+` ¿Dijeron cuándo creen que podrían llegar aquí?"`
+`"En cuanto a eso, parece que los teléfonos no funcionan...`
+` También intenté con el inalámbrico de emergencia, pero... umm, quizás sea el clima, pero tampoco funciona..."`
+`"¡¿Qué acabas de decir...?!`
+` ¡¿Me estás diciendo que no podemos contactar a la policía?!"`
+`"¡Fue ella!`
+` ¡¡Ella hizo algo a la línea telefónica, e hizo que no podamos contactar a la policía!!"`
+`Cuando se enteró de que los teléfonos no funcionaban, Jessica decidió inmediatamente que era obra de aquella misteriosa invitada.`
+`Sus ojos estaban rojos de tanto llorar, y empezaron a ponerse aún más rojos de rabia.`
+`"Sí, ¡ya ni siquiera es necesario discutir!`
+` ¡Lo entiendo todo, sé quién fue!`
+` ¡Sé quién mató a mamá y papá!"`
+`"¡¡Es obvio, fue ella!!`
+` ¡¡¡Tiene haber sido esa bruja o lo que sea que vino ayer!!!`
+` ¡¡La agarraré por el cuello!!`
+` ¡¡Maldita sea, maldita sea, maldita seeeeeeea!!"`
+`"¡Jessica‐chan...!`
+` ¡Espera!`
+` ¡Gohda‐san, Kanon‐kun, vayan tras ella!"`
+`"¡S-sí...!"`
+`"¡¡Señorita, espere...!!"`
+`Cubriendo su tristeza desenfocada con ira, Jessica salió corriendo, desgarrada por la emoción.`
+`Pensándolo apresuradamente, tal vez la invitada misteriosa, {f:5:Beatrice}, quien había llegado ayer, era sospechosa.`
+` Sin embargo, en este momento, no había absolutamente ninguna prueba de que ella fuera la culpable.`
+`En este momento, ella no era más que un simple invitado, y solo uno de tantos.`
+`Así que Rosa tuvo que tomar una decisión adulta, y detener a Jessica en su precipitado desenfreno.`
+` Gohda y Kanon se dieron cuenta inmediatamente, y la persiguieron.`
+`"¿Podría {f:5:Beatrice}, la invitada a la que nadie invitó, ser la culpable...?"`
+`"Entiendo cómo se siente Jessica.`
+` Yo también quiero pensar eso.`
+` ¡¡No importa quién, quiero convertir a alguien en el culpable y golpearle directamente en la cara!!"`
+`"Pero antes de eso, tenemos que entender las cosas con claridad.`
+` ¿Quién es esta {f:5:Beatrice}?`
+` ¡¡Ni siquiera le he visto la cara!!"`
+`"Kijijijijijijijijijijijijijijiji.`
+` Si es el rostro lo que buscas, lo decora el gran retrato de la mansión.`
+` ¿Todavía no te acuerdas después de mirarlo durante tanto tiempo?`
+` Kijijijijiji."`
+`"Vamos, María.`
+` ¡¿Qué puede ser tan gracioso en una situación como esta?!"`
+`"{f:5:Beatrice} es una bruja.`
+` Y el ritual para abrir la puerta a la Tierra Dorada por fin ha comenzado.`
+` Estas seis personas son sacrificios.`
+` Kijiji{0}ji{0}ji{0}ji{0}ji{0}ji{0}ji{0}ji{0}ji{0}ji{0}ji{0}ji{0}jijiji!"`
+`"Ahora, el banquete de la bruja comenzará.`
+` Esta noche es Halloween; las brujas se reúnen ahora para celebrarlo.`
+` Kiiiji‐ji‐ji‐ji‐jiji{0}ji{0}ji{0}ji{0}ji{0}ji{0}ji{0}ji{0}ji{0}ji{0}ji{0}ji{0}ji{0}ji{0}ji{0}ji{0}ji{0}ji{0}ji{0}jijiji!!"`
+`"¡María, cuántas veces te he dicho que dejes de reírte con esa voz tan espeluznante!"`
+`El estridente sonido de Rosa abofeteando la mejilla de María resonó en la capilla de techos altos...`
+`Parece que desde que empezó a llover ayer..`
+`no, desde que la isla se vio envuelta en el tifón, algo enloqueció.`
+`Yo llegué a Rokkenjima cuando estaba despejado, y me eché una siesta porque me había levantado temprano.`
+`Cuando me desperté, ya había empezado a llover.`
+`Y después de levantarme, fue cuando todo empezó.`
+`De repente había llegado una misteriosa visitante, que se hacía llamar la Bruja Dorada {f:5:Beatrice}, y se siente como si el mundo hubiera empezado a deformarse poco a poco en algo demencial.`
+`¿Qué ha pasado mientras tomaba esa siesta?`
+` ¡¿Durante ese tiempo, esta isla había sido apartada de la realidad, atrapada en un mundo diferente donde no rige el sentido común...?!`
+`¿Quién es esta persona llamada {f:5:Beatrice}?`
+`{n}¿Es una persona desconocida que intenta involucrarse en el problema de la herencia, tal y como estuvieron discutiendo nuestros padres en la cena de anoche?`
+`¡¿O la culpable es la bruja de la Leyenda del Oro, como dice María?!`
+`Incluso si Jessica no se hubiera dejado llevar por su mal temperamento, en esta situación, la visitante era probablemente la más sospechosa.`
+`Pero no debemos sacar conclusiones precipitadas así como así.`
+`{n}¡¡Sí, eso es inútil, completamente inútil...!!`
+`Volví a golpearme la cara con ambas manos para enfriar el cerebro antes de que se recalentara.`
+` Aunque haya sido un esfuerzo inútil.`
+`"Esto es... uno de los sobres del abuelo."`
+`En una bandeja llena de dulces que decoraba la mesa, George-aniki encontró un sobre occidental que tenía el emblema de la familia Ushiromiya hecho en láminas doradas.`
+`Y estaba sin abrir.`
+`"Entonces, ¿esto no significa que nos lo enviaron a nosotros?`
+` Si era algo que papá y los demás leyeron, debería estar abierto."`
+`"Parece que tu razonamiento es correcto.`
+` Mira lo que hay escrito aquí.`
+` Dice "a los que quedan"."`
+`"¡¿Es... una carta que dejó el culpable...?!`
+` ¿Q-qué hay dentro...?"`
+`"¡Aniki, vamos a abrirlo...!"`
+`Después de asentir en silencio, George-aniki la abrió.`
+`{n}Una carta doblada salió.`
+`"Lo leeré.`
+` Bienvenidos a Rokkenjima, miembros de la familia Ushiromiya.`
+` Yo soy {f:5:Beatrice}, la alquimista de esta familia, bajo el contrato del mismo-sama..."`
+`Esa carta era realmente una broma.`
+`Esta {f:5:Beatrice}, que se hacía llamar la alquimista de la familia, había anunciado que iba a cobrar el oro que le había prestado al abuelo, junto con los intereses.`
+`Y esos intereses eran todo lo que el abuelo había creado.`
+`Dado que esta tragedia estaba ante nuestros ojos mientras se leía este párrafo en voz alta, está claro que no se refería solo a la riqueza que había acumulado el abuelo.`
+`Era literal.`
+` Todo lo que el Abuelo había dado a luz...`
+`¡En otras palabras, todos los descendientes del abuelo estaban incluidos en los intereses!`
+`"¡¡Qué puta locura!!`
+` ¡Qué contrato más retorcido!`
+` Así que las vidas son los intereses del oro, ¡¿verdad?!`
+` ¡Eso es como un trato con el diablo!`
+` ¡¿Así es como pretendes ser una bruja?!`
+` ¡¡Ja, muy gracioso!!"`
+`"Cláusula especial.`
+` Sin embargo, dado el caso de que alguien encuentre el oro oculto mencionado anteriormente en este contrato, {f:5:Beatrice} habrá de renunciar eternamente a este derecho."`
+`"Mmhm...`
+` En cuanto al escondite del oro, Kinzo‐sama ya lo ha decretado en el epitafio bajo mi retrato..."`
+`"Así que sería algo como esto.`
+` Si el motivo de estos asesinatos fue el cobro de intereses,`
+` la condición para detenerlos es encontrar el oro escondido que le dio al abuelo, es lo que está diciendo.`
+` Y también dice que el secreto de esto se esconde en el epitafio de ese retrato."`
+`"Entonces, ¿esta es una carta de desafío de la bruja?`
+` Descifra el texto cifrado que describe la ubicación del oro escondido, ¡si puedes!`
+` ¿Y esta diciendo que si no lo hacemos, el cobro de los intereses seguirá como estaba previsto?"`
+`"¡¡¡Te golpearé hasta matarte, no hay problema!!!"`
+`"¡Ba‐Battler‐kun!`
+` ¡¡¡Mira... aquí!!!"`
+`La mesa había estado llena de dulces,`
+` así que, aunque habían estado a la vista de todos, dimos por sentado que solo eran caramelos.`
+`Quiero decir, vamos, encuentras cosas como estas a menudo, ¿verdad?`
+`¡Ya sabes, cajas de chocolate, con forma de lingotes de oro...!`
+`"Est‐estas no son... cajas de caramelos...`
+` ¡Son de verdad...!`
+` ¡¡Estos son verdaderos malditos lingotes de oro...!!"`
+`"Lleva inscrito el emblema del Águila de un ala...`
+` He oído a madre hablar de esto antes.`
+` ¡¡Este es un lingote de oro de la leyenda del oro del Abuelo...!!"`
+`Tres lingotes de oro, pesando diez kilogramos cada uno, estaban apilados en el centro de la mesa!`
+` Estaban en donde se colocaría el pastel en una fiesta de cumpleaños.`
+`En otras palabras, ¡esta era sin duda el pastel de cumpleaños de la fiesta conocida como conferencia familiar!`
+`"Si estos realmente son lingotes de cuatro nueves de pureza...`
+` nn, *gulp*.`
+` ¡Tendrían un valor de unos 60 millones de yenes!"`
+`"¡¡Esa estúpida perra!!`
+` ¡¡¡Esto no es suficiente!!!`
+` Seis de nuestros padres han sido asesinados, ¡¿y el oro que nos das por ello son unos míseros 60 millones de yenes?!`
+` ¡¡¡No nos tomes por estúpidos, maldita seeeea!!!"`
+`"Kijijijijijijijijijijijijijijiji.`
+` Así que, ya ha comenzado, {f:5:Beatrice}.`
+` De todas formas, no es como si alguien pudiera resolver este acertijo.`
+` Así que, Beato, definitivamente ganarás."`
+`"Date prisa y abre la puerta a la Tierra Dorada.`
+` Y llévame lejos.`
+` ¡Kijiji{0}ji{0}ji{0}ji{0}ji{0}ji{0}ji{0}ji{0}ji{0}jijiji!"`
