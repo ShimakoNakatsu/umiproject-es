@@ -50,7 +50,7 @@
 `Yo le dije eso con sinceridad.`
 `{n}Y ella respondió:`
 `"Es cierto que este no es el verdadero mar.`
-`Pero si esos pequeños peces que nadan ahí creen que es un mar, entonces ciertamente es un mar."`
+` Pero si esos pequeños peces que nadan ahí creen que es un mar, entonces ciertamente es un mar."`
 `"Y aun así, ellos se encuentran dentro de un tanque finito."`
 `"El mar también es finito.`
 ` No, incluso si fuera infinito,`
@@ -60,8 +60,8 @@
 ` Es irónico, ¿no?`
 ` Aunque el mundo es tan vasto, la mayoría de nosotros vive su vida sin salir de su propio país."`
 `"Todo lo que se necesita es la creencia de que es un mundo completo...`
-` para que incluso el fondo de un pozo estrecho sea un mundo propio y un mar.`
-` En los ojos de las ranas que viven allí."`
+` para que incluso el fondo de un pozo estrecho sea un mundo propio y un mar,`
+` en los ojos de las ranas que viven allí."`
 `Shannon, que ha pasado sus días como sirvienta en una pequeña isla de diez kilómetros de circunferencia llamada Rokkenjima,`
 ` dijo eso con una sonrisa.`
 `Cuando terminamos de visitar el acuario, almorzamos a última hora de la tarde en un restaurante con buenas vistas.`
@@ -74,8 +74,8 @@
 `Si estuviera solo, habría hecho una pila de cosas grasientas como yakisoba, puré de patatas, gratinados y cosas así.`
 `"Shannon, ¿es eso suficiente para ti?`
 ` De ser así, supongo que los hombres somos animales con una eficiencia de combustible realmente mala."`
-`"... Umm,`
-` yo, no pretendía insinuar eso..."`
+`"Umm...`
+` Yo, yo no pretendía insinuar eso..."`
 `En el lado de la mesa de Shannon, solo había té y ensalada.`
 `{n}Tal vez la mera idea de que ella debería por lo menos tener un plato más indicaba que estaba pensando con mi estómago masculino.`
 `"¿Qué hay de usted, George-sama, acaso eso será suficiente?`
@@ -88,7 +88,7 @@
 `Shannon mostraba inquietud al pensar que no me sentía bien.`
 `{n}Aparentemente la había hecho preocupar con mi estúpido intento de impresionarla.`
 `Y en cualquier caso, no parecía que mi estómago fuera a dejarme mantener esta pretensión por más tiempo.`
-`"... Gah, ajaja...`
+`"Gah, ajaja...`
 ` En ese caso, lo confesaré.`
 ` Solo estaba tratando de parecer genial...`
 ` Y me contuve porque estaba con una chica..."`
@@ -96,9 +96,9 @@
 ` Teniendo en cuenta lo mucho que usted come durante los almuerzos en las conferencias familiares, pensé que esto no sería suficiente.`
 ` Por favor, no se contenga, siéntese libre de ir y elegir otro plato."`
 `"No es justo que toda la vergüenza sea para mí.`
-` ¿Qué hay de ti Shannon?`
+` ¿Qué hay de ti, Shannon?`
 ` ¿Siempre te encargas de tu trabajo para la familia Ushiromiya comiendo tan poco?"`
-`"... Umm, uh...`
+`"Umm, uh...`
 ` au...."`
 `Shannon se quedó callada y se sonrojó mucho.`
 `Al parecer, ella también estaba intentando impresionarme.`
@@ -131,7 +131,7 @@
 ` Imagino que estás acostumbrada a ver el mar en Rokkenjima, pero el mar aquí seguramente sería de un azul excepcional...`
 ` Es una verdadera lástima."`
 `"Aah, pero por muy azul que sea, el mar que veo durante el trabajo bien podría ser gris.`
-` En cambio, hoy, no estoy trabajando, así que... quiero decir..."`
+` En cambio, hoy no estoy trabajando, así que... quiero decir..."`
 `Al parecer, Shannon estaba haciendo todo lo posible para decir una frase embarazosa.`
 ` Pero tengo que mantenerme firme.`
 `"Tan cerca.`
@@ -142,8 +142,8 @@
 ` yo, yo, lo siento...`
 ` nnnnnn..."`
 `"¿Quieres oír cuál habría sido la recompensa?"`
-`"Umm,`
-` ...`
+`"Umm`
+`...`
 ` uh,`
 ` si no le molesta..."`
 `"No.`
@@ -184,8 +184,8 @@
 `"En otras palabras, me estás diciendo que no coma pastel, ¿verdad?`
 ` Entonces, supongo que tendré que conformarme con mirarte mientras disfrutas de ese pastel, Shannon."`
 `"Uh,`
-` er,`
-` ...`
+` er`
+`...`
 ` Creo que un pastel entero es demasiado,`
 ` pero quizá si solo es la mitad estaría bien.`
 ` Tome, está muy delicioso."`
@@ -215,7 +215,7 @@
 ` que me da miedo"`
 `"Dices eso de vez en cuando.`
 ` ¿Qué es lo que te da miedo?"`
-`"... Yo...`
+`"Yo...`
 ` soy una sirvienta de la familia Ushiromiya.`
 ` Para alguien como yo... estar aquí junto a un miembro de la familia Ushiromiya...`
 ` Um,`
@@ -240,7 +240,7 @@
 `"Entonces, nuestra relación ocurrió gracias a que lo deseaste desde el fondo de tu corazón.`
 ` La magia reside en el poder de soñar.`
 ` Así que, estoy seguro de que fue esa magia la que nos unió."`
-`"... Tienes razón.`
+`"Tienes razón.`
 ` Yo en serio pienso que fue magia verdadera."`
 `"Pero, ya sabes, eso no es del todo correcto.`
 ` Cada vez que nos encontrábamos, te veía más y más hermosa, y fuiste ocupando un gran lugar en mi corazón.`
@@ -262,7 +262,7 @@
 `"Sí, puede ser.`
 ` Tal vez puede que sea algo como eso...`
 ` Excepto que no era solo un rezo, sino que era magia de verdad."`
-`"... Hmm..."`
+`"Hmm..."`
 `Quizás Shannon no es la única persona que quiera atribuir un encuentro a un milagro, o a la casualidad; puede que sea algo universal que todas las chicas comparten.`
 `Para un hombre como yo, un encuentro con una chica es un 70% de esfuerzo para tratar de complacerla, un 20% de valentía,`
 ` y solo un 10% de suerte.`
@@ -277,8 +277,8 @@
 ` Si el mismo destino se repitiera cien veces, tú y yo solo podríamos haber tenido este tipo de relación una única vez."`
 `"Nuestra relación distante y formal podría haber continuado hasta ahora, aunque ambos siguiéramos siendo conscientes el uno del otro.`
 ` Desde la perspectiva de esos otros mundos, estamos sin lugar a dudas en una relación milagrosa."`
-`"Eso no es así...`
-` es magia de verdad."`
+`"No me refiero a eso...`
+` Es magia de verdad."`
 `"Quizás esto es algo que los hombres nunca creerán, no importa cuántas veces se los digas.`
 ` Kanon‐kun tampoco me creyó en absoluto."`
 `"Yo te creo.`
@@ -287,12 +287,12 @@
 `En voz baja, me disculpé por haber hecho de su magia algo superficial.`
 `Esas palabras parecían hacer a Shannon mucho más feliz.`
 `Al fin y al cabo, si una pareja cree en la magia del amor, este se vuelve eterno.`
-`"Oh, es verdad.`
-` Tengo una petición, si estás dispuesta a aceptarla me complacería mucho."`
+`"Oh, cierto.`
+` Tengo una petición algo caprichosa, si estás dispuesta escucharme."`
 `"¿Sí?`
 ` ¿Qué quiere que haga?"`
-`"Es acerca de la forma en la que me llamas "George‐sama"`
-` No es que me disguste, pero, ¿podrías dejar de llamarme así?"`
+`"Es acerca de la forma en la que me llamas "George‐sama."`
+` No es que me disguste, ¿pero podrías dejar de llamarme así?"`
 `"Por supuesto, sé que tienes que mantener las apariencias frente a la familia Ushiromiya, así que no te obligaré a hacerlo durante tu rutina diaria en Rokkenjima.`
 ` Pero, cuando estamos solos, prefiero que no me llames de esa manera.`
 ` Sí, creemos esa regla."`
@@ -332,7 +332,7 @@
 `Mientras contemplábamos el mar gris y una ligera lluvia comenzaba a caer,`
 ` nos mantuvimos abrazados, escuchando los latidos del otro...`
 `El sonido de las olas se impregnó en mis oídos.`
-` No... este era el sonido de olas furiosas.`
+`{n}No... este era el sonido de olas furiosas.`
 ` Mi cuerpo, bañado por las salpicaduras terriblemente frías, no me dejaba olvidar.`
 `El recuerdo del día en que mi viejo destino se rompió y se hizo añicos.`
 `En el pasado, el "mañana" había sido literalmente como un espejo para mí.`
@@ -347,7 +347,7 @@
 `Esos días fueron más dulces que la miel,`
 ` pero en aquel entonces, no me percaté de que solo eran el comienzo de días llenos con un nuevo tipo de sufrimiento...`
 `Tomando una lancha de la que me habían hablado, llegué a este islote.`
-`No, posiblemente llamarlo islote sea incorrecto.`
+`No, quizás llamarlo islote sea incorrecto.`
 `{n}En realidad sería más apropiado llamarlo arrecife.`
 `Tenía un torii y un pequeño santuario para la deidad local.`
 `Probablemente se construyó para adorar a la deidad guardiana de Rokkenjima.`
