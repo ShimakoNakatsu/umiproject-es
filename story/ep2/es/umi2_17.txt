@@ -168,7 +168,7 @@
 `"La puerta a la Tierra Dorada se abrirá pronto.`
 ` Pronto, tendremos un banquete para celebrar mi resurrección, en el que daré la bienvenida a las brujas.`
 ` Mientras tanto, responderé a tus preguntas, a todas las que quieras."`
-`"Yo, ¡¡tengo un montón de cosas sobre las que quiero preguntar!!`
+`"¡¡Tengo un montón de cosas sobre las que quiero preguntar!!`
 ` ¡¿Qué ocurrió en esta isla?!`
 ` ¡¿Y por qué ocurrieron estos incidentes?!"`
 `"¡¡También quiero preguntar sobre las habitaciones cerradas!!`
