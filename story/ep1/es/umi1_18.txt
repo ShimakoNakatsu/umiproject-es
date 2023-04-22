@@ -1,659 +1,659 @@
-`"Hey, everyone, good job finishing "Umineko no Naku Koro ni"!`
-` Man, I still didn't have a clue what was going on when the story ended!"`
-`"So just what happened?`
-` Was that basically the "bad ending", where time runs out before the culprit can be exposed?"`
+`Oigan todos, ¡Buen trabajo finalizando "Umineko no Naku Koro ni"!`
+` Vaya, ¡todavía no tengo ni la más remota idea que occuría cuando la historia terminó!"`
+`"¿Qué sucedió, entonces?`
+` ¿Fue eso básicamente el "final malo", donde el tiempo se acaba antes de que el culpable fuese expuesto?"`
 `"Uu.`
-` Definitely a bad ending.`
+` Definitivamente un final malo.`
 ` Uu."`
-`"I think so too.`
-` {f:5:Beatrice}'s letter, which Maria‐chan read on the first day, did tell us in advance to solve the riddle of the epitaph.`
-` We were all so busy trying to protect ourselves and look for the culprit that we didn't even take a shot at it."`
-`".........Yes, that's true.`
-` If we had actually tried to solve the riddle, I'm sure things would have ended differently."`
-`"I wonder about that.`
-` Shannon‐chan, you did a good job too!"`
-`"You don't have to be our waitress and serve tea.`
-` After all, this is a wrap party.`
-` As a group of people who met a horrible fate, let's all get along and lick each other's wou~~nds!`
-` Licklickli~ck!!"`
-`"Speaking of a horrible fate, Shannon beats the rest of us hands down, doesn't she?`
-` She was such a beautiful character, so I thought she'd definitely survive until the very end,`
-` but she was killed right in the beginning, and on top of that...what was it?`
-` Half of her face was smashed, right?`
-` That's the worst!"`
-`"............That was my role, so, umm......there was no way around it..."`
-`"...Nee‐san, it's nothing for you to worry about.`
-` Judging by the final epilogue, even Milady and the others met with a considerably tragic end."`
-`"Ahahaha... It seems that way.`
-` I think I remember seeing this horrible picture, kind of like my entire body had been eaten apart and dismembered."`
-`"Speaking of which, don't you think Kanon‐kun's last moments were the coolest?`
-` Even though he had the tables turned on him, it was a showdown with the culprit, right?`
-` It's a whole bunch better than our confusing last moments!"`
-`".........Though, in the end, I was no match for her."`
-`"Still, ...I think that Kanon‐kun's death was a big hint.`
-` I mean, because of that, it became clear that a 19th person existed."`
-`"Yes.`
-` At that time, everyone's location was obvious.`
-` So it was impossible for anyone other than some unknown 19th person to kill Kanon‐kun."`
-`"Uu!`
-` I did say it was {f:5:Beatrice} from the beginning, over and oooover.`
-` Uu!"`
-`"......I don't wanna believe it, but that does prove the culprit was a witch calling herself {f:5:Beatrice}."`
-`"That's right...`
-` There were many strange things that happened which a human couldn't do..."`
-`"Uu. Only a witch could do things like Auntie Eva's locked‐room murder.`
-` A human couldn't do that!`
-` Uu!"`
-`"............Not only is it clear that a 19th person exists, but it is also obvious that this person holds a power that humans can't even imagine."`
-`"In that case, I don't think there's anything wrong with calling this person {f:5:Beatrice}."`
-`"...We probably met at the very end.`
-` ...Met with the Golden Witch."`
-`"That's why I kept telling you {f:5:Beatrice} exists.`
-` It all went bad because no one ever believed.`
-` Uu!`
-` Even one of my witch friends says miracles won't happen if you don't believe!`
-` Uu!"`
-`"That's right.`
-` {f:5:Beatrice}‐sama is generous to those who respect her."`
-`"......I feel as if, despite the fact that horrible incidents kept occurring one after the other, Maria‐sama wasn't in danger from {f:5:Beatrice}‐sama until the end."`
-`"Maria did believe in {f:5:Beatrice} from the very beginning.`
-` ...But then, so did Kanon‐kun and the others, so how do you explain why they were all killed?"`
-`"......{f:5:Beatrice}‐sama probably had her reasons."`
-`"If the epitaph poem represented {f:5:Beatrice}‐sama's resurrection ritual, then she needed many sacrifices.`
-` ......He must simply have been designated to be one of those."`
-`"...Shannon‐chan, you met a horrible end...`
-` At the very least, I wish your death could have been more peaceful and pretty."`
-`".........Umm, well, ...it's not like it hurt...`
-` Besides,`
-` as you can see, right now, I'm perfectly fine, so don't worry."`
-`Shannon proved this by stroking her cheek which had been crushed during the story, and everyone laughed out loud, smiling.`
-`"Well, it feels a bit weird saying this, ...but I was sure this story would be in the standard mystery genre.`
-` I'm a little surprised to find out that it's fantasy.`
-` After all, a story revolving around an inheritance, set on a Western‐style mansion shut away on an isolated island, ...I thought that was the classic formula for mysteries."`
-`"......Uu.`
-` It's not fantasyyyy!`
-` {f:5:Beatrice} "exiiists"!`
-` Uu."`
-`".........Yes, we know.`
-` {f:5:Beatrice}‐sama does "exist"."`
-`"That's right.`
-` ......{f:5:Beatrice}‐sama does "exist"."`
-`"...I hate to admit it, but I've got no choice.`
-` Because it's obvious that a 19th person, a witch, was involved...!"`
-`"She pulled off many things that would be impossible for humans.`
-` During the story, we thought of all kinds of things, trying to deny that."`
-`"...But now I can say it clearly.`
-` Each one of them, all of them, were crimes impossible for a human.`
-` ......Those crimes would be impossible to carry out unless it was the witch {f:5:Beatrice} using all of the power magic could provide."`
-`"The culprit was a witch.`
-` That point is perfectly clear.`
-` Long live {f:5:Beatrice}‐sama.`
-` Hahahahahaha."`
+`"Yo pienso lo mismo.`
+` La carta de {f:5:Beatrice}, que Maria‐chan leyó en el primer día, nos avisó de antemano de resolver el acertijo del epitafio.`
+` Estuvimos tan ocupados intentando protegernos y de buscar al culpable que no dimos ni un intento de resolverlo."`
+`"Si, es verdad.`
+` Si hubiésemos realmente intentado de resolver el acertijo, estoy segura de que las cosas habrían terminado de manera diferente."`
+`"No estoy muy seguro de eso.`
+` ¡Shannon‐chan, tu también hiciste un buen trabajo!"`
+`"No tienes que ser nuestra mesera y servir el té.`
+` Después de todo, esta es nuestra fiesta de despedida.`
+` ¡Como un grupo de gente que ha encontrado un destino horrible, vamos a llevarnos bien y lamernos las heridas!`
+` ¡¡Lamerlamerlame~r!!"`
+`"Hablando de un destino horrible, Shannon nos gana en cuanto a eso, ¿no creen?`
+` Ella era un personaje tan hermoso, que pensé que sobreviviría hasta el final,`
+` pero ella murió justo al principio, y además... ¿Cómo era?`
+` La mitad de su cara estaba destrozada, ¿no?`
+` ¡Eso es de lo peor!"`
+`"Ese fue mi papel, así que, umm... no había otra manera..."`
+`"Nee‐san, no es nada de lo que te debas preocupar.`
+` A juzgar por el epílogo final, incluso la señorita y los demás encontraron un final considerablemente trágico."`
+`"Jajaja... Así parece ser.`
+` Creo recordar ver esta horrible imagen, algo así como si mi cuerpo entero hubiese sido consumido y descuartizado."`
+`"Hablando de eso, ¿No creen que los últimos momentos de Kanon‐kun fueron geniales?`
+` Incluso con todo en contra de él, fue un enfrentamiento contra el culpable, ¿no?`
+` ¡Mucho mejor que nuestros confusos últimos momentos!"`
+`"Aunque, al final, no fui rival ante ella."`
+`"Aún así... creo que la muerte de Kanon‐kun fue una pista importante.`
+` Quiero decir, debido a ello, estuvo más que claro de que una 19.ª persona existía."`
+`"Sí.`
+` En aquel momento, la ubicación de todo el mundo era obvia.`
+` Así que era imposible que alguien más que una 19.ª persona desconocida matase a Kanon‐kun."`
+`"¡Uu!`
+` Les dije que era {f:5:Beatrice} desde el principio, una y ooootra vez.`
+` ¡Uu!"`
+`"No lo quiero creer, pero sí que demuestra que el culpable era una bruja llevando el nombre de {f:5:Beatrice}."`
+`"Así es...`
+` Habían sucedido demasiadas cosas extrañas que un humano no podría hacer..."`
+`"Uu. Solo una bruja podría hacer cosas como el asesinato a puerta cerrada de la tía Eva.`
+` ¡Un humano no podría hacer eso!`
+` ¡Uu!"`
+`"... No solo está claro que una 19.ª persona existe, pero también es obvio que esta persona tiene un poder que los humanos no pueden ni imaginar."`
+`"En ese caso, no creo que haya nada malo en llamar a esta persona {f:5:Beatrice}."`
+`"Probablemente nos la encontramos al final...`
+` A la Bruja Dorada."`
+`"Por eso estuve diciendo que {f:5:Beatrice} existe.`
+` Todo fue mal porque nadie creyó.`
+` ¡Uu!`
+` ¡Incluso una de mis amigas brujas dice que los milagros no sucederán si no crees!`
+` ¡Uu!"`
+`"Es verdad.`
+` {f:5:Beatrice}‐sama es generosa ante quienes la respetan."`
+`"Siento que, a pesar del hecho de que horribles incidentes ocurrían uno detrás de otro, Maria‐sama no estaba en peligro de {f:5:Beatrice}‐sama hasta el final."`
+`"Maria creyó en {f:5:Beatrice} desde el principio.`
+` Pero aún así, también lo hacían Kanon‐kun y los demás, así que, ¿cómo explican por qué todos ellos fueron asesinados?"`
+`"{f:5:Beatrice}‐sama debió tener sus razones."`
+`"Si el poema del epitafio representaba el ritual de resurreción de {f:5:Beatrice}‐sama, entonces ella necesitaba muchos sacrificios.`
+` Él debió simplemente haber sido designado como uno de ellos."`
+`"Shannon‐chan, tuviste un final horrible...`
+` Al menos, desearía que tu muerte hubiese sido más pacífica y bonita."`
+`"Umm, bueno... no es que haya dolido.`
+` Además,`
+` como usted puede ver, ahora mismo, estoy perfectamente bien, así que no se preocupe."`
+`Shannon lo demostró toqueteando la mejilla que había sido aplastada durante la historia, y todo el mundo rió, sonriendo.`
+`"Bueno, se siente un poco extraño decir esto... pero estaba seguro de que esta historia estaría en el género de misterio estándar.`
+` Estoy algo sorprendido de que fuera fantasía.`
+` Después de todo, una historia alrededor de una herencia, situada en una mansión de estilo occidental en una isla aislada... Pensé que esa era la fórmula clásica para misterios."`
 `"Uu.`
-` Everyone believed.`
-` I'm happy.`
-` Uu!"`
-`"......Gods and witches might seem terrifying to people who are frightened of them,`
-` but I think they must have affection for those who believe in and respect them."`
-`"............I think it's just as you say."`
-`"So, now we're all done with playing with murder cases.`
-` Now's the time to pull ourselves together and try hard to solve the riddle of the epitaph, just like {f:5:Beatrice} said, right?"`
-`"Uu!`
-` Agreed!`
-` {f:5:Beatrice} will definitely be happy."`
-`"Hahahahaha...`
-` We all ignored that letter during the story, after all."`
-`"......Even though it was thrust right in front of us, we almost completely ignored it.`
-` I kind of feel sorry for {f:5:Beatrice}‐sama."`
-`"I have a memo with the epitaph on it!`
-` Let's all solve the puzzle, let's all solve the puzzle...!"`
-`"This story probably went wrong ever since that time."`
-`".........That may be so.`
-` Maybe we should have tried solving the epitaph's riddle from the beginning, like {f:5:Beatrice}‐sama said."`
-`"Well, it's a little late now.`
-` Even so, let's try solving it now and see if the witch forgives us.`
-` Let's go, let's try to solve the riddle of the epitaph.`
-` ......Here we are, "Behold the sweetfish river, running through my beloved home of old"..."`
-`As Maria put her notebook on the table, and opened to the page where the epitaph was written,`
-` everyone peered closely at it, and had fun and lively discussion as they started guessing this and that about the riddle.`
-`Surrounded by the smell of the black tea and the freshly baked vanilla cookies, they spent the time comfortably and happily......`
-`"..................Wait a second, you guys."`
-`Battler said, in a tone that ruined the mood.`
-`His expression looked a little unhappy.`
-`{n}What could he not like about all of this fun?`
-`"...I've been listening to you guys, and—why did you all stop thinking?`
-` Why are you so sure that the witch was behind all of this?`
-` ...Don't you realize that stuff like that doesn't exist?"`
-`With just those words, ...the happy atmosphere of the tea party disappeared in no time at all.`
-`George and Jessica.`
-` And Shannon and Kanon.`
-` And Maria.`
-`......All of them stared blankly, wondering why Battler was saying such weird things.`
-`Even the foolish and arrogant Battler noticed he had said the wrong thing.`
-`"...W‐.........well, come on.`
-` Isn't it clear that these crimes were impossible for a human?"`
-`"Y‐yeah, yeah!`
-` ...None of the cases would have been possible for a human."`
-`"That's right...`
-` After all, wasn't it full of things that you couldn't explain using humans...?"`
-`"...I don't understand what you're saying, Battler‐sama."`
-`"I, I'm the one who doesn't have a clue what {i:you guys} are talking about!`
-` Isn't it obvious that humans committed these crimes?`
-` There's obviously no such thing as witches, right...?"`
-`"Th‐...then...`
-` ...What about when I was killed in the storehouse, and something horrible was done to half of my face?`
-` ......If the culprit was human, how could they have accomplished it...?"`
-`"...Well...`
-` ......I mean...`
-` It's hard to imagine how they could've done something that awful."`
-`"But that was the rose garden storehouse, right?`
-` I'm sure there were plenty of weird tools in there.`
-` Don't ask me, but...they could've used some electrical tool like a grinder or an electric saw, couldn't they?"`
-`"...............Th‐`
-`.........that's......`
-`...umm..."`
-`"Okay, Battler...`
-` Then how do you explain Grandfather's disappearance from the locked room of his study...?`
-` Grandfather disappeared all of a sudden even though the door was sealed, remember...?"`
-`"We talked about that during the story, too.`
-` It's not impossible that Grandfather used some trick to fool the receipt.`
-` It's also possible that he went out the window, or fell out the window, and Aunt Natsuhi locked it from the inside.`
-` I could think of a bunch of tricks you could use without relying on magic...you see?"`
-`"............Th‐`
-`......that makes sense, but........."`
-`"In that case, Battler‐kun,`
-` how do you explain the way my parents were killed in the guest room?`
-` The door was sealed by the lock and the chain.`
-` Naturally, the windows were sealed too.`
-` How would you suggest a human could have killed my parents?"`
-`"...Well,`
-` ......you're right, we did have to leave that trick alone during the story.`
-` Anyways, there's a good chance that the culprit had the key at least.`
-` And it was possible to look in through the crack of the door that the chain allowed."`
-`"......This is extremely far‐fetched, but it is possible that some device was used through that crack.`
-` ...Or maybe they brought something out through the crack...?"`
-`"......Hmmmm, well, even though chains are incredibly simple, they're a big factor in constructing a locked room...`
-` .........But authors have done almost every possible locked‐room trick there is to do by now.`
-` If you bought just a few locked‐room mysteries from some bookstore or other, you could probably find some trick that would fit perfectly."`
-`"......Anyways, I can't think of one now...but I can state for certain that a human could manage it somehow if they tried hard enough."`
-`"Isn't that argument horribly irrational...?`
-` It's just ridiculous to claim that it's possible for a human to do something, even though you can't explain how..."`
-`"......Why is that ridiculous?`
-` Why did all of you stop thinking?`
-` Even if it looks impossible, it has to be doable.`
-` Doesn't it always work like that?"`
-`"Battler, you're the one being ridiculous.`
-` ......If you think a human could've done it, try explaining how.`
-` You can't, can you?"`
-`"And just because I can't explain it, that immediately makes the culprit a witch?`
-` With that argument, all of the unsolved crimes in the world could be resolved by saying a witch is the culprit!"`
-`"......Battler, you're sidestepping the issue, and you aren't explaining anything.`
-` ...We are saying "A human can't do it.`
-` Therefore the culprit is something that isn't human.`
-` And that something is a witch."`
-` And yet you keep arbitrarily deciding that witches are impossible even though you can't explain anything."`
-`"......Kihihihihihihihihihihihi, it's almost like humanity was during the dark ages.`
-` Like those fools who claimed that the Earth couldn't possibly be spinning,`
-` that the heavens had to be spinning around the Earth, even though they couldn't say how."`
-`"...............Th‐...that kind of argument kinda pisses me off.`
-` So this is basically what you're trying to say.`
-` ...If I can't explain how a human could do it,`
-` ...then I must accept that the culprit is the witch, {f:5:Beatrice}?"`
-`"............It's not like we're forcing you.`
-` We were just wondering on what basis you can say such nonsense."`
-`"N‐...nonsense...`
-`......`
-` ......H‐...hey, is what I've been saying really that weird?!"`
-`"Am I the one who's crazy?!`
-` You guys are really starting to freak me out!"`
-`"......Battler‐sama.`
-` When I died in the boiler room, I was killed by a 19th person who shouldn't exist."`
-`"...Can you explain how a human could have done that?`
-` At that time, the locations of the 18 were well known.`
-` Even so, I was killed."`
-`"We talked about that in the story as well...!`
-` Kumasawa baa‐chan, for example.`
-` She said that she followed right after you'd headed down into the boiler room, but for all we know, that might've been a lie."`
-`"She might've entered the boiler room with you and caught you by surprise!`
-` Or maybe, when you stepped into the boiler room, you activated some kind of trap, one that might have been set up to hit you with one of those icepicks."`
-`"After all, the stink of Grandfather's body was coming from the incinerator.`
-` Someone was bound to come, so all the culprit had to do was set up a trap, and it would be more than possible for them to stay away from that place and create an alibi for the time of your death...!"`
-`"......You talk about a trap in the boiler room...but what kind of trap?"`
-`"That's right.`
-` After that happened, we all immediately ran over to the boiler room.`
-` But we didn't find any kind of weird device like that!"`
-`"......That is correct.`
-` Battler‐sama, what kind of trap do you claim I was killed with...?"`
-`"Well,`
-` .........I don't know that.`
-` ...But anyway, they must have pulled off some kind of trap, or maybe someone is lying, or...`
-`or what about this?!"`
-`"Kanon‐kun, what if the whole thing was just you playacting?!`
-` Th‐that's it, you were playacting!!`
-` Auntie Eva and Uncle Hideyoshi were also playacting.`
-` They made the locked room themselves, and were only pretending to be dead!"`
-`".........Battler...`
-` .........Has your...`
-`head been...`
-`feeling alright......?"`
-`"......Umm, .........should I bring some cold drinks...?"`
-`"D‐don't look at me with those pitying eyes, I'm not saying something that crazy...`
-` I'm just pointing out possibilities that could have been used as tricks, alright?"`
-`"Look, isn't one of the clichés in mystery stories that the victims aren't really dead?!"`
-`"Clichés...?"`
-`"O‐okay, so.`
-` When Kanon‐kun was killed, we really did know for sure where the rest of us were.`
-` And let's assume that Kumasawa baa‐chan wasn't lying."`
-`"But that only holds true for the survivors.`
-` ......If the culprit pretended to be dead, placed themselves together with the real victims to hide themselves, and then acted on their own later, then everything would be explained!"`
-`"............I guess...`
-` Are you trying to say that Auntie Eva or one of the rest of them was the culprit...?`
-` But Doctor Nanjo confirmed everyone's death as a doctor, remember?"`
-`"......That's right.`
-` Doctor Nanjo checked all of the victims.`
-` ...Battler‐sama, for your theory to work, wouldn't Doctor Nanjo have to be one of the culprits too?"`
-`"Uh, yeah, that's right!!`
-` Once you consider that Doctor Nanjo might have been one of the culprits and faked the proclamation of death, the whole story changes...!`
-` See, that's also a cliché in mystery novels, isn't it?!!"`
-`"......But Doctor Nanjo was also killed..."`
-`"Umm, .........about that...`
-` ...That's right, Doctor Nanjo faked his death!"`
-`"I mean, there wasn't anyone except Doctor Nanjo who could examine corpses properly, and everyone was really confused then anyway.`
-` We didn't have any spare time to check and see if he still had a pulse!`
-` With this theory, any one of the dead people could have been walking around!"`
-`".........I think that it would have been hard for the six of us who died in the beginning to do that...`
-` ......After all, the shutter was closed, ...and there was a padlock that couldn't have been opened from the inside..."`
-`"Yeah.`
-` Mom was holding onto that key.`
-` So was Mom one of the culprits too?"`
-`"...Aaaaaaah, wait a sec, ...`
-`maybe it was impossible for the first six, but in the case of Aniki's parents, the door was only locked on the outside.`
-` So they could have opened it from the inside...`
-` ...That's right, after we left the room, maybe they jumped out the window and got to the boiler room first!"`
-`"Is, ......is that too much...?!`
-` Or maybe Doctor Nanjo made a mistake when examining the corpses?!"`
-`"Look, he said it himself, right?`
-` He said that there's a very high probability of making a mistake when examining corpses!`
-` They disguised it well, or prepared a substitute corpse or something, and faked their own death!!`
-` Let's leave the method or trick they used for later...and...you see, it's not that hard to deny a 19th person existed!"`
-`"Much less a {i:witch}!`
-` At least that much is completely impossible!!"`
-`"............I don't know why you've been trying so stubbornly to say that one of us is the culprit.`
-` Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi, in other words, you want to suspect one of your relatives...?"`
-`"That's not it...`
-` It's just, uh, I can't easily accept that a 19th person existed...and even if one did, I think we should construct our argument from the point of view that the culprit was a human—`
-`witches are something you only start talking about in desperation, at the very end, after everything else has been disproved, that's what I'm trying to say."`
-`"I mean, come on, there's no way witches exist, right?!`
-` Why have you all just been casually accepting that the culprit was a witch?"`
-`"I think it's great how your family love makes you hate the thought that someone close to you is a murderer.`
-` But is it alright to just brush things over like that?!`
-` Don't you want to find the detestable culprit who killed so many people?!"`
-`"Aniki, you want to avenge your parents, don't you?!`
-` Jessica, you want to avenge Kanon‐kun, and Kanon‐kun, you want to avenge Shannon‐chan, right?!`
-` Shannon‐chan, you should at least want to know who it was that killed you."`
-`"Why have you all totally surrendered and decided that the culprit was a witch?!`
-` What's wrong with all of you?!"`
-`The foolish and short‐tempered Battler tried to force his ignorance on the others by yelling at them.`
-`...However, everyone just looked at him pityingly, silently watching over him.`
-`Then, the wise Maria laughed, and pointed out Battler's mistake for him.`
-`"...............Kihihihihihihihihi.`
-` ...We're just astounded.`
-` ......All you've been doing is repeating this nonsense, thinking you've figured something out, Battler."`
-`"......So what?`
-` And?`
-` How would a human do it?`
-` Concretely?`
-` Whenever we ask you those questions, all you say is "I just can't think of anything now" or "with some kind of device" or something, using abstract words to run away and evade the topic."`
-`"......In fact, I want to ask {i:you}, Battler.`
-` Why don't {i:you} believe in {f:5:Beatrice}?`
-` She "exists", so why don't you believe?"`
-`"Because she doesn't "exist"!`
-` Witches don't "exist"!!`
-` There's no way!!"`
-`......He was almost like a stubborn child refusing for no reason.`
-`The pitying gazes quietly blanketed Battler, but they didn't reach his stubborn heart.`
-`"............You're acting just totally like a kid who can't have his way..."`
-`"......Battler‐sama.`
-` I understand your feelings, but..."`
-`".........{f:5:Beatrice}‐sama does "exist"."`
-`"Battler‐kun... Why don't you believe?`
-` Look at how much circumstantial evidence there is."`
-`"I don't accept the argument that if I can't explain it it's all the witch.`
-` If you don't know how a light bulb shines, if you don't know the principle, does that mean it's all magic?"`
-`"It doesn't, does it!`
-` There's nothing that can't be explained without magic!!`
-` All of this about witches and magic is just abdication of thought!`
-` You just surrendered and gave up because you don't understand what happened!`
-` I'm right, aren't I!"`
-`".....................Ki‐hihihihihihihihihihihi.`
-` ...Well, I'm not surprised,`
-` ......but it looks like you're the only one who's not going to believe no matter what."`
-`"......If even a single person doesn't believe, the "miracle" won't occur.`
-` ......So, if you don't rethink your ignorant theories, the miracle, ......the magic won't be completed."`
-`"Heheh...`
-` Nowww I see.`
-` ......I finally figured it out.`
-` ...So in other words, you guys want to get me to say that the witch exists, don't you?`
-` If everyone accepts this lie, it will become "the truth".`
-` ......That's what this is all about, isn't it?!"`
-`"......Well, too bad.`
-` This is the one place I'm going to have to say too bad, that's no goddamn good at all. I refuse.`
-` ......{i:You guys are all pressing me, and that is exactly why it's no goddamn good.}"`
-`".....................Why?"`
-`"Sorry, but why don't you let me flip over the chessboard one last time...?`
-` If you want to force me to accept that there's a witch, there's a really easy way."`
-`"......And it's not the roundabout way of saying "humans can't do it so it must be a witch"!`
-` All you have to do is actually show it to me, the way a witch did it with magic."`
-`"Furthermore, what Maria said earlier is what will really dig her grave.`
-` ......You said that if even one person doesn't believe, a "miracle" won't occur."`
-`"But real miracles happen whether people believe in them or not!`
-` Even if I alone don't believe!!`
-` So any miracles or magic or witches that exist only because I believe in them are downright lies!!"`
-`"................................."`
-`The uneasy mood following Battler's ignorant rant...`
-`was thoughtfully blown away by a very refreshing and light laugh.`
-`Whose laugh...?`
-` Battler was surprised by that voice which he had never heard before.`
-`When he looked at George and Jessica, at Shannon and Kanon and Maria, he noticed that they had suddenly gone respectfully silent.`
-`"..................{f:5:Beatrice}."`
-`".........Wonderful.`
-` ...I haven't been able to meet such a charming human for quite some time."`
-`"Wh‐`
-`..................who...`
-`......are you..."`
-`"......So you don't even know the host of the tea party to which you were invited.`
-` ......Simply wonderful.`
-` *cackle*cackle*...!"`
-`"...You are graced by the presence of the Golden Witch who has lived for a thousand years, {f:5:Beatrice}‐sama."`
-`"I am most honored to see you, {f:5:Beatrice}‐sama..."`
-`"......Please forgive Battler‐kun's ranting."`
-`"Th‐this guy's just stubborn, and, umm, he still doesn't understand the situation he's in......!"`
-`"*cackle*cackle*cackle*...`
-` It is fine.`
-` ......After a thousand years, most witches get tired of living.`
-` Once in a while, it is nice to meet a man with backbone such as yourself."`
-`"...............It is quite an honor to be present when {f:5:Beatrice} shows herself, Battler."`
-`"......Heh,`
-` .........heh‐heh‐heh‐heh...!!`
-` Now this...`
-` ......This is some shit.`
-` ...Are you really that desperate to make me believe that a witch,`
-` ...that a 19th person is the culprit...?"`
-`"This is starting to get interesting...!`
-` And it's no goddamn good...!!`
-` You must be an illusion of the witch {f:5:Beatrice} who's asserted by Maria and the others."`
-`".........And only when everyone believes in your existence will you finally be allowed to exist.`
-` ...You're that kind of a fictional being, right?`
-` That's why you want to make me believe too.`
-` {i:You can't exist, because I alone don't believe in you}.`
-` .........Isn't that right?!"`
-`".........Your power of understanding isn't bad for a common mortal who knows nothing of magic.`
-` .........I see, it seems that you were born with a strong magic‐resisting power."`
-`"......The natural enemy of us witches.`
-` ...No matter how much we tip you upside down and shake you,`
-` {i:you will never believe in us}.`
-` {i:Therefore, magic will fall short against you}.`
-` ...That attitude of yours makes a great deal of sense.`
-` *cackle*cackle*...!"`
-`"I've got no clue what you're saying, ihihi!`
-` It's very kind of you to go to all of the trouble of showing yourself to us,`
-` but I don't believe you exist in the slightest."`
-`"It's true that many strange things happened during those two days.`
-` Like Maria said earlier, even though I think that all of the tricks could be explained, I still can't lay out the practical details of each one.`
-` But that doesn't mean I'll surrender."`
-`"I'm different from the rest of them, see?`
-` I'll never argue that it was the work of a witch just because I can't explain it."`
-`".........My interest in you grows deeper.`
-` It will be worth my time to break you..."`
-`"......You're just the kind of man I'd love to force into praising my name......`
-` You're just the kind of man I'd love to force into kissing my toes.`
-` ...*cackle*cackle*cackle*!"`
-`"Talk all the nonsense you want...!`
-` I deny you exist.`
-` All of the events can be explained with "human tricks"...!!`
-` There's no room for even a speck of magic or witches!!"`
-`"Wonderful!`
-` ......This is the perfect form of diversion from a thousand years of boredom."`
-`"Then let me ask you.`
-` A short while ago, you said that using the crack in the door would be sufficient to kill Eva and Hideyoshi, right...?`
-` Explain how you would do that using your human tricks."`
-`"......Heh.`
-` Suddenly jumping right into the toughest part, are you?`
-` ...Does that mean that this is the trick you're proudest of?`
-` Miss {i:Real Culprit}?"`
-`{f:5:Beatrice} shook her golden pipe,`
-` and seven colors of gentle smoke trailed out of the end.`
-`...The smoke quickly obscured the surroundings,`
-` ......and they were suddenly in the hallway of the mansion.`
-`In front of their eyes, a slightly opened door, secured by a chain...`
-`Yes, it was the entrance to the room where Eva and Hideyoshi had been killed.`
-`"......N‐nice trick..."`
-`"Now then.`
-` Show me what you would do through this small crack, "Battler"."`
-`"Erk............`
-` ......Th‐they probably had some device to shoot those "icepicks".`
-` If they used that......"`
-`"How would you aim at Eva over on the bed when you can't see that far through this crack?`
-` ......And how would you reach Hideyoshi, in the bathroom with the door shut...?"`
-`".................................Dammit.........`
-` ...There is a crack...`
-` There should be some way......"`
-`"*cackle*cackle*.`
-` If you can't think of one, allow me."`
-`"......Oh?`
-` Go on, how would a great witch do it, then...`
-` C'mon, let's see your little trick..."`
-`"............Battler, you're being rude to {f:5:Beatrice}..."`
-`"It is fine, quite fine.`
-` What a charming man.`
-` ...It will make it all the more enjoyable to break him."`
-`"......Heh!`
-` You really want to make me kiss your toes that much...?!`
-` Only if I surrender!`
-` But watch... I'll definitely expose this trick, and then I'll make you kiss my ass instead!"`
-`"...............*cackle*.`
-` What a charming man.`
-` I shall remember that promise.`
-` ...Weak witches kiss the behinds of demons to gain power.`
-` Because there is no greater oath of total submission.`
-` It is words like those that give me the desire to subjugate you.`
-` .........*cackle*cackle*...!"`
-`Paying no mind to Battler's crude ranting, {f:5:Beatrice} once again waved her golden pipe.`
-`......Yes, for that golden pipe was her precious magic wand.`
-`"Come, arise, children.`
-` I am the guide of Purgatory.`
-` Wield the seven stakes, which forgave the deadly sins."`
-`Guided by those magic words, which sounded like a psalm, seven stakes gathered.`
-`{n}...They were the stakes of the seven demons symbolizing the deadly sins of sinful people.`
-`"Beelzebub and Asmodeus.`
-` Come, forgive their sins.`
-` Release the spirits of the sinners...!"`
-`"Wha...?!"`
-`The stakes of Beelzebub and Asmodeus responded to {f:5:Beatrice}'s call.`
-`The two demonic stakes burst into motion like billiard balls struck by a cue, and were sucked in through the crack of the door.`
-`Then came the sound of them deflecting repeatedly off the walls of the room, making a sound like a woodpecker.`
-`And finally, a pleasant sound could be heard.`
-`......It was a small, satisfying sound, like the one heard when someone is chopping firewood and the falling ax neatly and easily slices through the wood.`
-`It was the sound of the two stakes burying themselves deep into Eva and Hideyoshi's foreheads.`
-`"............Right through the middle.`
-` Want to see...?"`
-`They had definitely heard two sounds like someone's forehead being split open.`
-`Battler wasn't permitted to see it, since he was on the other side of the door,`
-` but those two had died again, and this second time, they lay not an inch apart from where they had lain the last time, with the exact same blood spray as before.`
-`"Y‐............you must be crazy...`
-` Th‐......this is insane......!`
-` Y‐you can't kill people with this insanity!!!"`
-`"I most certainly can.`
-` ......I can kill them just like this...!`
-` *cackle*cackle*cackle*!"`
-`Suddenly, they were no longer in the hall, but seated at the tea party they had started from.`
-`......Everyone but Battler was sitting meekly, ......but Kanon was moaning, fresh blood dangling from his mouth.`
-`{n}Such bad manners for a tea party.`
-`Satan's stake was buried deep into Kanon's chest.`
-`"..................u...`
-`...............gah...`
-`......"`
-`"Ka‐......Kanon‐kun......`
-`Kanon‐kun!!`
-` Daa......damn iiiiiiiiiit!!"`
-`Battler was the only one getting agitated.`
-`George, Jessica, Shannon—everyone else was meekly hanging their heads like students being told off by their teacher.`
-`"...Kanon, you were captivated by a trifling anger and tried to disturb my banquet.`
-` ......Your deadly sin is being easily captivated by anger.`
-` Cleanse yourself, regret, and do it over."`
-`"......{f:5:at}`
-`......{f:5:rice}......`
-`......sa...ma..............."`
-`"B‐...{f:5:Beatrice}‐sama...`
-` Please, forgive him...`
-` I think Kanon‐kun has repented enough......!"`
-`"Wonderful.`
-` I am generous to those who respect me.`
-` ......*cackle*cackle*...!"`
-`"Cut the crap!!!`
-` Don't think for a second that this piss‐poor show of theatrics will convince me of your sorry existence!`
-` Like hell you're a thousand‐year‐old witch!`
-` Your tricks aren't a thousand years old, at best they're the accumulation of a hundred years of clichés that the mystery world created!"`
-`"They're not magic!!`
-` No way are they magic!!`
-` All of these crimes can be explained with "human tricks"!!"`
-`"*cackle*cackle*!`
-` You would explain my thousand years with a hundred years by humans...?`
-` Good, good, that's why I like you...!"`
-`"...............Foolish Battler...`
-` Kihhihihihihihihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi...!"`
-`"......Stop yourself, Battler‐kun...`
-` {f:5:Beatrice}‐sama is someone you can't...`
-`go...against......"`
-`"............nn...`
-`......u...`
-`............u..."`
-`Shannon started moaning, holding her cheek.`
-`{n}...Maybe she had a toothache.`
-`But it didn't look anything like a toothache.`
-`{n}......A slight redness spread across the cheek Shannon was holding.`
-`It looked like that redness was causing Shannon unbearable pain...`
-`She started to press her nails into her cheek, and drops of sweat appeared all over her body...`
-`"...Shannon...`
-`Shannon...!!`
-` Hang in there...hang in there!"`
-`"What's going on?!`
-` Damn it, what the hell is that red stuff...?!"`
-`It expanded rapidly, covering half of Shannon's face...`
-`...Then, the stupid dunce Battler finally realized...`
-`"Ple‐please, Battler‐kun...!`
-` Please believe in {f:5:Beatrice}‐sama...!`
-` I beg you...!!`
-` Aaaaaaah, because you won't believe,`
-` because you won't believe, aaaaaaaaaah...`
-`the magic is,`
-` ......the magic is wearing off!!!!!!!!"`
-`For the first time in his life, ......Battler heard that sound, like a pomegranate splitting.`
-`The red spray even landed on Battler's face...`
-`How sad—Shannon's face had been split in half, ...and her last horrible moments in that storehouse had been repeated once again.`
-`"U...uwaaaaaaaaaaaaaaaaaaaaaaaaa, Shannon, Shannon!!`
-` Uwaaaaaaaaaaaaaaaaaaa!!!"`
-`"G...ghhhkkk, damn you, damn youuuuuuu!`
-` Stop it, stop it, stop it!!`
-` Don't humiliate the dead, don't humiliate the deeeeeaaaaad!!"`
-`"Uuuu......gah.........eeeggh!!"`
-` This time, red patterns began to spread across George's entire body...`
-` It was like the beautiful cloud drawn by milk when it is poured into black tea.`
-` They slowly spread out and extended across his entire body.`
-`......As they grew more saturated in color, they seemed to give George increasingly greater pain.`
-`Looking at those bizarre patterns, ......Battler was petrified as he frantically thought with his pitifully clumsy imagination...`
-`about the nature of the strange deaths that George and the others had experienced...`
-`Before long, ......that redness reached the nearby Jessica as well......`
-`"Gah,`
-` .........ee...`
-`......ack...`
-`.........hh!!"`
-`"St‐stop stop stop!!!`
-` What did Aniki do,`
-` what did Jessica do,`
-` just STOOOOOOP!!!"`
-`"Ba‐`
-`......Battler......`
-` ......Don‐`
-`...don't let the witch...`
-`break your spirit......!`
-` ......Deny her,`
-` erase her...`
-` As, ......as long as at least one person denies her,`
-` she's an illusion that can't exist......!`
-` Uuuuughhh, gghhh!!"`
-`"A‐are you OK, Jessica?!!`
-` Whah, A‐Aniki?!?!"`
-`George was no longer shaped like a person.`
-` ...He looked like the pile of leftover meat after the good, delicious meat has been scraped off to be cooked.`
-`...The only traces left of his time as a human were the shape of his lower jaw and rib cage.`
-`And it was clear that Jessica, who was covered with a steadily strengthening redness, was approaching the same fate.`
-`"............Uu.`
-` ...Battler.`
-` ......Quick, believe in {f:5:Beatrice}...`
-` .........If you don't,`
-` .........everyone's magic...`
-`......will wear off..."`
-`"Ma‐Maria, it's all over your body, too......!!!"`
-`"I resurrect all the dead with my magic.`
-` ......But as long as you don't believe, that magic will hold no true power.`
-` *cackle*cackle*cackle*!`
-` But I'm sure that a man of your caliber won't be broken by something like this, right...?"`
-`"Ba‐`
-`...Battler......!`
-` We...`
-`...didn't want to doubt our friends...`
-` We refused to face reality,`
-` ...and gave in to the witch......!`
-` But...`
-`I know you...`
-` ......I know you won't...`
-`...give in to that witch......!`
-` Geh...`
-`ggghh...`
-`......gggggghhkkkkkkk!!!"`
-`"Jessica, JESSICAAAAA, waaaaAAAAAAAaaaAAAahh!!"`
-`How sad—Jessica met the same end.`
-`{n}...Just like George, she ended up like a butcher's leftovers.`
-`Broken apart, melted, and all mixed up, so you couldn't tell which was George and which was Jessica anymore.`
-`"...............Battler.`
-` Don't cry.`
-` ...{f:5:Beatrice} will resurrect the dead over and over.`
-` So there's nothing to be sad about...`
-` ......So,`
-` ............even if we die, we're still...`
-`......just......`
-`fine—"`
-`The redness began eating into the whole of Maria's body...`
-` When he saw this, the foolish Battler screamed out loud.`
-`"You bitch, you won't get away with this, I'll never forgive you!!`
-` You call yourself a witch?! You call this magic?!`
-` I'll deny you with every last fiber of my being...!!`
-` I don't care what happens, there's not a chance in hell I'm ever gonna accept you!!`
-` If you want me as an enemy that bad, I'm gonna make sure you get what's coming to you!!"`
-`"I'll get you for this, you're gonna pay for this, you're going to fucking pay!!!!`
-` You're gonna regret making Ushiromiya Battler your enemy!!`
-` I'll deny you no matter what!!`
-` Every last impossible thing, I'll explain it all with "humans"!!!`
-` I'll erase every cell of you from this world!!!"`
-`"You! You speak well, "Battler"...!`
-` That's the kind of thing that can divert me from my thousand years of boredom!"`
-`"Come, explain.`
-` Try explaining it all with your so‐called "human tricks"!`
-` And learn how lowly humans are!!`
-` Let's see you try to use what humanity has built up in a hundred years to oppose my thousand!!`
-` It will make forcing you to submit all the more enjoyable...!!"`
-`"So tell me, "Battler"!`
-` What about Maria's letter?`
-` How the six were killed?`
-` The shutter?`
-` The receipt seal?`
-` The locked room with the chain?`
-` Kanon in the boiler room?`
-` Genji and the others in the parlor?!`
-` Natsuhi's suicide?!`
-` The riddle of the epitaph?!`
-` The location of the hidden gold?!"`
-`"Come, Battler, why don't you show me the power of "humans"?!`
-` Fuhahahahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!!"`
-`"OoooooOOOOOOooooooooooOOOOOOOOohh!!!"`
+` ¡No es fantasía!`
+` ¡{f:5:Beatrice} "exiiiste"!`
+` Uu."`
+`"Si, lo sabemos.`
+` {f:5:Beatrice}‐sama sí "existe"."`
+`"Así es...`
+` {f:5:Beatrice}‐sama sí "existe"."`
+`"Odio admitirlo, pero no me queda otra.`
+` ¡Porque es obvio que una 19.ª persona, una bruja, estaba involucrada!"`
+`"Ella logró hacer muchas cosas que serían imposible en manos humanas.`
+` Durante la historia, pensamos en todas clases de cosas, tratando de negar aquello."`
+`"Pero ahora lo puedo decir con claridad.`
+` Todos y cada uno de ellos, fueron crímenes imposibles para un humano.`
+` Aquellos crímenes serían imposibles de realizar a menos que fuese la bruja {f:5:Beatrice} usando todo el poder que la magia podía proporcionar."`
+`"La culpable es una bruja.`
+` Ese punto es perfectamente claro.`
+` Larga vida a {f:5:Beatrice}‐sama.`
+` Jajajajajaja."`
+`"Uu.`
+` Todos creyeron.`
+` Estoy feliz.`
+` ¡Uu!"`
+`"Los dioses y brujas parecerán aterradores a quienes les tengan miedo,`
+` pero creo que deben tener afecto por aquellos que creen y les respeten."`
+`"... Pienso que es tal como dices."`
+`"Así que, creo que ya terminamos con lo de jugar con casos de asesinato.`
+` Así que es hora de poner manos a la obra y esforzarnos en resolver el acertijo del epitafio, tal como dijo {f:5:Beatrice}, ¿no?"`
+`"¡Uu!`
+` ¡Estoy de acuerdo!`
+` {f:5:Beatrice} definitivamente estará feliz."`
+`"Jajajajaja...`
+` Todos ignoramos esa carta durante la historia, después de todo."`
+`"Aunque lo teníamos delante de nosotros, lo ignoramos casi por completo.`
+` Siento algo de pena por {f:5:Beatrice}‐sama."`
+`"¡Tengo el epitafio anotado en mi cuaderno!`
+` ¡Resolvamos el acertijo, resolvamos el acertijo!"`
+`"Esta historia probablemente fue mal desde entonces."`
+`"Eso es lo más probable.`
+` Quizás deberíamos haber intentado resolver el acertijo del epitafio desde el principio, como {f:5:Beatrice}‐sama dijo."`
+`"Bueno, ya es un poco tarde ahora.`
+` Aun así, intentemos resolverlo ahora, a ver si la bruja nos perdona.`
+` Vamos, intentemos resolver el acertijo del epitafio...`
+` Aquí estamos, "Contempla el río de ayus que atraviesa mi añorado pueblo natal"..."`
+`Luego de que Maria colocara su cuaderno sobre la mesa, y abriera la página en donde estaba escrito el epitafio,`
+` todos lo miraron detenidamente, y se divirtieron discutiendo animadamente mientras empezaban a adivinar esto y aquello sobre el acertijo.`
+`Rodeados por el aroma del té negro y galletas de vainilla recién hechas, pasaron el rato cómoda y felizmente...`
+`"Esperen un segundo, chicos."`
+`Dijo Battler, en un tono que arruinó el ambiente.`
+`Su expresión parecía un tanto descontenta.`
+`{n}¿Qué no le podría gustar sobre toda esta diversión?`
+`"Los he estado escuchando y... ¿por qué todos ustedes dejaron de pensar?`
+` ¿Por qué están tan seguros de que una bruja está detrás de todo esto?`
+` ¿No se dan cuenta de que cosas como esa no existen?"`
+`Tan solo con esas palabras, el ambiente alegre de la fiesta del té desapareció al poco tiempo.`
+`George y Jessica.`
+` Y Shannon y Kanon.`
+` Y Maria.`
+`Todos miraron sin comprender, preguntándose por qué Battler estaba diciendo cosas extrañas.`
+`Incluso el tonto y arrogante Battler se dio cuenta de que había dicho algo malo.`
+`"B‐... bueno, ya sabes...`
+` ¿No está claro que esos crímenes fueron imposibles para un humano?"`
+`"¡A‐así es, así es!`
+` Ninguno de los casos pudo ser posible para un humano."`
+`"Estoy de acuerdo...`
+` Después de todo, ¿no estaba lleno de cosas que uno no podría explicar usando humanos?"`
+`"No entiendo lo que está diciendo, Battler‐sama."`
+`"¡Yo... yo soy quien no tiene idea de lo que {i:ustedes} están hablando!`
+` ¿No es obvio que fueron humanos quienen comitieron esos crímenes?`
+` Obviamente no hay tal cosa como las brujas, ¿no?"`
+`"E‐... entonces...`
+` ¿Qué hay de cuando fui asesinada en el almacén, y algo horrible había sido hecho a la mitad de mi cara?`
+` Si el culpable era humano, ¿cómo podría haberlo logrado?"`
+`"Bueno...`
+` Quiero decir...`
+` Es difícil imaginar cómo podrían haber hecho algo tan horrible."`
+`"Pero aquel era el almacén del jardín de rosas, ¿no es así?`
+` Estoy seguro de que había una gran cantidad de herramientas extrañas allí.`
+` No pregunten qué pero, ¿no podría haber usado una herramienta eléctrica como una trituradora o una sierra eléctrica?"`
+`"E‐...`
+` eso es...`
+` umm..."`
+`"Entonces, Battler...`
+` ¿Cómo explicas la desaparición del abuelo de la habitación cerrada de su estudio?`
+` El abuelo desapareció de repente aunque la puerta estaba sellada, ¿no lo recuerdas?"`
+`"Hablamos de eso durante la historia, también.`
+` No es imposible que el abuelo haya utilizado algún truco para burlar el recibo.`
+` También es posible que haya salido por la ventana, o caído, y la tía Natsuhi lo haya cerrado desde dentro.`
+` Puedo pensar en varios trucos que uno puede usar sin depender de la magia, ¿no ven?"`
+`"E‐...`
+` eso tiene sentido, pero..."`
+`"En ese caso, Battler‐kun,`
+` ¿cómo explicas la manera en la que mis padres fueron asesinados en la habitación de huéspedes?`
+` La puerta fue sellada por la cerradura y la cadena.`
+` Naturalmente, las ventanas también estaban selladas.`
+` ¿Cómo sugerirías que un humano podría  haber matado a mis padres?"`
+`"Bueno...`
+` Cierto, tuvimos que dejar ese truco de lado durante la historia.`
+` De cualquier manera, hay una gran probabilidad de que el culpable tuviese la llave al menos.`
+` Y era posible mirar a través del espacio que la cadena de la puerta dejaba abrir."`
+`"Esto sonará algo descabellado, pero es posible que se haya usado algún aparato por ese espacio.`
+` ¿O tal vez sacaron algo a través de este?"`
+`"Hmmmm, bueno, aunque las cadenas son increíblemente simples, son un gran factor al construir una habitación cerrada...`
+` Pero a estas alturas autores han usado casi todo truco posible que se pueda usar.`
+` Si compraras algunos misterios de habitación cerrada de alguna que otra librería, probablemente encuentres algún truco que encajaría perfectamente."`
+`"De cualquier forma, no puedo pensar en uno ahora mismo, pero puedo decir con seguridad de que un humano lo podría lograr de alguna manera si lo intenta lo suficiente."`
+`"¿No es ese argumento terriblemente irracional?`
+` Es simplemente ridículo reclamar que es posible que un humano pueda hacer algo, aunque no lo puedas explicar."`
+`"¿Por qué es tan ridículo?`
+` ¿Por qué todos ustedes dejaron de pensar?`
+` Aunque parezca imposible, tiene que ser factible.`
+` ¿No es así como siempre funciona?"`
+`"Battler, eres tú quien está siendo ridículo.`
+` Si piensas que un humano pudo haberlo hecho, intenta explicarlo ahora.`
+` No puedes, ¿no?"`
+`"¿Y solo porque no puedo explicarlo, eso inmediatamente hace al culpable una bruja?`
+` ¡Con ese argumento, todos los crímenes sin resolver en el mundo podrían ser resueltos diciendo que lo hizo una bruja!"`
+`"Battler, estás esquivando el problema, y no estás explicando nada.`
+` Estamos diciendo "Un humano no puede hacerlo.`
+` Por lo tanto el culpable es algo que no es humano.`
+` Y ese algo es una bruja."`
+` Y aún así sigues decidiendo arbitrariamente que las brujas son imposibles aunque no puedes explicar nada."`
+`"Kijijijijijijijijijijiji, es casi como la humanidad durante la era oscura.`
+` Como aquellos tontos que decían que la Tierra de ninguna manera podría estar girando,`
+` y que el cielo debía estar girando alrededor de la Tierra, aunque no podían explicar cómo."`
+`"E‐... ese tipo de lógica me molesta un poco.`
+` Así que esto es básicamente lo que intentan decir:`
+` Si no puedo explicar cómo un humano pudo hacerlo,`
+` ¿entonces debo aceptar que el culpable es la bruja, {f:5:Beatrice}?"`
+`"No es como si le estuviésemos obligando.`
+` Solo nos estábamos preguntando en base a qué dice algo tan absurdo."`
+`"A‐... absurdo...`
+` ...`
+` ¡O‐... oigan, ¿es lo que estuve diciendo tan raro?!"`
+`"¡¿Soy yo el que está loco?!`
+` ¡Ustedes están empezando a asustarme!"`
+`"Battler‐sama.`
+` Cuando morí en la sala de calderas, fui asesinado por una 19.ª persona que no debería existir."`
+`"¿Puedes explicar cómo un humano pudo hacer eso?`
+` En aquel momento, la ubicación de los 18 eran ampliamente conocidas.`
+` Y aun así, fui asesinado."`
+`"¡También hablamos de eso en la historia!`
+` Kumasawa baa‐chan, por ejemplo.`
+` Ella dijo que te siguió luego de que bajaras a la sala de calderas, pero hasta donde sabemos, pudo ser una mentira."`
+`"¡Ella pudo haber entrado a la sala contigo!`
+` O quizás, cuando entraste en la sala de calderas, activaste algún tipo de trampa, una que podría haber sido preparada para golpearte con uno de esos picahielos."`
+`"Después de todo, el hedor del cadáver del abuelo venía del incinerador.`
+` Sin falta, alguien vendría en algún momento, ¡así que todo lo que el culpable debía hacer era armar una trampa, y así sería más que posible para él de alejarse del lugar y crear una coartada para el momento de tu muerte!"`
+`"Habla sobre una trampa en la sala de calderas, pero... ¿qué tipo de trampa?"`
+`"Así es.`
+` Luego de que ocurriese, todos inmediatamente corrimos hacia la sala de calderas.`
+` ¡Pero no encontramos ningún tipo de aparato extraño como ese!"`
+`"Eso es correcto.`
+` Battler‐sama, ¿con qué tipo de trampa dice que fui asesinado?"`
+`"Bueno...`
+` No lo sé.`
+` Pero en cualquier caso, debió llevar a cabo alguna trampa, o quizás alguien esté mintiendo, o...`
+` ¡¿o qué tal esto?!"`
+`"¡Kanon‐kun, ¿y si todo aquello fuese una actuación tuya?!`
+` ¡¡E‐eso es, estabas actuando!!`
+` La tía Eva y el tío Hideyoshi también estaban actuando.`
+` ¡Ellos mismos crearon la habitación cerrada y pretendían estar muertos!"`
+`"Battler...`
+` ¿Te sientes...`
+` bien...`
+` de la cabeza?"`
+`"Umm... ¿debería traer algunas bebidas frías?"`
+`"N‐no me miren con esos ojos de pena, no estoy diciendo nada tan alocado...`
+` Solo estoy dando posibilidades de trucos que podrían haberse utilizado, ¿está bien?"`
+`"¡Digo, ¿no es uno de los clichés en historias de misterio el que las víctimas no están realmente muertas?!"`
+`"¿Clichés?"`
+`"B‐bueno, entonces...`
+` Cuando Kanon‐kun fue asesinado, sí que sabíamos con seguridad en dónde estaban los demás.`
+` Y asumamos que Kumasawa baa‐chan no estaba mintiendo."`
+`"Pero eso solo se mantiene cierto para los supervivientes.`
+` ¡Si el culpable pretendió estar muerto, se colocó junto a las víctimas reales para ocultarse, y luego actuó por su cuenta, entonces todo puede explicarse!"`
+`"Supongo...`
+` ¿Intentas decir que la tía Eva o uno de los demás fue el culpable?`
+` Pero el doctor Nanjo confirmó las muertes de todos, siendo un doctor, ¿no lo recuerdas?"`
+`"Así es.`
+` El doctor Nanjo revisó todas las víctimas.`
+` Battler‐sama, para que su teoría funcione, ¿no debería ser el doctor Nanjo también uno de los culpables?"`
+`"¡¡Ah, sí, es verdad!!`
+` ¡Una vez consideras que el doctor Nanjo pudo ser uno de los culpables y falsificar la proclamación de la muerte, la historia entera cambia!`
+` ¡¡¿Lo ven? Eso también es un cliché en las novelas de misterio, ¿no es así?!!"`
+`"Pero el doctor Nanjo también fue asesinado..."`
+`"Umm... sobre eso...`
+` ¡Eso es, el doctor Nanjo fingió su muerte!"`
+`"Quiero decir, no había nadie además del doctor Nanjo que pudiese examinar cadáveres apropiadamente, y todo el mundo estaba confundido por entonces.`
+` ¡No tuvimos tiempo de sobra para ver si todavía tenía un pulso!`
+` ¡Con esta teoría, cualquiera de los muertos podría haber estado caminando por ahí!"`
+`"Creo que habría sido difícil hacer eso para los seis que murieron al principio...`
+` Después de todo, el postigo estaba cerrado, y había un candado que no podía ser abierto desde dentro..."`
+`"Sí.`
+` Mamá tenía esa llave.`
+` ¿Así que que mamá también era uno de los culpables?"`
+`"Aaaaaaah, esperen un segundo...`
+` quizás fuese imposible para uno de los primeros seis, pero en el caso de los padres de Aniki, la puerta solo estaba cerrada desde fuera.`
+` Por lo que podrían haberla abierto desde adentro...`
+` ¡Eso es, después de que dejamos la habitación, quizás saltaron desde la ventana y llegaron antes a la sala de calderas!"`
+`"¡¿E, es eso demasiado?!`
+` ¡¿O quizás el doctor Nanjo cometió un error al examinar los cadáveres?!"`
+`"Miren, él mismo lo dijo, ¿no?`
+` ¡De que hay una gran posibilidad de cometer un error al examinar cadáveres!`
+` ¡¡El culpable lo disfrazó bien, o preparó un cuerpo sustituto o algo así, y fingió su muerte!!`
+` Dejemos el método o truco que usaron para luego... y... ¿No lo ven? ¡No es tan difícil negar que una 19.ª persona existió!"`
+`"¡Mucho menos una {i:bruja}!`
+` ¡¡Al menos eso es completamente imposible!!"`
+`"... No sé por qué insistes tanto en decir que uno de nosotros es el culpable.`
+` Kijiji{0}ji{0}ji{0}ji{0}ji{0}ji{0}jiji, en otras palabras, ¿quieres sospechar de uno de tus familiares?"`
+`"No es eso...`
+` Es solo que, eh, no puedo aceptar tan fácilmente que una 19.ª persona existía... e incluso si este fuese el caso, creo que deberíamos construir nuestro argumento desde el punto de vista de que el culpable era un humano.`
+` Lo de las brujas es algo que solo dirías con desesperación, justo al final, después de que todo lo demás haya sido refutado, eso intento decir."`
+`"Quiero decir, vamos, ¡no hay forma de que las brujas existan, ¿verdad?!`
+` ¿Por qué todos ustedes han estado aceptando tan casualmente que el culpable es una bruja?"`
+`"Me parece genial que su amor familiar hace que odien la idea de que alguien cercano es un asesino.`
+` ¡¿Pero está bien dejar todo de lado así?!`
+` ¡¿No quieren encontrar al detestable culpable que mató a tanta gente?!"`
+`"¡Aniki, quieres vengar a tus padres, ¿no es así?!`
+` ¡Jessica, quieres vengar a Kanon‐kun, y Kanon‐kun, quieres vengar a Shannon‐chan, ¿no?!`
+` Shannon‐chan, al menos deberías querer saber quien fue el que te mató."`
+`"¡¿Por qué todos se rindieron y decidieron que el culpable era una bruja?!`
+` ¡¿Qué les pasa a todos ustedes?!"`
+`El tonto y malhumorado Battler intentó forzar su ingorancia hacia los otros gritando.`
+`Sin embargo, todos lo miraban con lástima, observando silenciosamente.`
+`Entonces, la sabia Maria rió, y señaló el error de Battler por él.`
+`"Kijijijijijijijiji...`
+` Estamos igual de sorprendidos.`
+` Todo lo que has estado haciendo es repetir este disparate, pensando que resolviste algo, Battler."`
+`"¿Y qué?`
+` ¿Y?`
+` ¿Cómo pudo un humano hacerlo?`
+` ¿Concretamente?`
+` Cada vez que hacemos esas preguntas, todo lo que dices es "No puedo pensar en nada ahora mismo" o "alguna clase de aparato" o cosas así, usando palabras abstractas para huir y esquivar el tema."`
+`"De hecho, quiero preguntártelo a {i:tí}, Battler.`
+` ¿Por qué {i:tú} no crees en {f:5:Beatrice}?`
+` Ella "existe", entonces, ¿por qué no crees?"`
+`"¡Porque ella no "existe"!`
+` ¡¡Las brujas no "existen"!!`
+` ¡¡No hay forma!!"`
+`Era casi como ver a un niño terco negar sin razón alguna.`
+`Las miradas de lástima cubrieron a Battler en silencio, pero no llegaron a su obstinado corazón.`
+`"Realmente estás actuando como un niño al que no le hacen caso..."`
+`"Battler‐sama.`
+` Entiendo como se siente, pero..."`
+`"{f:5:Beatrice}‐sama realmente "existe"."`
+`"Battler‐kun... ¿por qué no crees?`
+` Mira la cantidad de evidencia circunstancial que hay."`
+`"No acepto la lógica de que si no puedo explicarlo, es obra de la bruja.`
+` Si no saben como brilla una bombilla de luz, si no saben el principio, ¿significa que es todo magia?"`
+`"¡No es así, ¿verdad?!`
+` ¡¡No hay nada que no pueda ser explicado sin magia!!`
+` ¡Todo esto de brujas y magias es solo abdicación de pensamiento!`
+` ¡Ustedes tan solo se rindieron porque no entendieron lo que sucedió!`
+` ¡Tengo razón, ¿no?!"`
+`"Ki‐jijijijijijijijijijiji...`
+` Bueno, no estoy sorprendida,`
+` pero parece que eres el único que no va a creer, no importa lo que pase."`
+`"Si incluso una persona no cree, el "milagro" no ocurrirá.`
+` Así que, si no replanteas tus ignorantes teorías, el milagro... la magia no será completada."`
+`"Jeje...`
+` Ahoora lo veo.`
+` Finalmente me di cuenta.`
+` Así que en otras palabras, ustedes quieren que yo diga que la bruja existe, ¿no?`
+` Si todos aceptan esa mentira, se volverá "la verdad".`
+` ¡De esto se trata esto, ¿no?!"`
+`"Que mal.`
+` Este es el único lugar en el que diré que mal, pero esto es totalmente inútil. Me niego...`
+` {i:Todos ustedes me están presionando, y por eso mismo es totalmente inútil.}"`
+`"... ¿Por qué?"`
+`"Lo siento pero, ¿por qué no damos vuelta al tablero una última vez?`
+` Si quieren obligarme a aceptar que hay una bruja, hay una manera muy fácil."`
+`"¡Y no es la forma indirecta de decir "un humano no pudo hacerlo, por lo que debió ser una bruja"!`
+` Todo lo que deben hacer es mostrarme la manera en la que una bruja lo hizo con magia."`
+`"Además, lo que Maria dijo antes es lo que la hará cavar su tumba.`
+` Dijiste que si incluso una sola persona no cree, un "milagro" no ocurrirá."`
+`"¡Pero los verdaderos milagros suceden crea la gente en ellos o no!`
+` ¡¡Incluso si solo yo no creyera!!`
+` ¡¡Así que cualquier milagro o magia o bruja que exista solo porque crea en ello es una completa mentira!!"`
+`"..."`
+`El ambiente intranquilo siguiendo el desvarío ignorante de Battler...`
+` fue disipado por una muy refrescante y ligera risa.`
+`¿La risa de quién?`
+` Battler fue sorprendido por aquella voz que nunca había oído antes.`
+`Cuando miró hacia George y Jessica, hacia Shannon, Kanon y Maria, se dio cuenta de que se habían quedado de repente en un silencio respetuoso.`
+`"{f:5:Beatrice}."`
+`"Qué maravilla.`
+` Ha pasado un largo tiempo desde que conocí a un humano tan encantador."`
+`"¿Q‐...`
+` quién...`
+` eres?"`
+`"... Así que ni siquiera sabes quien es la anfitriona de la fiesta del té al que fuiste invitado.`
+` Simplemente maravilloso.`
+` ¡*risita*risita*!"`
+`"Usted está siendo honrado por la presencia de la Bruja Dorada que ha vivido por mil años, {f:5:Beatrice}‐sama."`
+`"Es un gran honor verla, {f:5:Beatrice}‐sama..."`
+`"Por favor, disculpe las palabras de Battler‐kun."`
+`"¡E‐este tipo es simplemente terco, y, umm, todavía no entiende la situación en la que está!"`
+`"*risita*risita*risita*...`
+` Está bien.`
+` Luego de mil años, la mayoría de brujas se cansan de vivir.`
+` De vez en cuando, está bien conocer a un hombre con carácter como tú."`
+`"Es un gran honor estar presente cuando {f:5:Beatrice} se muestra, Battler."`
+`"Je...`
+` ¡¡je‐je‐je‐je!!`
+` Vaya...`
+` que sorpresa.`
+` ¿Están realmente tan deseperados de hacerme creer que una bruja,`
+` que una 19.ª persona es el culpable?"`
+`"¡Esto empieza a ser interesante!`
+` ¡¡Y es totalmente inutil!!`
+` Debes ser la ilusión de la bruja {f:5:Beatrice} impuesta por Maria y los demás."`
+`"Y solo cuando todos crean en tu existencia se te permitirá finalmente existir.`
+` Eres ese tipo de ser ficticio, ¿no?`
+` Por eso me quieres hacer creer también.`
+` {i:No puedes existir, porque solo yo no creo en tí}.`
+` ¡¿No es así?!"`
+`"Tu nivel de comprensión no es malo para un mortal común que sabe nada de magia.`
+` Ya veo, parece que has nacido con una fuerte resistencia hacia la magia."`
+`"El enemigo natural de nosotras, las brujas.`
+` Por mucho que te demos vueltas y vueltas,`
+` {i:nunca creerás en nosotras}.`
+` {i:Por lo tanto, la magia quedará corta contra tí}.`
+` Esa actitud tuya tiene mucho sentido.`
+` ¡*risita*risita*!"`
+`"¡No tengo idea de lo que estás diciendo, jijiji!`
+` Es muy amable de tu parte tomarte la molestia de mostrarte ante nosotros,`
+` pero no creo en tí en lo más mínimo."`
+`"Es cierto que muchas cosas extrañas sucedieron durante esos dos días.`
+` Tal como dijo Maria antes, aunque pienso que todos los trucos podrían ser explicados, todavía no puedo disponer los detalles prácticos de cada uno.`
+` Pero eso no significa que me rendiré."`
+`"Soy diferente a ellos, ¿de acuerdo?`
+` Nunca argumentaré que fue obra de una bruja solo porque no puedo explicarlo."`
+`"Mi interés en tí se va profundizando.`
+` Valdrá la pena romperte."`
+`"Eres el tipo de hombre al que amaría obligar a alabar mi nombre.`
+` Eres el tipo de hombre al que amaría obligar a besar mis pies.`
+` ¡*risita*risita*risita*!"`
+`"¡Habla de disparates todo lo que quieras!`
+` Niego que existas.`
+` ¡¡Todos los eventos pueden ser explicados con "trucos humanos"!!`
+` ¡¡No hay lugar para siquiera una mota de magia o brujas!!"`
+`"¡Que maravilla!`
+` Esta es la forma perfecta de pasar el rato luego de mil años de aburrimiento."`
+`"Entonces déjame preguntarte.`
+` Hace un rato, has dicho que usar el espacio en la puerta sería suficiente para matar a Eva y Hideyoshi, ¿no es así?`
+` Explica como podrías hacer eso usando tus trucos humanos."`
+`"Je...`
+` Yendo directo a la parte difícil, ¿no?`
+` ¿Significa que es este el truco que más te enorgullece?`
+` ¿Señorita {i:Culpable}?"`
+`{f:5:Beatrice} agitó su pipa dorada,`
+` y siete colores de suave humo salieron del extremo.`
+`El humo oscureció rápidamente los alrededores,`
+` y de repente estaban en el pasillo de la mansión.`
+`En frente de sus ojos, una puerta ligeramente abierta, cerrada con una cadena...`
+`En efecto, era la entrada a la habitación en donde Eva y Hideyoshi habían sido asesinados.`
+`"Q‐que conveniente, ¿no?"`
+`"Entonces.`
+` Muéstrame lo que puedes hacer, "Battler"."`
+`"Er...`
+` P‐probablente tenía algún aparato para disparar aquellos "picahielos".`
+` Si usó algo como eso..."`
+`"¿Cómo apuntarías hacia Eva sobre la cama cuando no puedes ver tan lejos por este espacio?`
+` ¿Y cómo llegarías hasta Hideyoshi, en el baño con la puerta cerrada?"`
+`"... Maldición...`
+` Hay un hueco...`
+` Debería de haber alguna manera..."`
+`"*risita*risita*.`
+` Si no se te ocurre alguna, permíteme."`
+`"¿Oh?`
+` Adelante, ¿cómo lo haría una gran bruja, entonces?`
+` Vamos, veamos lo haces tú."`
+`"Battler, estás siendo grosero con {f:5:Beatrice}..."`
+`"Está bien, muy bien.`
+` Que hombre más encantador.`
+` Hará que sea aún más divertido romperlo."`
+`"¡Je!`
+` ¡¿Tantas ganas tienes de que bese tus pies?!`
+` ¡Solo si me rindo!`
+` Pero ya verás... Definitivamente expondré este truco, ¡y haré que me beses el trasero en su lugar!"`
+`"*risita*.`
+` Que hombre más encantador.`
+` Recordaré esa promesa.`
+` Las brujas débiles besan a los demonios por detrás para ganar poder.`
+` Porque no existe más grande juramento que la sumisión total.`
+` Son palabras como esas las que me dan el deseo de subyugarte.`
+` ¡*risita*risita*!"`
+`Sin prestar atención a las palabras groseras de Battler, {f:5:Beatrice} una vez más agitó su pipa dorada.`
+`Sí, ya que esa pipa dorada era su preciosa varita mágica.`
+`"Vamos, arriba, niñas.`
+` Yo soy la guía del purgatorio.`
+` Empuñen las siete estacas, que perdonaron los pecados capitales."`
+`Guíadas por el comando de aquellas palabras mágicas, siete estacas se reunieron.`
+`{n}Eran las estacas de los siete demonios simbolizando los pecados capitales de la gente pecaminosa.`
+`"Beelzebub y Asmodeus.`
+` Vamos, perdonen sus pecados.`
+` ¡Liberen los espíritus de los pecadores!"`
+`"¡¿Eh...?!"`
+`Las estacas de Beelzebub y Asmodeus respondieron al llamado de {f:5:Beatrice}.`
+`Las dos estacas demoníacas se pusieron en movimiento como bolas de billar al golpe de un taco, y fueron absorbidos por el espacio de la puerta.`
+`Entonces vino el sonido de estas desviándose repetidamente de las paredes de la habitación, haciendo un sonido como el de un pájaro carpintero.`
+`Y finalmente, un sonido agradable pudo oírse.`
+`Era un sonido pequeño y satisfactorio, como el que uno escucha cuando alguien está cortando leña y el hacha limpia y fácilmente corta la madera.`
+`Era el sonido de las dos estacas enterrándose profundamente en las frentes de Eva y Hideyoshi.`
+`"Justo por el medio.`
+` ¿Quieres ver?"`
+`Ellos definitivamente habían escuchado dos sonidos como la frente de alguien siendo partida.`
+`A Battler no se le permitía verlo, ya que estaba del otro lado de la puerta,`
+` pero ambos habían muerto una vez más, y en esta segunda ocasión, no estaban ni un centímetro más lejos de donde yacieron la última vez, con la misma mancha de sangre que antes.`
+`"T‐... tienes que estar loca...`
+` ¡E‐... esto es una locura!`
+` ¡¡¡N‐no puedes matar a la gente con esta locura!!!"`
+`"Por supuesto que puedo.`
+` ¡Puedo matarlos de esta manera!`
+` ¡*carcajada*carcajada*carcajada*!"`
+`De repente, ya no estaban en el pasillo, sino que sentados en la fiesta del té de donde habían empezado.`
+`Todos excepto Battler estaban sentados mansamente... pero Kanon estaba gimoteando, con sangre fresca colgando de su boca.`
+`{n}Vaya malos modales para una fiesta del té.`
+`La estaca de Satan estaba enterrada profundamente en el pecho de Kanon.`
+`"... u...`
+` gah...`
+` ..."`
+`"Ka‐... Kanon‐kun...`
+` ¡¡Kanon‐kun!!`
+` ¡¡Ma... maldita seaaaaaaa!!"`
+`Battler era el único que se ponía inquieto.`
+`George, Jessica, Shannon... todos los demás estaban mansamente agachando sus cabezas como estudiantes siendo regañados por su profesor.`
+`"Kanon, fuiste cautivado por una ira insignificante e intentaste perturbar mi banquete.`
+` Tu pecado capital es ser fácilmente cautivado por la ira.`
+` Purifícate, arrepiéntete, y empieza de vuelta."`
+`"... {f:5:at}...`
+` {f:5:rice}...`
+` sa... ma..."`
+`"B‐... {f:5:Beatrice}‐sama...`
+` Por favor, perdónalo...`
+` ¡Creo que Kanon‐kun se ha arrepentido lo suficiente!"`
+`"Que maravilla.`
+` Soy generosa ante quienes me respeten.`
+` ¡*carcajada*carcajada*!"`
+`"¡¡¡Ya basta de bromas!!!`
+` ¡¿Realmente crees que esta actuación barata hará que acepte tu existencia?!`
+` ¡De ninguna manera eres una bruja de mil años!`
+` ¡Tus trucos no tienen mil años! ¡A lo sumo son la acumulación de cien años de clichés que el mundo del misterio creó!"`
+`"¡¡No son magia!!`
+` ¡¡No hay forma de que lo sean!!`
+` ¡¡Todos estos crímenes pueden explicarse con "trucos humanos"!!"`
+`"¡*carcajada*carcajada*!`
+` ¿Explicarías mis mil años con cien años humanos?`
+` ¡Bien, bien, por eso me caes bien!"`
+`"Tonto Battler...`
+` ¡Kijijijijijijijiji{0}ji{0}ji{0}ji{0}ji{0}ji{0}jijiji!"`
+`"Detente, Battler‐kun...`
+` {f:5:Beatrice}‐sama es alguien a quien no puedes...`
+` desa... fiar..."`
+`"Nn...`
+` u...`
+` u..."`
+`Shannon empezó a gimotear, tocando su mejilla.`
+`{n}Quizás le haya dado un dolor de muela.`
+`Pero no se veía para nada como un dolor de muela.`
+`{n}Un ligero enrojecimiento se propagaba por la mejilla que ella estaba tocando.`
+`Parecía que aquel enrojecimiento estaba causando a Shannon un dolor insoportable...`
+`Empezó a presionar sus uñas hacia su majilla, y gotas de sudor aparecieron por todo su cuerpo...`
+`"Shannon...`
+` ¡¡Shannon!!`
+` ¡Aguanta... aguanta!"`
+`"¡¿Qué está ocurriendo?!`
+` Maldita sea, ¡¿Qué demonios es esa cosa roja?!"`
+`Se expandió rápidamente, cubriendo la mitad de la cara de Shannon...`
+`Entonces, el burro estúpido de Battler finalmente se dio cuenta...`
+`"¡P‐por favor, Battler‐kun!`
+` ¡Por favor cree en {f:5:Beatrice}‐sama!`
+` ¡¡Te lo suplico!!`
+` Aaaaaaah, por no creer,`
+` por no creer, aaaaaaaaaah...`
+`¡¡La magia se está...`
+` la magia se está disolviendoooooooo!!"`
+`Por primera vez en su vida, Battler escuchó ese sonido, como la de una granada partiéndose.`
+`Las gotas rojas incluso llegaron a rociar la cara de Battler...`
+`Qué triste. El rostro de la pobre de Shannon había sido partido por la mitad, y sus últimos momentos horribles en aquel almacén se habían vuelto a repetir.`
+`"¡¡U... uaaaaaaaaaaaahhhhhhhhhhhhh!! ¡¡Shannon, Shannon!!`
+` ¡¡¡Uaaaaaaaaaahhhhhhhhhh!!!"`
+`"¡G... ghhhkkk, maldición, maldicióoooon!`
+` ¡¡Para, para, para!!`
+` ¡¡No humilles a los muertos, no humilles a los muertoooos!!"`
+`"¡¡Uuuu... gah... eeeggh!!"`
+` Esta vez patrones rojos empezaron a propagarse por el cuerpo entero de George...`
+` Era como la bella nube dibujada por la leche al ser vertida sobre el té negro.`
+` Lentamente se desplegaron y extendieron a través de todo su cuerpo.`
+`Y mientras más se saturaban en color, parecía darle a George un dolor cada vez más grande.`
+`Mirando aquellos extraños patrones, Battler estaba petrificado mientras pensaba frenéticamente con su lamentablemente torpe imaginación...`
+` sobre la naturaleza de las extrañas muertes que George y los demás habían experimentado...`
+`Poco después, ese enrojecimiento también llegó hasta la próxima Jessica...`
+`"¡¡Gah...`
+` ee...`
+` ack...`
+` hh!!"`
+`"¡¡¡P‐para para para!!!`
+` ¿Qué fue lo que hizo Aniki?`
+` ¿Qué fue lo que hizo Jessica?`
+` ¡¡¡Por favor PARAAAAAA!!!"`
+`"Ba‐...`
+` Battler...`
+` ¡No...`
+` no dejes que la bruja...`
+` rompa tu espíritu!`
+` Niégala...`
+` bórrala...`
+` ¡Mien... mientras exista tan solo una persona que la niegue,`
+` ella es tan solo una ilusión que no puede existir!`
+` ¡¡Uuuuughhh, gghhh!!"`
+`"¡¡¿E‐estás bien, Jessica?!!`
+` ¡¡Uah!! ¡¿¡¿A‐Aniki?!?!"`
+`George ya no tenía la forma de una persona.`
+` Se veía como una pila de carne de sobra luego de que la buena y deliciosa carne fuese raspada para ser cocinada.`
+`Los únicos rastros de su tiempo como humano era la forma de su mandíbula inferior y caja torácica.`
+`Y estaba claro que Jessica, quien estaba cubierta con un enrojecimiento en constante fortalecimiento, se acercaba al mismo destino.`
+`"Uu.`
+` Battler...`
+` Rápido, cree en {f:5:Beatrice}...`
+` Si no lo haces...`
+` la magia de todos...`
+` desaparecerá..."`
+`"¡¡¡Ma‐Maria, está sobre todo tu cuerpo también!!!"`
+`"Resucito a todos los muertos con mi magia.`
+` Pero mientras no creas, esa magia no tendrá ningún poder verdadero.`
+` ¡*risita*risita*risita*!`
+` Pero estoy segura de que un hombre de tu nivel no se rendirá por algo como esto, ¿cierto?"`
+`"¡Ba‐...`
+` Battler!`
+` Nosotros...`
+` no quisimos dudar de nuestros amigos...`
+` ¡Nos negamos a enfrentar la realidad,`
+` y nos rendimos ante la bruja!`
+` Pero...`
+` ¡Sé que tú...`
+` Sé que tu no te...`
+` rendirás ante esa bruja!`
+` ¡¡¡Geh...`
+` ggghh...`
+` gggggghhkkkkkkk!!!"`
+`"¡¡Jessica, JESSICAAAAA, uaaaaAAAAAAAaaaAAAahh!!"`
+`Qué triste. Jessica llegó al mismo fin.`
+`{n}Tal como George, terminó como las sobras de un carnicero.`
+`Tan destrozada, derretida, y revuelta, que ya no se podía distinguir entre lo que era George o Jessica.`
+`" Battler.`
+` No llores.`
+` {f:5:Beatrice} resucitará a los muertos una y otra vez.`
+` No hay razón para estar triste...`
+` Así que...`
+` incluso si morimos, todavía...`
+` estamos...`
+` bien..."`
+`El enrojecimiento empezó a consumir la totalidad del cuerpo de Maria...`
+` Al ver esto, el tonto Battler gritó bien alto.`
+`"¡¡Maldita, no te saldrás con la suya, no te perdonaré!!`
+` ¡¿Dices ser una bruja?! ¡¿Dices que esto es magia?!`
+` ¡¡Te negaré con toda las fibras de mi ser!!`
+` ¡¡No importa lo que suceda, no hay forma de que te vaya a aceptar!!`
+` ¡¡Si tanto quieres tenerme de enemigo, me aseguraré de que recibas lo que te mereces!!"`
+`"¡¡¡¡Ya verás por esto, me las vas a pagar, me las vas a pagar!!!!`
+` ¡¡Te arrepentirás de hacer a Ushiromiya Battler tu enemigo!!`
+` ¡¡Te negaré no importa qué!!`
+` ¡¡¡Cada cosa imposible, lo explicaré todo con "humanos"!!!`
+` ¡¡¡Borraré cada célula tuya de este mundo!!!"`
+`"¡Bien dicho, "Battler"!`
+` Este es el tipo de cosas que me divierten de mis mil años de aburrimiento!"`
+`"Vamos, explica.`
+` ¡Intenta explicarlo todo con tus "trucos humanos"!`
+` ¡¡Y aprende lo inferiores que son los humanos!!`
+` ¡¡Veamos cómo intentas usar lo que la humanidad ha construido en cien años para oponerte a mis mil!!`
+` ¡¡Hará el obligarte a someterte incluso más agradable!!"`
+`"¡Así que dime, "Battler"!`
+` ¿Qué tal acerca de la carta de Maria?`
+` ¿Cómo fueron asesinados los seis?`
+` ¿El postigo?`
+` ¿El sello del recibo?`
+` ¿La habitación cerrada con la cadena?`
+` ¿Kanon en la sala de calderas?`
+` ¡¿Genji y los demás en el salón?!`
+` ¡¿El suicidio de Natsuhi?!`
+` ¡¿El acertijo del epitafio?!`
+` ¡¿La ubicación del oro oculto?!"`
+`"¡Vamos, Battler, ¿por qué no me muestras el poder de los "humanos"?!`
+` ¡¡¡Fujajajajaja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}jajaja!!!"`
+`"¡¡¡OoooooOOOOOOooooooooooOOOOOOOOohh!!!"`
