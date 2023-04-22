@@ -111,6 +111,6 @@
 `Aunque sea {f:5:Beatrice}, la Bruja Interminable...`
 `Tú eres mi pieza.`
 ` Haz tu mejor esfuerzo.`
-`Te aconsejaré de vez en cuando, fuera de su vista.`
+`Te aconsejaré de vez en cuando, fuera de su mirada.`
 `No me aburras, ¿está bien?`
 `*risita*risita*risita*...`
