@@ -108,7 +108,7 @@
 ` Es todo para no cansarme de esto.`
 `Soy la bruja más cruel del mundo.`
 `No importa quién sea mi oponente, absolutamente haré que se rinda.`
-`Incluso sea {f:5:Beatrice}, la Bruja Interminable...`
+`Aunque sea {f:5:Beatrice}, la Bruja Interminable...`
 `Tú eres mi pieza.`
 ` Haz tu mejor esfuerzo.`
 `Te aconsejaré de vez en cuando, fuera de su vista.`
