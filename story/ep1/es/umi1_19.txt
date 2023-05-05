@@ -1,116 +1,116 @@
-`"...What sort of tea should I prepare next?`
-` You have free choice of any brand that ever was throughout the ages."`
-`"......Dried plum tea.`
-` ......Those dried plums that go for 200 yen a pack."`
-`"*cackle*cackle*...!`
-` ...For a thousand years I have been fond of black tea, but I did not know of such a thing.`
-` ...I will never tire of living in this world."`
-`"...............Beato.`
-` You don't have to display such hostility.`
-` ...I am just a wandering witch.`
-` I didn't come with the intention of violating the rules of your territory."`
-`"...*cackle*cackle*, there is not even a sliver of hostility.`
-` ...I am just terribly concerned about seeing that the legendary witch, Lady {f:5:Bernkastel}, is well attended to."`
-`".........You misunderstand.`
-` I am powerless.`
-` Before a witch such as you, with the dreadful power to kill a person a hundred times over, I am completely powerless."`
-`"That a "powerless" witch like you possesses a power that none can approach is what is truly terrifying.`
-` After all, you fended off that Great Witch, Lady {f:5:Lambdadelta}, as a lone piece."`
-`"......I only won an endurance contest.`
-` She simply got tired."`
-`"That is not what Lady {f:5:Lambdadelta} said, though.`
-` ...*cackle*cackle*cackle*, too much humility can be unseemly, Lady {f:5:Bernkastel}."`
-`"......That girl has a dreadful power.`
-` ............The power to kill a person "without fail".`
-` However, there is no such thing as "without fail" in this world.`
-` Just as, no matter how many times you divide 1, you can never make it 0."`
-`"That girl has the power to bring that closer and closer to "virtually zero", and give rise to a "virtually absolute certainty".`
-` ......I hope I never have to fight such a terrifying witch again."`
-`"However, you have a power that manifests without fail "except for zero".`
-` ......Although you say there is no such thing as "without fail" in this world, you possess an infallible power yourself.`
-` ......How very terrifying, *cackle*cackle*cackle*...!"`
-`"......The power to kill a person "endlessly"...`
-` ...I think you're the more terrifying one."`
-`"Such jests.`
-` ......From your point of view, mine is but a trifling power.`
-` The phrase "flattery will get you nowhere" was made for this situation."`
-`"......Call it payment for my stay here.`
-` ...I am a fleeing traveler who crosses the {ruby:kakera:fragments}, continually running from boredom.`
-` ......I simply came around because I'd heard that you'd started something interesting.`
-` Rest assured, I will leave of my own accord as soon as you start to bore me."`
-`"*cackle*cackle*...!`
-` I am deeply and humbly delighted to have the great Lady {f:5:Bernkastel} as an observer.`
-` *cackle*cackle*!`
-` And so, your impression?"`
-`"............{f:5:Lambdadelta} is terrifying because of her cruelty; however, she was a girl I could understand.`
-` ...You do seem to possess affection, but I can't understand you at all.`
-` That's why you're much more terrifying than her."`
-`"*cackle*cackle*cackle*...!`
-` I am fickle by nature.`
-` Do forgive me.`
-` ...Besides, I believe you also enjoy trusting your fate to the roll of fickle dice—is that not so, Lady {f:5:Bernkastel}?"`
-`"......When I roll the dice, I have a roll I clearly want to get.`
-` Unlike you.`
-` You, on the other hand, anticipate all outcomes."`
-`"And, whatever the roll might be, you're never disappointed.`
-` Whatever roll the dice show you, you are satisfied "without fail".`
-` .........In that sense, you far surpass me."`
-`".........You're one I really don't want to fight with.`
-` Inside of you, there's nothing but zero.`
-` That's why I can't win against you with my power.`
-` ...The worst matchup.`
-` ......Perhaps {f:5:Lambdadelta}, on the other hand, has a good matchup against you.`
-` Since she would likely be able to kill your "endlessness"."`
-`"*cackle*cackle*, *cackle*cackle*cackle*!`
-` ......Truly, tea is best drunk in the company of a witch.`
-` It's never boring.`
-` *cackle*cackle*!"`
-`"......Good to hear.`
-` Boredom is the sole poison that can kill me.`
-` ......So, don't kill me, alright?`
-` Lady {f:5:Beatrice}, Endless Witch."`
-`"If such is your wish, I shall show you an even better time."`
-`"......In that case, wouldn't it be best if I brought the next chessboard in right away?`
-` It seems that the next tale would do more for you than a refill of tea."`
-`"................................."`
-`"Just wait for a moment.`
-` ......*cackle*cackle*!"`
-`............Something troublesome seems to have taken a liking to you.`
-`I'd really like to lend you my power, but as you just heard, that girl's power and mine have a very bad matchup.`
-` Unfortunately for you.`
-`But you really are pitiful, so I'll help you out just a bit.`
-`First of all, about that girl.`
-`She does have an existence that goes by the name of {f:5:Beatrice}, but that doesn't necessarily mean that she is "a woman with an individual body".`
-`Do you understand what I mean?`
-` In other words, she's not some {y:0:Human}{n:0:human}.`
-` Her existence is a personification of the rules of this world.`
-`To beat her, you have to expose the rules of this world and unravel them.`
-`This can be likened to learning the rules of chess by watching a few games.`
-`First, take a good look over the chessboard.`
-`And notice the movements and roles of the pieces.`
-`Then, look for the conditions required to win at her game.`
-`When you've managed to reveal all of these things, her heart will be exposed.`
-`After that, you can rip it apart or crush it as you please.`
-`......I am being quite generous.`
-` Back when I was once human, it took me a hundred years to realize even this much.`
-`This is my meager farewell gift to you, the pitiful one captured by Beato. It is like a single spoon.`
-`A spoon can be used for more than just drinking soup.`
-`You can use it to dig through the prison you're locked in, or as a weapon to gouge the witch's eyes out.`
-`......Of course, you can also use the spoon to continually sip the watery soup inside your eternal prison.`
-`......Don't get the wrong idea—I have no intention of becoming your ally.`
-`I do feel empathy for you, but I won't help you.`
-`...It's like how someone sitting in front of a television cannot reach the characters on screen no matter how much they yell at them.`
+`"¿Qué clase de té debería preparar a continuación?`
+` Eres libre de elegir cualquier marca de té que haya habido a lo largo de los tiempos."`
+`"Té de ciruela seca...`
+` Esas ciruelas secas que valen 200 yenes por paquete."`
+`"¡*carcajada*carcajada*!`
+` Por mil años he gustado del té negro, pero nunca había sabido de algo así.`
+` Jamás me cansaré de vivir en este mundo."`
+`"Beato...`
+` No tienes que mostrar tal hostilidad.`
+` Solo soy una bruja errante.`
+` No vine con la intención de violar las reglas de tu territorio."`
+`"*carcajada*carcajada*, no hay ni una pizca de hostilidad.`
+` Solo es de mi preocupación ver que la bruja legendaria, Lady {f:5:Bernkastel}, sea bien atendida."`
+`"Tú no lo entiendes.`
+` Estoy indefensa.`
+` Ante una bruja como tú, con el temible poder de matar a una persona cientos de veces, estoy completamente indefensa."`
+`"Que una bruja "indefensa" como tú posea un poder al que nadie se puede acercar es lo verdaderamente temible.`
+` Después de todo, fuiste victoriosa ante aquella Gran Bruja, Lady {f:5:Lambdadelta}, como una solitaria pieza."`
+`"Yo solo gané un concurso de resistencia.`
+` Ella simplemente se cansó."`
+`"Aunque eso no es lo que dijo Lady {f:5:Lambdadelta}.`
+` *carcajada*carcajada*carcajada*, demasiada humildad puede ser indecorosa, Lady {f:5:Bernkastel}."`
+`"Esa chica tiene un poder temible.`
+` El poder de matar a una persona "sin falta".`
+` No obstante, no existe tal cosa como "sin falta" en este mundo.`
+` Al igual que, no importa cuantas veces dividas 1, nunca lo puedes llevar a 0."`
+`"Esa chica tiene el poder de llevarlo más y más cerca a "virtualmente cero", y dar lugar a una "virtualmente absoluta certeza".`
+` Espero no tener que volver luchar contra una bruja tan temible."`
+`"Sin embargo, tienes un poder que se manifiesta sin falta "excepto por cero".`
+` Aunque dices que no hay tal cosa como "sin falta" en este mundo, tú misma posees un poder infalible.`
+` ¡Que aterrador, *carcajada*carcajada*carcajada*!"`
+`"El poder de matar a una persona "infinitamente"...`
+` Yo creo que tú eres la más aterradora."`
+`"Vaya broma...`
+` Desde tu punto de vista, este poder mío no es más que insignificante.`
+` Estos no son más que halagos vacíos."`
+`"Llámalo un pago por mi estadía aquí.`
+` Soy una viajera fugitiva quien cruza los {ruby:kakera:fragmentos}, huyendo continuamente del aburrimiento.`
+` Simplemente vine porque escuché que habías empezado algo interesante.`
+` Te aseguro que me iré por cuenta propia tan pronto como me aburras."`
+`"¡*carcajada*carcajada*!`
+` Estoy profunda y humildemente encantada de tener a la gran Lady {f:5:Bernkastel} como una observadora.`
+` ¡*carcajada*carcajada*!`
+` Y entonces, ¿tu impresión?"`
+`"{f:5:Lambdadelta} es aterradora por su crueldad; sin embargo, es una chica a la que puedo entender.`
+` Pareces poseer afecto, pero no te entiendo en absoluto.`
+` Por eso eres mucho más aterradora que ella."`
+`"¡*carcajada*carcajada*carcajada*!`
+` Soy voluble por naturaleza.`
+` Mis disculpas.`
+` Además, creo que también disfrutas confiar tu destino al incierto tiro de los dados. ¿No es así, Lady {f:5:Bernkastel}?"`
+`"Cuando tiro los dados, tengo una tirada a la que claramente quiero llegar.`
+` A diferencia de tí.`
+` Tú, por otra parte, anticipas todos los resultados."`
+`"Y, sin importar la tirada, nunca te decepcionas.`
+` Sin importar lo que el dado muestre, estás satisfecha "sin falta".`
+` En ese sentido, me superas por mucho."`
+`"Realmente eres alguien contra la que no quiero luchar.`
+` Dentro de tí, no hay nada más que cero.`
+` Por eso no puedo ganar contra tí con mi poder.`
+` Es la peor compatibilidad.`
+` Quizás {f:5:Lambdadelta}, por otro lado, tenga una mejor compatibilidad contra tí.`
+` Ya que ella posiblemente sea capaz de matar a tu "infinidad"."`
+`"¡*carcajada*carcajada*, *carcajada*carcajada*carcajada*!`
+` Realmente, el té se disfruta más en compañía de una bruja.`
+` Una no se aburre.`
+` ¡*carcajada*carcajada*!"`
+`"Me alegra oír eso.`
+` El aburrimiento es el único veneno que me puede matar.`
+` Así que, no me mates, ¿de acuerdo?`
+` Lady {f:5:Beatrice}, Bruja Interminable."`
+`"Si tal es tu deseo, aseguraré que lo que siga sea aun más entretenido."`
+`"En ese caso, ¿no sería lo mejor que traiga el siguiente tablero ahora mismo?`
+` Parece que el próximo relato haría más para tí que volver a llenar la copa de té."`
+`"..."`
+`"Espera por un momento.`
+` ¡*carcajada*carcajada*!"`
+`Algo problemático parece haberte tomado cariño.`
+`Realmente me gustaría prestarte mi poder, pero como acabas de escuchar, el poder de esa chica y el mio son muy incompatibles.`
+` Por desgracia para tí.`
+`Pero realmente eres lamentable, así que te ayudaré solo un poco.`
+`Primero que nada, sobre esa chica.`
+`Ella sí tiene una existencia que lleva el nombre de {f:5:Beatrice}, pero eso no necesariamente significa que sea "una mujer con un cuerpo individual".`
+`¿Entiendes lo que digo?`
+` En otras palabras, ella no es tan solo un ser humano.`
+` Su existencia es una personificación de las reglas de este mundo.`
+`Para vencerla, tienes que exponer las reglas de este mundo y desentrañarlas.`
+`Esto puede ser comparado a aprender las reglas del ajedrez observando unos juegos.`
+`Primero, echa un buen vistazo sobre el tablero.`
+`Luego fíjate en los movimientos y los papeles de las piezas.`
+`Luego, busca las condiciones requeridas para ganar en su juego.`
+`Una vez hayas logrado revelar todo eso, su corazón será expuesto.`
+`Después de eso, lo puedes destrozar y aplastar lo que te plazca.`
+`Estoy siendo muy generosa.`
+` En el pasado, cuando yo era humana, me tomó cien años tan solo darme cuenta de esto.`
+`Este es mi pobre regalo de despedida para tí, el lamentable capturado por Beato. Es tal como una cuchara.`
+`Una cuchara puede ser usada para más que solo tomar sopa.`
+`Puedes usarla para cavar a través de la prision en la que estás encerrado, o como arma para arrancar los ojos de la bruja.`
+`Por supuesto, también puedes usar la cuchara para seguir tomando de la sopa aguada dentro de tu prisión eterna.`
+`No me malinterpretes. No tengo intención de convertirme en tu aliada.`
+`No me falta empatía por tí, pero no te ayudaré.`
+`Es como cuando alguien sentado al frente de una televisión no puede alcanzar a los personajes en la pantalla, no importa lo mucho que les grite.`
 `{a:c:`
-`THAT'S HOW YOU CAN TELL I AM A WITCH, YOU SEE?}`
-`I intend to enjoy the endless tales that Beato is going to weave until I tire of them.`
-` But I'm sure that alone won't hold my interest.`
-`......That's why I'll lend you my power.`
-` It's all so that I don't get tired of this.`
-`I am the cruelest witch in the world.`
-`No matter who the opponent may be, I'll absolutely make them surrender.`
-`...Even if that's {f:5:Beatrice}, the Endless Witch...`
-`You are my game piece.`
-` Give it your best shot.`
-`I'll give you advice sometimes, out of her sight.`
-`Don't bore me, okay......?`
-`*giggle*giggle*giggle*......`
+`ASÍ ES COMO SABES QUE SOY UNA BRUJA, ¿ESTÁ CLARO?}`
+`Tengo la intención de disfrutar los interminables relatos que Beato tejerá hasta que me canse.`
+` Pero estoy segura que eso solo no mantendrá mi interés.`
+`Por eso es que te prestaré mi poder.`
+` Es todo para no cansarme de esto.`
+`Soy la bruja más cruel del mundo.`
+`No importa quién sea mi oponente, absolutamente haré que se rinda.`
+`Aunque sea {f:5:Beatrice}, la Bruja Interminable...`
+`Tú eres mi pieza.`
+` Haz tu mejor esfuerzo.`
+`Te aconsejaré de vez en cuando, fuera de su mirada.`
+`No me aburras, ¿está bien?`
+`*risita*risita*risita*...`
