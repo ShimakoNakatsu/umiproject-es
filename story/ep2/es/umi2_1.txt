@@ -7,7 +7,7 @@
 `{n}Los muebles no son más que herramientas, y no son humanos.`
 `Para alguien inferior a los humanos como yo, el mero hecho de recibir educación era una felicidad más que suficiente.`
 `Por lo que incluso pensar en el amor fue más de lo que merecía...`
-`La conferencia familiar Ushiromiya era un evento habitual que se celebraba cada mes de octubre,`
+`La conferencia familiar Ushiromiya era un evento habitual que se celebra cada mes de octubre,`
 ` pero los familiares también venían de visita en otras ocasiones.`
 `{n}Por supuesto, ellos no venían solo a beber té.`
 `En este día, la familia de Eva vino a visitar al líder de la familia en Rokkenjima.`
