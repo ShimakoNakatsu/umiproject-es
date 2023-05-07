@@ -98,8 +98,8 @@
 `"¿Ooooh?`
 ` Pero qué... ¿Cómo te has dado cuenta?!`
 ` Battler, eres más observador de lo que pensaba."`
-`"¡¿Eh... quéééééé?!`
-` ¡Solo estaba bromeando...! ¡¿De verdad ellos están saliendo?!"`
+`"¡¿Quéééééé?!`
+` ¡Solo estaba bromeando!... ¡¿De verdad ellos están saliendo?!"`
 `"¡Shhh!`
 ` ¡Estás hablando demasiado alto!`
 ` Parece que lo están manteniendo en secreto por ahora, ¿entiendes?`
@@ -534,8 +534,8 @@
 `"Por cierto, Battler.`
 ` ¿Te has dado cuenta?`
 ` ¿Has notado que tu encuentro con él... es una verdadera "Prueba Diabólica"?"`
-`"Eh, ¡¿una Prueba Diabólica...?!`
-` ¿A qué te refieres...?"`
+`"Eh, ¡¿una Prueba Diabólica?!...`
+` ¿A qué te refieres?..."`
 `"Puede que no lo parezca, pero este hombre es uno de los 72 demonios.`
 ` En otras palabras, he traído a un demonio justo delante de ti, lo que prueba que de verdad existen."`
 `"¡¡*carcajada*carcajada*carcajada*carcajada*!!`
@@ -700,15 +700,15 @@
 `Krauss golpeó la mesa y miró fijamente a todos.`
 `... Como eso incluía también a los niños, él los asustó mucho...`
 `"... Una carta de una persona misteriosa quien afirma haber recibido todos los derechos de los bienes de padre.`
-` Y si te pones a pensar en que en esta conferencia familiar se trata de eso,`
-` ... creo sería precipitado llamarlo una broma."`
+` Y si te pones a pensar en que en esta conferencia familiar se trata de eso...`
+` creo sería precipitado llamarlo una broma."`
 `"No estaría tan seguro.`
 ` Realmente podría ser una de las vulgares bromas de padre...`
 ` Puede que haya planeado esto para conmocionarnos un poco, ya que hemos estado discutiendo el reparto de su herencia sin él..."`
-`"Si papá fue quien planeó esto,`
-` ... entonces no podemos tomar lo que María-chan acaba de leer como una broma, ¿verdad?..."`
+`"Si papá fue quien planeó esto...`
+` entonces no podemos tomar lo que María-chan acaba de leer como una broma, ¿verdad?..."`
 `"... Así es.`
-` Si interpretas el contenido literalmente, ... entonces esto es una prueba de padre.`
+` Si interpretas el contenido literalmente... entonces esto es una prueba de padre.`
 ` El epitafio de la bruja está expuesto en la sala desde hace tiempo, para que cualquiera de nosotros pueda resolverlo.`
 ` Hubo aviso con suficiente antelación.`
 ` Por lo tanto, está diciendo que la primera persona que lo resuelva se le entregará el liderazgo junto con toda su riqueza, ¿cierto?..."`
@@ -778,7 +778,7 @@
 `En el medio de todo esto estaba María, quien parecía un poco asustada por el repentino cambio de los adultos.`
 `... Sin embargo, a juzgar por su apariencia,`
 ` ella no parecía haberse dado cuenta por completo del significado de lo que acababa de leer.`
-`"... ¿Pero qué rayos... fue todo eso...?`
+`"... ¿Pero qué rayos... fue todo eso?...`
 ` No entiendo nada..."`
 `"... Son todos ellos unos estúpidos.`
 ` ¡¿Tanto quieren la herencia?!..."`
@@ -811,10 +811,10 @@
 `"... Todos sus padres están luchando frenéticamente para que sus futuros sean un poco más brillantes.`
 ` Por favor, no reciban a sus padres con esa fría mirada cuando vuelvan."`
 `"...`
-` No importa cuánto nos lo pidas, Kyrie‐san,`
-` ... es difícil."`
-`"Si lo explicas de esa manera,`
-` ... no son cosas que los niños podamos hacer..."`
+` Kyrie‐san, no importa cuánto nos lo pidas...`
+` es difícil."`
+`"Si lo explicas de esa manera...`
+` no son cosas que los niños podamos hacer..."`
 `"¡Uu!`
 ` ¡¡Todos feliiices!!`
 ` ¡No se entristeeezcan!`
@@ -837,8 +837,8 @@
 `"Esos dos son personas fuertes.`
 ` Pronto se sentirán mejor y lo harán."`
 `"Sí."`
-`"Más importante aún,`
-` ... quiero que me digas algo."`
+`"Más importante aún...`
+` quiero que me digas algo."`
 `Cuando Kyrie-san dijo eso, Jessica, George-aniki, el Doctor Nanjo y yo escuchamos atentamente.`
 `... Parece que nuestros padres estaban preocupados con el problema de la herencia que el abuelo metió en sus mentes,`
 ` pero nosotros queríamos preguntarle a María acerca de algo simple.`
@@ -849,6 +849,6 @@
 `"¿La bruja dibujada en ese retrato?..."`
 `"¡Uu!`
 ` ¡Ella me dio esta carta y un paraguas!`
-` ¡Y ella usó magia para arreglar mi rosa que estaba rota!`
+` ¡Y ella usó magia para arreglar la rosa de María que estaba rota!`
 ` ¡¡{f:5:Beatrice} es una bruja asombrosa que puede hacer cualquier cosa!!"`
 `"... ¿Podrías hablarnos de ello en más detalle?..."`
