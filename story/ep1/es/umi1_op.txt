@@ -1,18 +1,18 @@
 `"... Así que,`
-` ¿todavía no superas tu amor por esa bebida?"`
+` ¿todavía no superas tu amor por el alcohol?"`
 `El viejo médico soltó un suspiro mientras retiraba el estetoscopio.`
 `Habían dos hombres en el lúgubre estudio cubierto de polvo y con cierto hedor dulzón.`
 `En la esquina de esta habitación, que era mucho más grande que lo que la mayoría de la gente llamaría un estudio,`
 ` había una cama de apariencia costosa, un hombre a quien le practicaban un examen médico y un doctor dirigiéndolo.`
-`{n}También había quien parecía ser un criado observando toda la escena.`
+`{n}También había quien parecía ser un sirviente observando toda la escena.`
 `"El licor es mi amigo.`
 ` No menos de lo que tú lo eres, y ha estado a mi lado aun por más tiempo de lo que tú has estado."`
-`Mientras el hombre que había descubierto su pecho para el estetoscopio reacomodaba su ropaje, habló sin trazo de timidez.`
+`Mientras el hombre que había descubierto su pecho para el estetoscopio reacomodaba su ropaje, habló sin mostrar rastro de timidez.`
 `"... Kinzo‐{c:86EF9C:san}.`
 ` Tu cuerpo parece estar en buen estado gracias a los efectos de la medicina.`
-` Sin embargo, si continúas bebiendo tan ávidamente, el tratamiento perderá su significado.`
+` Sin embargo, si continúas bebiendo tan ansiosamente, el tratamiento perderá su significado.`
 ` Confía en mi juicio.`
-` Abstente de la bebida."`
+` Abstente de tomar alcohol."`
 `"Te lo agradezco, aunque solo por el sentimiento,`
 ` amigo mío...`
 ` Genji.`
@@ -27,7 +27,7 @@
 `Este dulce, venenoso aroma se sentía como si derritiera el corazón, si no es que el alma misma.`
 ` Era el aroma de esa venenosa bebida verde de la que el hombre no podía apartarse.`
 `"... Nanjo.`
-` Eres mi amigo cercano, y nos hemos conocido por un largo tiempo.`
+` Eres mi amigo cercano, y nos conocemos desde hace bastantes años`
 ` Estoy profundamente agradecido por todo lo que has hecho para mantenerme vivo por tanto tiempo."`
 `"No he hecho nada.`
 ` Después de todo, jamás haces caso a mis recomendaciones médicas."`
@@ -36,7 +36,7 @@
 ` Al parecer estamos a mano."`
 `"Amo."`
 `"Gracias...`
-` .No moriría si me quedara sin tu medicina, pero sí lo haría si me quedara sin esto."`
+` No moriría si me quedara sin tu medicina, pero sí lo haría si me quedara sin esto."`
 `Ignorando a Nanjo, cuyo rostro mostraba una expresión resignada, Kinzo tomó la copa que Genji sostenía hacia él.`
 `Probablemente hay muy poca gente que asociaría el venenoso color que llenaba la copa, con una bebida alcohólica.`
 `"... Nanjo.`
@@ -53,9 +53,9 @@
 `La mirada de Nanjo se dirigió hacia una mesa en el costado con un enorme tablero de ajedrez encima.`
 `Juzgando por la posición de las piezas, el juego parecía estar entrando en su etapa final.`
 `{n}La torre y alfil negros estaban cortando profundamente entre las líneas enemigas.`
-`El rey blanco ya había sido enrocado y estaba arrinconado, así que hasta un aficionado podía ver que la partida alcanzaría su conclusión en breve.`
+`El rey blanco ya había sido enrocado y estaba arrinconado, así que hasta un aficionado podía ver que la partida alcanzaría su final en breve.`
 `Cada vez que Nanjo venía a hacer un examen médico, ambos hacían unos cuantos movimientos.`
-`Nanjo estaba insinuando que Kinzo probablemente caería en su sueño eterno antes de que este juego pudiera ser concluido.`
+`Nanjo estaba insinuando que Kinzo probablemente caería en su sueño eterno antes de que este juego pudiera ser finalizado.`
 `Esas palabras provenían más de un viejo amigo que de un médico.`
 `"Si fueras un paciente normal,`
 ` en este momento te recomendaría escribir tu testamento."`
@@ -69,7 +69,7 @@
 `"Oh, tus remordimientos...`
 `y asuntos que has dejado sin resolver.`
 ` Cosas que quieres que se transmitan...`
-` y cosas que quieres comunicar.`
+` y lo que quieres comunicar.`
 ` Cualquier cosa que quieras."`
 `"Hmph...`
 ` ¿Cosas que quiero que se transmitan, y lo que quiero comunicar?`
@@ -88,25 +88,25 @@
 ` Fueron construidos por mí, y se perderán junto conmigo.`
 ` ¡¡No hay nada que desee dejar atrás!!"`
 `"¡¡Nada!!`
-` ¡Tras mi partida, no me importa si todo se va a la ruina!`
+` ¡Tras mi muerte, no me importa si todo se va a la ruina!`
 ` ¡¡No quiero tumba ni ataúd!!`
 ` ¡Esos fueron los términos del contrato que hice con la bruja!`
 ` ¡Cuando muera, todo se perderá!`
 ` Eso ha sido parte de la promesa desde un principio, y por eso es que nada quedará atrás.`
 ` ¡¡No hay nada que pueda dejar!!"`
-`Después de alcanzar un crescendo furioso, Kinzo repentinamente se desplomó.`
+`Después de alcanzar un aumento de voz furioso, Kinzo repentinamente se desmayo.`
 `...Su expresión era flácida y débil, como si un espíritu maligno lo hubiera poseído y después abandonado.`
 `"...`
 ` Sin embargo, sí tengo un remordimiento.`
-` No tengo nada que dejar atrás, pero hay una cosa que no puedo dejar inconclusa..."`
+` No tengo nada que dejar atrás, pero hay una cosa que no puedo dejar sin finalizar..."`
 `"Harías bien en escribirla.`
 ` Desde luego, sería mejor si pudieras terminarla antes de que llegue tu hora.`
 ` Sin embargo, aún si pasa lo peor, aquellos que sigan después de ti lo terminarán.`
 ` Debes dejar atrás tus remordimientos para que puedan ser resueltos aun si no puedes hacerlo por ti mismo.`
 ` Ése es el propósito de un testamento."`
-`Cuando Nanjo intentó darle una gentil palmada en su hombro, el hombre desahuciado enfureció repentinamente y apartó de un golpe la mano de Nanjo.`
+`Cuando Nanjo intentó darle una gentil palmada en su hombro, el hombre desahuciado se enfureció repentinamente y apartó de un golpe la mano de Nanjo.`
 `"¡¡Es inútil, inútil, inútil!!"`
-`"¡Debe ser realizado mientras viva! ¡Al instante en que muera, mi alma será devorada por los demonios del contrato y eliminada de la existencia!`
+`"¡Debe ser realizado mientras este vivo! ¡Al instante en que muera, mi alma será devorada por los demonios del contrato y eliminada de la existencia!`
 ` ¡Para mí, no habrá paz u otro mundo después de la muerte!`
 ` ¡¡Por eso todo debe realizarse antes de que me vaya!!`
 ` ¡¡Esa es la razón por la que un testamento no tiene sentido para mí!!"`
@@ -123,7 +123,7 @@
 ` Estás aquí, ¡¿cierto?!`
 ` ¡Estás ahí de pie, invisible, escuchando cada palabra de lo que digo, e incluso ahora te burlas de mí desde algún lugar en esta habitación!"`
 `"¡¡Por favor, aparece ante mí una vez más, y sonríe!!`
-` ¡¡Siéntete libre de reprenderme, incluso puedes quitarme la vida con tus manos si así lo deseas!!`
+` ¡¡Siéntete libre de castigarme, incluso puedes quitarme la vida con tus manos si así lo deseas!!`
 ` ¡¡No quiero morir solo de esta manera!!`
 ` ¡¡No puedo permitirme morir hasta que haya visto tu sonrisa tan solo una vez más!!"`
 `"¡¡Aah, {f:5:Beatrice}, {f:5:Beatrice}!!`
@@ -132,7 +132,7 @@
 `"Wow...`
 ` Las cosas sí que cambian con el tiempo.`
 ` Todavía no me creo que podremos llegar en tan solo veinte minutos."`
-`No pude evitar rascarme la cabeza y maravillarme ante el progreso de los años recientes.`
+`No pude evitar rascarme la cabeza y admirar el progreso de los años recientes.`
 `{n}Solíamos ir en bote.`
 `En ese entonces, teníamos que soportar cerca de medio día de mecernos de ida y vuelta en el mar antes de llegar a Niijima.`
 ` Las cosas sí que se han vuelto más convenientes.`
@@ -228,8 +228,8 @@
 `"Oh, ¿en serio?`
 ` Me imaginaba que alguien con tu apariencia dejaría a chicas llorando por todos lados, no puedo creer que no tengas nada que presumir."`
 `"¡Nonononono!`
-` ¡E‐e‐`
-`estás bromeando, ¿cierto?!`
+` ¡E‐E‐`
+`Estás bromeando, ¿cierto?!`
 ` ¡Claro que no me han ocurrido esas cosas extrañas!`
 ` ¡De hecho, si sabes de alguien, soy todo oídos!"`
 `"Oh, así que sí tienes algunas historias...`
@@ -250,7 +250,7 @@
 ` ¿Aún no ha vuelto?`
 ` Oye, puede ser que se haya resbalado y se haya muerto... {c:86EF9C:Namunamunamu}."`
 `"No deberías hablar así de tu propio padre.`
-` Aun así, no es la primera vez que se tarda eternidades en el baño."`
+` Aun así, no es la primera vez que se tarda una eternidad en el baño."`
 `"Sí, ese hombre siempre ha sido así.`
 ` ¿En verdad es necesario que siempre se lleve una revista?`
 ` ¡¿Oh, qué estará haciendo con ellas?!`
@@ -259,9 +259,9 @@
 ` Desde que estamos juntos, no lo he dejado hacer ese tipo de cosas por sí solo."`
 `"¡Jijiji!`
 ` ¡Oooh, me tendrás que contar los detalles después~!`
-` Me suena a que papá está atrapado por una garra de acero."`
+` Me suena a que papá está sujetado por una garra de acero."`
 `"Y sabes exactamente qué es lo que ocurriría con ese hombre si no lo sujetara correctamente, ¿cierto?"`
-`"En serio.`
+`"Oh, en serio.`
 ` Eres la única capaz de tomar las riendas de ese viejo bastardo.`
 ` Como hijo suyo, te las doy con gusto."`
 `"Sí, déjamelo a mí.`
@@ -272,7 +272,7 @@
 `{n}Básicamente es mi madrastra.`
 `Mi madre verdadera falleció hace seis años.`
 `{n}Kyrie‐san es la mujer con quien se casó después.`
-`Quiero decir, ya estoy bastante grande.`
+`Quiero decir, ya soy lo suficientemente grande.`
 `{n}Es demasiado tarde como para llamar "mamá" a su segunda esposa.`
 `Y dudo que ella quiera usar la palabra "hijo" para este enorme niño que no tiene relación alguna con ella.`
 `No somos niños pequeños.`
@@ -315,8 +315,8 @@
 ` Vamos, solo es {p:0:留弗夫}.`
 `{n}Bueno, el nombre de este hombre se pronuncia "Rudolf".`
 `Jaja... debe odiar al abuelo por llamarlo así.`
-`Pero de todos modos, esa no es razón para darme a mí con esa tradición extraña de los nombres.`
-`Mientras el viejo bastardo torcía mi oreja para todos lados, tía Eva se paró detrás suyo y tomó su oreja.`
+`Pero de todos modos, esa no es razón para nombrarme a mí con esa tradición extraña de los nombres.`
+`Mientras el viejo bastardo torcía mi oreja para todos lados, la tía Eva se acercó sigilosamente por detrás y le agarró la oreja.`
 `"¿Oye, Rudolf?`
 ` ¿No es eso abuso de menores?"`
 `"Gyaah, eso duele, Aneki..."`
@@ -329,10 +329,10 @@
 ` Asegúrate de que Kyrie‐san te castigue mucho después, ¿de acuerdo?"`
 `"No deberías decir eso, Aneki, tras abusar de tu hermano pequeño."`
 `"Hideyoshi nii‐san, te quiero dar las gracias por elegirla a ella.`
-` Si no fuese por tu clemencia, ella seguiría sin venderse en el negocio.`
+` Si no fuese por tu generosidad, ella seguiría sin venderse en el negocio.`
 ` Tienes mi gratitud y mis disculpas."`
 `"¡¿Hmm~?!`
-` ¿Quién dices que está "sin venderse"?"`
+` ¿A quién llamas "sin venderse"?"`
 `Tras tomar dos o tres pasos hacia atrás,`
 ` Tía Eva desencadenó una de sus hermosas y altas patadas giratorias reversas, la cual se detuvo tan solo a un centímetro de la punta de la nariz de papá.`
 `Tras comenzar con Tai‐chi‐cuan para su figura, tía Eva tomó interés en las artes marciales chinas.`
@@ -367,7 +367,7 @@
 ` Es muy débil...`
 ` Sí la quería traer, pero decidimos que mi familia la cuidara esta vez."`
 `"Creo que es un movimiento sabio.`
-` Atascarla en esa venenosa casa principal no le haría bien alguno.`
+` Traerla a esa venenosa casa principal no le haría bien alguno.`
 ` La salud de un niño siempre es más importante que la conveniencia de un adulto, ¿no lo crees?"`
 `"¡Yo conozco una gran cura para los resfriados con vómito!`
 ` ¡Cuando volvamos a casa, les enviaré algo, así que por favor úsenlo!"`
@@ -410,7 +410,7 @@
 `"¿Sabes?`
 ` Es una técnica muy avanzada el detener una patada a un cabello de distancia."`
 `"Tch, ¡las mujeres de tu edad no deberían abrir las piernas tan vulgarmente!"`
-`La discusión de papá y la tía Eva no difería en lo absoluto de una pelea de mocosos.`
+`La discusión de papá y la tía Eva no era igual en lo absoluto a una pelea de mocosos.`
 `"Aunque normalmente actúen como padres normales,`
 ` se vuelven niños de nuevo en cuanto ven a sus hermanos en las conferencias familiares."`
 `"Tú eres quien parece el adulto al analizarlo todo con tanta calma.`
@@ -424,7 +424,7 @@
 `George‐aniki rascó su cabeza riendo, como queriendo esconder su vergüenza.`
 `{n}Desde luego, solo estaba siendo humilde.`
 `Aniki entró a la universidad y a la empresa del tío Hideyoshi como aprendiz simultáneamente, y estudió asuntos académicos y cómo convertirse en un emperador del negocio.`
-`Entonces, después de graduarse, entró a la empresa del tío Hideyoshi como asistente de su padre, acumulando mucha experiencia social al dedicarse ávidamente a su trabajo.`
+`Entonces, después de graduarse, entró a la empresa del tío Hideyoshi como asistente de su padre, acumulando mucha experiencia social al dedicarse ansiosamiente a su trabajo.`
 `También tiene un gran sueño, que es ser independiente algún día y construir su propio reino.`
 `Aniki es un verdadero ejemplo de hombre, sin escatimar esfuerzo para llegar a su meta.`
 ` No es una exageración decir que en verdad lo respeto.`
