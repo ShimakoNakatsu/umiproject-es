@@ -1,483 +1,480 @@
-`"Good morning, Milady.`
-` My, my, you do appear to be in a good mood.`
-` What a pleasant awakening you seem to have had."`
-`"‘Pleasant awakening’...!`
-` I was so excited, I couldn't sleep a wink.`
-` After all, the curtain is rising on the oh‐so‐fun fourth game...!"`
-`It seemed that she truly had been so excited that she hadn't gotten any sleep.`
-`And yet she showed absolutely no signs of tiredness; was that due to her youth, or her low mental age?`
-`Ronove chose not to say that aloud, and laughed with a {nobreak:"pu ku ku"} instead.`
-`"I really ran that Battler into the ground last time!`
-` Ah, that look of "you tricked meee" all over his face!`
-` He looked so pathetic!`
-` In any case, I do hope he's not still feeling down?"`
-`"Feeling down, you say...?"`
-`"Mm, well, how to put it.`
-` ...You know how he is a bit too sincere for his age?"`
-`"Indeed I do.`
-` Although one could call that his charm.`
+`"Buenos días, Milady.`
+` Vaya, vaya, parece estar de buen humor.`
+` Qué placentero despertar parece haber tenido."`
+`"¡Qué dices, despertar placentero...!`
+` Estaba tan emocionada que no pude dormir`
+` Después de todo, ¡el telón se está levantando en el divertido, cuarto juego...!"`
+`Parecía que ella realmente había estado tan emocionada que no había dormido nada.`
+`¿El hecho de que ella no mostrara absolutamente ninguna señal de falta de sueño era debido a ser joven, o a que su edad mental lo era?`
+`Ronove decidió no decir eso en voz alta, y rió con su {nobreak:‘pu ku ku’} en su lugar.`
+`"¡De verdad acorralé a ese Battler la última vez!`
+` ¡Ah, la mirada en su rostro cuando él estaba como "me engañaste"!`
+` ¡Eso fue tan patético!`
+` Aun así, ¿sigue ese chico estando deprimido?"`
+`"¿Deprimido, dice...?"`
+`"Hm, bueno, es cierto.`
+` ... Es alguien muy confiado para su edad, ¿verdad?"`
+`"Eso es cierto.`
+` Aunque podría llamarle a eso su encanto`
 ` Pu ku ku..."`
-`"*cackle*cackle*cackle*!`
-` You could, you certainly could!`
-` Well, speaking of that.`
-` You know how he completely fell for the thing I pulled the last time?"`
-`"Oh, yes, completely and splendidly.`
-` ...His pure, rosebud‐like innocence, arising from never once having been tricked by another since birth, you unreservedly violated."`
-`"............Even the joy of running around a field covered with beautiful new snow on a winter morning and trampling it utterly wouldn't even begin to compare."`
-`"You took Battler‐sama's innocent heart, Milady,`
-` and thrillingly, splendidly, atrociously, mercilessly, and in quite the uncultured manner, enough to make one think "maybe I went a teensy little bit overboard...?",`
-` you most assuredly perpetrated the very worst of atrocities against it."`
-`"I am quite sure most people {i:would} start to feel down.`
-` Pukkukukuku, so much so, that I doubt they would ever want to see your face again."`
-`"S‐so you understand...!"`
-`"I also, umm, considering that the fourth game is finally getting underway,`
-` I thought that it would be such a pain if he was so disheartened that he wouldn't join us at the table,`
-` and so, you see, I asked you first, thinking that it would be better to prepare a countermeasure beforehand...!"`
+`"¡*carcajada*carcajada*carcajada*!`
+` ¿No es eso cierto, no es eso cierto?`
+` Bueno, hablando de ello.`
+` No se lo creyó todo la última vez?"`
+`"Sí, completa y espléndidamente.`
+` ... Usted violó la pureza causada por nunca haber sido engañado por nadie desde su nacimiento, así como su inocencia que era fresca como el capullo de una rosa, todo a su antojo."`
+`"... Incluso el placer de correr en un campo cubierto de hermosa nieve nueva en una mañana de invierno y pisotearla completamente no podría siquiera empezar a compararse."`
+`"¿Acaso no tomó usted el corazón inocente de Battler-sama, Milady,`
+` y, de manera muy emocionante, espléndida, atroz, despiadada e incultamente, fue demasiado lejos...?
+` Y lo insultó de la peor manera, lo suficiente como para hacer que uno se sienta incómodo."`
+`"La mayoría de las personas empezarían a sentirse deprimidas.`
+` Pu kukukuku, tanto que no querrían ver su rostro de nuevo."`
+`"A-Así que, lo entiendes...!"`
+`"Yo también, umm, pensé que si él estuviera tan desalentado no se nos uniría a la mesa,`
+` aun cuando el cuarto juego está finalmente comenzando, sería un fastidio,`
+` y pensando en que sería mejor preparar una contramedida de antemano para ese caso, ¡te pregunté primero...!"`
 `"Hmmmm...`
-` In that case, indeed, I do think you would be well served to prepare such a countermeasure.`
-` Most unfortunately, due to your "North Wind and the Sun Strategy", it appears that Battler‐sama has received quite a shock."`
-`"H‐hoh...`
-` ......A shock, you say... How badly...?"`
-`Beato lowered her voice slightly, asking timidly.`
-`{n}Ronove went along with that, and lowered his voice in the same way.`
-`"......In truth, he has been curled into a ball clutching his knees for some time now.`
-` I called out to him several times, but he did not answer.`
-` I also carried him something to eat, but he does not appear to have touched it."`
-`"...Th‐that is...troublesome......`
-` Is he really feeling that down......?"`
+` en ese caso, tal vez sería mejor preparar una contramedida.`
+` Desafortunadamente, debido a su ‘Estrategia del Viento del Norte’ y el Sol', Battler-sama ha recibido un gran golpe."`
+`"J‐Jo...`
+` ... ¿Un golpe, dices... qué tan malo...?"`
+`Beato bajó ligeramente su voz, preguntando tímidamente.`
+`{n}Ronove le siguió la corriente, y bajó su voz de la misma manera.`
+`"... La verdad es que él ha estado acurrucado, abrazándose las rodillas por un buen rato.`
+` Le hablé varias veces, pero no respondió.`
+` También le llevé comida, pero no hizo esfuerzo alguno por tocarla."`
+`"... E-Eso es... problemático...`
+` de verdad está tan deprimido...?"`
 `"Pukkukukuku.`
-` It is only natural.`
-` ...After all, you`
-` {nobreak:com‐`
-`pre‐`
-`hensively}`
-` destroyed him, Milady.`
-` That would turn most anyone into a misanthrope."`
-`"Hoh, distrust of {y:0:Human}{n:0:human}s? How convenient!`
-` Let him give up on {y:0:Human}{n:0:human}s and trust witches, wahahaha...`
-` ...............O‐...oh,`
+` Es natural.`
+` ... Después de todo, usted lo hizo`
+` Milady.`
+` Eso haría que la mayoría de la gente comenzara a desconfiar de los humanos."`
+`"¿desconfiar de los {y:0:Humanos}{n:0:humanos}? ¡Qué conveniente!`
+` Deja que pierda la confianza en los {y:0:Humanos}{n:0:humanos} y confíe en las brujas, wajajaja...`
+` ... O-Oh,`
 ` *cough*.`
-` Sorry, I took it too far."`
-`Beato had tried to joke about it, but it seemed that the situation was quite serious, and after picking up on this, she hid her laughter.`
-`"......Is it really that serious...?`
-` Sh‐should we wait just a little longer before beginning the fourth game...?"`
-`"Because Lady {f:5:Bernkastel}'s guest will be coming,`
-` it may be more appropriate to open the fourth game quickly.`
-` However, it might be useful if you were to show him a little consideration, Milady."`
-`"Consideration!`
-` Consideration, you say?!`
-` How should I show that...?!`
-` He is feeling down, so,`
-` ...h‐how about...I cheer him up, or something?!"`
-`"When a person's heart is closed off to the light, it is useless to interact with them in a gloomy fashion.`
-` You can do nothing but shine with a brightness stronger than the dark."`
-`"Damn iiiiiiiiiiiiiit, quit messing arooooooooouund...!!!"`
+` Lo siento, no debería hacer demasiadas payasadas."`
+`Beato había tratado de bromear al respecto, pero parecía que la situación era bastante seria, y escondió su risa, leyendo entre líneas.`
+`"... ¿De verdad es tan serio...?`
+` ¿D-Deberíamos esperar un poquito más antes de empezar el cuarto juego...?"`
+`"Ya que la invitada de Lady {f:5:Bernkastel} asistirá,`
+` podría ser más apropiado abrir el cuarto juego pronto.`
+` Sin embargo, podría ser útil que mostrara un poco de consideración, Milady."`
+`"¡Consideración!`
+` ¡¿Consideración, dijiste?!`
+` ¡¿Cómo debería hacer eso...?!`
+` Él está deprimido, así que`
+` ... E-Está bien, ¡¿debería animarlo?!"`
+`"Cuando el corazón de una persona está oscuro y cerrado, es inútil interactuar con ellos de forma oscura.`
+` No puede más que brillar con un resplandor más fuerte que la oscuridad."`
+`"¡¡¡Maldita seeeeeeeeea, deja de molestaaaaaaaaaar...!!!"`
 `"Kyaahhahaha!!`
-` Battler‐kuun, over he~re!`
-` A croissant baked by Ronove‐sama would be wasted on the likes of youuuu!`
-` Maybe I'll enjoy it aaalll myself?"`
-`Battler's stomach involuntarily growled at the fragrant smell of the croissant.`
-`His breakfast plate was empty, but he hadn't eaten any of it.`
-`{n}...The biggest glutton of the Seven Sisters of Purgatory,`
-` Beelzebub, had waited for Ronove to leave, and had then come to snatch the food away.`
-`Battler had discovered her in the process, and they had been charging about causing a crazy amount of noise ever since.`
-`Even though Beelzebub could have ended it by either giving it back already or else throwing it into her own mouth,`
-` she intentionally ran around in circles, making fun of Battler.`
-`"Give me my breakfast back, damn iiiiiiit!!`
-` If you give it back now, I'll let you off with a single flick to the forehead.`
-` But just you try eating it!!"`
-`"What, are you gonna eat me inste~ad?!`
+` ¡Battler-ku-n, por aquí!`
+` ¡Un croissant horneado por Ronove-sama sería desperdiciado si tú lo comieras!`
+` ¿Por qué no lo puedo disfrutar yo misma?"`
+`El estómago de Battler rugió involuntariamente por el olor fragante del croissant.`
+`El plato de su desayuno estaba vacío, pero Battler no había comido nada de él.`
+`{n}... La mayor glotona de las Siete Hermanas del Purgatorio,`
+` había esperado a que Ronove se fuera, y había arrebatado entonces la comida.`
+`Battler se había dado cuenta, y los dos habían sido realmente escandalosos desde entonces.`
+`Aunque Beelzebub solo tenía que devolverlo inmediatamente, o comérselo de una vez,`
+` ella intencionadamente corría en círculos, burlándose de Battler.`
+`"¡¡Devuélveme mi desayuno, maldita seeaaaa!!`
+` Si me lo devuelves ahora, te dejaré ir con solo un golpecito en la frente.`
+` ¡¡Pero como trates de comerlo...!!"`
+`"¡¿Así que me comerás en su lugar?!`
 ` Kyaha!`
-` Try it if you think you can! I'll bet I'd be as sweet as honey pancakes.`
-` ...kya!"`
-`"Gotcha!!`
-` Right now, I'm more interested in that bread than your thighs.`
-` Be a good girl and give it heeeeeeeeere,`
-` fugagigigigi...!!`
-` So, you resist until the eeeeeeeeeend...!!"`
-`"Ugugugugu!!`
-` No way, no way, I won't give it to yo~u!!`
-` Even the croissant wants me to eat i~~t!!!"`
-`"Y‐yaa~y, yoo‐hooooooooo, g'moooooorning, Battleeee~r!!`
-` Get a load of this guy, first thing in the morning and he's back to moping already~?!?!`
-` It's the beginning of a new day, and a new game, you know, so get your spirits up and let's get this party starte{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}eeddd!!"`
-`...The door opened forcefully.`
-`Like a marathon runner drawn on a {c:86EF9C:certain caramel box},`
-` with her hands held high and with an idiotic cheeriness,`
-` ......Beato appeared.`
-`For some reason, countless country flags and confetti scattered everywhere, creating what was clearly intended to be the perfect party atmosphere.`
-`......Battler and Beelzebub, who had been grappling on the floor over the croissant, completely forgot about their argument and stared at her speechless.`
-`"Kya‐...kyahahahaha!`
-` Good morning, {f:5:Beatrice}‐sama!`
-` Well, that's all for me!`
-` Here, Battler‐kun, say aa~h!"`
-`"Mggmffff!!"`
-`"Mmmffmmmff, *munch*munch*, ...*gulp*.`
-` .....................`
-` ......H‐hey, morning, Beato...`
-` ......Glad to see you're in perfect form this morning."`
-`....................................`
-`Beato and Battler looked at each other.`
-`{n}...It seemed that neither had a clue what was going on with the other.`
-`"B‐......Battlerr......?`
-` Wh‐wh‐what is this, Ronoveeeee,`
-` he looks like he's in high spiriiiiiiits!!`
-` He isn't clutching his knees!`
-` And he's answering!`
-` {i:And} he was even in the middle of eating!!"`
+` ¡Si puedes comerme, solo inténtalo! Apuesto a que sería tan dulce como los panqueques con miel.`
+` ¡Kya!"`
+`"¡¡Te tengo!!`
+` En este momento, quiero comerme ese pan aún más que tus muslos.`
+` Sé una buena chica y devuélvemeloooooo,`
+` ¡¡fugagigigigi...!!`
+` ¡¡Así que te resistes hasta el finaaaaaaaal...!!"`
+`"¡¡Ugugugugu!!`
+` ¡¡Ni hablar, ni hablar, no te lo daré!!`
+` ¡¡¡Incluso el croissant quiere que yo me lo coma~!!!"`
+`"¡¡Y, yee-y, yahooooooooo, buenos díiiiiiiiiiiiias, Battleeeer!!`
+` ¡¿¡¿Todavía estás deprimido tan temprano en la mañana?!?!`
+` ¡¡Es el inicio de un nuevo día, y un nuevo juego, así que animémonoooooooooooooooos!"`
+`... Ella abrió la puerta energéticamente.`
+`Como el corredor de maratón dibujado en {c:86EF9C:cierta caja de caramelos},`
+` con las manos alzadas y con una alegría idiota,`
+` ... Beato apareció.`
+`Por alguna razón, banderas de todo el mundo y confeti se dispersaron, pareciendo completamente estúpidos y fuera de lugar..`
+`... Battler y Beelzebub, que habían estado peleando por el croissant, olvidaron completamente su discusión, sin palabras.`
+`"¡Kya... kyahahahaha!`
+` ¡Buenos días, {f:5:Beatrice}‐sama!`
+` ¡Eso es todo por mi parte!`
+` ¡Aquí, Battler-kun, di aaah"`
+`"¡¡Mmmm!!"`
+`"Mmm mmm, *ñom*... *glup*.`
+` ...`
+` ... H-Hola, buenos días, Beato...`
+` ... Me alegra ver que estás en buena forma esta mañana."`
+`...`
+`Beato y Battler se miraron el uno al otro.`
+`{n}... Parecía que no tenían idea de qué estaba pasando con el otro..`
+`"¿B-Battleer...?`
+` Q-Q-Qué es esto, Ronoveeeee,`
+` ¡¡¿no luce de buen ánimoooooooo?!!`
+` ¡No está abrazándose las rodillas!`
+` ¡Y responde!`
+` ¡¡Espera un segundo, él estaba incluso comiendo!!"`
 `"Pukkukukukuku!!`
-` No, no, he certainly was clutching his knees, under the blanket as he slept like a baby.`
-` I informed him that it was time for him to wake up, but he just wouldn't get out of bed.`
-` As for his food, it seems that he was rather too preoccupied with the naughty cat that had wandered in.`
-` Pu ku ku, puu ku ku ku ku!"`
-`"G‐`
-`.........gwaaaaaaaaaaaaaaahhh...!!!`
-` You tricked meeeeeeeeeee...!!"`
-`"Heh, you should talk.`
-` Weren't you the one who played that massive trick on me last time?`
-` I don't have a clue what's going on, but I'm glad to see you started your morning with a helping of just deserts.`
-` ...Well, anyway, nice one, Ronove."`
-`"Pukkukuku, I am much obliged, Battler‐sama."`
-`The two stuck up their thumbs as though they had forged some kind of male bond, chuckling together.`
-`For a while, Beato acted very energetically, trying to hide her embarrassment......`
-`"Heh.`
-` Don't take me so lightly.`
-` You thought I'd still be hiding in a corner, holding my knees?"`
-`"*cackle*.`
-` Then who was that person crying their eyes out in frustration last time?`
-` I should've collected your copious tears in a bottle and used it as eau de toilette."`
-`"Sh‐shut up.`
-` That was, uh, you got me a bit with your crappy acting and crazy plot twist, that's all.`
-` I made an ass of myself, but you'd better not think that same move is ever gonna work again."`
-`"Naturally.`
-` Don't disappoint me by falling for the same move over and over again, alright?`
-` *cackle*cackle*!"`
-`"Ihihi, yeah, just you watch.`
-` I'll teach you that I'm a guy who gets stronger every time he's beaten down."`
-`"............But Beato."`
-`"Mm, what is it?"`
-`"Never do it again."`
-`"Hoh?`
-` And why is thaaat?`
-` So you really are weak against the rear attack?"`
-`"............You and I are enemies,`
-` and we'll never, ever join forces.`
-` ...I now understand that clearly.`
-` ......So never again do something as unpleasant as trying to make me confused about that fact."`
-`"*cackle*cackle*!`
-` You say that, but now that I know it's your weak point, ........."`
-`Beato thought they were still joking around, ...but that had disappeared from Battler's expression some time ago.`
-`Beato felt as though his eyes were like the surface of black tea gone cold...`
+` No, no, él estaba durmiendo como un bebé en su futón, abrazándose las rodillas.`
+` Le informé que era hora de despertarse, pero él no se levantaba.`
+` Traté de ofrecerle comida, pero parece que un gato travieso apareció y lo evitó.`
+` ¡¡Pu kukukukuku!!"`
+`"¡¡¡G‐`
+`... G-Gwaaaaaaaaaaaaaaahhh...!!!`
+` ¡¡Me engañasteeeeeeeeeeee...!!"`
+`"Jeje, mira quién habla.`
+` No eras tú la que hizo ese gran engaño la última vez?`
+` No tengo idea de lo que sucede, pero tienes lo que mereces.`
+` ... Por cierto, Ronove, buena esa."`
+`"Pu kukuku, muchas gracias, Battler-sama.`
+`Los dos hombres levantaron sus pulgares como si se entendieran el uno al otro, riendo juntos.`
+`Por un rato, Beato actuó muy enérgicamente, tratando de esconder su vergüenza...`
+`"Je.`
+` No me tomen tan a la ligera.`
+` ¿De verdad pensaban que yo estaría aún escondiéndome en un rincón, sosteniendo mis rodillas?"`
+`"*carcajada*.`
+` ¿Entonces quién era esa persona llorando de frustración la última vez?`
+` Podrías haber puesto tus lágrimas en un tarro y llamarlas loción para el rostro."`
+`"C-Cállate.`
+` Eso fue, um, solo porque estaba un poco sorprendido por tu pésima actuación.`
+` Puede que haya parecido un poco idiota, pero no creas que la misma jugada funcionará dos veces."`
+`"Por supuesto.`
+` Y no me decepciones cayendo en la misma jugada una y otra vez, ¿está bien?`
+` ¡*carcajada*carcajada*!"`
+`"Ijiji, sí, ya verás.`
+` Te enseñaré que soy un chico que se hace más fuerte cada vez que es derribado."`
+`"... Pero Beato."`
+`"Mmm, ¿qué pasa? "`
+`"No lo hagas de nuevo."`
+`"Jo?`
+` ¿Y eso a qué viene?`
+` ¿Así que de verdad eres débil ante un ataque trasero?"`
+`"... Tú y yo somos enemigos,`
+` y ciertamente nunca uniremos fuerzas...`
+` Ahora lo entiendo claramente.`
+` ... Así que nunca vuelvas a hacer algo tan desagradable como tratar de confundirme sobre ese hecho."`
+`"¡*carcajada*carcajada*!`
+` Dices eso, pero conozco tus debilidades..."`
+`Beato pensó que ellos aún estaban bromeando... pero eso había desaparecido de la expresión de Battler hacía algún tiempo.`
+`Beato sintió como si sus ojos fueran como la superficie del té negro que se había enfriado...`
 `"You hear me?`
-` Never do it again."`
-`"..................`
-` ......You never know...`
-` I might do it again when you've forgotten..."`
-`"Never do it again."`
-`"............nn, ..............."`
-`Pierced by his strong and forceful gaze, Beato held her tongue.`
-`She may have thought that Battler would surely be the one to break that silence with laughter.`
-`...However, Battler's serious expression didn't change in the slightest.`
-`So, to break that silence, Beato had no choice but to start laughing herself.`
-`"*cackle*cackle*, hahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha...!!`
-` As things should be.`
-` You and I are worthy adversaries.`
-` No matter how favorable our relationship, we shall never cross that line defining us as enemies.`
-` If you have not mistaken this, that is enough for me."`
-`"...That's right.`
-` I almost forgot that you were my enemy for just a second.`
-` I won't show such a disgraceful display again.`
-` ......I won't fall for your rear attack again.`
-` Ever...!"`
-`"...........................`
-` ...Heh!`
+` No lo hagas de nuevo"`
+`"...`
+` ... No entiendo.`
+` Podría hacerlo de nuevo cuando lo hayas olvidado, ¿verdad...?"`
+`"No lo hagas de nuevo."`
+`"... nn..."`
+`Perforada por su fuerte y autoritaria mirada, Beato decidió callar.`
+`Puede que ella haya pensado que Battler de seguro rompería ese silencio con risas.`
+`... Sin embargo, la expresión seria de Battler no cambió en lo más mínimo.`
+`Así que para romper el silencio, Beato no tenía más opción que empezar a reír ella misma.`
+`"¡¡*carcajada*carcajada*, jajjajajajajajajajajajajajajaja...!!`
+` Muy bien.`
+` Tú y yo somos dignos oponentes.`
+` Sin importar lo buena que sea nuestra relación, no somos nada más que un par de enemigos.`
+` Si tienes esto claro, es suficiente para mí."`
+`"... Entiendo.`
+` Olvidé que eras mi enemiga por solo un segundo.`
+` No mostraré una exhibición tan vergonzosa como aquella de nuevo.`
+` ... No caeré con tu ataque por la espalda.`
+` ¡No de nuevo...!"`
+`"...`
+` ... Je!`
 ` Hahhahahyahhahha!!`
-` It seems that I am not the only one who cannot wait for the fourth game.`
-` I am pleased, Battler.`
-` Come, take your seat."`
-`"...Sure.`
-` Bring it on.`
-` ......Clever little tricks aren't gonna work anymore."`
-`"Stop acting so tough.`
-` You remain in a state of surrender for the last mystery in the previous game, the mystery of Nanjo's murder...!"`
-`".........I'm still holding off on an answer for that one.`
-` But that doesn't mean I've lost heart.`
-` I will break your "red truth" and deny witches—I guarantee it...!"`
-`"Hmph.`
-` A good disposition.`
-` You truly are a man like a phoenix.`
-` You don't betray my expectations!`
-` With that, let us raise the curtains on the fourth game."`
-`"But before that,`
-` it seems that we must welcome a new guest."`
-`"A guest......"`
-`"I am sure you must remember.`
-` That mystery woman, who appeared at the very end of the last game without an invitation and spoiled my performance."`
-`"......Her........."`
-`"She says that she wants to join our game, you see.`
-` I took the liberty of sending her an official invitation to join us.`
-` Ronove, call the guest."`
-`"......There's no need.`
-` I'm already here."`
-`The voice that answered Beato's call came from the darkness in a corner of the room.`
-`Battler turned around in surprise to discover that the mysterious woman was suddenly there.`
-`"Goodness gracious.`
-` How rude.`
-` If you were here, the least I would have expected is a simple greeting."`
-`"I don't make a habit of greeting people before punching them.`
-` But I will give one after I punch."`
-`"Hoh, and what will that be?"`
+` Parece que no soy la única que no puede esperar al cuarto juego.`
+` Estoy complacida, Battler.`
+` Vamos, toma asiento."`
+`"... Sip.`
+` Justo como me gusta.`
+` ... Los trucos ingeniosos no funcionarán de nuevo."`
+`"Deja de hacerte el duro.`
+` ¡Permaneces en un estado de rendición por el último misterio en el juego anterior, el misterio del asesinato de Nanjo...!"`
+`"... Aún estoy esperando a una respuesta para ese.`
+` Pero eso no significa que me haya desanimado.`
+` ¡Definitivamente romperé tu 'verdad roja', y mostraré que puedo negar a las brujas...!"`
+`"Mmm.`
+` Una buena disposición.`
+` De verdad eres como un fénix.`
+` ¡No traiciones mis expectativas!`
+` Con eso dicho, levantemos el telón del cuarto juego."`
+`"Pero antes de eso,`
+` parece que debemos darle la bienvenida a una nueva invitada."`
+`"Una invitada..."`
+`"También la recuerdas, ¿verdad?`
+` Esa chica misteriosa, que apareció sin invitación al final del juego anterior,"`
+`"... Esa persona..."`
+`"Dice que quiere unirse a nuestro juego.`
+` Le envié una invitación oficial, invitándola a unirse a nuestro encuentro.`
+` Ronove, llama a nuestra invitada."`
+`"... No es necesario.`
+` Ya estoy aquí."`
+`La voz que respondió a la llamada de Beato vino desde la oscuridad de un rincón de la habitación.`
+`Cuando Battler se dio vuelta por la sorpresa, pudo ver a esa misteriosa chica ahí.`
+`"Vaya, vaya.`
+` Qué maleducada.`
+` Una vez que llegaras, todo lo que tenías que hacer era saludarnos."`
+`No tengo el hábito de saludar a la gente antes de golpearlos.`
+` Pero lo diré después de golpear."`
+`"Jo, ¿y qué es eso que dirás?"`
 `"<Good night,`
 ` have a nice dream>."`
-`"*cackle*cackle*, hahhahhahahahahahaha!`
-` Entertaining, truly entertaining...!"`
-`Beato cackled and clapped her hands.`
-`But that was only Beato, and nothing rose to Battler's face except an uncertain smile.`
-`"......Whew.`
-` So you're the "punch first, ask questions later" type, huh."`
-`".............................."`
-`Battler met eyes with the woman, shrugging his shoulders as he spoke.`
-`{n}But the woman didn't answer, giving only a cold stare in return.`
-`"......You helped me out last game when things were really coming down to the wire.`
-` I'm grateful."`
-`"I don't need gratitude.`
-` The way you were acting was just {i:flaccid}.`
-` I only told you to get a clue."`
-`"Kuhhyahhyahhya!`
-` Yesss, Battler is flaccid indeed, hyahhyahha!"`
-`Beato tried to laugh in agreement, but the woman wasn't listening.`
-`She did absolutely nothing except stare at Battler with ice‐cold eyes.`
-`"...............Well, it looks like someone hates me."`
-`"I'm just annoyed that you aren't fighting seriously."`
-`"You say I'm not serious......?"`
-`"You can't possibly mean that the mess you got yourself into earlier was you being {i:serious}?`
-` ......What do you take me for?`
-` How long do you intend to go along with this witch's farce?"`
-`"...I am fighting Beato in my own way.`
-` And yes, I'm serious about it."`
-`"Serious?`
-` .........Don't make me laugh.`
-` You keep on drinking tea and chatting with a witch for all eternity and call that fighting seriously?`
-` Keep the jokes to just your hairstyle."`
-`"......I mean, sure, I wasn't used to this witch's game in the beginning, and I've had a hell of a rough time, I'll admit.`
-` But now, I'm finally starting to see how to fight and the knack to doing it.`
-` ...If the pathetic way I've been acting makes it look to you like I haven't been serious, you're mistaken."`
-`".........Am I?"`
-`"Of course, I know I've gotta close in a lot more before I can grab Beato by the collar."`
-`"But no matter how long that distance is, it is finite.`
-` And with each passing game, I am steadily closing that distance step by step!"`
-`"No matter how long it takes, I will close in on that witch, and I'll definitely checkmate her.`
-` ......Borrowing one of her common phrases, it might even take me "a thousand years".`
-` ...But even so, eventually, I will definitely win."`
-`"Why?`
-` Because I will never accept losing.`
-` I will never stand still, and I'll keep closing in on her!`
-` So in other words, there's just one thing I can say for sure."`
-`"......I will definitely win against that witch someday!`
-` That's how it is."`
-`"You sure are patient.`
-` Are you even trying to win?`
-` Even the finite can become infinite if it's treated the wrong way.`
-` You've already become Achilles, unable to even outstrip a tortoise."`
-`".........Now I get it. So this is why I'm needed.`
-` At this rate, there's no way you could win against the Endless Witch even after a billion years."`
-`"......Who are you?`
-` It wouldn't kill you to tell me your name."`
-`"................................."`
-`At that point, the woman fell silent, gazing straight into Battler's eyes.`
-`At first, Battler faltered under the firmness of that look and his gaze wavered slightly, but as her eyes continued to stare into his, gradually, he found himself becoming lost in them.`
-`......And in their depths, he saw a light that he had seen at some time before...`
-`Battler was struck by how strongly they resembled the eyes of a girl who definitely couldn't be here,`
-` ......but that was completely impossible.`
-`"...I know it's stupid,`
-` ......but for some reason, I'm getting that feeling.`
-` But that can't be right.`
-` ......She's supposed to still be six years old.`
-` ............You couldn't possibly be...`
-`.........Ange, could you............?"`
-`"........................`
-` If I said yes, ...would you believe me?"`
-`"Nn..............."`
-`"I'll put it another way.`
-` If I said "I am on your side, so trust me",`
-` would you believe me?`
-` Would you unconditionally trust some unknown woman you're meeting for the first time just because she looks a little like someone you know?"`
-`"......It's because you're so trusting that you were tricked so easily in the last game and cried so bitterly."`
-`"......You said it yourself.`
-` That kid is six, right?`
-` Do I look like I'm six?`
-` And despite that, if I were to claim that I'm that kid, you'd still just swallow that story?"`
-`"......When you put it like that,`
-` ...I guess you're right."`
-`"...Sorry.`
-` Yeah, I am too trusting.`
-` The last game should have taught me that.`
-` ......Is this what you meant when you said I wasn't serious?"`
-`"Yes.`
-` You may think you're fighting against the witch, but all you're doing is making friends with her and having fun.`
-` ......You're just competing in a friendly game of chess."`
-`"That may be a serious contest for you two,`
-` but looking at it from far away, I only see you two playing around like you're good friends, protected by the rules."`
-`".....................`
-` ......Ihihihi.`
-` That's harsh."`
-`"But as long as you can't win this game, you won't be released from this place.`
-` ......That's why I came.`
-` To bring this game to its conclusion.`
-` ......You claim that you're closing in on the witch, but you're just like a hamster running around in a wheel."`
-`"*cackle*cackle*!`
-` Oh, those? Those things that run around and around in a wheel night after night?"`
-`"At a glance, you might think that running around in a wheel is endless.`
-` ......Endless Witch, {f:5:Beatrice}.`
-` You are just like that wheel.`
-` And he is the one running around in the wheel forever, thinking he's fighting, but actually just making a fool of himself."`
-`"......This isn't a game.`
-` This is nothing more than a cage to keep him imprisoned for all eternity."`
-`"Hoh.`
-` ......You would liken my infinity to a mere wheel that a mouse plays in?`
-` Interesting, interesting, *cackle*..."`
-`"Something that's infinite in a certain dimension tends not to be infinite in a higher one.`
-` A Menger sponge may have infinite surface area, but that only applies in a world of less than three dimensions.`
-` In the three‐dimensional world of reality, it has zero mass.`
-` Not only is it not infinite, it can't even exist."`
-`"*cackle*cackle*cackle*...!`
-` What an assertive woman.`
-` It seems you are worthy of calling yourself my enemy."`
-`"............Who...are you?"`
-`"I am your ally.`
-` And an enemy of witches.`
-` .........Of course, you don't have to believe it."`
-`"No one can prove that I really am your ally.`
-` In fact, it would be preferable if you stayed on your guard strongly enough to find me very suspicious."`
-`".........You're right.`
-` I got burned bad the last time.`
-` I've got to be at least that careful.`
-` ...I'm done with getting tricked."`
-`"*cackle*cackle*cackle*cackle*......!"`
-`Beato laughed with true satisfaction in a way that was insulting only to Battler.`
-`"People don't just get tricked out of the blue.`
-` They neglect to check things for themselves, and entrust that to other people—and that's when they get tricked.`
-` ......Saying that you thought the light had turned green just because you saw other people start crossing is no excuse for getting into an accident.`
-` Get it...?"`
-`"Yeah... I get it.`
-` ......You're telling me not to swallow information given to me by others, but to think for myself.`
-` .........I've just been swallowing the magic that Beato showed me."`
-`"{i:I'd stopped thinking}.`
-` That's why it was no good."`
-`Battler grimaced as he remembered his many painful losses.`
-` ...Seeing that, the witch laughed audaciously once again.`
-`"I will advise you in a way that will be to your advantage.`
-` Of course, you shouldn't just swallow the things I say.`
-` Because no one can provide absolute proof that I'm on your side."`
-`In the last game, {f:5:Virgilia}, who I'd thought was an ally, turned out to be on the witch's side after all.`
-`......Battler couldn't get that eerie smile worn by {f:5:Virgilia}, who he had even thought of as dependable, out of his head.`
-`"So you don't have to unconditionally trust me.`
-` Therefore, taking my advice as nothing more than an opinion to be considered is absolutely fine.`
-` After all, ......the player who's fighting in a game against the witch {i:is you}."`
-`"...Yeah, you're right.`
-` Saying I lost because I followed the moves of an outsider would be just too pathetic of an excuse."`
-`"Indeed it would!`
-` My opponent is Battler.`
-` You are nothing more than an outsider.`
-` It is good that you understand that.`
-` *cackle*!"`
-`"No, I'm not an outsider.`
-` {f:5:Beatrice}, Ushiromiya Battler,`
-` ...and me with my bird's‐eye perspective over you...will fight in a formation almost like a triangle.`
-` At a glance it might not seem to be a united front, but fighting together is not the only way to form a united front."`
-`"Hoh.`
-` What an odd thing to say."`
-`"Just now, he described fighting with you as closing the distance.`
-` But you can't measure distance with a single eye.`
-` Only with two eyes are things visible in three dimensions, and only then can distance be measured."`
-`"......And having two viewpoints is meaningless if they're in the same place.`
-` You can gauge the witch more accurately if they're far apart."`
-`"......Shooting from different positions and different angles.`
-` ...So, like crossfire, then.`
-` Heheh, interesting."`
-`"We will shoot from different positions...and different angles.`
-` ......So I won't make friends with anybody.`
-` In order to separate my own position and catch the witch in a pincer attack."`
-`".........Are you sure about this, Battlerr?`
-` This woman may actually be an ambush I set up, you know?`
-` She might just be saying something plausible to gain your trust, you know...?"`
-`"......Maybe.`
-` She's been saying that over and over again herself.`
-` ...So, of course, I can't blindly accept her advice."`
-`"But I can think for myself and decide whether it's worthy of being trusted or not.`
-` As long as I don't stop thinking for myself, I won't be tricked by anyone again...!"`
-`"*cackle*cackle*cackle*!!`
-` Impressive confidence, Ushiromiya Battleerr!`
-` After you've said so much, it makes me want to...`
-`trick you all over again, you see...?`
-` And I want to see what kind of face you'll make when you realize that you've been tricked yet again!`
-` I like it, kuhha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!"`
-`"......So, it looks like you know my name, but I don't know yours.`
-` ...Tell me your name."`
-`For a while, the woman remained silent without the slightest change in her expression.`
-`...She looked as though she couldn't decide whether to say her name or not, or possibly, as though she was deciding what to call herself on the spot.`
-`"......Gretel."`
-`"Girdle?`
-` You wear one?"`
-`"That's my name, dumbass.`
-` Call me Gretel."`
-`"Then should I call myself Hansel?`
-` Ihihihi, just kidding, I'm Ushiromiya Battler!`
-` Just call me Battler."`
-`"............Nice to meet you.`
-` ...I hate handshakes.`
-` Don't take it personally."`
-`"...Yeah, you're right, sorry.`
-` I mean, it isn't a sure thing that you're on my side.`
-` ......And you only just told me to keep my guard up, too."`
-`Battler drew back the right hand he had stuck out.`
-`His bitter smile disappeared, and was replaced with a strong expression of resolve for the new game, now in its fourth iteration.`
+`"*carcajada*carcajada*, ¡jajjajjajajajajajaja!`
+` ¡Podría reír, verdaderamente podría reír...!"`
+`Beato carcajeó y aplaudió.`
+`Pero esa era solo Beato, y lo único que surgió de la expresión de Battler fue una sonrisa amarga.`
+`"...Fiu.`
+` De seguro eres una peleadora.."`
+`"..."`
+`Los ojos de Battler y de la chica se encontraron, y él dijo eso mientras se encogía de hombros.`
+`{n}Pero la chica no respondió, dando solo una mirada fría en respuesta.`
+`"... Me ayudaste en los últimos momentos del juego anterior.`
+` Estoy agradecido."`
+`"No necesito tú agradecimiento.`
+` Simplemente estabas {i:holgazaneando}.`
+` Solo te dije que abrieras los ojos."`
+`"¡Kujjiajjiajjia!`
+` Eso es tan cierto, ¡deja de holgazanear, Battler, jyajjyajja!"`
+`Beato trató de reír junto con ella, pero no alcanzó los oídos de la chica.`
+`Ella no hizo absolutamente nada excepto mirar a Battler con ojos fríos como el hielo.`
+`"... Bien, parece que alguien me odia."`
+`"Solo estoy molesta porque no estás luchando seriamente."`
+`"¿Dices que no lo hago en serio...?"`
+`"YNo puedes decir que tu aprieto de antes pasó porque estabas siendo {i:serio}, ¿o sí?`
+` ... No seas tonto.`
+` ¿Cuánto tiempo pretendes consentir la farsa de la bruja como ahora?"`
+`"... Estoy luchando contra Beato a mi manera.`
+` Y seriamente, por supuesto."`
+`"¿Seriamente?`
+` ... No me hagas reír.`
+` ¿Sigues tomando el té y charlando con una bruja por toda la eternidad y llamas a eso pelear seriamente?`
+` Guarda los chistes solo para tu peinado."`
+`"... Bueno, eso fue porque no estaba acostumbrado a este juego de la bruja en un principio, y he pasado por un montón de cosas duras.`
+` Aun así, estoy finalmente empezando a ver cómo luchar y el truco para hacerlo`
+` ... Si la forma patética en la que he estado actuando lo hace parecer como que no he estado siendo serio a tus ojos, estás equivocada."`
+`"... ¿Es eso cierto?"`
+`"Por supuesto, sé que debo acercarme mucho más antes de poder agarrar a Beato por el cuello."`
+`"Pero no importa cuán larga sea esa distancia, es finita.`
+` ¡Y con cada juego que pasa, estoy acortando esa distancia a ritmo constante, paso a paso!"`
+`"No importa cuánto me tome, me acercaré a esa bruja, y definitivamente le haré jaque mate.`
+` ... Podrá tomar mil años como ella siempre dice.".`
+` ... Pero aun así, finalmente, ganaré con certeza."`
+`"¿Por qué?`
+` Porque definitivamente no aceptaré la derrota.`
+` ¡Definitivamente no pararé de caminar, y continuaré acercándome a ella!`
+` Así que, en otras palabras, solo hay una cosa que puedo decir con seguridad."`
+`"... ¡Definitivamente le ganaré a esa bruja algún día!`
+` Tal como te lo digo ahora."`
+`"Sí que hablas mucho.`
+` ¿Estás siquiera tratando de ganar?`
+` Incluso lo finito puede volverse eterno si es tratado de la forma equivocada.`
+` Por ahora, te has convertido en un Aquiles que ni siquiera puede superar a una tortuga."`
+`"... Ya lo entiendo. Así que por eso se me necesita.`
+` A este ritmo, no hay forma de que puedas ganar contra la Bruja Interminable incluso después de mil millones de años."`
+`"... ¿Quién eres?`
+` No es como si te fuera a partir un rayo por decirme tu nombre."`
+`"..."`
+`En ese punto, la chica se quedó en silencio, mirando directamente a los ojos a Battler.`
+`Al principio, Battler titubeó bajo la firmeza de esa mirada y su mirada vaciló ligeramente, pero entonces sus ojos comenzaron gradualmente a ser absorbidos por las pupilas que estaban mirándolo.`
+`... Entonces, vio una luz que había visto alguna vez dentro de ellas...`
+`Battler estaba extrañado con cómo se parecían fuertemente a los ojos de una chica que definitivamente no podía estar aquí,`
+` pero eso era completamente imposible.`
+`"... Sé que es estúpido,`
+` ... pero por alguna razón, tengo esa sensación.`
+` Pero eso no puede ser verdad.`
+` ... Esa persona debería tener aún seis años de edad.`
+` ... ¿Tú no podrías ser,`
+`... Ange, verdad...?"`
+`"...`
+` ¿Si yo dijese 'es cierto'... me creerías?"`
+`"Nn..."`
+`"Lo diré de forma distinta.`
+` Si dijera 'soy tu aliada, así que confía en mí",`
+` ¿lo creerías?`
+` ¿Confiarías incondicionalmente en una chica desconocida con quien te encuentras por primera vez solo porque ella se parece un poco a alguien que conoces?"`
+`"... Es por ser tan ingenuo que fuiste engañado tan fácilmente la última vez y lloraste tan amargamente."`
+`"... Tú mismo lo dijiste.`
+` Esa niña tiene 6 años, ¿verdad?`
+` ¿Parezco tener 6 años?`
+` Y además de eso, si dijese que soy esa chica, ¿te tragarías esa historia?"`
+`"... Si lo dices de esa forma,`
+` ... no hay manera de que lo pueda discutir."`
+`"... Lo siento.`
+` Es cierto, soy un ingenuo.`
+` Y eso debe haber quedado claro tras el último juego.`
+` ... ¿Es eso a lo que te referías cuando dijiste que no me lo tomaba en serio?"`
+`"Sí.`
+` Puedes pensar que estás luchando contra una bruja, pero solo te estás llevando bien con ella y jugando.`
+` ...Si luchas en un amistoso juego de ajedrez, solo estás jugando."`
+`"Esta puede ser una seria contienda para ustedes dos,`
+` pero mirándolo desde lejos, solo los veo jugando y siguiendo las reglas como si fuesen buenos amigos."`
+`"...`
+` ... Ijijiji.`
+` Eso es duro."`
+`"Pero mientras no puedas ganar este juego, no serás liberado de este lugar.`
+` ... Por eso vine.`
+` Vine a llevar este juego a su final.`
+` ... Aseguras que te estás acercando a la bruja, pero eres como un hámster corriendo en una rueda."`
+`"¡*carcajada *carcajada*!`
+` Oh, ¿eso?  ¿Esa cosa que gira y gira dentro de una rueda noche tras noche?"`
+`"A simple vista, puedes pensar que correr en una rueda es interminable.`
+` ... La Bruja Interminable {f:5:Beatrice}.`
+` Es justo como tú.`
+` Y aunque él crea que está luchando, realmente solo está corriendo en la rueda, haciendo el ridículo."`
+`"... Esto no es un juego.`
+` Esto no es más que una jaula para encerrarlo por toda la eternidad."`
+`"Jo.`
+` ... ¿Comparas mi Infinito con algo como una rueda donde juega un roedor?`
+` Interesante, interesante, *carcajada*..."`
+`"Algo que es interminable en una dimensión puede ser menos que interminable en una dimensión superior.`
+` El hecho de que la esponja de Menger tenga una infinita superficie solo importa en un mundo con menos de tres dimensiones.`
+` En el mundo tridimensional de la realidad, tiene una masa igual a cero.`
+` No solo no es interminable, ni siquiera existe."`
+`"¡*carcajada*carcajada*carcajada*...!`
+` Qué mujer tan enérgica.`
+` Pareces ser digna de ser llamada mi enemiga."`
+`"... ¿Quién... eres?"`
+`"Soy tu aliada.`
+` Y una enemiga de las brujas.`
+` ... Por supuesto, no tienes que creerlo."`
+`"Nadie puede probar que realmente sea tu aliada.`
+` Al contrario, es mejor que permanezcas en guardia, lo suficientemente como para encontrarme muy sospechosa."`
+`"... Es cierto.`
+` La última vez terminó bastante mal.`
+` Deberé ser al menos así de cuidadoso.`
+` ... No pretendo ser engañado dos veces."`
+`"¡*carcajada*carcajada*carcajada*carcajada*...!"`
+`Beato rió de una manera verdaderamente complacida que era humillante solo para Battler.`
+`"La gente no es engañada por nada.`
+` Se vuelven perezosos de su propia certeza, y cuando confían en otras personas, es entonces cuando son engañadas.`
+` ... Decir que pensabas que la luz estaba en verde solo porque viste a otra persona cruzar no cuenta como excusa por producir un accidente.`
+` ¿Entiendes...?"`
+`"Sí... entiendo.`
+` ... Me dices que no me trague la información que otros me dan, que piense por mí mismo.`
+` ... Me tragué la magia que Beato me mostró."`
+`"{i:Dejé de pensar}.`
+` Así que fui inútil."`
+`Battler hizo una mueca mientras recordaba sus dolorosas derrotas.`
+` .. .La bruja miraba y reía de nuevo, con una apariencia descarada.`
+`"Te aconsejaré de forma que te favorecerá.`
+` Por supuesto, no debes creer todo lo que yo diga.`
+` Porque nadie puede darte prueba alguna de que soy tu aliada."`
+`En el último juego, {f:5:Virgilia}, quien yo pensaba que era una aliada, realmente estaba del lado de la bruja.`
+`...Battler no podía sacarse esa sonrisa tenebrosa que llevaba {f:5:Virgilia}, quien él había considerado como de confianza, de la cabeza.`
+`"Así que no tienes que confiar en mí incondicionalmente.`
+` Por lo tanto, está bien tomar mi consejo como nada más que una opinión que puedes considerar.`
+` Después de todo... el jugador que está luchando en un juego contra la bruja {i:eres tú}."`
+`"... Es cierto.`
+` Decir que perdí porque seguí las jugadas de un extraño sería demasiado patético como excusa."`
+`"¡Oh sí!`
+` Mi oponente es Battler.`
+` Tú no eres más que una intrusa.`
+` Debes tener eso en mente.`
+` ¡*carcajada*!"`
+`"No, no soy una intrusa.`
+` Con {f:5:Beatrice} y Ushiromiya Battler`
+` ... y yo mirando desde la distancia, es casi como una lucha en forma de triángulo.`
+` A simple vista puede que no parezca un frente unido, pero luchar juntos no es la única forma de colaborar entre nosotros."`
+`"Jo.`
+` Qué cosas tan raras dices."`
+`"Justo ahora, él dijo que luchar junto a ti le ayudaría a cerrar la distancia entre nosotros.`
+` Pero no puedes medir esa distancia con un solo ojo.`
+` Solo con dos ojos las cosas son visibles en tres dimensiones, y solo entonces la distancia puede ser medida."`
+`"... E incluso cuando hay dos campos de visión, es absurdo si están en el mismo lugar.`
+` El que está más lejos puede medir con precisión a la bruja."`
+`"... Disparando desde diferentes posiciones y ángulos.`
+` ... Así que esto es lo que llaman fuego cruzado.`
+` Jeje, interesante."`
+`"Disparando... desde diferentes posiciones y ángulos.`
+` ... Así que no me llevaré bien con nadie.`
+` Con el fin de separar mi propia posición y capturar a la bruja con un ataque dirigido."`
+`"... ¿Está eso bien, Battleer?`
+` Esta chica podría ser en realidad una emboscada que yo preparé, ¿cierto?`
+` lla podría estar simplemente diciendo algo plausible para ganarse tu confianza, ¿cierto...?"`
+`"... Tal vez.`
+` Ella ha estado diciendo lo mismo una y otra vez.`
+` ... Así que, por supuesto, no puedo aceptar ciegamente su consejo."`
+`"Pero si ella es digna de confianza o no, puedo pensar por mí mismo y decidirlo.`
+` ¡Siempre y cuando no deje de pensar por mí mismo, no seré engañado por nadie de nuevo...!"`
+`"¡¡*carcajada*carcajada*carcajada*!!`
+` ¡Cuánta confianza, Ushiromiya Battleer!`
+` Después de haber dicho todo eso,`
+` me hace querer engañarte de nuevo, ¿sabes...?`
+` ¡Y quiero ver qué tipo de cara pones cuando te des cuenta de que has sido engañado de nuevo!`
+` Me gusta, ¡¡kujjajajajajajajaja!!"`
+`"... Parece que sabes mi nombre, pero yo no me sé el tuyo.`
+` ... Dime tu nombre."`
+`Por un rato, la chica se mantuvo en silencio sin cambiar su expresión ni una vez.`
+`... Parecía como si no pudiera decidir si decir su nombre o no, o posiblemente, como si ella estuviese eligiendo el nombre que diría en ese momento.`
+`"... Gretel."`
+`"¿Gueto?`
+` ¿Eres una gueto?"`
+`"Es mi nombre, idiota.`
+` Llámame Gretel."`
+`"¿Entonces debería llamarme Hansel?`
+` Ijijiji, ¡solo bromeaba, soy Ushiromiya Battler!`
+` Llámame Battler."`
+`"... Encantada de conocerte.`
+` ... Odio los apretones de manos.`
+` No te lo tomes como algo personal."`
+`"... Ah, ¿de verdad?  Lo siento.`
+` Después de todo, no es seguro que seas mi aliada.`
+` ... Y me acabas de decir que me mantenga en guardia también."`
+`Battler retiró su mano derecha, la cual había extendido.`
+`Su sonrisa amarga desapareció, y fue remplazada con una fuerte determinación para el nuevo cuarto juego.`
 `"Battler.`
-` ......Think deeply about why you must win against this witch.`
-` ......You can't stop with something abstract, like "She annoys me so she's going down".`
-` ......Have a deep conviction that you'll definitely defeat the witch and escape from this world."`
-`".........Because there is definitely...`
-`......someone waiting for you to come back.`
-` ......For her sake as well, you...`
-`..........................."`
-`Maybe she had something on her mind.`
-` Gretel clenched a fist in front of her chest and hung her head in silence, at a loss for words for a short while.`
-`Beato spoke up in a forceful voice, shattering that silence.`
-`"Good, that should be enough of an introduction for Gretel or whoever!`
-` Come, try to remember, what happened on October 4th!`
-` Kuhhihihihihihihi, the curtain opens on the fourth game!!"`
-`In unison with her voice, the clock, which had been turned back to October 4th, 1986, ......started to move, as though blown by a suddenly raging storm.`
-`While we remained in the witch's tea room, the blue‐gray sea and the green Rokkenjima spread out beneath us,`
-` ......and we could see the boat heading there, trailing a wake behind it.`
-`The sky was already cloudy, and it seemed that the barrier of the typhoon would soon shut the island away.`
-`The boat docked in the harbor,`
-` .........and Gohda, who had been waiting there, could be seen helping to unload it.`
-`And finally,`
-` ......the boat dropped off all of the passengers,`
-` .........and began to separate from the island.`
-`The relatives started to get swallowed up by the island.`
-`"Ahhahahaha!`
-` You're as energetic as ever, Maria."`
-`"Maria‐chan, you'll trip if you don't look out.`
-` Be careful...!"`
-`"Uu‐uu‐uu!!`
-` Gonna faaall gonna faaall, gonna siiink gonna siiink, *giggle*!"`
-`...All my fondly remembered cousins I had loved so much dashed away through the beach,`
-` ......disappearing as they were sucked into the forest path leading to the mansion.`
-`And of course, Onii‐chan could be seen among them too.`
-`"......Dammii~it!!`
-` Hold it, hold it, Mariaaaa!!`
-` You nimble little brat!"`
-`"*giggle*! Uu‐uu‐uu!`
-` *giggle*giggle*!"`
-`Maria onee‐chan, who I had loved, dashed away, and Onii‐chan chased after her.`
-`They were swallowed up by the forest.`
-`Following in pursuit, Mom and Dad were also swallowed up.`
-`The rest of my relatives were swallowed up, too...`
-`......Swallowed up, leaving only me behind...`
-`You idiot......`
-`How long are you going to joke around and play with a witch in a place like this......`
-`Come back quickly, ......Onii‐chan......!`
-`Don't leave me all alone...!`
-`And realize.`
-`Realize what a cruel and lonely world I end up isolated in...`
+` ... Piensa profundamente sobre por qué debes ganar contra esta bruja.`
+` ... No puedes parar con algo abstracto, como 'la venceré porque no me agrada'.`
+` ... Ten una profunda convicción de que definitivamente derrotarás a la bruja y escaparás de este mundo."`
+`"... Porque definitivamente hay,`
+`... alguien esperando tu regreso.`
+` ... Por el bien de esa niña también, tú...`
+`..."`
+`Tal vez ella estaba pensando en algo.`
+` Gretel presionó sus puños contra su pecho y agachó su cabeza en silencio, sin palabras por un corto tiempo.`
+`Como rompiendo ese silencio, Beato habló con una voz enérgica.`
+`"¡Bien, eso debe ser suficiente como presentación para Gretel o quien sea!`
+` ¡Vamos, trata de recordar, lo que pasó el 4 de Octubre!`
+` ¡¡Kujjijijijijijiji, se abre el telón del cuarto juego!!"`
+`Al mismo tiempo, como si hubiera sido golpeado por una súbita ráfaga de viento, el reloj que había sido regresado al 4 de Octubre de 1986... comenzó a moverse.`
+`Mientras permanecíamos en el cuarto de té de la bruja, el mar azul grisáceo de Rokkenjima se extendió bajo nosotros,`
+` y pudimos ver un bote dirigiéndose hasta allí, con su estela detrás de él.`
+`El cielo ya estaba nublado, y parecía que la barrera del tifón pronto encerraría la isla.`
+`El barco llegó en el puerto,`
+` ... y se podía ver a Gohda, ayudando a descargarlo.`
+`Entonces,`
+` ... el barco dejó a todos los pasajeros,`
+` ... y empezó a separarse de la isla.`
+`Los familiares empezaron a ser tragados por la isla.`
+`"¡Ajjajajaja!`
+` Estás tan enérgica como siempre, Maria."`
+`"Maria-chan, tropezarás si no eres cuidadosa.`
+` ¡Ten cuidado!..."`
+`"¡¡Uu‐uu‐uu!!`
+` ¡Caemos~ caemos~, nos hundimos~ nos hundimos~, kyakkya!"`
+`... Los extrañados primos que había amado se lanzaron a través de la playa,`
+` siendo tragados por el camino del bosque que va a la mansión, y desaparecieron.`
+`Y por supuesto, Onii-chan podía ser visto con ellos también.`
+`"... ¡¡Maldita seea!!`
+` ¡¡Espera, espera, Maria!!`
+` ¡Mocosa ágil!"`
+`"¡Kyakkya! ¡Uu-uu-uu-!`
+` ¡Kyakkyakkya!"`
+`Maria onee-chan, a quien había amado, comenzó a correr, y Onii-chan la persiguió.`
+`Fueron tragados por el bosque.`
+`Siguiéndolos, Padre y Madre también fueron tragados.`
+`El resto de mis familiares fueron tragados...`
+`... Fueron tragados, dejándome solo a mí atrás...`
+`Idiota...`
+`Cuánto más pretendes jugar con la bruja en un lugar como este...`
+`¡Regresa rápido... Onii-chan...!`
+`¡No me dejes sola...!`
+`Y date cuenta.`
+`Date cuenta de lo cruel y solitario que es el mundo en el que estoy aislada...`
